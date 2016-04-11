@@ -1,0 +1,243 @@
+item_text,font_size_5,uppercase,other_text,font_size_4,meeting_heading,starts_with_number,line_id,left_indent_6,left_indent_3,item_heading,font_name,includes_time,first_char,font_size,left_indent_1,agency,font_freq_2,font_freq_3,font_freq_0,font_freq_1,font_size_3,font_size_2,font_size_1,font_size_0,left_indent_4,font_size_6,meeting_date,text,left_indent_0,left_indent_2,left_inset,section_heading,left_indent_5
+0,0,0,1,0,0,0,sunnyvale_4-12-16_0,0,0,0,"KWXPPX+Arial,Bold",1,T,12.197,0,sunnyvale,1,0,0,0,0,0,0,0,0,1,4-12-16,"Tuesday, April 12, 2016 6:00 PM Council Chambers, City Hall, 456 W. Olive ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_1,1,0,0,"KWXPPX+Arial,Bold",0,A,12.197,0,sunnyvale,1,0,0,0,0,0,0,0,0,1,4-12-16,"Ave., Sunnyvale, CA 94086",0,0,442.950,0,0
+0,1,0,1,0,0,0,sunnyvale_4-12-16_2,0,1,0,"KWXPPX+Arial,Bold",0,S,14.637,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Special Meeting: Joint Meeting of Council and the Redevelopment Successor Agency ,0,0,91.650,0,0
+0,1,0,1,0,0,0,sunnyvale_4-12-16_3,0,0,0,"KWXPPX+Arial,Bold",0,I,14.637,0,sunnyvale,1,0,0,0,0,0,0,0,1,0,4-12-16,Immediately Followed by Special City Council Meeting,0,0,169.250,0,0
+0,0,1,0,1,1,1,sunnyvale_4-12-16_4,0,0,0,"KWXPPX+Arial,Bold",1,6,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,6 P.M. SPECIAL MEETING,1,0,54.750,0,0
+0,0,0,0,1,1,0,sunnyvale_4-12-16_5,0,0,0,"KWXPPX+Arial,Bold",0,J,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Joint Meeting of the City Council and the Redevelopment Successor Agency,1,0,54.750,0,0
+0,0,0,0,1,0,1,sunnyvale_4-12-16_6,0,0,0,"KWXPPX+Arial,Bold",0,1,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,1  Call to Order in the Council Chambers (Open to the Public),1,0,54.750,1,0
+0,0,0,0,1,0,1,sunnyvale_4-12-16_7,0,0,0,"KWXPPX+Arial,Bold",0,2,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,2  Roll Call,1,0,54.750,1,0
+0,0,0,0,1,0,1,sunnyvale_4-12-16_8,0,0,0,"KWXPPX+Arial,Bold",0,3,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,3  Public Comment,1,0,54.750,1,0
+0,0,0,0,1,0,1,sunnyvale_4-12-16_9,0,0,0,"KWXPPX+Arial,Bold",0,4,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,"4  Closed Session Reports for a) April 30, 2013 (revised report out) and b) ",1,0,54.750,1,0
+0,0,0,0,1,0,0,sunnyvale_4-12-16_10,0,0,0,"KWXPPX+Arial,Bold",0,F,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,"February 23, 2016",1,0,54.750,1,0
+0,0,0,0,1,0,1,sunnyvale_4-12-16_11,0,0,0,"KWXPPX+Arial,Bold",0,5,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,5  Consent Calendar,1,0,54.750,1,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_12,0,0,1,"KWXPPX+Arial,Bold",0,A,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,A 16-0361 Approve Joint City Council and Redevelopment Successor ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_13,0,0,1,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of April 30, 2013",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_14,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_15,0,0,0,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Redevelopment Successor Agency:,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_16,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Approve the Joint City Council and Redevelopment Successor ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_17,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of April 30, 2013 as submitted.",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_18,0,0,1,"KWXPPX+Arial,Bold",0,B,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,B 16-0379 Approve Joint City Council and Redevelopment Successor ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_19,0,0,1,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of December 10, 2015",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_20,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,0,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Redevelopment Successor Agency:,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Approve the Joint City Council and Redevelopment Successor ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of December 10, 2015 as submitted.",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_0,0,0,1,"KWXPPX+Arial,Bold",0,C,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,C 16-0378 Approve Joint City Council and Redevelopment Successor ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_1,0,0,1,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of February 23, 2016",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_2,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,0,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Redevelopment Successor Agency:,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Approve the Joint City Council and Redevelopment Successor ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_5,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Agency Meeting Minutes of February 23, 2016 as submitted.",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_6,0,0,1,"KWXPPX+Arial,Bold",0,D,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,D 16-0343 Approve the First Amendment to Outside Counsel Agreement ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_7,0,0,1,YAQASW+Arial,0,w,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,with Goldfarb & Lipman LLP for Litigation Services Pertaining ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_8,0,0,1,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,to the Three Lawsuits Related to the Dissolution of the ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_9,0,0,1,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Redevelopment Agency,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_10,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_11,0,0,0,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,City Council:,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_12,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Authorize the City Attorney to execute a First Amendment, in ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_13,0,0,0,YAQASW+Arial,0,s,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"substantially the same form as Attachment 1 to the report, to ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_14,0,0,0,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,the Outside Counsel Agreement with the law firm of Goldfarb ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_15,0,0,0,YAQASW+Arial,0,L,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Lipman to extend the term of the Agreement until May 19, ",0,0,180.000,0,1
+1,0,0,0,0,0,1,sunnyvale_4-12-16_16,0,0,0,YAQASW+Arial,0,2,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"2019 and to increase the not-to-exceed amount by $60,000, ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_17,0,0,0,YAQASW+Arial,0,f,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"for a new not-to-exceed contract amount of $160,000.",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_18,0,0,0,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Redevelopment Successor Agency:,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_19,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Authorize the Agency Counsel to execute a First Amendment, ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_20,0,0,0,YAQASW+Arial,0,i,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"in substantially the same form as Attachment 1 to the report, ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,0,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,to the Outside Counsel Agreement with the law firm of ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,YAQASW+Arial,0,G,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Goldfarb Lipman to extend the term of the Agreement until ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,M,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"May 19, 2019 and to increase the not-to-exceed amount by ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_24,0,0,0,YAQASW+Arial,0,$,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"$60,000, for a new not-to-exceed contract amount of ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_25,0,0,0,YAQASW+Arial,0,$,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"$160,000.",0,0,180.000,0,1
+0,0,0,0,1,0,1,sunnyvale_4-12-16_26,0,0,0,"KWXPPX+Arial,Bold",0,6,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,6  Adjourn Joint Meeting of the City Council and Redevelopment Successor ,1,0,54.750,1,0
+0,0,0,0,1,0,0,sunnyvale_4-12-16_27,0,0,0,"KWXPPX+Arial,Bold",0,A,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Agency,1,0,54.750,1,0
+0,0,0,0,1,1,0,sunnyvale_4-12-16_28,0,0,0,"KWXPPX+Arial,Bold",0,S,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,SPECIAL CITY COUNCIL MEETING (Immediately Following Joint Meeting of the ,1,0,54.750,0,0
+0,0,0,0,1,1,0,sunnyvale_4-12-16_29,0,0,0,"KWXPPX+Arial,Bold",0,C,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,City Council and Redevelopment Successor Agency),1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_30,0,0,0,"UYBLLG+Arial,Italic",0,P,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"Pursuant to Council Policy, City Council will not begin consideration of any agenda ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_31,0,0,0,"UYBLLG+Arial,Italic",0,i,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,item after 11:30 p.m. without a vote.  Any item on the agenda which must be ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_32,0,0,0,"UYBLLG+Arial,Italic",0,c,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,continued due to the late hour shall be continued to a date certain. Information ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_33,0,0,0,"UYBLLG+Arial,Italic",0,p,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,provided herein is subject to change from date of printing of the agenda to the date ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_34,0,0,0,"UYBLLG+Arial,Italic",0,o,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,of the meeting.,1,0,54.750,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_35,0,0,0,"KWXPPX+Arial,Bold",0,C,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,CALL TO ORDER,1,0,54.750,1,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_36,0,0,0,"UYBLLG+Arial,Italic",0,C,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Call to Order in the Council Chambers (Open to the Public),1,0,54.750,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_0,0,0,0,"KWXPPX+Arial,Bold",0,S,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,SALUTE TO THE FLAG,1,0,54.750,1,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_1,0,0,0,"KWXPPX+Arial,Bold",0,R,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,ROLL CALL,1,0,54.750,1,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_2,0,0,0,"KWXPPX+Arial,Bold",0,P,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,PRESENTATION,1,0,54.750,1,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,1,YAQASW+Arial,0,P,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,16-0355 PRESENTATION - PG&E Pipeline Safety Program ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,1,YAQASW+Arial,0,(,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"(Rescheduled from March 29, 2016)",0,0,180.000,0,1
+0,0,1,0,1,0,0,sunnyvale_4-12-16_5,0,0,0,"KWXPPX+Arial,Bold",0,O,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,ORAL COMMUNICATIONS,1,0,54.750,1,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_6,0,0,0,"UYBLLG+Arial,Italic",0,T,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,This category provides an opportunity for members of the public to address Council ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_7,0,0,0,"UYBLLG+Arial,Italic",0,o,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,on items not listed on the agenda and is limited to 15 minutes (may be extended or ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_8,0,0,0,"UYBLLG+Arial,Italic",0,c,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,continued after the public hearings/general business section of the agenda at the ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_9,0,0,0,"UYBLLG+Arial,Italic",0,d,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,discretion of the Mayor) with a maximum of up to three minutes per speaker. ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_10,0,0,0,"UYBLLG+Arial,Italic",0,P,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Please note the Brown Act (Open Meeting Law) does not allow Councilmembers to ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_11,0,0,0,"UYBLLG+Arial,Italic",0,t,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"take action on an item not listed on the agenda. If you wish to address the Council, ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_12,0,0,0,"UYBLLG+Arial,Italic",0,p,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,please complete a speaker card and give it to the City Clerk. Individuals are limited ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_13,0,0,0,"UYBLLG+Arial,Italic",0,t,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,to one appearance during this section.,1,0,54.750,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_14,0,0,0,"KWXPPX+Arial,Bold",0,C,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,CONSENT CALENDAR,1,0,54.750,1,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_15,0,0,0,"UYBLLG+Arial,Italic",0,A,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,All matters listed on the consent calendar are considered to be routine and will be ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_16,0,0,0,"UYBLLG+Arial,Italic",0,a,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,acted upon by one motion. There will be no separate discussion of these items. If a ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_17,0,0,0,"UYBLLG+Arial,Italic",0,m,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,member of the public would like a consent calendar item pulled and discussed ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_18,0,0,0,"UYBLLG+Arial,Italic",0,s,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"separately, please submit a speaker card to the City Clerk prior to the start of the ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_19,0,0,0,"UYBLLG+Arial,Italic",0,m,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,meeting or before approval of the consent calendar.,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_20,0,0,1,"KWXPPX+Arial,Bold",0,1,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,"1.A 16-0344 Approve City Council Meeting Minutes of March 29, 2016",1,0,54.750,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Approve the City Council Meeting Minutes of March 29, 2016 ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,as submitted.,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_24,0,0,1,"KWXPPX+Arial,Bold",0,1,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,1.B 16-0348 Approve the List(s) of Claims and Bills Approved for Payment ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_25,0,0,1,YAQASW+Arial,0,b,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,by the City Manager,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_26,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_27,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Approve the list(s) of claims and bills.,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_0,0,0,1,"KWXPPX+Arial,Bold",0,1,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,1.C 16-0312 Award of Bid No. PW16-21 for the Slurry Seal 2016-B Project ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_1,0,0,1,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,and Finding of California Environmental Quality Act (CEQA) ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_2,0,0,1,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Categorical Exemption,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,0,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,1) Make a finding of CEQA categorical exemption pursuant to ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_5,0,0,0,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"CEQA Guidelines Section 15301 (Class 1, Existing Facilities) ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_6,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,as it relates to the rehabilitation of existing streets involving ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_7,0,0,0,YAQASW+Arial,0,n,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,negligible or no expansion of existing use; 2) award a ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_8,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"construction contract, in substantially the same format as ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_9,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Attachment 2 to the report and in the amount of $277,000 to ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_10,0,0,0,YAQASW+Arial,0,V,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,VSS International Inc.; and 3) approve a 10% construction ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_11,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"contingency in the amount of $27,700.",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_12,0,0,1,"KWXPPX+Arial,Bold",0,1,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,"1.D 16-0342 Award of Bid No. PW16-15 for the Concrete, Sidewalk, Curbs, ",1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_13,0,0,1,YAQASW+Arial,0,G,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Gutters and Driveway Approaches 2016-17 Project and ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_14,0,0,1,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Finding of California Environmental Quality Act (CEQA) ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_15,0,0,1,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Categorical Exemption,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_16,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_17,0,0,0,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,1) Make a finding of CEQA categorical exemption pursuant to ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_18,0,0,0,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"CEQA Guidelines Section 15301 (Class 1, Existing Facilities) ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_19,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,as it relates to the rehabilitation of existing streets involving ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_20,0,0,0,YAQASW+Arial,0,n,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,negligible or no expansion of existing use; 2) award a ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"construction contract, in substantially the same format as ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Attachment 2 to the report and in the amount of $867,728 to ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,S,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Spencon Construction Inc.; 3) approve a 10% construction ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_24,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"contingency in the amount of $86,773; and 4) determine that ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_25,0,0,0,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"the bid submitted by JJR Construction, Inc. is non-responsive.",0,0,180.000,0,1
+0,0,1,0,1,0,0,sunnyvale_4-12-16_26,0,0,0,"KWXPPX+Arial,Bold",0,P,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,PUBLIC HEARINGS/GENERAL BUSINESS,1,0,54.750,1,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_27,0,0,0,"UYBLLG+Arial,Italic",0,I,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"If you wish to speak to a public hearings/general business item, please fill out a ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_28,0,0,0,"UYBLLG+Arial,Italic",0,s,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,speaker card and give it to the City Clerk. You will be recognized at the time the ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_29,0,0,0,"UYBLLG+Arial,Italic",0,i,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,item is being considered by Council. Each speaker is limited to a maximum of three ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_30,0,0,0,"UYBLLG+Arial,Italic",0,m,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"minutes. For land-use items, applicants are limited to a maximum of 10 minutes for ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_31,0,0,0,"UYBLLG+Arial,Italic",0,o,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,opening comments and 5 minutes for closing comments.,1,0,54.750,0,0
+0,0,0,0,0,0,1,sunnyvale_4-12-16_32,0,0,1,"KWXPPX+Arial,Bold",0,2,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,2 16-0046 Introduce an Ordinance to Award a Non-Exclusive Taxicab ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_33,0,0,1,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Franchise to Silicon Valley Taxi Drivers, Inc. DBA Green Cab",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_34,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_35,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Introduce an Ordinance to Award a ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_36,0,0,0,YAQASW+Arial,0,N,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Non-exclusive Taxicab Franchise to Silicon Valley Taxi ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_37,0,0,0,YAQASW+Arial,0,D,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Drivers, Inc. DBA Green Cab and authorize the City Manager ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_38,0,0,0,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,to execute the franchise agreement.,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_0,0,0,1,"KWXPPX+Arial,Bold",0,3,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,3 16-0181 Introduce an Ordinance to Award a Non-Exclusive Taxicab ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_1,0,0,1,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Franchise to Silicon Valley Cab Co., Inc. DBA Silicon Valley ",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_2,0,0,1,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Cab,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Introduce an Ordinance to Award a ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_5,0,0,0,YAQASW+Arial,0,N,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Non-exclusive Taxicab Franchise to Silicon Valley Cab Co., ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_6,0,0,0,YAQASW+Arial,0,I,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Inc. DBA Silicon Valley Cab and authorize the City Manager to ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_7,0,0,0,YAQASW+Arial,0,e,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,execute the franchise agreement.,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_8,0,0,1,"KWXPPX+Arial,Bold",0,4,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,4 16-0373 Appoint a Councilmember to the Valley Transportation ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_9,0,0,1,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Authority El Camino Real Rapid Transit Policy Advisory Board ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_10,0,0,1,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,to Serve as a Voting Member and if necessary Appoint an ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_11,0,0,1,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternate Member,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_12,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_13,0,0,0,YAQASW+Arial,0,S,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Staff makes no recommendation.,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_14,0,0,1,"KWXPPX+Arial,Bold",0,5,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,5 16-0090 Introduce an Ordinance Amending Sunnyvale Municipal Code ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_15,0,0,1,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Chapter 9.86 and Title 19 to Expressly Prohibit Medical ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_16,0,0,1,YAQASW+Arial,0,M,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"Marijuana Cultivation, Commercial Activity, Distribution, and ",0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_17,0,0,1,YAQASW+Arial,0,D,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Delivery; Exempt from CEQA Pursuant to CEQA Guidelines ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_18,0,0,1,YAQASW+Arial,0,S,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Sections 15060(c)(2) and 15061(b)(3),0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_19,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_20,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Introduce an ordinance amending Chapter 9.86 ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"and Title 19 (Zoning), Section 19.62.010 and Tables ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"19.24.030, 19.28.080, 19.18.030, 19.20.030, 19.29.050, and ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"19.22.030, of the Sunnyvale Municipal Code relating to an ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_24,0,0,0,YAQASW+Arial,0,e,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"express prohibition on medical marijuana cultivation, ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_25,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"commercial activity, distribution, delivery and other activities, ",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_26,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,and find that the adoption of the ordinance is exempt from ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_27,0,0,0,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,CEQA pursuant to CEQA Guidelines Sections 15060(c)(2) ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_28,0,0,0,YAQASW+Arial,0,a,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,and 15061(b)(3).,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_29,0,0,1,"KWXPPX+Arial,Bold",0,6,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,6 16-0151 Introduce an Ordinance Amending Section 3.80.040 of the ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_30,0,0,1,YAQASW+Arial,0,S,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Sunnyvale Municipal Code to increase the City's Minimum ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_31,0,0,1,YAQASW+Arial,0,W,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Wage to $15 by 2018,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_32,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_33,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Introduce an Ordinance Amending Section ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_34,0,0,0,YAQASW+Arial,0,3,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,3.80.040 of the Sunnyvale Municipal Code to increase the ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_35,0,0,0,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,City's Minimum Wage to $15 by 2018.,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_0,0,0,1,"KWXPPX+Arial,Bold",0,7,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,7 16-0030 Approve the Issuance of Request for Proposals to Develop a ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_1,0,0,1,YAQASW+Arial,0,N,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,New Affordable Housing Project on City Property Located on ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_2,0,0,1,YAQASW+Arial,0,C,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Charles Street (Block 15),0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Approve the Issuance of the Request for ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_5,0,0,0,YAQASW+Arial,0,P,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Proposals (RFP) to Develop New Affordable Housing Project ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_6,0,0,0,YAQASW+Arial,0,o,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,on City Property Located on Charles Street (Block 15).,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_7,0,0,1,"KWXPPX+Arial,Bold",0,8,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,8 16-0301 Introduce an Ordinance to Amend Titles 3 (Revenue and ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_8,0,0,1,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Finance) and 19 (Zoning) of the Sunnyvale Municipal Code ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_9,0,0,1,YAQASW+Arial,0,r,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,related to the Transportation Impact Fee and Housing Impact ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_10,0,0,1,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Fees in Conjunction with the Study Issue to Evaluate the ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_11,0,0,1,YAQASW+Arial,0,T,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Timing of Park Dedication In-lieu Fee Calculation and ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_12,0,0,1,YAQASW+Arial,0,P,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Payment (2015-7151) (Continued from March 15 and March ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_13,0,0,1,YAQASW+Arial,0,2,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,"29, 2016)",0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_14,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_15,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 1: Introduce an Ordinance to Amend Titles 3 ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_16,0,0,0,YAQASW+Arial,0,(,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,(Revenue and Finance) and 19 (Zoning) of the Sunnyvale ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_17,0,0,0,YAQASW+Arial,0,M,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Municipal Code related to the Transportation Impact Fee and ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_18,0,0,0,YAQASW+Arial,0,H,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Housing Impact Fees to calculate fees at the time of building ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_19,0,0,0,YAQASW+Arial,0,p,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,permit submittal.,0,0,180.000,0,1
+0,0,0,0,0,0,1,sunnyvale_4-12-16_20,0,0,1,"KWXPPX+Arial,Bold",0,9,16.449,0,sunnyvale,1,0,0,0,0,0,1,0,0,0,4-12-16,9 15-1031 Consideration of Options for Implementation of an Auxiliary ,1,0,54.750,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_21,0,0,1,YAQASW+Arial,0,R,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Restroom at the Las Palmas Park / Tennis Center,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_22,0,0,0,"ZMXKHT+Arial,BoldItalic",0,R,16.589,1,sunnyvale,0,1,0,0,0,0,0,1,0,0,4-12-16,Recommendation:,0,0,70.350,0,0
+1,0,0,0,0,0,0,sunnyvale_4-12-16_23,0,0,0,YAQASW+Arial,0,A,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,Alternative 3: Direct staff to defer the auxiliary restroom for ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_24,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,consideration as part of the community outreach process for ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_25,0,0,0,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,the Las Palmas Park Renovation and Enhancement project in ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_26,0,0,0,YAQASW+Arial,0,F,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,FY 2023/24 and increase the project budget during the next ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_27,0,0,0,YAQASW+Arial,0,c,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,capital project budget cycle to reflect the additional restroom ,0,0,180.000,0,1
+1,0,0,0,0,0,0,sunnyvale_4-12-16_28,0,0,0,YAQASW+Arial,0,s,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,scope.,0,0,180.000,0,1
+0,0,1,0,1,0,0,sunnyvale_4-12-16_29,0,0,0,"KWXPPX+Arial,Bold",0,C,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,COUNCILMEMBERS REPORTS ON ACTIVITIES FROM INTERGOVERNMENTAL ,1,0,54.750,1,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_30,0,0,0,"KWXPPX+Arial,Bold",0,C,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,COMMITTEE ASSIGNMENTS,1,0,54.750,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_31,0,0,0,"KWXPPX+Arial,Bold",0,N,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,NON-AGENDA ITEMS & COMMENTS,1,0,54.750,1,0
+0,0,0,1,1,0,0,sunnyvale_4-12-16_32,0,0,0,"KWXPPX+Arial,Bold",0,-,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,-Council,1,0,54.750,0,0
+0,0,0,1,1,0,0,sunnyvale_4-12-16_33,0,0,0,"KWXPPX+Arial,Bold",0,-,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,-City Manager,1,0,54.750,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_34,0,0,0,"KWXPPX+Arial,Bold",0,I,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,INFORMATION ONLY REPORTS/ITEMS,1,0,54.750,1,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_0,0,0,1,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,16-0351 Tentative Council Meeting Agenda Calendar,0,1,90.000,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_1,0,0,1,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,16-0324 Information/Action Items,0,1,90.000,0,0
+0,0,0,0,0,0,0,sunnyvale_4-12-16_2,0,0,1,YAQASW+Arial,0,U,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,16-0359 Update on City Position as Part of Envision Silicon Valley and ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_3,0,0,1,YAQASW+Arial,0,t,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,the Proposed 2016 Transportation Ballot Measure ,0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_4,0,0,1,YAQASW+Arial,0,(,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,(Information Only),0,0,180.000,0,1
+0,0,0,0,0,0,0,sunnyvale_4-12-16_5,0,0,1,YAQASW+Arial,0,1,16.172,0,sunnyvale,0,0,1,0,0,1,0,0,0,0,4-12-16,16-0352 Board/Commission Meeting Minutes,0,1,90.000,0,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_6,0,0,0,"KWXPPX+Arial,Bold",0,A,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,ADJOURNMENT,1,0,54.750,1,0
+0,0,1,0,1,0,0,sunnyvale_4-12-16_7,0,0,0,"KWXPPX+Arial,Bold",0,N,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,NOTICE TO THE PUBLIC,1,0,54.750,1,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_8,0,0,0,"UYBLLG+Arial,Italic",0,T,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,The agenda reports to council (RTCs) may be viewed on the City’s Web site at ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_9,0,0,0,"UYBLLG+Arial,Italic",0,s,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"sunnyvale.ca.gov after 7 p.m. on Thursdays or at the Sunnyvale Public Library, ",1,0,54.750,0,0
+0,0,0,1,0,0,1,sunnyvale_4-12-16_10,0,0,0,"UYBLLG+Arial,Italic",0,6,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,665 W. Olive Ave. as of Fridays prior to Tuesday City Council meetings. Any ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_11,0,0,0,"UYBLLG+Arial,Italic",0,a,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,agenda related writings or documents distributed to members of the City of ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_12,0,0,0,"UYBLLG+Arial,Italic",0,S,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Sunnyvale City Council regarding any open session item on this agenda will be ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_13,0,0,0,"UYBLLG+Arial,Italic",0,m,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,made available for public inspection in the Office of the City Clerk located at 603 All ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_14,0,0,0,"UYBLLG+Arial,Italic",0,A,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"America Way, Sunnyvale, California during normal business hours and in the ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_15,0,0,0,"UYBLLG+Arial,Italic",0,C,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"Council Chamber on the evening of the Council Meeting, pursuant to Government ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_16,0,0,0,"UYBLLG+Arial,Italic",0,C,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Code §54957.5. Please contact the Office of the City Clerk at (408) 730-7483 for ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_17,0,0,0,"UYBLLG+Arial,Italic",0,s,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,specific questions regarding the agenda.,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_18,0,0,0,"UYBLLG+Arial,Italic",0,P,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,PLEASE TAKE NOTICE that if you file a lawsuit challenging any final decision on ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_19,0,0,0,"UYBLLG+Arial,Italic",0,a,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"any public hearing item listed in this agenda, the issues in the lawsuit may be ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_20,0,0,0,"UYBLLG+Arial,Italic",0,l,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,limited to the issues which were raised at the public hearing or presented in writing ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_21,0,0,0,"UYBLLG+Arial,Italic",0,t,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,to the Office of the City Clerk at or before the public hearing. PLEASE TAKE ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_22,0,0,0,"UYBLLG+Arial,Italic",0,F,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,FURTHER NOTICE that Code of Civil Procedure section 1094.6 imposes a 90-day ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_23,0,0,0,"UYBLLG+Arial,Italic",0,d,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,deadline for the filing of any lawsuit challenging final action on an agenda item ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_24,0,0,0,"UYBLLG+Arial,Italic",0,w,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,which is subject to Code of Civil Procedure 1094.5.,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_25,0,0,0,"UYBLLG+Arial,Italic",0,P,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"Pursuant to the Americans with Disabilities Act, if you need special assistance in ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_26,0,0,0,"UYBLLG+Arial,Italic",0,t,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"this meeting, please contact the Office of the City Clerk at (408) 730-7483. ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_27,0,0,0,"UYBLLG+Arial,Italic",0,N,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Notification of 48 hours prior to the meeting will enable the City to make reasonable ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_28,0,0,0,"UYBLLG+Arial,Italic",0,a,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,arrangements to ensure accessibility to this meeting. (28 CFR 35.106 ADA Title II).,1,0,54.750,0,0
+0,0,0,1,1,0,0,sunnyvale_4-12-16_29,0,0,0,"KWXPPX+Arial,Bold",0,P,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Planning a presentation for a City Council meeting?,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_30,0,0,0,"UYBLLG+Arial,Italic",0,T,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"To help you prepare and deliver your public comments, please review the ""Making ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_31,0,0,0,"UYBLLG+Arial,Italic",0,P,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"Public Comments During City Council or Planning Commission Meetings"" ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_32,0,0,0,"UYBLLG+Arial,Italic",0,d,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,document available at Presentations.inSunnyvale.com.,1,0,54.750,0,0
+0,0,0,1,1,0,0,sunnyvale_4-12-16_0,0,0,0,"KWXPPX+Arial,Bold",0,P,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Planning to provide materials to Council?,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_1,0,0,0,"UYBLLG+Arial,Italic",0,I,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"If you wish to provide the City Council with copies of your presentation materials, ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_2,0,0,0,"UYBLLG+Arial,Italic",0,p,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,please provide 12 copies of the materials to the City Clerk (located to the left of the ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_3,0,0,0,"UYBLLG+Arial,Italic",0,C,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Council dais). The City Clerk will distribute your items to the Council.,1,0,54.750,0,0
+0,0,0,1,1,0,0,sunnyvale_4-12-16_4,0,0,0,"KWXPPX+Arial,Bold",0,U,15.892,0,sunnyvale,1,0,0,0,0,0,0,0,0,0,4-12-16,Upcoming Meetings,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_5,0,0,0,"UYBLLG+Arial,Italic",0,V,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Visit CouncilMeetings.inSunnyvale.com for upcoming Council meeting information.,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_6,0,0,0,"UYBLLG+Arial,Italic",0,V,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,Visit BoardsandCommissions.inSunnyvale.com for upcoming board and ,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_7,0,0,0,"UYBLLG+Arial,Italic",0,c,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,commission meeting information.,1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_8,0,0,0,"UYBLLG+Arial,Italic",0,F,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,"For a complete schedule of KSUN-15 Council meeting broadcasts, visit ",1,0,54.750,0,0
+0,0,0,1,0,0,0,sunnyvale_4-12-16_9,0,0,0,"UYBLLG+Arial,Italic",0,K,16.062,0,sunnyvale,0,0,0,1,1,0,0,0,0,0,4-12-16,KSUN.insunnyvale.com.,1,0,54.750,0,0
