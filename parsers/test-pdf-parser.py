@@ -5,19 +5,31 @@ from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
 import csv
 
+
 def main():
 
 	agency = "sunnyvale"
-	date = "4-12-16"
+	date = "4-19-16"
 
-	# list to hold all lines in the PDF
-	lines = extractLinesFromPDF("../exemplar-pdfs/sunnyvale.pdf", agency, date)
-
-	# manually classify lines to build training set
-	# lines_classified = manuallyClassifyLines(lines, agency, date)
+	parsePDFtoLines(agency, date, False)
 
 	# create a DTM from the line text
 	# dtm = buildDTM(lines)
+
+
+'''
+'''
+def parsePDFtoLines(agency, date, manual_classify):
+
+	# list to hold all lines in the PDF
+	lines = extractLinesFromPDF("../docs/" + agency + "/raw_pdfs/" + agency + "_" + date + ".pdf", agency, date)
+
+	if manual_classify:
+		# manually classify lines to build training set
+		lines = manuallyClassifyLines(lines, agency, date)
+
+	# write out the lines to disk as csv
+	writeLinesToCSV(lines, agency, date, manual_classify)
 
 
 '''
@@ -331,8 +343,7 @@ def manuallyClassifyLines(lines, agency, date):
 
 			line = applyClass(line, score)
 
-	# write out to disk as csv
-	writeLinesToCSV(lines, agency, date)
+		return lines
 
 
 
@@ -370,9 +381,16 @@ def applyClass(line, score):
 '''
 writeLinesToCSV
 ===============
+Save the lines as a CSV to the appropriate folder.
 '''
-def writeLinesToCSV(lines, agency, date):
-	filename = agency + '_' + date + '_' + 'lines_classified.csv'
+def writeLinesToCSV(lines, agency, date, manual_classify):
+
+	# select storage location based on whether this was manually classified
+	if manual_classify:
+		filename = "../docs/" + agency + "/training_lines/" + agency + "_" + date + "_training_lines.csv"
+	else:
+		filename = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
+
 	with open(filename, 'w') as csvfile:
 	    fieldnames = lines[0].keys()
 
