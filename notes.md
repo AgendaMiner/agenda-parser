@@ -1,5 +1,22 @@
 # Agencies to focus on
 
+### Monitored School Districts
+Alum Rock Union ESD - SCANNED PDFS
+Cupertino Union SD - Parse-able PDFs
+East Side Union HSD - PDFS and BoardDocs
+Foothill De Anza CCD - BoardDocs
+Franklin McKinley SD - Scanned PDFs
+Gavilan CCD - PDFs
+San Jose Evergreen CCD - BoardDocs
+San Jose Unified SD - Agenda Online
+Santa Clara County BOE - BoardDocs
+Santa Clara USD - AgendaOnline
+West Valley Mission CCD - PDFs
+Mission West Valley Land Corporation - PDFs
+
+
+# OTHER INTERESTING AGENCIES
+
 ### Santa Clara County
 - Online in HTML (since at least 2012)
 

@@ -1,35 +1,52 @@
+import re
+import csv
+import os.path
+import pickle
+import pandas as pd
 import pdfplumber
 from operator import itemgetter
-import re
 from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
-import csv
+
 
 
 def main():
 
-	agency = "sunnyvale"
-	date = "4-19-16"
+	agency = "east_side_uhsd"
+	date = "1-21-16"
 
 	parsePDFtoLines(agency, date, False)
 
-	# create a DTM from the line text
-	# dtm = buildDTM(lines)
-
 
 '''
+parsePDFtoLines
+===============
+Given an agency and a date, extract all the lines of the PDF,
+along with a set of features for each line to use in the line classifier.
+Write out a CSV file with the parsed lines and features.
 '''
 def parsePDFtoLines(agency, date, manual_classify):
 
+	filepath = "../docs/" + agency + "/raw_pdfs/" + agency + "_" + date + ".pdf"
+
 	# list to hold all lines in the PDF
-	lines = extractLinesFromPDF("../docs/" + agency + "/raw_pdfs/" + agency + "_" + date + ".pdf", agency, date)
+	lines = extractLinesFromPDF(filepath, agency, date)
 
 	if manual_classify:
 		# manually classify lines to build training set
 		lines = manuallyClassifyLines(lines, agency, date)
 
+	# create a DTM from the line text
+	dtm = buildDTM(lines, agency, manual_classify)
+
+	# convert the lines to a pandas df
+	lines_df = pd.DataFrame(lines)
+
+	# combine the lines_df with the dtm
+	full_df = pd.concat([lines_df, dtm], axis=1)
+
 	# write out the lines to disk as csv
-	writeLinesToCSV(lines, agency, date, manual_classify)
+	writeDFtoCSV(full_df, agency, date, manual_classify)
 
 
 '''
@@ -39,6 +56,7 @@ Uses PDFPlumber to open a PDF document and convert it into a list of dicts (one 
 Returns the list of dicts.
 '''
 def extractLinesFromPDF(filepath, agency, date):
+	print filepath
 	with pdfplumber.open(filepath) as pdf:
 
 		# init lines list
@@ -48,17 +66,31 @@ def extractLinesFromPDF(filepath, agency, date):
 		for page_index, page in enumerate(pdf.pages):
 			# crop page
 			page = cropHeaderAndFooter(page, page_index)
+
+			# print page.pageid
+			# print page.rects
+
+			# # experiment with stripping out tables
+			# page = page.filter(test_func)
+			# print page.extract_text(x_tolerance=2, y_tolerance=2)
+
+
 			# convert to a list of lines with formatting
 			lines += getLinesWithFormatting(page, page_index, agency, date)
 
 		# convert font information into a set of ranked dummy vars
-		lines = generalizeFontInfo(lines)
+		lines = generalizeFontInfo(lines, agency)
 
 		# convert left indentation into a set of ranked dummy vars
-		lines = generalizeLeftIndentation(lines)
+		lines = generalizeLeftIndentation(lines, agency)
 
 		return lines
 
+def test_func(obj):
+	if obj['object_type'] == "rect":
+		return False
+	else:
+		return True
 
 '''
 cropHeaderAndFooter
@@ -75,7 +107,7 @@ def cropHeaderAndFooter(page, page_index):
 	and use the line's location to set the header height
 	'''
 
-	header_height = 100;
+	header_height = 30;
 
 	# the first page often contains a lot of extra boilerplate
 	if page_index == 0:
@@ -184,12 +216,6 @@ def getLinesWithFormatting(page, page_index, agency, date):
 			current_y_pos = char['top']
 			line_index += 1
 
-	# for line in lines:
-	# 	print line['left_inset']
-	# 	print line['text']
-
-	# print len(lines)
-
 	return lines
 
 
@@ -214,6 +240,13 @@ def addFormattingFeatures(line):
 	else:
 		line['starts_with_number'] = 0
 
+	# check if line starts with a sub-number (ex: 1.1)
+	re_starts_subnum = re.compile(r'\d+[\.]\d+\s+')
+	if re_starts_subnum.match(line['text']) is not None:
+		line['starts_with_subnumber'] = 1
+	else:
+		line['starts_with_subnumber'] = 0
+
 	# check if line includes a time
 	re_includes_time = re.compile(r'[aA|pP].?M.?')
 	if re_includes_time.search(line['text']) is not None:
@@ -232,13 +265,13 @@ generalizeFontInfo
 Converts the raw font and font-size information from PDFPlumber into a set of relative categories.
 Returns an updated list of line dicts.
 '''
-def generalizeFontInfo(lines):
+def generalizeFontInfo(lines, agency):
 
 	### font-face frequencies
-	lines = assignFontFrequencies(lines)
+	lines = assignFontFrequencies(lines, agency)
 
 	### font sizes
-	lines = assignFontSizes(lines)
+	lines = assignFontSizes(lines, agency)
 
 	return lines
 
@@ -247,17 +280,25 @@ def generalizeFontInfo(lines):
 '''
 assignFontFrequencies
 =====================
-Orders the unique font-faces by frequency, then creates a set of dummy variables
+Checks to see if a list of ranked fonts has already been created, 
+otherwise orders the unique font-faces by frequency, then creates a set of dummy variables
 for each frequency (set to 1 if the font-face for that line, 0 otherwise)
 Returns an updated list of line dicts
 '''
-def assignFontFrequencies(lines):
+def assignFontFrequencies(lines, agency):
 
-	# find unique fonts
-	all_fonts = [line['font_name'] for line in lines]
-	font_counter = Counter(all_fonts)
-	ranked_font_tuples = font_counter.most_common()
-	ranked_fonts = [font_tuple[0] for font_tuple in ranked_font_tuples]
+	ranked_fonts_filepath = "../docs/" + agency + "/data/ranked_fonts.p"
+	
+	if os.path.exists(ranked_fonts_filepath):
+		ranked_fonts = pickle.load(open(ranked_fonts_filepath, "rb" ))
+
+	else:
+		# find unique fonts
+		all_fonts = [line['font_name'] for line in lines]
+		font_counter = Counter(all_fonts)
+		ranked_font_tuples = font_counter.most_common()
+		ranked_fonts = [font_tuple[0] for font_tuple in ranked_font_tuples]
+		pickle.dump(ranked_fonts, open(ranked_fonts_filepath, "wb"))
 
 	# create font_freq features for each line
 	return assignRankedDummyVars(lines, ranked_fonts, 'font_freq_', 'font_name')
@@ -267,15 +308,23 @@ def assignFontFrequencies(lines):
 '''
 assignFontSizes
 =====================
-Orders the unique font-sizes in descending order, then creates a set of ranked dummy variables (set to 1 if the font-size for that line, 0 otherwise).
+Checks if a set of unique font-sizes already exists, 
+otherwise orders the unique font-sizes in descending order, 
+then creates a set of ranked dummy variables (set to 1 if the font-size for that line, 0 otherwise).
 Returns an updated list of line dicts
 '''
-def assignFontSizes(lines):
+def assignFontSizes(lines, agency):
 
-	# find unique font sizes
-	font_sizes = list(set([line['font_size'] for line in lines])) # intermediate conversion to a list to remove duplicates
-	ranked_font_sizes = sorted(font_sizes, reverse=True)
-	# print ranked_font_sizes
+	ranked_font_sizes_filepath = "../docs/" + agency + "/data/ranked_font_sizes.p"
+	
+	if os.path.exists(ranked_font_sizes_filepath):
+		ranked_font_sizes = pickle.load(open(ranked_font_sizes_filepath, "rb" ))
+
+	else:
+		# find unique font sizes
+		font_sizes = list(set([line['font_size'] for line in lines])) # intermediate conversion to a set to remove duplicates
+		ranked_font_sizes = sorted(font_sizes, reverse=True)
+		pickle.dump(ranked_font_sizes, open(ranked_font_sizes_filepath, "wb"))
 
 	# create font_size features for each line
 	return assignRankedDummyVars(lines, ranked_font_sizes, 'font_size_', 'font_size')
@@ -306,44 +355,53 @@ def assignRankedDummyVars(lines, ranked_vars, dummy_basename, line_attribute):
 '''
 generalizeLeftIndentation
 =========================
-Creates a set of dummy variables ranking how indented the left side of the line is.
+Checks if a list of indentations from the left side of the page already exists,
+otherwise creates a set of dummy variables ranking how indented the left side of the line is.
 Returns an updated list of lines.
 '''
-def generalizeLeftIndentation(lines):
+def generalizeLeftIndentation(lines, agency):
 
-	# find unique line indentations
-	left_indents = list(set([line['left_inset'] for line in lines])) # intermediate conversion to a list to remove duplicates
-	ranked_left_indents = sorted(left_indents)
+	ranked_left_indents_filepath = "../docs/" + agency + "/data/ranked_left_indents.p"
+	
+	if os.path.exists(ranked_left_indents_filepath):
+		ranked_left_indents = pickle.load(open(ranked_left_indents_filepath, "rb" ))
+
+	else:
+		# find unique line indentations
+		left_indents = list(set([line['left_inset'] for line in lines])) # intermediate conversion to a list to remove duplicates
+		ranked_left_indents = sorted(left_indents)
+		pickle.dump(ranked_left_indents, open(ranked_left_indents_filepath, "wb"))
 
 	# create left_indent features for each line
 	return assignRankedDummyVars(lines, ranked_left_indents, 'left_indent_', 'left_inset')
-
 
 
 '''
 manuallyClassifyLines
 =====================
 Given a list of line dicts, prompt the user to classify each line. 
-Store the classified lines in an updated dict, save this dict to disk, and return it.
+Return an updated dict with the classified lines.
 '''
 def manuallyClassifyLines(lines, agency, date):
+
+	base_options_string = "\n 1 - Meeting Heading \n 2 - Section Heading \n 3 - Item Heading (1st line) \n 4 - Item Text \n 5 - Other \n"
 
 	for i, line in enumerate(lines):
 		print (" ")
 		print(line['text'])
-		score = int(raw_input("----- \nEnter class: \n 1 - Meeting Heading \n 2 - Section Heading \n 3 - Item Heading \n 4 - Item Text \n 5 - Other \n 6 - Undo last \n"))
+		score = int(raw_input("----- \nEnter class: " + base_options_string + " 6 - Undo last \n"))
 
 		if score != 6:
 			line = applyClass(line, score)
 		elif score == 6:
-			old_score = int(raw_input("Enter correct previous class: \n 1 - Meeting Heading \n 2 - Section Heading \n 3 - Item Heading \n 4 - Item Text \n 5 - Other \n"))
+			old_score = int(raw_input("Enter correct previous class: " + base_options_string))
 			lines[i-1] = applyClass(lines[i-1], old_score)
 
-			score = int(raw_input("Now enter correct current class: \n 1 - Meeting Heading \n 2 - Section Heading \n 3 - Item Heading \n 4 - Item Text \n 5 - Other \n"))
+			score = int(raw_input("Now enter correct current class: " + base_options_string))
 
 			line = applyClass(line, score)
 
-		return lines
+	return lines
 
 
 
@@ -379,9 +437,10 @@ def applyClass(line, score):
 
 
 '''
-writeLinesToCSV
+writeLinesToCSV (DEPRICATED)
 ===============
 Save the lines as a CSV to the appropriate folder.
+DEPRICATED NOW THAT I'M USING PANDAS.
 '''
 def writeLinesToCSV(lines, agency, date, manual_classify):
 
@@ -403,16 +462,62 @@ def writeLinesToCSV(lines, agency, date, manual_classify):
 
 
 '''
+writeDFtoCSV
+===============
+Save the full DF as a CSV to the appropriate folder.
+'''
+def writeDFtoCSV(df, agency, date, manual_classify):
+
+	# select storage location based on whether this was manually classified
+	if manual_classify:
+		filepath = "../docs/" + agency + "/training_lines/" + agency + "_" + date + "_training_lines.csv"
+	else:
+		filepath = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
+
+	df.to_csv(filepath, encoding="utf-8")
+
+
+
+
+'''
 buildDTM
 ========
-Use Scikit-learn to build a document-term matrix from the text of the lines
+Use Scikit-learn to build a document-term matrix from the text of the lines.
+Return the dtm as a pandas df.
 '''
-def buildDTM(lines):
+def buildDTM(lines, agency, manual_classify):
 	text_lines = [line['text'] for line in lines]
 
-	vectorizer = CountVectorizer(min_df=1)
-	dtm = vectorizer.fit_transform(text_lines)
-	print dtm
+	# check if there's an existing vocabulary to work with
+	vocab = list()
+	vocab_filepath = "../docs/" + agency + "/data/dtm_vocab.p"
+	if os.path.exists(vocab_filepath):
+
+		# load the old vocab list
+		vocab = pickle.load(open(vocab_filepath, "rb" ))
+
+	# if there isn't an existing vocabulary, or if currently manually classifying documents, 
+	# expand this vocab to include terms in the new document
+	if manual_classify or not os.path.exists(vocab_filepath):
+
+		# build a new DTM vocabulary from this document
+		vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3))
+		vectorizer.fit_transform(text_lines)
+		new_vocab_dict = vectorizer.vocabulary_
+		new_vocab_list = list(new_vocab_dict.keys())
+
+		# merge this new vocab with the old vocab
+		vocab = list(set(new_vocab_list + vocab))
+
+		# save the expanded vocabulary to disk
+		pickle.dump(vocab, open(vocab_filepath, "wb"))
+
+	# create a new DTM using the full vocabulary
+	vectorizer = CountVectorizer(strip_accents="ascii", vocabulary=vocab, ngram_range=(1,3))
+	counts_matrix = vectorizer.fit_transform(text_lines)
+
+	# convert counts matrix to pandas df
+	return pd.DataFrame(counts_matrix.toarray(), columns=vectorizer.get_feature_names())
 
 
 if __name__ == '__main__':

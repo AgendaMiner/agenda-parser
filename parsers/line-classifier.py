@@ -5,13 +5,14 @@ import pandas as pd
 
 def main():
 
-	classifyAgendas("sunnyvale", ["4-19-16"])
+	classifyAgendas("east_side_uhsd", ["1-21-16"])
 
 
 '''
 classifyAgendas
 ===============
-ADD THIS
+Given an agency and a list of agenda dates, classifies the lines in each agenda.
+Saves the classified lines out as CSVs.
 '''
 def classifyAgendas(agency, dates):
 
@@ -23,8 +24,11 @@ def classifyAgendas(agency, dates):
 		predict_filepath = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
 		classed_filepath = "../docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
 
-		classed_df = classifyLines(training_filepath, predict_filepath)
-		classed_df.to_csv(classed_filepath)
+		classed_df = classifyLines(training_filepath, predict_filepath, False)
+		print("classifyAgendas")
+		print classed_df.columns.values.tolist()
+
+		classed_df.to_csv(classed_filepath, index=False)
 
 
 '''
@@ -36,7 +40,7 @@ If a second file is not provided, tries applying the model to the training
 data and prints out evaluation metrics.
 Returns the classified lines.
 '''
-def classifyLines(training_filepath, predict_filepath):
+def classifyLines(training_filepath, predict_filepath, know_outcomes):
 
 	# read in datafiles
 	training_df = pd.read_csv(training_filepath, sep = ',', header = 0)
@@ -48,18 +52,18 @@ def classifyLines(training_filepath, predict_filepath):
 	datasets = prepDatasets(training_df, classes_list, True)
 	train_X = datasets[0]
 
+	print(train_X.shape)
+
 	# train lasso model on each classification
 	classes_models = list()
 	for class_Y in datasets[1:]:
 		classes_models.append(trainClassifier(train_X, class_Y))
 
 	# load file to predict classifications on
-	if predict_filepath is not None:
-		predict_df = pd.read_csv(predict_filepath, sep = ',', header = 0)
-		predict_datasets = prepDatasets(predict_df, classes_list, False)
-		predict_X = predict_datasets[0]
-	else:
-		predict_X = train_X
+	predict_df = pd.read_csv(predict_filepath, sep = ',', header = 0)
+	predict_datasets = prepDatasets(predict_df, classes_list, know_outcomes)
+	predict_X = predict_datasets[0]
+	print(predict_X.shape)
 
 	# predict each class using the lasso models
 	classes_preds = list()
@@ -69,7 +73,7 @@ def classifyLines(training_filepath, predict_filepath):
 	# classify using probabilities from models
 	classified_lines = classifyFromPredictions(classes_preds, classes_list)
 
-	if predict_filepath is None:
+	if know_outcomes:
 		# check how well the models did at classifing the training data
 		evaluateClassifications(classes_list, datasets[1:], classified_lines)
 		return None
@@ -203,7 +207,7 @@ def convertListOfBinaryListsToList(list_of_lists, colnames):
 
 
 '''
-writeClassificationsToCSV
+addLineClassesToDF
 =========================
 Convert the classified lines list to a numpy array and add it to the DF.
 Return the updated DF.
@@ -215,6 +219,9 @@ def addLineClassesToDF(df, classified_lines):
 
 	# add array to df
 	df["line_class"] = lines_array
+
+	print("addLineClassesToDF")
+	print df.columns.values.tolist()
 
 	return df
 
