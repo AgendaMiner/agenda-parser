@@ -1,0 +1,495 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "1-21-16", 
+    "meeting_parts": [
+        {
+            "agenda_sections": [
+                {
+                    "items": [], 
+                    "section_name": "N. Capitol Avenue", 
+                    "section_name_raw": "830 N. Capitol Avenue ", 
+                    "section_number": "830"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "1.01", 
+                            "item_text": "Roll Call", 
+                            "item_text_raw": "1.01  Roll Call "
+                        }, 
+                        {
+                            "item_number": "1.02", 
+                            "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session", 
+                            "item_text_raw": "1.02      Announcement and Public Comment regarding Items to be discussed in Closed Session  "
+                        }, 
+                        {
+                            "item_number": "1.03", 
+                            "item_text": "Recess to Closed Session in the Superintendent’s Conference Room   (Open Session will", 
+                            "item_text_raw": "1.03  Recess to Closed Session in the Superintendent’s Conference Room   (Open Session will  "
+                        }, 
+                        {
+                            "item_number": "2.01", 
+                            "item_text": "Expulsion(s):  A", 
+                            "item_text_raw": "2.01  Expulsion(s):  A "
+                        }, 
+                        {
+                            "item_number": "2.02", 
+                            "item_text": "Public Employee Performance Evaluation", 
+                            "item_text_raw": "2.02  Public Employee Performance Evaluation "
+                        }, 
+                        {
+                            "item_number": "2.03", 
+                            "item_text": "Public Employment/Public Employee Appointment", 
+                            "item_text_raw": "2.03  Public Employment/Public Employee Appointment "
+                        }, 
+                        {
+                            "item_number": "2.04", 
+                            "item_text": "Public Employee Discipline/Dismissal/Release", 
+                            "item_text_raw": "2.04  Public Employee Discipline/Dismissal/Release "
+                        }, 
+                        {
+                            "item_number": "2.05", 
+                            "item_text": "Conference with Labor Negotiators   California School Employees Association (CSEA)", 
+                            "item_text_raw": "2.05  Conference with Labor Negotiators   California School Employees Association (CSEA) "
+                        }, 
+                        {
+                            "item_number": "2.06", 
+                            "item_text": "Conference with Legal Counsel – Anticipated Litigation:", 
+                            "item_text_raw": "2.06  Conference with Legal Counsel – Anticipated Litigation: "
+                        }, 
+                        {
+                            "item_number": "2.07", 
+                            "item_text": "Conference with Legal Counsel – Existing Litigation:", 
+                            "item_text_raw": "2.07  Conference with Legal Counsel – Existing Litigation: "
+                        }
+                    ], 
+                    "section_name": "Call to Order/ Roll Call", 
+                    "section_name_raw": "1.  Call to Order/ Roll Call ", 
+                    "section_number": "1"
+                }, 
+                {
+                    "items": [], 
+                    "section_name": "Pledge of Allegiance", 
+                    "section_name_raw": "3.  Pledge of Allegiance ", 
+                    "section_number": "3"
+                }, 
+                {
+                    "items": [], 
+                    "section_name": "Welcome and Explanation to Audience", 
+                    "section_name_raw": "4.  Welcome and Explanation to Audience   ", 
+                    "section_number": "4"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "5.01", 
+                            "item_text": "For consideration by the Board of Trustees", 
+                            "item_text_raw": "5.01  For consideration by the Board of Trustees "
+                        }
+                    ], 
+                    "section_name": "Adoption of Agenda", 
+                    "section_name_raw": "5.  Adoption of Agenda ", 
+                    "section_number": "5"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "6.01", 
+                            "item_text": "Recognition Presented to ESUSHD by Educare of Silicon Valley", 
+                            "item_text_raw": "6.01  Recognition Presented to ESUSHD by Educare of Silicon Valley "
+                        }, 
+                        {
+                            "item_number": "6.02", 
+                            "item_text": "Recognition Presented to Iliana Esperanza Ozuna, Esperanza Running", 
+                            "item_text_raw": "6.02  Recognition Presented to Iliana Esperanza Ozuna, Esperanza Running "
+                        }, 
+                        {
+                            "item_number": "6.03", 
+                            "item_text": "Fall Sports:  Andrew Hill High School  Evergreen Valley High School  Independence High School  Mt. Pleasant High School  Oak Grove High School  Piedmont Hills High School  Santa Teresa High School  Silver Creek High School", 
+                            "item_text_raw": "6.03  Fall Sports:  Andrew Hill High School  Evergreen Valley High School  Independence High School  Mt. Pleasant High School  Oak Grove High School  Piedmont Hills High School  Santa Teresa High School  Silver Creek High School "
+                        }
+                    ], 
+                    "section_name": "Board Special Recognition(s)", 
+                    "section_name_raw": "6.  Board Special Recognition(s) ", 
+                    "section_number": "6"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "7.01", 
+                            "item_text": "Andrew Hill Valley High School", 
+                            "item_text_raw": "7.01  Andrew Hill Valley High School "
+                        }, 
+                        {
+                            "item_number": "7.02", 
+                            "item_text": "Santa Teresa Valley High School", 
+                            "item_text_raw": "7.02  Santa Teresa Valley High School "
+                        }
+                    ], 
+                    "section_name": "Student Board Liaisons  (5 minutes each)", 
+                    "section_name_raw": "7.  Student Board Liaisons  (5 minutes each) ", 
+                    "section_number": "7"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "8.01", 
+                            "item_text": "The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                            "item_text_raw": "8.01  The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.  "
+                        }, 
+                        {
+                            "item_number": "8.02", 
+                            "item_text": "Discussion and/or Action to Review and Accept the Annual Financial Audit Report for Fiscal Year Ending June 30, 2015 -Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance, and Joyce Peters, Vavrinek, Trine, Day & Co., LLP", 
+                            "item_text_raw": "8.02  Discussion and/or Action to Review and Accept the Annual Financial Audit Report for Fiscal Year Ending June 30, 2015 -Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance, and Joyce Peters, Vavrinek, Trine, Day & Co., LLP "
+                        }, 
+                        {
+                            "item_number": "8.03", 
+                            "item_text": "Discussion and/or Action to Review and Accept the Annual Financial and Performance Audit Reports for Fiscal Year Ending June 30, 2015, for Measures G, E, and I - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance, and Joyce Peters, Vavrinek, Trine, Day & Co., LLP", 
+                            "item_text_raw": "8.03  Discussion and/or Action to Review and Accept the Annual Financial and Performance Audit Reports for Fiscal Year Ending June 30, 2015, for Measures G, E, and I - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance, and Joyce Peters, Vavrinek, Trine, Day & Co., LLP "
+                        }, 
+                        {
+                            "item_number": "8.04", 
+                            "item_text": "Presentation, Discussion and/or Action Regarding Measure E, G and I Bond Fund Performance Audit Report for Fiscal Years Ended June 30, 2014, and June 30, 2015 - Marcus Battle, Associate Superintendent of Business Services, and Curtis Matthews, from Moss Adams, LLP", 
+                            "item_text_raw": "8.04  Presentation, Discussion and/or Action Regarding Measure E, G and I Bond Fund Performance Audit Report for Fiscal Years Ended June 30, 2014, and June 30, 2015 - Marcus Battle, Associate Superintendent of Business Services, and Curtis Matthews, from Moss Adams, LLP "
+                        }
+                    ], 
+                    "section_name": "Special Order of Business – Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "8.  Special Order of Business – Operational Items/Board Discussion and/or Action ", 
+                    "section_number": "8"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "9.01", 
+                            "item_text": "Hold Public Hearing at Approximately 6:05 p.m. Regarding the Proposed Adoption of the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "9.01  Hold Public Hearing at Approximately 6:05 p.m. Regarding the Proposed Adoption of the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "9.02", 
+                            "item_text": "Discussion and/or Action Regarding the Proposed Adoption of the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "9.02  Discussion and/or Action Regarding the Proposed Adoption of the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }
+                    ], 
+                    "section_name": "Public Hearing(s) - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "9.  Public Hearing(s) - Operational Items/Board Discussion and/or Action ", 
+                    "section_number": "9"
+                }, 
+                {
+                    "items": [], 
+                    "section_name": "Public Members who wish to Address the Board of Trustees", 
+                    "section_name_raw": "10.  Public Members who wish to Address the Board of Trustees  ", 
+                    "section_number": "10"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "11.01", 
+                            "item_text": "Discussion, Consideration and/or Action regarding Selection/Appointment of Board Audit Committee Members - Pattie Cortese, Board Audit Committee Chair, and Van Le, Audit Committee Vice Chair", 
+                            "item_text_raw": "11.01  Discussion, Consideration and/or Action regarding Selection/Appointment of Board Audit Committee Members - Pattie Cortese, Board Audit Committee Chair, and Van Le, Audit Committee Vice Chair "
+                        }, 
+                        {
+                            "item_number": "11.02", 
+                            "item_text": "Discussion and/or Action to Amend 2015/2016 Board Meeting Calendar - Lan Nguyen, Board President", 
+                            "item_text_raw": "11.02  Discussion and/or Action to Amend 2015/2016 Board Meeting Calendar - Lan Nguyen, Board President "
+                        }
+                    ], 
+                    "section_name": "Board of Trustees/Superintendent - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "11.  Board of Trustees/Superintendent - Operational Items/Board Discussion and/or Action   ", 
+                    "section_number": "11"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "12.01", 
+                            "item_text": "Discussion and/or Action to Approve the Proposal for Use of the Educator Effectiveness Grant Funds allocated by the California Department of Education - Glenn Vander Zee, Assistant Superintendent of Educational Services, and Teresa Marquez, Director of Professional Development and Instructional Services", 
+                            "item_text_raw": "12.01  Discussion and/or Action to Approve the Proposal for Use of the Educator Effectiveness Grant Funds allocated by the California Department of Education - Glenn Vander Zee, Assistant Superintendent of Educational Services, and Teresa Marquez, Director of Professional Development and Instructional Services "
+                        }, 
+                        {
+                            "item_number": "12.02", 
+                            "item_text": "Presentation, Discussion and/or Action regarding English Learner's Programs and Services - Glenn Vander Zee, Assistant Superintendent of Educational Services, and Nguyet Dinh, Administrator of Minority Language Programs", 
+                            "item_text_raw": "12.02  Presentation, Discussion and/or Action regarding English Learner's Programs and Services - Glenn Vander Zee, Assistant Superintendent of Educational Services, and Nguyet Dinh, Administrator of Minority Language Programs "
+                        }, 
+                        {
+                            "item_number": "12.03", 
+                            "item_text": "Presentation and/or Discussion Regarding AVID Program - Glenn Vander Zee, Assistant Superintendent of Educational Services", 
+                            "item_text_raw": "12.03  Presentation and/or Discussion Regarding AVID Program - Glenn Vander Zee, Assistant Superintendent of Educational Services "
+                        }, 
+                        {
+                            "item_number": "12.04", 
+                            "item_text": "Discussion and/or Action Regarding Members of the Schools’ Start Times Task Force - Glenn Vander Zee, Assistant Superintendent of Educational Services", 
+                            "item_text_raw": "12.04  Discussion and/or Action Regarding Members of the Schools’ Start Times Task Force - Glenn Vander Zee, Assistant Superintendent of Educational Services "
+                        }
+                    ], 
+                    "section_name": "Educational Services/Student Services - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "12.  Educational Services/Student Services - Operational Items/Board Discussion and/or Action   ", 
+                    "section_number": "12"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "13.01", 
+                            "item_text": "Discussion and/or Action to Approve the Budget Development Calendar for Fiscal Year 2016-17 - Marcus Battle, Associate Superintendent, Business Services, and Karen Poon, Director of Finance", 
+                            "item_text_raw": "13.01  Discussion and/or Action to Approve the Budget Development Calendar for Fiscal Year 2016-17 - Marcus Battle, Associate Superintendent, Business Services, and Karen Poon, Director of Finance "
+                        }, 
+                        {
+                            "item_number": "13.02", 
+                            "item_text": "Discussion and/or Action to Receive First Reading of Proposed Draft Amendment to Board Policy 3100 Budget - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance", 
+                            "item_text_raw": "13.02  Discussion and/or Action to Receive First Reading of Proposed Draft Amendment to Board Policy 3100 Budget - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance "
+                        }, 
+                        {
+                            "item_number": "13.03", 
+                            "item_text": "Discussion and/or Action to Approve the Contract(s) for Professional Services Over $25,000 - Marcus Battle, Associate Superintendent of Business Services, André Bell, Director of Purchasing and Capital Accounting, and Francine Brissey, General Purchasing Manager", 
+                            "item_text_raw": "13.03  Discussion and/or Action to Approve the Contract(s) for Professional Services Over $25,000 - Marcus Battle, Associate Superintendent of Business Services, André Bell, Director of Purchasing and Capital Accounting, and Francine Brissey, General Purchasing Manager "
+                        }, 
+                        {
+                            "item_number": "13.04", 
+                            "item_text": "Discussion and/or Action to Ratify CUPCCAA Informal General Purchasing Project(s) - Marcus Battle, Associate Superintendent of Business Services, André Bell, Director of Purchasing and Capital Accounting, and Francine Brissey, General Purchasing Manager", 
+                            "item_text_raw": "13.04  Discussion and/or Action to Ratify CUPCCAA Informal General Purchasing Project(s) - Marcus Battle, Associate Superintendent of Business Services, André Bell, Director of Purchasing and Capital Accounting, and Francine Brissey, General Purchasing Manager "
+                        }
+                    ], 
+                    "section_name": "Business Services - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "13.  Business Services - Operational Items/Board Discussion and/or Action   ", 
+                    "section_number": "13"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "14.01", 
+                            "item_text": "Discussion and/or Action to Adopt Resolution #2015/2016-11 Declaring the Observance of Lincoln's Birthday on February 19, 2016 - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "14.01  Discussion and/or Action to Adopt Resolution #2015/2016-11 Declaring the Observance of Lincoln's Birthday on February 19, 2016 - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "14.02", 
+                            "item_text": "Discussion and/or Action to Amend 2015-2016 Declaration of Need for Fully Qualified Educators - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "14.02  Discussion and/or Action to Amend 2015-2016 Declaration of Need for Fully Qualified Educators - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "14.03", 
+                            "item_text": "Discussion and/or Action to Approve Request for Use of Education Code Section", 
+                            "item_text_raw": "14.03  Discussion and/or Action to Approve Request for Use of Education Code Section "
+                        }, 
+                        {
+                            "item_number": "44258.3", 
+                            "item_text": "– Teachers on Special Assignment Authorizations for the 2015-2016 School Year - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "44258.3 – Teachers on Special Assignment Authorizations for the 2015-2016 School Year - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "14.04", 
+                            "item_text": "Discussion and/or Action to Approve Administrative Job Description and Salary Range for Multi-Tiered Systems of Support (MTSS) Coordinator - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "14.04  Discussion and/or Action to Approve Administrative Job Description and Salary Range for Multi-Tiered Systems of Support (MTSS) Coordinator - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "14.05", 
+                            "item_text": "Discussion and/or Action to Approve Compensation to Staff Not Represented by a Bargaining Unit - Cari Vaeth, Associate Superintendent of Human Resources", 
+                            "item_text_raw": "14.05  Discussion and/or Action to Approve Compensation to Staff Not Represented by a Bargaining Unit - Cari Vaeth, Associate Superintendent of Human Resources "
+                        }, 
+                        {
+                            "item_number": "14.06", 
+                            "item_text": "Discussion and/or Action to Adopt Board Policy 4262 (New) Differential Pay for Maternity and Paternity Leave Effective January 1, 2016, and to Waive Board Bylaw 9310 Requiring Second Reading of Proposed New or Amended Board Policy - Cari Vaeth, Associate Superintendent of Human Resources; Rogelio M. Ruiz, Esq., Legal Counsel", 
+                            "item_text_raw": "14.06  Discussion and/or Action to Adopt Board Policy 4262 (New) Differential Pay for Maternity and Paternity Leave Effective January 1, 2016, and to Waive Board Bylaw 9310 Requiring Second Reading of Proposed New or Amended Board Policy - Cari Vaeth, Associate Superintendent of Human Resources; Rogelio M. Ruiz, Esq., Legal Counsel "
+                        }
+                    ], 
+                    "section_name": "Human Resources - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "14.  Human Resources - Operational Items/Board Discussion and/or Action   ", 
+                    "section_number": "14"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "15.01", 
+                            "item_text": "Discussion and/or Action to Approve to Update the Facilities Master Plan - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities", 
+                            "item_text_raw": "15.01  Discussion and/or Action to Approve to Update the Facilities Master Plan - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities "
+                        }, 
+                        {
+                            "item_number": "15.02", 
+                            "item_text": "Discussion and/or Action to Approve the Revision to the Capital Construction Project List for Piedmont Hills High School - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, Traci Williams, Piedmont Hills High School Principal, and Farshid Samsami, Bond Program Manager, SGI", 
+                            "item_text_raw": "15.02  Discussion and/or Action to Approve the Revision to the Capital Construction Project List for Piedmont Hills High School - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, Traci Williams, Piedmont Hills High School Principal, and Farshid Samsami, Bond Program Manager, SGI "
+                        }, 
+                        {
+                            "item_number": "15.03", 
+                            "item_text": "Discussion and/or Action to Approve the Revision to the Capital Construction List for Santa Teresa High School - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, Greg Louie, Santa Teresa High School Principal, and Farshid Samsami, Bond Program Manager, SGI", 
+                            "item_text_raw": "15.03  Discussion and/or Action to Approve the Revision to the Capital Construction List for Santa Teresa High School - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, Greg Louie, Santa Teresa High School Principal, and Farshid Samsami, Bond Program Manager, SGI "
+                        }, 
+                        {
+                            "item_number": "15.04", 
+                            "item_text": "Discussion and/or Action to Approve the Bond/Capital Projects Contract(s) Over $50,000 - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Director of Purchasing and Capital Accounting, and Janice Unger, Capital Projects Purchasing Manager", 
+                            "item_text_raw": "15.04  Discussion and/or Action to Approve the Bond/Capital Projects Contract(s) Over $50,000 - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Director of Purchasing and Capital Accounting, and Janice Unger, Capital Projects Purchasing Manager "
+                        }, 
+                        {
+                            "item_number": "15.05", 
+                            "item_text": "Discussion and/or Action to Ratify CUPCCAA Informal Bond Project(s) - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Director of Purchasing and Capital Accounting, and Janice Unger, Capital Projects Purchasing Manager", 
+                            "item_text_raw": "15.05  Discussion and/or Action to Ratify CUPCCAA Informal Bond Project(s) - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Director of Purchasing and Capital Accounting, and Janice Unger, Capital Projects Purchasing Manager "
+                        }
+                    ], 
+                    "section_name": "Facilities - Operational Items/Board Discussion and/or Action", 
+                    "section_name_raw": "15.  Facilities - Operational Items/Board Discussion and/or Action   ", 
+                    "section_number": "15"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "16.01", 
+                            "item_text": "Approve Minutes of November 19, 2015, Regular Board Meeting", 
+                            "item_text_raw": "16.01  Approve Minutes of November 19, 2015, Regular Board Meeting "
+                        }
+                    ], 
+                    "section_name": "Board of Trustees / Superintendent - Consent / Action Calendar", 
+                    "section_name_raw": "16.  Board of Trustees / Superintendent - Consent / Action Calendar ", 
+                    "section_number": "16"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "17.01", 
+                            "item_text": "Receive the Fourth Quarterly Valenzuela/CAHSEE and Williams Settlement Uniform Complaints Quarterly Report for Period covering October 1, 2015 through December 31, 2015 as required by EC 35186 (Williams Settlement Legislation SB550 and AB2727)", 
+                            "item_text_raw": "17.01  Receive the Fourth Quarterly Valenzuela/CAHSEE and Williams Settlement Uniform Complaints Quarterly Report for Period covering October 1, 2015 through December 31, 2015 as required by EC 35186 (Williams Settlement Legislation SB550 and AB2727) "
+                        }, 
+                        {
+                            "item_number": "17.02", 
+                            "item_text": "Ratify/Approve School Field Trips", 
+                            "item_text_raw": "17.02  Ratify/Approve School Field Trips "
+                        }
+                    ], 
+                    "section_name": "Educational Services / Student Services - Consent / Action Calendar", 
+                    "section_name_raw": "17.  Educational Services / Student Services - Consent / Action Calendar ", 
+                    "section_number": "17"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "18.01", 
+                            "item_text": "Ratification of Contract(s) for Professional Services At or Below $25,000", 
+                            "item_text_raw": "18.01  Ratification of Contract(s) for Professional Services At or Below $25,000 "
+                        }, 
+                        {
+                            "item_number": "18.02", 
+                            "item_text": "Approve Purchase Orders", 
+                            "item_text_raw": "18.02  Approve Purchase Orders "
+                        }, 
+                        {
+                            "item_number": "18.03", 
+                            "item_text": "Approve Change Orders to Purchase Orders", 
+                            "item_text_raw": "18.03  Approve Change Orders to Purchase Orders "
+                        }, 
+                        {
+                            "item_number": "18.04", 
+                            "item_text": "Approve Memoranda of Understanding", 
+                            "item_text_raw": "18.04  Approve Memoranda of Understanding "
+                        }, 
+                        {
+                            "item_number": "18.05", 
+                            "item_text": "Approve Budget Transfers for the Month of December, 2015", 
+                            "item_text_raw": "18.05  Approve Budget Transfers for the Month of December, 2015 "
+                        }, 
+                        {
+                            "item_number": "18.06", 
+                            "item_text": "Accept Warrant Register for the Month of December, 2015", 
+                            "item_text_raw": "18.06  Accept Warrant Register for the Month of December, 2015 "
+                        }
+                    ], 
+                    "section_name": "Business Services - Consent / Action Calendar", 
+                    "section_name_raw": "18.  Business Services - Consent / Action Calendar ", 
+                    "section_number": "18"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "19.01", 
+                            "item_text": "Ratify/Approve Classified Personnel Actions Presented January 21, 2016", 
+                            "item_text_raw": "19.01  Ratify/Approve Classified Personnel Actions Presented January 21, 2016 "
+                        }, 
+                        {
+                            "item_number": "19.02", 
+                            "item_text": "Ratify/Approve Certificated Personnel Actions Presented January 21, 2016", 
+                            "item_text_raw": "19.02  Ratify/Approve Certificated Personnel Actions Presented January 21, 2016 "
+                        }, 
+                        {
+                            "item_number": "19.03", 
+                            "item_text": "Ratify/Approve Student Aide Personnel Actions Presented January 21, 2016", 
+                            "item_text_raw": "19.03  Ratify/Approve Student Aide Personnel Actions Presented January 21, 2016 "
+                        }
+                    ], 
+                    "section_name": "Human Resources - Consent / Action Calendar", 
+                    "section_name_raw": "19.  Human Resources - Consent / Action Calendar ", 
+                    "section_number": "19"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "20.01", 
+                            "item_text": "Ratification of Bond/Capital Projects Contract(s) for Professional Services At or Below $50,000", 
+                            "item_text_raw": "20.01  Ratification of Bond/Capital Projects Contract(s) for Professional Services At or Below $50,000 "
+                        }, 
+                        {
+                            "item_number": "20.02", 
+                            "item_text": "Ratification of Bond/Capital Projects Change Orders to Construction Contracts and Purchase Orders At or Below $175,000", 
+                            "item_text_raw": "20.02  Ratification of Bond/Capital Projects Change Orders to Construction Contracts and Purchase Orders At or Below $175,000 "
+                        }, 
+                        {
+                            "item_number": "20.03", 
+                            "item_text": "Approve Award of Bids and Request for Proposals for Bond/Capital Projects", 
+                            "item_text_raw": "20.03  Approve Award of Bids and Request for Proposals for Bond/Capital Projects "
+                        }
+                    ], 
+                    "section_name": "Facilities - Consent / Action Calendar", 
+                    "section_name_raw": "20.  Facilities - Consent / Action Calendar ", 
+                    "section_number": "20"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "21.01", 
+                            "item_text": "Receive Report on Bilingual Support Staff", 
+                            "item_text_raw": "21.01  Receive Report on Bilingual Support Staff "
+                        }
+                    ], 
+                    "section_name": "Written Reports/Recommendation", 
+                    "section_name_raw": "21.  Written Reports/Recommendation ", 
+                    "section_number": "21"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "23.01", 
+                            "item_text": "Board of Trustees", 
+                            "item_text_raw": "23.01  Board of Trustees "
+                        }, 
+                        {
+                            "item_number": "23.02", 
+                            "item_text": "Chris D. Funk, Superintendent", 
+                            "item_text_raw": "23.02  Chris D. Funk, Superintendent "
+                        }
+                    ], 
+                    "section_name": "Board of Trustees/Superintendent Communications/Comments", 
+                    "section_name_raw": "23.  Board of Trustees/Superintendent Communications/Comments ", 
+                    "section_number": "23"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "24.01", 
+                            "item_text": "Legal Counsel will Report on Closed Session Action Item(s)", 
+                            "item_text_raw": "24.01  Legal Counsel will Report on Closed Session Action Item(s) "
+                        }
+                    ], 
+                    "section_name": "Report Closed Session Action(s)", 
+                    "section_name_raw": "24.  Report Closed Session Action(s) ", 
+                    "section_number": "24"
+                }, 
+                {
+                    "items": [
+                        {
+                            "item_number": "25.01", 
+                            "item_text": "President Adjourns the Meeting", 
+                            "item_text_raw": "25.01  President Adjourns the Meeting "
+                        }
+                    ], 
+                    "section_name": "Adjournment", 
+                    "section_name_raw": "25.  Adjournment ", 
+                    "section_number": "25"
+                }
+            ], 
+            "meeting_part": "full_meeting"
+        }
+    ]
+}
