@@ -1,0 +1,513 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "08-24-2006", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LQQ7667DC1E", 
+                    "item_details": "\nAttached is the August 24, 2006, Regular Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JMJU5B799A", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment Regarding items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment Regarding items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JMJT5B7915", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room.) SEE ITEM 12 ON AGENDA (CLOSED SESSION) Open Session 6:00 P.M. – Board Room", 
+                    "item_text_raw": "1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room.) SEE ITEM 12 ON AGENDA (CLOSED SESSION) Open Session 6:00 P.M. – Board Room", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JMKB5B8BC5", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN2L5DC311", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN2Y5DD71E", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Recognitions will begin on September 28, 2006.", 
+                    "item_text_raw": "4.01 Recognitions will begin on September 28, 2006.", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN3L5DF40B", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN3V5DFFD3", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located ant the entrance of the the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located ant the entrance of the the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN5U5E5022", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Student Liaisons will begin attending on September 28, 2006.", 
+                    "item_text_raw": "7.01 Student Liaisons will begin attending on September 28, 2006.", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "STUDENT BOARD LIAISONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JN675E5C69", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Citizens Bond Oversight Committee Presentation – Alan Garofalo, Assistant Superintendent of Operations and John Moore, Citizens Bond Oversight Committee Chairperson", 
+                    "item_text_raw": "8.01 Citizens Bond Oversight Committee Presentation – Alan Garofalo, Assistant Superintendent of Operations and John Moore, Citizens Bond Oversight Committee Chairperson", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JN6V5E74ED", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Revised Budget 2006/07 and Unaudited Actual Budget 2005/2006", 
+                    "item_text_raw": "8.02 Revised Budget 2006/07 and Unaudited Actual Budget 2005/2006", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JN6U5E749C", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007- 01 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546", 
+                    "item_text_raw": "8.03 Adopt Resolution #2006/2007- 01 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNKY605311", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-03 To Issue Tax and Revenue Anticipation Notes (TRANs)", 
+                    "item_text_raw": "8.04 Adopt Resolution #2006/2007-03 To Issue Tax and Revenue Anticipation Notes (TRANs)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNL4605C76", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-05 Approving Authority to Enter into Contracts to Accommodate Emergency Remediation Work on School Facilities for Health and Safety Reasons", 
+                    "item_text_raw": "8.05 Adopt Resolution #2006/2007-05 Approving Authority to Enter into Contracts to Accommodate Emergency Remediation Work on School Facilities for Health and Safety Reasons", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNL96064D7", 
+                    "item_details": "", 
+                    "item_number": "8.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-04 Approving Authorized Signatures", 
+                    "item_text_raw": "8.06 Adopt Resolution #2006/2007-04 Approving Authorized Signatures", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNLR6070CD", 
+                    "item_details": "", 
+                    "item_number": "8.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Provisional Internship Permit Request for Certificated Employees", 
+                    "item_text_raw": "8.07 Approve Provisional Internship Permit Request for Certificated Employees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNLW607D98", 
+                    "item_details": "", 
+                    "item_number": "8.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Variable Term Waiver Request for Certificated Employees", 
+                    "item_text_raw": "8.08 Approve Variable Term Waiver Request for Certificated Employees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNM4608BC8", 
+                    "item_details": "", 
+                    "item_number": "8.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Contracts for Professional Services – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment B", 
+                    "item_text_raw": "8.09 Contracts for Professional Services – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment B", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JNMF6092C0", 
+                    "item_details": "", 
+                    "item_number": "8.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Memoranda of Understandings – Jerry Kurr, Interim Assistant Superintendent of Business Services –Attachment C", 
+                    "item_text_raw": "8.10 Memoranda of Understandings – Jerry Kurr, Interim Assistant Superintendent of Business Services –Attachment C", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITMES/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JNN560A525", 
+                    "item_details": "", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented August 24, 2006", 
+                    "item_text_raw": "9.01 Ratify/Approve Classified Personnel Actions Presented August 24, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNNP60AF34", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented August 24, 2006", 
+                    "item_text_raw": "9.02 Ratify/Approve Certificated Personnel Actions Presented August 24, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNPE60B8D1", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Student Aide Personnel Actions Presented August 24, 2006", 
+                    "item_text_raw": "9.03 Ratify/Approve Student Aide Personnel Actions Presented August 24, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNPL60CADA", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Job Description and Salary Range for Position of Attendance Accounting Manager", 
+                    "item_text_raw": "9.04 Approve Job Description and Salary Range for Position of Attendance Accounting Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNPV60E98D", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Job Description and Salary Range for Position of Accounting Manager", 
+                    "item_text_raw": "9.05 Approve Job Description and Salary Range for Position of Accounting Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNPZ60F252", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Purchase Orders Presented August 24, 2006", 
+                    "item_text_raw": "9.06 Purchase Orders Presented August 24, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNR861266D", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Transfers Presented August 24, 2006 (NONE)", 
+                    "item_text_raw": "9.07 Budget Transfers Presented August 24, 2006 (NONE)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNUJ61A277", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contribution from Targeted Instructional Improvement Block Grant – to Home School/Pupil Transportation", 
+                    "item_text_raw": "9.08 Approve Contribution from Targeted Instructional Improvement Block Grant – to Home School/Pupil Transportation", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNUX61AF93", 
+                    "item_details": "", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Donations/Grants/Awards", 
+                    "item_text_raw": "9.09 Acceptance of Donations/Grants/Awards", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNVB61BCA2", 
+                    "item_details": "", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Award of Bids", 
+                    "item_text_raw": "9.10 Award of Bids", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNY2622516", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": "9.11 Approve School Field Trips", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNYE6233A8", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Membership Application for National Academy Foundation", 
+                    "item_text_raw": "9.12 Approve Membership Application for National Academy Foundation", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNYP623DA5", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve CAHSEE Waiver for Special Education Students", 
+                    "item_text_raw": "9.13 Approve CAHSEE Waiver for Special Education Students", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNZ362462F", 
+                    "item_details": "", 
+                    "item_number": "9.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for Independence High School Low Voltage Infrastructure (Dynalectric)", 
+                    "item_text_raw": "9.14 Approve Notice of Completion for Independence High School Low Voltage Infrastructure (Dynalectric)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNZJ624DD2", 
+                    "item_details": "", 
+                    "item_number": "9.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Special Board Meeting Dated June 22, 2006", 
+                    "item_text_raw": "9.15 Approve Minutes of Special Board Meeting Dated June 22, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNZN6255D2", 
+                    "item_details": "", 
+                    "item_number": "9.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Special Board Meeting Dated June 29, 2006", 
+                    "item_text_raw": "9.16 Approve Minutes of Special Board Meeting Dated June 29, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JNZV625E01", 
+                    "item_details": "", 
+                    "item_number": "9.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Special Board Meeting Dated August 10, 2006", 
+                    "item_text_raw": "9.17 Approve Minutes of Special Board Meeting Dated August 10, 2006", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CLANEDAR ITEMS - ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JNZZ625FEE", 
+                    "item_details": "", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of June 30, 2006", 
+                    "item_text_raw": "10.01 Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of June 30, 2006", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A4JP2Z627CF5", 
+                    "item_details": "", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Report of Hanson Bridgett Law Firm Regarding Investigation of May 25, 2006, Special Board Meeting", 
+                    "item_text_raw": "10.02 Report of Hanson Bridgett Law Firm Regarding Investigation of May 25, 2006, Special Board Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JP3T6293ED", 
+                    "item_details": "\nBoard of Trustees \n\t \nCraig Mann \nMetroEd \n", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "11.01 Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JP4M62A996", 
+                    "item_details": "", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": "11.02 Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICAITONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JP4Z62B9D2", 
+                    "item_details": "", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion (NONE)", 
+                    "item_text_raw": "12.01 Expulsion (NONE)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JP5562C222", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.02 Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JP5D62C944", 
+                    "item_details": "\nAgency Designated Representatives: \nBob Nuñez, Superintendent \nLinda Gubman, Interim Superintendent Instructional Services \nAmerican Federation of Teachers (AFT) \nCalifornia School Employees Association (CSEA) \nEmployee Organizations: East Side Teachers Association (ESTA) \n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": "12.03 Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JP7962FD26", 
+                    "item_details": "\nCONFERENCE WITH LEGAL COUNSEL –ANTICIPATED LITIGATION Significant exposure to litigation pursuant to subdivision (b) of section 54956.9 of the Government Code: \n4 potential cases\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LEGAL COUNSEL –ANTICIPATED LITIGATION", 
+                    "item_text_raw": "12.04 CONFERENCE WITH LEGAL COUNSEL –ANTICIPATED LITIGATION", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A4JP8F63155E", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment (Government Code § Section 54957) \nInterim Director of Adult Education (1) \nInterim Director of Alternative Education (1) \n", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code ยง Section 54957)", 
+                    "item_text_raw": "12.05 Public Employment/Public Employee Appointment (Government Code ยง Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JPBV638044", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will report on Closed Session Action Item(s).", 
+                    "item_text_raw": "13.01 Legal Counsel will report on Closed Session Action Item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4JPD4639773", 
+                    "item_details": "", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "14.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

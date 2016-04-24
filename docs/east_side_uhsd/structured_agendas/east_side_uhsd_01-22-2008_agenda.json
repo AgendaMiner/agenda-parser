@@ -1,0 +1,567 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "01-22-2008", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LP6G714D1D9", 
+                    "item_details": "\n\tAttached is the January 22, 2008, Special Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B249641E23", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B28R643580", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B2C96466DE", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B2FD648C59", 
+                    "item_details": "\n\t \n\t \n\t \n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B2JX64ACD2", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For Consideration by the Board of Trustees", 
+                    "item_text_raw": "4.01 For Consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B2MG64D89A", 
+                    "item_details": "\nBoard Special Recognition\nEd Buller, State Coach of the Year\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board Special Recognition(s)", 
+                    "item_text_raw": "5.01 Board Special Recognition(s)", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B39A65DD01", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B3EV662183", 
+                    "item_details": "\nStudent Board Liaison\nStudent, James Lick High School ASB President \n", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "James Lick High School-Student Board Liaison", 
+                    "item_text_raw": "7.01 James Lick High School-Student Board Liaison", 
+                    "item_type": "Action, Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "A3B3EU66217A", 
+                    "item_details": "\nStudent Board Liaisons \nStudent, Leadership Public Charter School \n", 
+                    "item_number": "7.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Leadership Public Charter School-Student Board Liaison", 
+                    "item_text_raw": "7.02 Leadership Public Charter School-Student Board Liaison", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "STUDENT BOARD LIAISONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B3QP668A7D", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Appointment MetroED - Alternate – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.01 Nomination and Appointment MetroED - Alternate – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B43R66BEA2", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Appointment of a Representative to the Santa Clara County School Board Association – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.02 Nomination and Appointment of a Representative to the Santa Clara County School Board Association – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B45Q66CC52", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Proposed Procedures for Setting Priorities of General Obligation Bond Projects – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.03 Proposed Procedures for Setting Priorities of General Obligation Bond Projects – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B4PP6773E0", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Possible Partnership with City of San Jose Parks and Recreation, Use of District Fields – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": "8.04 Possible Partnership with City of San Jose Parks and Recreation, Use of District Fields – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B4RZ678CF2", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Contracts for Professional Services – Jerry Kurr, Associate Superintendent of Administration and Business Services – Attachment B", 
+                    "item_text_raw": "8.05 Contracts for Professional Services – Jerry Kurr, Associate Superintendent of Administration and Business Services – Attachment B", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B4US679AAF", 
+                    "item_details": "", 
+                    "item_number": "8.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Memoranda of Understanding – Jerry Kurr, Associate Superintendent of Administration and Business Services – Attachment C", 
+                    "item_text_raw": "8.06 Memoranda of Understanding – Jerry Kurr, Associate Superintendent of Administration and Business Services – Attachment C", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3B4X467A6CC", 
+                    "item_details": "", 
+                    "item_number": "8.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Alum Rock Union Elementary School District Properties Including Land Located at Cesar Chavez Elementary, Ocala Middle School and Joseph George Middle School, San Jose, CA; Selection of District Negotiators – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.07 Alum Rock Union Elementary School District Properties Including Land Located at Cesar Chavez Elementary, Ocala Middle School and Joseph George Middle School, San Jose, CA; Selection of District Negotiators – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B54P67DBE0", 
+                    "item_details": "\n9.1A Ratify and Approve Classified Personnel Actions Presented December 13, 2007 \n9.1B Ratify and Approve Classified Personnel Actions Presented January 22, 2008 \n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "A Ratify and Approve Classified Personnel Actions Presented December 13, 2007; B Ratify and Approve Classified Personnel Actions Presented January 22, 2008", 
+                    "item_text_raw": "9.01 9.01A Ratify and Approve Classified Personnel Actions Presented December 13, 2007; 9.01B Ratify and Approve Classified Personnel Actions Presented January 22, 2008", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B5GM683C8F", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify and Approve Certificated Personnel Actions Presented January 22, 2008", 
+                    "item_text_raw": "9.02 Ratify and Approve Certificated Personnel Actions Presented January 22, 2008", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B5KC68496A", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify and Approve Student Aide Personnel Actions Presented January 22, 2008", 
+                    "item_text_raw": "9.03 Ratify and Approve Student Aide Personnel Actions Presented January 22, 2008", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B5MT6859DE", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Purchase Orders Presented January 22, 2008", 
+                    "item_text_raw": "9.04 Purchase Orders Presented January 22, 2008", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B5PF686469", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Donations/Grants/Awards Presented January 22, 2008", 
+                    "item_text_raw": "9.05 Acceptance of Donations/Grants/Awards Presented January 22, 2008", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B5S26870CB", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": "9.06 Approve School Field Trips", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B65A68AC9B", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Updated Multimedia Arts II Course Description", 
+                    "item_text_raw": "9.07 Approve Updated Multimedia Arts II Course Description", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B67Y68B991", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Job Description Coordinator of Migrant Education", 
+                    "item_text_raw": "9.08 Approve Job Description Coordinator of Migrant Education", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B69L68CB32", 
+                    "item_details": "", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the WC Overfelt New Science Classroom Building – Increment 1 (El Camino Paving, Inc.)", 
+                    "item_text_raw": "9.09 Approve Notice of Completion for the WC Overfelt New Science Classroom Building – Increment 1 (El Camino Paving, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6AQ68DDBB", 
+                    "item_details": "", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the WC Overfelt New Science Classroom Building – Increment 1 (Cupertino Electric, Inc.)", 
+                    "item_text_raw": "9.10 Approve Notice of Completion for the WC Overfelt New Science Classroom Building – Increment 1 (Cupertino Electric, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6BH68ED36", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the Track & Field Improvements at James Lick, Oak Grove, and Yerba Buena High Schools (OC Jones & Sons, Inc.)", 
+                    "item_text_raw": "9.11 Approve Notice of Completion for the Track & Field Improvements at James Lick, Oak Grove, and Yerba Buena High Schools (OC Jones & Sons, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6CP6901BF", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the New Bleachers at James Lick, Oak Grove, and Yerba Buena High Schools (Southern Bleacher Construction Company, Inc.)", 
+                    "item_text_raw": "9.12 Approve Notice of Completion for the New Bleachers at James Lick, Oak Grove, and Yerba Buena High Schools (Southern Bleacher Construction Company, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6D66909FB", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the Silver Creek High School Ph I New Science Classroom Building (Sposeto Engineering, Inc.)", 
+                    "item_text_raw": "9.13 Approve Notice of Completion for the Silver Creek High School Ph I New Science Classroom Building (Sposeto Engineering, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6DQ6916E3", 
+                    "item_details": "", 
+                    "item_number": "9.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for the Foothill High School Library Building D (Blach Construction Company)", 
+                    "item_text_raw": "9.14 Approve Notice of Completion for the Foothill High School Library Building D (Blach Construction Company)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6EN692321", 
+                    "item_details": "", 
+                    "item_number": "9.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Silver Creek High School New Science Classroom Building (Ralph Larsen & Sons, Inc.)", 
+                    "item_text_raw": "9.15 Approve Change Order #1 for Silver Creek High School New Science Classroom Building (Ralph Larsen & Sons, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6FH6933F1", 
+                    "item_details": "", 
+                    "item_number": "9.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for the Fire Alarm Upgrade at Independence High School (Radiant Electric, Inc.)", 
+                    "item_text_raw": "9.16 Approve Change Order #1 for the Fire Alarm Upgrade at Independence High School (Radiant Electric, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6HJ6942F0", 
+                    "item_details": "", 
+                    "item_number": "9.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Football Bleacher Replacement at Mt. Pleasant High School (Robert A. Bothman, Inc.)", 
+                    "item_text_raw": "9.17 Approve Change Order #1 for Football Bleacher Replacement at Mt. Pleasant High School (Robert A. Bothman, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6HY694F45", 
+                    "item_details": "", 
+                    "item_number": "9.18", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Football Bleacher Replacement at Andrew Hill, Piedmont Hills and Santa Teresa High Schools (Robert A. Bothman, Inc.)", 
+                    "item_text_raw": "9.18 Approve Change Order #1 for Football Bleacher Replacement at Andrew Hill, Piedmont Hills and Santa Teresa High Schools (Robert A. Bothman, Inc.)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6JL69599F", 
+                    "item_details": "", 
+                    "item_number": "9.19", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Special Board Meeting Dated December 13, 2007", 
+                    "item_text_raw": "9.19 Approve Minutes of Special Board Meeting Dated December 13, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6KS696A55", 
+                    "item_details": "", 
+                    "item_number": "9.20", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Regular Board Meeting Dated December 13, 2007", 
+                    "item_text_raw": "9.20 Approve Minutes of Regular Board Meeting Dated December 13, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3B6LT69773D", 
+                    "item_details": "", 
+                    "item_number": "9.21", 
+                    "item_recommendation": "", 
+                    "item_text": "Modify and Corrected Minutes for October 18, 2007", 
+                    "item_text_raw": "9.21 Modify and Corrected Minutes for October 18, 2007", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CALENDAR - ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3B6PC69923A", 
+                    "item_details": "", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Adjustment Report", 
+                    "item_text_raw": "10.01 Budget Adjustment Report", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3BB9L6FC056", 
+                    "item_details": "", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Audit Report for June 2007", 
+                    "item_text_raw": "10.02 Approve Audit Report for June 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3BBAZ6FDA35", 
+                    "item_details": "", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Williams Settlement Uniform Complaints Report for Period covering October 1 through December 31, 2007 as required by EC 35186 (Williams Settlement Legislation SB550 and AB2727) – Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": "10.03 Receive Williams Settlement Uniform Complaints Report for Period covering October 1 through December 31, 2007 as required by EC 35186 (Williams Settlement Legislation SB550 and AB2727) – Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3BBCN6FF3B1", 
+                    "item_details": "", 
+                    "item_number": "10.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Quarterly Safety Report, Second Quarter 2007 – Alan Garofalo, Associate Superintendent of Student Services", 
+                    "item_text_raw": "10.04 Quarterly Safety Report, Second Quarter 2007 – Alan Garofalo, Associate Superintendent of Student Services", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3BBHB70446A", 
+                    "item_details": "", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "11.01 Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3BBK2705EB6", 
+                    "item_details": "\nBob Nuñez, Superintendent \n6000 Board Policies, Second Reading to Review on Board Meeting of March 20, 2008 \nStatus of Developer Fees Process\n", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Bob Nuñez, Superintendent", 
+                    "item_text_raw": "11.02 Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATION/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3BBXA710885", 
+                    "item_details": "", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "EXPULSIONS – A-C", 
+                    "item_text_raw": "12.01 EXPULSIONS – A-C", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3BBYU713185", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.02 PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3BC6J71AF1B", 
+                    "item_details": "\nAgency Designated Representatives: \nBob Nuñez, Superintendent \nJerry Kurr, Associate Superintendent of Administration and Business Services \nDan Moser, Associate Superintendent of Instructional Services and Human Relations \nCathy Giammona, Director of Human Resources \nVida Branner-Siders, Director of Compensation and Classified Employee Relations \nEmployee Organizations: \nAmerican Federation of Teachers (AFT) \nCalifornia School Employees Association (CSEA) \nEast Side Teachers Association (ESTA) \n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": "12.03 CONFERENCE WITH LABOR NEGOTIATORS (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3BCEE7250F5", 
+                    "item_details": "\nCONFERENCE WITH LEGAL COUNSEL – EXISTING LITIGATION Subdivision (a) of Section 54956.9 ) \nTessa Cavazos v. East Side Union High School District, et al. (Santa Clara County Superior Court)\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LEGAL COUNSEL – EXISTING LITIGATION Subdivision (a) of Section 54956.9 )", 
+                    "item_text_raw": "12.04 CONFERENCE WITH LEGAL COUNSEL – EXISTING LITIGATION Subdivision (a) of Section 54956.9 )", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3BCK572CC7D", 
+                    "item_details": "\nCONFERENCE WITH REAL PROPERTY NEGOTIATORS \n\t \nProperty: Calero School Site, 420 Calero Avenue, San Jose, CA District \n\t \nNegotiators: Superintendent Nuñez, Associate Superintendent Jerry Kurr, District Counsel Rogelio Ruiz \n\t \nNegotiating Parties: ESUHSD and Oak Grove Elementary School District \n\t \nUnder Negotiation: Price and terms for payment. \n", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_text_raw": "12.05 CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3C6446817E2", 
+                    "item_details": "\nPUBLIC EMPLOYEE PERFORMANCE EVALUATION\n(Government Code § Section 54957)\nSuperintendent \n", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_text_raw": "12.06 PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3C6956861A1", 
+                    "item_details": "", 
+                    "item_number": "12.07", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_text_raw": "12.07 PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3C6AF686D92", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will report on Closed Session Action items(s).", 
+                    "item_text_raw": "13.01 Legal Counsel will report on Closed Session Action items(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3C6CM6888A9", 
+                    "item_details": "", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting", 
+                    "item_text_raw": "14.01 President adjourns the meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "05-08-2012", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LN9672169F0", 
+                    "item_details": "\nThe Special Board Meeting will begin at 6:00 p.m. in Classroom #1.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9LN97F219B02", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code §54957.7)\n\t \nInformation explaining Board Meeting Procedures and how citizens can address the Board will be read.  Written information is located near the entrance to Classroom  #1.  Persons wishing to address the Board must fill out a gold request form, which is located at the entrance to Classroom #1.\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9LN97D219911", 
+                    "item_details": "\nRecess to Closed Session.\nSEE ITEM 2 ON AGENDA (CLOSED SESSION)\n", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session. SEE ITEM 2 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session. SEE ITEM 2 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LN96B216A41", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment\n(Government Code Section 54957)\n\t \nSuperintendent\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957): Superintendent", 
+                    "item_text_raw": "2.01 Public Employment/Public Employee Appointment (Government Code Section 54957): Superintendent", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LN96F216A4A", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Report out on Closed Session action item(s).", 
+                    "item_text_raw": "3.01 Report out on Closed Session action item(s).", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LN96S216A68", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "4.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

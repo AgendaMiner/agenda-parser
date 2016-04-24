@@ -1,0 +1,96 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "01-26-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9Q8F66CABF", 
+                    "item_details": "\nThe Regular Board Meeting will begin at 6:00 p.m. in the Board Room of the Education Center.  \n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9Q9L66CB21", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "2.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9Q9Q66CB26", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "3.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "ADOPTION OF AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9Q9U66CB2C", 
+                    "item_details": "\nAttached is a copy of the interview questions.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion and/or Action regarding Board Vacancy: Process for Appointment and Provisional Appointment to the Governing Board", 
+                    "item_text_raw": "4.01 Discussion and/or Action regarding Board Vacancy: Process for Appointment and Provisional Appointment to the Governing Board", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "DISCUSSION AND/OR ACTION REGARDING PROVISIONAL APPOINTMENT PROCESS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9QA366CB41", 
+                    "item_details": "\nAttached are the candidate application materials (redacted).\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Interview of Candidates for Provisional Appointment to Board of Trustees to fill Vacancy Resulting from Resignation of Magdalena Carrasco; Discussion and Action to Select Candidate for Provisional Appointment to the Board of Trustees to Fill Seat Vacated by Former Board Member Magdalena Carrasco", 
+                    "item_text_raw": "5.01 Interview of Candidates for Provisional Appointment to Board of Trustees to fill Vacancy Resulting from Resignation of Magdalena Carrasco; Discussion and Action to Select Candidate for Provisional Appointment to the Board of Trustees to Fill Seat Vacated by Former Board Member Magdalena Carrasco", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "INTERVIEW OF CANDIDATES AND NOMINEES; APPOINTMENT OF CANDIDATE FOR PROVISIONAL APPOINTMENT TO BOARD VACANCY", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U9QAA66CB4C", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "6.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

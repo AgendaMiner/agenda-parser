@@ -1,0 +1,111 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "01-08-2009", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCMS31C2FC", 
+                    "item_details": "\nThe Special Board Meeting will begin at 6:00 p.m. in the Board Room of the Education Center.   \n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCMW31C31C", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Pledge of Allegiance", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCN231C324", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCN631C32C", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "4.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCNA31C334", 
+                    "item_details": "\nPersons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "5.01 Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCNE31C33C", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem: 6.01\n\t\t \nSUBJECT:\nDiscussion and Selection of Candidate for Provisional Appointment to the Board of Trustees; Interview of Candidates Barbara Boone, Eddie Garcia and William Grasty for Provisional Appointment to Board of Trustees to fill Vacancy Resulting from Resignation of George Shirakawa, Jr.; The Board reserves the right to interview other candidates per Board ByLaw 9223 during this scheduled meeting.\n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion and Selection of Candidate for Provisional Appointment to the Board of Trustees; Interview of Candidates Barbara Boone, Eddie Garcia and William Grasty for Provisional Appointment to Board of Trustees to fill Vacancy Resulting from Resignation of George Shirakawa, Jr.; The Board reserves the right to interview other candidates per Board ByLaw 9223 during this scheduled meeting.", 
+                    "item_text_raw": "6.01 Discussion and Selection of Candidate for Provisional Appointment to the Board of Trustees; Interview of Candidates Barbara Boone, Eddie Garcia and William Grasty for Provisional Appointment to Board of Trustees to fill Vacancy Resulting from Resignation of George Shirakawa, Jr.; The Board reserves the right to interview other candidates per Board ByLaw 9223 during this scheduled meeting.", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCNM31C34B", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "7.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

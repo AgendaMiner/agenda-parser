@@ -1,0 +1,690 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "12-10-2009", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNNC583C84", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PNNF583C90", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " 1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PNNJ583C9D", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " 1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNNN583CAA", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsions: A-G", 
+                    "item_text_raw": " 2.01 Expulsions: A-G", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PNNR583CB0", 
+                    "item_details": "", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release/Complaints/Administrative Leave (Government Code Section 54957)", 
+                    "item_text_raw": " 2.02 Public Employee Discipline/Dismissal/Release/Complaints/Administrative Leave (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNNU583CB7", 
+                    "item_details": "Agency Designated Representatives: Dan Moser, Interim SuperintendentJerry Kurr, Associate Superintendent of Administration and Business ServicesCathy Giammona, Director of Human ResourcesVida Branner-Siders, Director of Compensation and Classified Employee RelationsEmployee Organizations:American Federation of Teachers (AFT)California School Employees Association (CSEA)East Side Teachers Association (ESTA)", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": " 2.03 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNNX583CC6", 
+                    "item_details": "Conference with Legal Counsel - Existing LitigationTessa Cavazos v. East Side Union High School District, et al. Santa Clara County Superior Court Case No. 107CV085424)Kinetics Mechanical Services, Inc. vs. East Side Union High School DistrictSanta Clara County Superior Court", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "2.04a Conference with Legal Counsel - Existing Litigation", 
+                    "item_text_raw": " 2.04a Conference with Legal Counsel - Existing Litigation", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNP2583CD4", 
+                    "item_details": "Conference with Legal Counsel - Anticipated LitigationSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) potential case", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "2.04b Conference with Legal Counsel - Anticipated Litigation", 
+                    "item_text_raw": " 2.04b Conference with Legal Counsel - Anticipated Litigation", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNP5583CE1", 
+                    "item_details": "\tProperty:\tESUHSD Educational Center, or portion thereof, 830 N. Capitol Avenue, San Jose, CA  95133\tDistrict Negotiators:\tDan Moser, Interim Superintendent\tJerry Kurr, Associate Superintendent of Administration \t                  and Business Services\tRogelio Ruiz, Legal Counsel\tReal Estate Representatives Sam Swan, Bob Hunt and Andre HuntNegotiating Parties:   ESUHSD and Party To Be DeterminedUnder Negotiation:\tPrice and Terms", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Real Property Negotiators", 
+                    "item_text_raw": " 2.05 Conference with Real Property Negotiators", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNP8583CEA", 
+                    "item_details": "", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_text_raw": " 2.06 Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNPB583CF2", 
+                    "item_details": "Interim SuperintendentInterim Associate Superintendent of Instruction and Human RelationsInterim Director 2 - Instructional Services", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957): Interim Superintendent; Interim Associate Superintendent of Instruction and Human Relations; Interim Director 2 - Instructional Services", 
+                    "item_text_raw": " 2.07 Public Employment/Public Employee Appointment (Government Code Section 54957): Interim Superintendent; Interim Associate Superintendent of Instruction and Human Relations; Interim Director 2 - Instructional Services", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNPF583CFF", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 3.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 6:00 P.M. – Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNPK583D11", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNPP583D1F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Nomination and Election of Board OfficersPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall nominate and elect the following:\tItem #\tOfficer Category\t5.01.01\tPresident\t5.01.02\tVice President\t5.01.03\tClerk", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Board Officers", 
+                    "item_text_raw": " 5.01 Nomination and Election of Board Officers", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNPS583D95", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Appointment of Board SecretaryPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall appoint a Board Secretary.", 
+                    "item_number": "5.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Appointment of Board Secretary", 
+                    "item_text_raw": " 5.02 Appointment of Board Secretary", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNPV583DE7", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Nomination and Election of Representative to MetroED BoardPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Nominate and elect a Board representative to the MetroED Board. Term:  January 1, 2010 - December 31, 2011", 
+                    "item_number": "5.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Representative to MetroED Board", 
+                    "item_text_raw": " 5.03 Nomination and Election of Representative to MetroED Board", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNPY583E59", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Nomination and Election of Alternate Representative to MetroED BoardPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Nominate and elect an alternate Board representative to serve on the MetroED Board in the absence of East Side Union High School District's representative.Term:  January 1, 2010 - December 31, 2011", 
+                    "item_number": "5.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Alternate Representative to MetroED Board", 
+                    "item_text_raw": " 5.04 Nomination and Election of Alternate Representative to MetroED Board", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQ3583EB1", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Appoint Two Board Members to Board’s Standing Audit CommitteeChairpersonVice ChairpersonPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Appoint two Board Members to the Board's Standing Audit CommitteeChairpersonVice Chairperson", 
+                    "item_number": "5.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Appoint Two Board Members to Boardâs Standing Audit Committee: Chairperson and Vice Chairperson", 
+                    "item_text_raw": " 5.05 Appoint Two Board Members to Boardâs Standing Audit Committee: Chairperson and Vice Chairperson", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQ6583F2C", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Nomination of One Member of the Board of Trustees to Vote in the Election of the Santa Clara County Committee on School District OrganizationPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Nominate one member of the Board of Trustees to vote in the election of the Santa Clara County Committee on School District Organization.  The purpose is to name a Board Member who will complete the County Committee Election ballot that will come to the District in November 2010.", 
+                    "item_number": "5.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination of One Member of the Board of Trustees to Vote in the Election of the Santa Clara County Committee on School District Organization", 
+                    "item_text_raw": " 5.06 Nomination of One Member of the Board of Trustees to Vote in the Election of the Santa Clara County Committee on School District Organization", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQ9583F7F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT: Nomination and Election of Representative to California School Boards Association Delegate AssemblyPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Nominate and elect of a Board representative to the California School Boards Association (CSBA) Delegate Assembly.CSBA Delegate serves a two-year term.  Those elected in 2010 will serve beginning April 1, 2010 through March 31, 2012.  There are two Delegate Assembly meetings each year, one in May prior to CSBA's Legislative Action Conference in Sacramento and one preceding the CSBA Annual Education Conference and Trade Show in November/December.  Each Delegate is required to attend these two meetings each year.", 
+                    "item_number": "5.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Representative to California School Boards Association Delegate Assembly", 
+                    "item_text_raw": " 5.07 Nomination and Election of Representative to California School Boards Association Delegate Assembly", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQC583FE6", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Nomination and Election of Representative to Santa Clara County School Boards AssociationPer Board By Law 9100, the Governing Board shall hold an annual organizational meeting within the time limits prescribed by law. (Education Code 35143)At this meeting the Board shall:Nominate and elect a Board representative to the Santa Clara County School Boards AssociationTerm:  January 1, 2010 - December 31, 2010", 
+                    "item_number": "5.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Representative to Santa Clara County School Boards Association", 
+                    "item_text_raw": " 5.08 Nomination and Election of Representative to Santa Clara County School Boards Association", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQF58403E", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICT AMENDEDTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Adopt Resolution #2009/2010-21 Approving Authorized SignaturesThe attached resolution has been prepared to update the list of District representatives authorized to sign payroll, contracts and other associated financial doucments on behalf of the district.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees adopt Resolution #2009/2010-21 approving authorized signatures.", 
+                    "item_number": "5.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2009/2010-21 Approving Authorizaed Signatures", 
+                    "item_text_raw": " 5.09 Adopt Resolution #2009/2010-21 Approving Authorizaed Signatures", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNQJ5840B0", 
+                    "item_details": "DRAFTEast Side Union High School DistrictBoard of TrusteesMeeting Calendar - 2010DateTimeLocationJanuary 21 , 20106:00 p.m.Education Center – Board RoomFebruary 18, 2010Winter break; school not in session.  District Office open.6:00 p.m.Education Center – Board RoomMarch 4, 20106:00 p.m.Education Center - Board RoomMarch 18, 20106:00 p.m.Education Center – Board RoomApril 15, 20106:00 p.m.Education Center – Board RoomMay 6, 20106:00 p.m.Education Center – Board RoomMay 20, 20106:00 p.m.Education Center – Board RoomJune 17, 2010**6:00 p.m.Education Center – Board RoomJune 24, 2010***6:00 p.m.Education Center – Board RoomJuly 2010No meeting scheduledAugust 19, 20106:00 p.m.Education Center – Board RoomSeptember 16, 20106:00 p.m.Education Center – Board RoomOctober 21, 20106:00 p.m.Education Center – Board RoomNovember 18, 20106:00 p.m.Education Center – Board RoomDecember 16, 2010*6:00 p.m.Education Center – Board RoomClosed Session will commence at 4:00 p.m.*Annual Organizational Meeting**Public Hearing – Budget Adoption***Budget AdoptionBoard of Trustees  Retreat:  To Be Determined\n", 
+                    "item_number": "5.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Develop and Approve Schedule of Regular Board Meetings and Annual Organizational Meeting for 2010", 
+                    "item_text_raw": " 5.10 Develop and Approve Schedule of Regular Board Meetings and Annual Organizational Meeting for 2010", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Annual Organizational Meeting  (Action Items)", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNQN5840C3", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNQS5840CB", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Girls' Golf - Evergreen Valley High School", 
+                    "item_text_raw": " 7.01 Girls' Golf - Evergreen Valley High School", 
+                    "item_type": "Recognitions"
+                }
+            ], 
+            "section_name": "Board Special Recognition(s)", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNQW5840D3", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Johnson Taing, ASB President - Piedmont Hills High School", 
+                    "item_text_raw": " 8.01 Johnson Taing, ASB President - Piedmont Hills High School", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PNQZ5840DE", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Daniel Zaragoza, ASB President - Yerba Buena High School", 
+                    "item_text_raw": " 8.02 Daniel Zaragoza, ASB President - Yerba Buena High School", 
+                    "item_type": "Presentation"
+                }
+            ], 
+            "section_name": "Student Board Liaisons", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNR55840EA", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNR95840F9", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:John Duran, PrincipalSUBJECT:Santa Teresa High School PresentationThe main focus of Santa Teresa High School’s Board Presentation is responding to the question,” How are we,” Reducing the Achievement Gap?” The leadership team will share data, show classroom use of Technology, Smart Boards, multimedia program and teachers demonstrating how we are moving as a school through cores areas of Math, English and Reading.  The video presentation will showcase  critical departments and how we are improving our CST scores and CAHSEE scores.  In addition, we continue working on improving our Single Plan for Student Achievement, 21st Century and District goals.  The outcome of our presentation is to show how we are improving overall as a school.", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Santa Teresa High School Presentation - Dan Moser, Interim Superintendent and John Duran, Principal", 
+                    "item_text_raw": " 10.01 Santa Teresa High School Presentation - Dan Moser, Interim Superintendent and John Duran, Principal", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PNRC584102", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Thelma Boac, PrincipalSUBJECT:Silver Creek High School PresentationSilver Creek High School’s Board Presentation will focus on our journey to closing the achievement gap.  It will discuss where Silver Creek is now, the challenges that the school is facing and the activities being undertaken to eliminate or at least minimize the impact of these challenges.   ", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Silver Creek High School Presentation - Dan Moser, Interim Superintendent and Thelma Boac, Principal", 
+                    "item_text_raw": " 10.02 Silver Creek High School Presentation - Dan Moser, Interim Superintendent and Thelma Boac, Principal", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PNRF5841B1", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Deborah Barnes, Coordinator of Child DevelopmentSUBJECT:Adopt Resolution #2009/2010-20 California State Department of Child Development Grant for 2009 - 2012 Contract – CRPM-9132 for Facilities Renovation and RepairAdopt Resolution #2009/2010-20 California State Department of Child Development Grant for July 1, 2009 through June 30, 2012 Contract CRPM-9132 for Facilities Renovation and Repair.  Adoption by the Board is required to receive these funds.FISCAL IMPACT:$43,630.00 Grant Received FUNDING SOURCE:California Department of EducationRECOMMENDATION:It is recommended that the Board of Trustees adopt Resolution #2009/2010-20 and accept the Grant of $43,630.00 for Facilities Renovation and Repair.  ", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2009/2010-20 California State Department of Child Development Grant for 2009 - 2012 Contract -CRPM-9132 for Facilities Renovation and Repair - Dan Moser, Interim Superintendent and Deborah Barnes, Coordinator of Child Development", 
+                    "item_text_raw": " 10.03 Adopt Resolution #2009/2010-20 California State Department of Child Development Grant for 2009 - 2012 Contract -CRPM-9132 for Facilities Renovation and Repair - Dan Moser, Interim Superintendent and Deborah Barnes, Coordinator of Child Development", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Instructional Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNRK58429F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Receive Third Reading and Adopt Amended Board By Law #9250 Renumeration, Reimbursement and Other BenefitsItem forthcoming.", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Third Reading and Adopt Amended Board By Law #9250 Renumeration, Reimbursement and Other Benefits - Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 11.01 Receive Third Reading and Adopt Amended Board By Law #9250 Renumeration, Reimbursement and Other Benefits - Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PNRN58434A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Patricia Martinez-Roach, Board MemberSUBJECT:Proposed Contract and Compensation for Interim Superintendent PositionFor discussion and action by the Board of Trustees. ", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Proposed Contract and Compensation for Interim Superintendent Position - Patricia Martinez-Roach, Board Member", 
+                    "item_text_raw": " 11.02 Proposed Contract and Compensation for Interim Superintendent Position - Patricia Martinez-Roach, Board Member", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PNRR5843EB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Patricia Martinez-Roach, Board MemberSUBJECT:Election of Governing Board Members by DistrictDiscussion/action item. ", 
+                    "item_number": "11.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Election of Governing Board Members by District - Patricia Martinez-Roach, Board Member", 
+                    "item_text_raw": " 11.03 Election of Governing Board Members by District - Patricia Martinez-Roach, Board Member", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "11."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNRV58448E", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Student Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "12."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNRZ58449C", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Director, Human ResourcesSUBJECT:Approve Variable Term Waiver Request for Certificated EmployeePursuant to State mandate, the Governing Board must approve variable term waiver requests allowing the district to employ and assign teacher(s) or administrator(s) who do not hold appropriate credential authorization.The district is requesting approval of the following variable term waiver for the 2009-2010 school year.Single SubjectPLACA, RobertoROTCYerba BuenaFISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended that the Board of Trustees approve the variable term waiver request.\n", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Variable Term Waiver Request for Certificated Employee - Dan Moser, Interim Superintendent and Cathy Giammona, Director, Human Resources", 
+                    "item_text_raw": " 13.01 Approve Variable Term Waiver Request for Certificated Employee - Dan Moser, Interim Superintendent and Cathy Giammona, Director, Human Resources", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNS4584514", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Director, Human ResourcesSUBJECT:Approve Request for Use of Education Code Section 44258.3 - Teachers on Special Assignment Authorization for the 2009-2010 School YearCurrent law provides various ways for local Governing Boards to assign credentialed teachers to serve in subject-matter areas in grades K-12.  One option is Education Code 44258.3 which allows local school districts to assign credentialed (preliminary or clear) teachers to teach departmentalized classes in grades K-12, irrespective of the designations on their teaching credentials, as long as the teacher’s subject matter competence is verified and the teacher consents to the assignment.Since the teacher listed below meet the criteria of Education Code 44258.3, we are asking that the Governing Board approve the use of this Education Code section.Single SubjectNAMESUBJECTLOCATIONVERA, RyanMulti MediaJames Lick FISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended that the Board of Trustees approve the request for use of California Education Code 44258.3 for the 2009-2010 school year.\n", 
+                    "item_number": "13.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Request for Use of Education Code Section 44258.3 - Teachers on Special Assignment Authorization for the 2009-2010 School Year - Dan Moser, Interim Superintendent and Cathy Giammona, Director, Human Resources", 
+                    "item_text_raw": " 13.02 Approve Request for Use of Education Code Section 44258.3 - Teachers on Special Assignment Authorization for the 2009-2010 School Year - Dan Moser, Interim Superintendent and Cathy Giammona, Director, Human Resources", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Human Resources - Operational Items/Board Discussion and/or Action", 
+            "section_number": "13."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNS85845BD", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve First Interim Financial Report  2009-2010 First Interim Financial Report Qualified CertificationThese are unprecedented times in the history of California for public education funding.  Through the Federal American Recovery and Reinvestment Act and the Federal State Fiscal Stabilization Funds we have been able to offset drastic State Education Funding cuts retaining jobs and continue educating our students.  That having been said the projections for the subsequent years are more than bleak.  The 2009-2010 First Interim Financial Report projection next school year 2010-2011 shows the District will be able to meet its financial obligations but short by $6.4 million in State required unrestricted reserves.  In the 2011-2012 school year the projection indicates the District will be $12.7 million short in meeting its financial obligations.  Current State requirements obligate local school boards to certify the financial condition of the school district into one of three conditions which are:POSITIVE CERTIFICATION - …based upon current projections this district will be able meet its financial obligations for the current fiscal year and subsequent two fiscal years.QUALIFIED CERTIFICATION - …based upon current projections this district may not meet its financial obligations for the current fiscal year or two subsequent fiscal years.NEGATIVE CERTIFICATION - …based upon current projections this district will be unable to meet its financial obligations for the remainder of the fiscal year or for the remainder of the fiscal year or for the subsequent fiscal year.What the attached 2009-2010 First Interim Financial Report shows is that the District will be able to meet its financial obligations and reserve requirements for the current fiscal year plus meet the financial obligations but not the reserve requirement for the immediate subsequent year.  The report does project that the District may not be able to meet its financial obligations for the 2011-2012 fiscal year.  RECOMMENDATION:It is recommended that given the current financial projections the Board of Trustees approve a Qualified Certification of the 2009-2010 First Interim Financial Report.  \n", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve First Interim Financial Report - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.01 Approve First Interim Financial Report - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSB584656", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Developer Fees Report for 2008-09 Under Government Code Section 6600(b), each school district that imposes a developer fee must, after the close of each fiscal year, report to the public the beginning and ending balance for the fiscal year fees, interest, and other income to the developer fee fund, and expenditures incurred, and the amount of refund of developer fees pursuant to Government Code Section 66001(e).Attached is a financial report of the activity in the last year.  Under Government Code, districts are required to state whether or not fees were refunded.  In 2008-2009, the district refunded a total of $25,576 which were due to projects being abandoned or overpayment on projects.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees approve the report as required by Government Code Sections 66006(b) and 66001(e).\n", 
+                    "item_number": "14.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Developer Fees Report for 2008-09 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.02 Approve Developer Fees Report for 2008-09 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PNSE5846E6", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Acceptance of Donations, Grants and AwardsThe following donations, grants and awards are being presented for acceptance by the Board of Trustees.TypeFromDescription/Awarded ToAmount/Value/PeriodSiteDonationJanean BairdPayPal Athletic Donation for student, S. Shear at Santa Teresa200.00Santa TeresaJ. DuranDonationDavid AlperPaypal Athletic Donation for student, N. Apler at Santa Teresa 200.00Santa TeresaJ. DuranDonationDavid AlperPaypal Athletic Donation for a needy student in the soccer program at Santa Teresa200.00Santa TeresaJ. DuranList of school site student athletics donations:  \t\t FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees accept the donations, grants and awards as listed above.", 
+                    "item_number": "14.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Donations, Grants and Awards - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.03 Acceptance of Donations, Grants and Awards - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSH584758", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Accept Warrant Register for the Month of November 2009The attached listing is of warrants issued during the month of November 2009 in response to Board Policy 3314 Payment for Goods and Services adopted by the Board in May 2009.   The Policy states that, “The Board shall approve all warrants (checks) at a regular scheduled Board meeting.”   While there is no legal requirement for Board approval of issued warrants this listing and future listings will add to the \"transparency” of district business.  The legal authorization for an expense comes prior to the issuance of the warrants when the Board approves purchase orders, contracts and other authorized expenses as per Board policies.FISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended the Board of Trustees accept Warrant Register for the Month of November 2009.\n", 
+                    "item_number": "14.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Warrant Register for the Month of November 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.04 Accept Warrant Register for the Month of November 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSL5847CF", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Budget Transfers Presented December 10, 2009The attached Budget Transfers from November 1, 2009 through November 23, 2009 are being presented to the Board for review and approval.FISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended the Board of Trustees approve Budget Transfers presented December 10, 2009.\n", 
+                    "item_number": "14.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Budget Transfers Presented December 10, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.05 Approve Budget Transfers Presented December 10, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSP58484F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Purchase Orders Presented December 10, 2009The attached Purchase Orders for October 29, 2009 through November 24, 2009 are being presented to the Board for review and approval.FISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended the Board of Trustees approve Purchase Orders presented December 10, 2009.", 
+                    "item_number": "14.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Purchase Orders Presented December 10, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.06 Approve Purchase Orders Presented December 10, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services\n", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "86PNSS5848A8", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Contracts for Professional Services at or below $50,000 The following Contracts for Professional Services are recommended for Board approval.A.  Education Center/School SitesNo.Contractor NameReviewed byContractPeriodCost/Funding SourceSchool/Dept. ManagerPurpose1Perseus Associates, LLCJ.KasbergerJ.KurrD.BertrandDecember 1, 2009 – June 30, 2010$9,730.50TransportationTransportationJerry KurrContractor will provide ESUHSD with 20 users to the TransTraks Hosted System and provide for the storage and retrieval of District Data2California State University, East BayC.GiammonaJ.KurrD.BertrandDecember 11, 2009 – December 31, 2012Non Monetary AgreementEducation CenterAll School SitesCathy GiammonaContractor will provide university students to participate in Clinical field study experiences throughout ESUHSD school sites3NPC ConsultingD.BarbataJ.KurrD.BertrandJuly 1, 2009 – June 30, 2010(no change)$3,000.00 (increase)Data ProcessingEducation CenterInformation TechnologyDennis BarbataChange Order #1 to PO #001056 is issued to increase the PO by $3,000 for a total PO in the amount of $6,000.  The increase is needed due to the maintenance effort requiring more time than originally planned to complete the upgrade to the District’s current SASI compliance issues with CALPADS which replaces CSIS data requirements B. FACILITIES1Aedis Architecture & PlanningK.LanfordA.GarofaloJ.RonoD.BertrandOctober 30, 2009 – October 30, 2011Not to Exceed $21,948.00Developer Fees FundEducation CenterFacilities Alan GarofaloTo assist the District in obtaining DSA certification for 14 existing relocatables on the Independence campus that are non-DSA certified2Verde DesignJ.RoĂąoD. BertrandDecember 11, 2009 – April 30, 2010$3,840.00Measure EEducation CenterFacilitiesAlan GarofaloTo provide topographic survey of Title IX Softball Field Improvement project area at W. C. Overfelt High School FISCAL IMPACT:As listed aboveFUNDING SOURCE:As listed aboveRECOMMENDATION:Recommend approval and ratification of contract for professional services as listed above.\n", 
+                    "item_number": "14.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts for Professional Services at or below $50,000 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.07 Approve Contracts for Professional Services at or below $50,000 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSV584901", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Contracts for Professional Services over $50,001The following Contract for Professional Services over $50,001 are being recommended for Board approval.1.  Bruce Flyn & Associates, Inc. Reviewed by:Contract PeriodCost/Fund SourceSchool/ManagerA. GarofaloJ. KurrD. BertrandDecember 11, 2009 through March 30, 2011$96,096.00Fund 35FacilitiesA. GarofaloEast Side Union High School District (ESUHSD) is requesting authorization from the Board of Trustees to enterinto a Contract Services Agreement with Bruce Flyn & Associates, Inc. for DSA Project Inspection services.  The Scope of Work includes:Provide DSA Project Inspection Services for Solar Panel and equipment installation at Andrew Hill, Independence, Evergreen Valley, Foothill, Santa Teresa, and W.C. Overfelt High SchoolsEstimated Construction Schedule currently shows Three Hundred Eight Days (308)Reason for the Purchase of Outside Services:The District is unable to provide in-house services for this scope of work.Selection Process: The District contacted three DSA approved project inspectors to request a quote to provide DSA Project Inspection Services for the Solar Project.  These firms were Bruce Flyn & Associates, David F. Hall & Associates, and Michael Henley & Associates.  Bruce Flyn & Associates and David F. Hall & Associates submitted Project Inspector Selection Questionnaire forms but there was no response from Michael Henley & Associates.   Ultimately Bruce Flyn & Associates experience, availability and pricing were factors in the selection of this firm to provide these specialized services.RECOMMENDATION:It is recommended that the Board of Trustees approve a contract services agreement with Bruce Flyn & Associates, Inc. in the amount not-to-exceed $96,096.00 for the contract term December 11, 2009 through and including March 30, 2011.2.  The Bay School for the provision of Non-Public School Services for a Special Education StudentReviewed by:Contract PeriodCost/Fund SourceSchool/ManagerC. HersomD. MoserD. BertrandAugust 25, 2009 through January 22, 2010$60,610.00(estimated annual expenditure)$50,160.00(estimated annual expenditure for transportation)Tuition-Special EducationSpecial EducationCarole HersomEast Side Union High School District (ESUHSD) is requesting authorization from the Board of Trustees to enter into a Contract Services Agreement with The Bay School for the provision of non-public school services for a special education student. Educational services shall be consistent with the master contract and specified services per the student’s Individual Education Program (IEP) plan. Reason for the Purchase of Outside Services:Due to the lack of appropriate articulation with the ESUHSD, Evergreen School District served a student since his first grade year at this school located in Santa Cruz, which specializes in the instruction of extremely involved Autistic students.  We are working with the parents to effect a change of placement at the semester to a more local NPS offering similar services.Selection Process: There was no competitive solicitation done for this service.  The Bay School was selected by Evergreen School District to meet this student’s needs in elementary school.  It is an NPS that offers specialized educational services for Autistic students. RECOMMENDATION:It is recommended that the Board of Trustees approve a Contract Services Agreement with The Bay School for the contract term August 25, 2009 through and including January 22, 2010 for the provision of Non-Public School Services for a Special Education Student.3. Santa Clara County Office of Education, Children’s Services Department – Head Start Program  Reviewed by:Contract PeriodCost/Fund SourceSchool/ ManagerD. BarnesD. MoserD. BertrandMay 1, 2009 through April 30, 2010$193,793.60 (estimated annual revenue)Head Start/Early Head Start Family Child Care Enhancement ServicesChild DevelopmentDebbie BarnesEast Side Union High School District (ESUHSD) is requesting authorization from the Board of Trustees to accept the grant funding and enter into a Contract with Santa Clara County Office of Education, Children’s Services Department – Head Start Program.Purpose of the Grant:ESUHSD shall administer and operate a full day comprehensive early childhood care and education service program for children whose families meet the Federal Income guidelines and other eligibility requirements of the Federal Head Start programs as outlined in the Federal Head Start Performance Standards.Reason for the Purchase of Outside Services:N/ASelection Process:N/ARECOMMENDATION:It is recommended that the Board of Trustees Accept Grant Funding and Approve a Contract Services Agreement with Santa Clara County Office of Education, Children’s Services Department – Head Start Program for the contract term May 1, 2009 through and including April 30, 2010 and delegate authority to the Superintendent or designee to amend said contract, including funding, as needed.4. Agape Foundation Grant and 180° LLC Reviewed by:Contract PeriodCost/Fund SourceSchool/ManagerD. MoserD. BertrandAugust 25, 2009 through June 30, 2010$42,500.00 (estimated annual revenue from Agape Foundation)$85,000.00 (estimated annual expenditure from 180° LLC)Andrew Hill, Evergreen Valley, Foothill, Independence, Mt. Pleasant, Oak Grove, Piedmont Hills, Silver Creek, W.C. Overfelt, and Yerba Buena High SchoolsBettina Lopez, Ana Lomas, Lynne Murray, Grettel Castro-Stanley, Teresa Marquez, Carol Blackerby, Traci Williams, Thelma Boac, Vito Chiala, and Juan CruzEast Side Union High School District (ESUHSD) is requesting authorization from the Board of Trustees to accept grant funding from Agape Foundation and approve a contract services agreement with 180° LLC, for the contract term August 25, 2009 through and including June 30, 2010 and delegate authority to the Superintendent or designee to amend said contract, including funding, as needed.Purpose of the Grant:Agape Foundation has agreed to match ESUHSD’s commitment of $42,500 to pay for the 180 Degrees Program Services at  ten of our high schools: Andrew Hill, Evergreen Valley, Foothill, Independence, Mt. Pleasant, Oak Grove, Piedmont Hills, Silver Creek, W.C. Overfelt, and Yerba Buena.  ESUHSD shall administer and operate a full day comprehensive early childhood care and education service program for children whose families meet the Federal Income guidelines and other eligibility requirements of the Federal Head Start programs as outlined in the Federal Head Start Performance Standards.Reason for the Purchase of Outside Services:180°’s mission is to passionately help youth enhance their lives by accepting personal accountability and to continuously strive toward the goal of achieving their full potential, “one degree” at a time.  Their utilize comprehensive, research based and measurable approaches of intense instructional, participatory and interactive character and life skills education that is based upon 180°’s “Core Values.” They will always deliver these services in the most professional, innovative and highly effective manner.The intent of this program is to assist our at-risk students who are on the path of dropping out of school.   This curriculum based program targets five areas (Character Education -- Core Values -- 21st Century Skill --  Live Skills -- Community Outreach)  designed to assist youth establish goals and to examine critically behaviors, actions, and decisions.   The program also provides the foundation for a developing a sustainable professional development program for teachers.  The professional development program allows for consistency in training and support for teachers.Selection Process:This is a sole source vendor as there is no other vendor who provides this program.RECOMMENDATION:It is recommended that the Board of Trustees Accept Grant Funding from Agape Foundation and Approve a Contract Services Agreement with 180° LLC, for the contract term August 25, 2009 through and including June 30, 2010 and delegate authority to the Superintendent or designee to amend said contract, including funding, as needed.5. Goodwill of Silicon Valley Reviewed by:Contract PeriodCost/Fund SourceSchool/ManagerD. MoserD. BertrandAugust 25, 2009 through June 30, 2010$112,200 (estimated annual revenue)Goodwill of Silicon ValleyMt. PleasantTeresa Marquez, PrincipalEast Side Union High School District (ESUHSD) is requesting authorization from the Board of Trustees to approve a revenue agreement with Goodwill of Silicon Valley (GWSV) for the contract term August 25, 2009 through and including June 30, 2010 and delegate authority to the Superintendent or designee to amend said contract, including funding, as needed.Reason for the Purchase of Outside Services:July 1, 2009 GWSV was awarded funding for the After School Safety and Enrichment for Teens-Core program through the California Department of Education (21st Century High School ASSETs grant).  GWSV has chosen Mt. Pleasant High School to be the school to receive the 21 Century High School ASSETs program.  As federally mandated, the California Department of Education gives competitive priority to high schools identified as in need of improvement under Title 1, Section 1116, of the NCLB Act. Additionally, ESUHSD will ensure that Mt. Pleasant High School meets funding eligibility requirements of having a Title I School wide Program (indicating a minimum of 40% Free and Reduced Price Meals) in addition to meeting Competitive Funding Priorities of having an API score of 3 or lower or be able to provide alternative measures of fully document and justify need.GWSV will act as lead managing agency for the 21st Century High School ASSETs grant; provide academic assistance, educational enrichment activities, family literacy referrals and resources and qualified staff to conduct these components; operate, on average, 15 hours per week, for 150 days during the academic school year; and all other duties as outlined in the agreement.Selection Process:N/ARECOMMENDATION:It is recommended that the Board of Trustees approve a revenue agreement with Goodwill of Silicon Valley (GWSV) for the contract term August 25, 2009 through and including June 30, 2010 and delegate authority to the Superintendent or designee to amend said contract, including funding, as needed.", 
+                    "item_number": "14.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts for Professional Services over $50,001 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.08 Approve Contracts for Professional Services over $50,001 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PNSY5849AC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Memoranda of UnderstandingThe following Memoranda of Understanding are recommended for approval.NoContractor NameContractPeriodDistrict ResponsibilitySchool/DepartmentProvider Responsibility1Catholic Charities, Youth Empowered for Success (YES)September 1, 2009 – August 31, 2010ESUHSD to provide access to students and their records, use of facilities for group and individual counseling sessions, program and office supplies, access to office equipment, policy and regulations training Andrew HillBettina LopezTo provide comprehensive and integrated case management services, support group sessions, one on one counseling and home visits, targeting high-risk youth, will also provide referrals to other community based services2Asian Americans for Community Involvement (AACI)October 14, 2009 – June 30, 2010ESUHSD to provide confidential meeting space, provide student referrals and assist AACI in provision of effective services and in-service on use of the referral systemW.C. OverfeltVito ChialaTo provide adolescent substance abuse treatment services including individual assessment, psycho education and group counseling3Filipino Youth CoalitionSeptember 1, 2009 – August 31, 2010ESUHSD to provide access to students and their records, coordination to facilitate delivery of services, space for delivery of servicesMt. PleasantTeresa MarquezTo provide one youth outreach worker 20 hours per week for group and individual counseling, co-facilitate two student support groups, record and submit required logs and data, provide a member of the multi-service team, and inform of any field trips or off campus activities4EMQ Families FirstAugust 25, 2009 – June 30, 2010ESUHSD to provide appropriate referrals, room for services to be offered, lead at school to work withOak GroveCarol BlackerbyW.C. OverfeltVito ChialaTo provide drug and alcohol counseling services including individual, group, HIPPS and classroom presentations5Girls for a ChangeSept. 22, 2009 – December 31, 2009ESUHSD to provide suitable space, liaison support, assistance in girl recruitment and roster selectionOak GroveCarol BlackerbyTo provide a free after school program to female students, volunteer coaches for Girl Action Team to teach girls about social change, design and implement projects, curriculum model, snacks, supervision of meetings6Planned Parenthood Mar MonteDecember 18, 2009 – June 30, 2010ESUHSD to provide meeting space, identify and refer appropriate students, and work with PPMM staff to schedule prevention presentationsAndrew HillBettina LopezTo provide classroom prevention presentations and Student Assistance Program groups to identified students, conduct comprehensive sexual reproductive health education and/or other sexual health/prevention activities7The Joyner Payne Youth Service Agency-Aquarius ProjectOctober 6, 2009 – June 7, 2010ESUHSD to provide meeting space with TV and DVD play and identify and refer appropriate studentsOak GroveCarol BlackerbyContractor will provide the gang-violence speaker, DVD’s, case management paperwork, peer presenters, outreach workers, collaboration with the Mayor’s Gang Prevention Task Force and Santa Clara County Probation Department8YWCA of Silicon ValleyOctober 1, 2009 – June 30, 2010ESUHSD to provide support with recruitment, meeting space, meet with YWCA facilitators, support launch event and evaluation effortsAndrew Hill Bettina LopezTo provide expansion of My Strength Club program to engage young men in taking action to prevent sexual violence, launch event9City of San Jose, Striving Toward Achievement with New Direction Program (STAND) July 1, 2009 – June 30, 2011ESUHSD to provide a 50-minute class period one day a week during school hours; a classroom large enough to accommodate up to 15 students; List of students referred to the STAND program; office space; approval for City’s STAND staff to attend and participate in Multi- Service Team meetings; student class schedulesOak Grove High SchoolCarol BlackerbyContractor will provide ESUHSD students and administrators with 6 10-week Youth Development workshops (3 male and 3 female); one parent night; referral of students to outside agencies for additional resources as needed; reports that identify ESUHSD’s students surveys and evaluationsRECOMMENDATION:Recommend approval and ratification of Memoranda of Understandings as listed above.", 
+                    "item_number": "14.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Memoranda of Understanding - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 14.09 Approve Memoranda of Understanding - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Business Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "14."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNT45849FF", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Project Scope Change to Provide for the Design of an Enhanced Performance Environment to Accommodate Visiting Theatrical Performances as Part of the Board Approved Scope of Work for the New Multipurpose/Classroom Building Project at Silver Creek High SchoolOn February 19, 2009 the Board approved a project budget to provide for the New Multipurpose Classroom Building at Silver Creek High School.  On April 9, 2009, the Board approved a Work Authorization for Aedis Group to perform design services. The project design team, including the site design oversight committee, has determined a need to provide an enhanced performance environment to accomodate visiting theatrical productions.  This requires specialized design efforts by theatrical and AV consultants beyond the established scope of services.  Due to this expanded scope of work, Board approval is sought to adjust the project scope to provide for these services.The Board approved multi-purpose total building budget of $14,496,520, which adequately covers the anticipated cost of services. The specialized services will be contracted through Aedis Group for a Fixed Fee.  This will require a new Work Authorization, which references services provided under the original Work Authorization.Facilities bond team will be present to answer questions from the Board of Trustees.FISCAL IMPACT:                                  NoneFUNDING SOURCE:Measure ERECOMMENDATION:It is recommended that the Board of Trustees 1) adopt the above recommendation to revise the project scope based on the description listed above, and 2) authorize the administration to contract consulting services through Aedis Group for a value not to exceed $110,000.", 
+                    "item_number": "15.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Project Scope Change to Provide for the Design of an Enhanced Performance Environment to Accomodate Visiting Theatrical Performances as Part of the Board Approved Scope of Work for the New Multipurpose/Classroom Building Project at Silver Creek High School - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 15.01 Approve Project Scope Change to Provide for the Design of an Enhanced Performance Environment to Accomodate Visiting Theatrical Performances as Part of the Board Approved Scope of Work for the New Multipurpose/Classroom Building Project at Silver Creek High School - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Facilities - Operational Items/Board Discussion and/or Action", 
+            "section_number": "15."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNT8584A23", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Adult Education - Operational Items/Board Discussion and/or Action", 
+            "section_number": "16."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNTC584A32", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO: Board of TrusteesFROM: Dan Moser, Interim SuperintendentPREPARED BY: Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT: Ratify/Approve Classified Personnel Actions Presented  December 10, 2009The following classified personnel actions presented December 10, 2009, are recommended for approval by the Board of Trustees.EMPLOYMENT SEPARATIONNAMEFROM POSITION / SITE / FTEEFFECTIVEREASONANDERSON, ToniSchool Bus Driver / EC / 0.812512/31/2009RETHENRY, HaroldSchool  Bus Driver / EC / 1.011/02/2009TCHANGE OF STATUSNAMEFROM POSITION / SITE / FTETO POSITION / SITE / FTEEFFECTIVEREASONAGUIRRE, RafaelSchl  Bus Driver / EC / 1.0Schl  Bus Driver/Instr/ EC / 1.010/01/2009CSGRIMALDO, AlfredoSchl  Bus Driver / EC / 1.0Schl  Bus Driver/Instr/ EC / 1.010/01/2009CSNG, ChuanParaeducator / PH / 0.875Paraeducator / ST / 0.87512/07/2009CSRAI, RajdeepParaeducator / SC / 0.875Paraeducator / OG / 0.87512/07/2009CSSANSEVERINO, YolandaSchl  Bus Driver / EC / 0.6563Schl  Bus Driver / EC / 0.781305/15/2009CSURIBE, RicardoSchl  Bus Driver / EC / 0.6875Schl  Bus Driver / EC / 0.781304/01/2009CSNEW EMPLOYMENT CLASSIFIED SUBSTITUTE EMPLOYEESNAMEPOSITIONEFFECTIVEANDERSON, JonathanSubstitute / Police Officer11/05/2009JIMENEZ, MariaSubstitute / Children’s Center11/06/2009RODRIGUEZ, MonicaSubstitute / Children’s Center11/05/2009CS = Change of StatusRES = ResignationT = TerminatedFISCAL IMPACT: As per salary scheduleFUNDING SOURCE: General, Special Education and Adult Education fundsRECOMMENDATION: It is recommended that the Board of Trustees approve the classified personnel                    actions as outlined above.", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented December 10, 2009", 
+                    "item_text_raw": " 17.01 Ratify/Approve Classified Personnel Actions Presented December 10, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTF584A4C", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Director, Human ResourcesSUBJECT:Ratify/Approve Certificated Personnel Actions Presented December 10, 2009The following certificated personnel actions presented December 10, 2009, are recommended for approval by the Board of Trustees.EMPLOYMENTNAMESTATUSFTELOCPOSITIONEFFECTIVELOMBARDI, AnthonyIntern1.0IHSpecial Education11/18/2009EMPLOYMENT CHANGE OF STATUSNAMESTATUSFTELOCPOSITIONEFFECTIVEREASONHENDERSON, ScottTenured1.0OGEnglish11/02/2009RMLOAEMPLOYMENT SEPARATIONNAMESTATUSFTELOCPOSITIONEFFECTIVEREASONCALVO, NildaTenured1.0WO/ECSpanish/SAC11/18/2009 - 06/11/2010LOAPENROD, MarleneTenured1.0MPSpecial Education01/01/2010RETLOA = Leave of AbsenceRET = RetirementRMLOA = Return from Military Leave of AbsenceCERTIFICATED SUBSTITUTE EMPLOYMENTNAMESTATUSLOCATIONEFFECTIVECLARK, Christina L.On-CallVarious11/02/2009MUSUMECI, Michael R.On-CallVarious11/23/2009QUACH, Huy NOn-CallVarious11/16/2009CERTIFIED ATHLETIC COACHESEMPLOYMENT NAMELOCATIONSTATUSSPORTEFFECTIVEFROM   -   TO AGUINALDO, DioreanEVWalk-onVolleyball08/14/09 – 11/30/09ANDONA, LaureenIHSCertificatedBasketball10/02/09 – 02/28/10DIEP, AlexanderAHCertificatedTennis08/14/09 – 11/30/09DOBRENZ, StephenIHSCertificatedBasketball10/02/09 – 02/28/10DUARTE, GregoryIHSClassifiedBasketball10/02/09 – 02/28/10ENGLISH, VanessaOGWalk-onCheerl Advisor07/01/09 – 06/10/10FENTON, EpifanieWCOCertificatedSoccer10/02/09 – 02/28/10FIGUEROA, Trinidad (Faustino)SCWalk-onBasketball10/02/09 – 02/28/10GREER, ZacWCOWalk-onFootball08/14/09 – 11/30/09HOOKER, JessePHWalk-onFootball08/14/09 – 11/30/09INIGUEZ, RubenJLWalk-onSoccer10/02/09 – 02/28/10JUNI, RicardoMPWalk-onVolleyball08/14/09 – 11/30/09MARTINEZ, Robert L.WCOWalk-onFootball08/14/09 – 11/30/09PACHECO, Anibal (Al)JLWalk-onSoccer10/02/09 – 02/28/10RODRIGUEZ, JorgeMPWalk-onSoccer10/02/09 – 02/28/10SCOTT, KevinJLWalk-onBasketball10/02/09 – 02/28/10STEWART, MilesMPWalk-onFootball08/14/09 – 11/30/09TATE, Sean A.STWalk-onBasketball10/02/09 – 02/28/10TIPPETTS, KathyPHCertificatedCross Country08/14/09 – 11/30/09TRANG, MaiAHWalk-on Volleyball08/14/09 – 11/30/09TREJO, AlfredSCWalk-onSoccer10/02/09 – 02/28/10VIERRA, BenIHSWalk-onWater Polo08/14/09 – 11/30/09ADULT EDUCATION PROGRAM – CERTIFICATED SUBSTITUTESEMPLOYMENTNAMESTATUSLOCATIONPOSITIONEFFECTIVE*KEY, Thomas A.On-CallIACCounselor01/04/2010*ESUHSD RetireeFISCAL IMPACT: As per salary scheduleFUNDING SOURCE: General, Special Education, and Adult Education fundsRECOMMENDATION: It is recommended that the Board of Trustees approve the certificated personnel  actions as outlined above.", 
+                    "item_number": "17.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented December 10, 2009", 
+                    "item_text_raw": " 17.02 Ratify/Approve Certificated Personnel Actions Presented December 10, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTJ584ADC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Director, Human ResourcesSUBJECT:Ratify/Approve Student Aide Personnel Actions Presented December 10, 2009The following student aide personnel actions presented December 10, 2009, are recommended for approval by the Board of Trustees.  These positions are paid through various restricted funding and are not bargaining unit work.  The majority of these positions are less than 1.25 hours per day.NEW EMPLOYMENT OF:NAMEPOSITION / PROGRAM / LOCATIONEFFECTIVEFUENTES, EdgarStudent Aide / CBET / JL11/18/2009RODRIGUEZ, AdaCollege Aide / CBET / MP11/09/2009VO, PhatCollege Aide / CBET / EC11/06/2009ENCISO, BlancaStudent Aide / Child Development / AH11/05/2009GONZALES, ElizabethStudent Aide / Child Development / AH11/17/2009ORTIZ, PalomaStudent Aide / Child Development / WCO11/05/2009RENTERIA, MayraStudent Aide / Child Development / WCO11/05/2009AHUMADA, LuisStudent Aide / Child Nutrition Services / FH11/09/2009ALVAREZ, JamaicaStudent Aide / Child Nutrition Services / IH11/10/2009CA, TaiStudent Aide / Child Nutrition Services / IH11/17/2009DIAZ, DanielStudent Aide / Child Nutrition Services / WCO11/09/2009LAM, TamStudent Aide / Child Nutrition Services / IH11/10/2009MARIN, EmmanuelStudent Aide / Child Nutrition Services / IH11/10/2009MENDOZA, AngelStudent Aide / Child Nutrition Services / JL11/05/2009NGUYEN, XuanStudent Aide / Child Nutrition Services / YB11/09/2009ROBLES, LauroStudent Aide / Child Nutrition Services / SC11/18/2009SHAH, GunjanStudent Aide / Child Nutrition Services / IH11/10/2009YANG, WanlingStudent Aide / Child Nutrition Services / IH11/10/2009ZAPATA, SarahStudent Aide / Child Nutrition Services / IH11/10/2009VUONG, ToanStudent Aide / Math Tutor / PH11/17/2009QUIARARTE, JulioStudent Aide / Post Senior / EC 11/17/2009CHANG, AlanStudent Aide / Tutor Center / PH11/06/2009CHAO, LiStudent Aide / Tutor Center / PH11/06/2009CHENG, EmilyStudent Aide / Tutor Center / PH11/06/2009DENG, JeffreyStudent Aide / Tutor Center / PH11/09/2009JEPSEN, DouglasStudent Aide / Tutor Center / PH11/09/2009LEHMAN, LouiseStudent Aide / Tutor Center / PH11/09/2009TRAN, TimothyStudent Aide / Tutor Center / PH11/09/2009FISCAL IMPACT:As per salary scheduleFUNDING SOURCE:Workability Grant, Child Nutrition, and Intervention fundsRECOMMENDATION:It is recommended that the Board of Trustees approve the student aide personnel actions as outlined above..", 
+                    "item_number": "17.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Student Aide Personnel Actions Presented December 10, 2009", 
+                    "item_text_raw": " 17.03 Ratify/Approve Student Aide Personnel Actions Presented December 10, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTM584B48", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Approve School Field TripsBelow please find a list of field trips to be taken by student groups by various schools.  These field trips requireapproval by the Board since they are beyond our local area and may include an overnight stay and/or air transportation.School / GroupDestinationDatesBudget ImpactRationaleTransportationAH/WrestlingStockton, CA12/12/09-12/12/09FundraiserStudent FeeWrestling TournamentPersonal VehicleAH/WrestlingBrentwood, CA12/22/09-12/23/09FundraiserStudent FeesWrestlingTournamentPersonalVehicleAH/WrestlingNapa, CA01/08/10-01/09/10FundraiserStudent FeesWrestlingTournamentPersonalVehicleAH/WrestlingSacramento, CA01/15/10-01/16/10FundraiserStudent FeesWrestlingTournamentPersonal VehicleAH/WrestlingHanford, CA01/29/10-01/30/10FundraiserStudent FeesWrestlingTournamentPersonalVehicleEV/Cross CountryWalnut, CA12/04/09-12/05/09Cross CountryFundsCross County MeetAir TravelEV/CSFCosta Mesa, CADavis, CAIrvine, CALos Angeles, CASanta Barbara, CA02/19/10-02/22/10FundraiserStudent FeesCollege TourChartered BusJL/CounselingBerkeley, CA11/19/009-11/21/09  U.C. BerkeleyUC Berkeley College TourChartered Bus\tMP/AVIDSanta Barbara, CALos Angeles, CA01/17/10-01/19/10FundraiserStudent FeesCollege TourChartered BusSC/BSU Los Angeles, CA02/26/10-02/28/10FundraiserDonations Student FeesNAACP Image AwardsAir TravelSC/Senior Ball  San Francisco, CA04/24/10-04/25/10FundraiserStudent FeesSenior BallChartered BusWO/WrestlingBrentwood, CA12/22/09-12/23/09Wrestling FundWrestling TournamentPersonal Vehicle\tWO/WrestlingSan Diego, CA12/27/09-12/30/09FundraiserStudent FeesWrestling TournamentAir TravelThese field trips have been reviewed by the Administration and are cleared for the necessary amount of staff, supervisors and funding source(s).FISCAL IMPACT:VariousFUNDING SOURCE:DonationsFundraisers\tStudent FeesU.C. BerkeleyWrestling FundRECOMMENDATION:The Board approve the Field Trips as listed above pending purchase of trip insurance on travel out of the country and the Continental U.S.", 
+                    "item_number": "17.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Field Trips", 
+                    "item_text_raw": " 17.04 Approve Field Trips", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTQ584B60", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for Andrew Hill High, 8 Portables Project (Lopes Electric)Lopes Electric has furnished all material and finished all labor for the completion of work related to Andrew Hill High, Eight (8) Portables Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:NoneFUNDING SOURCE:Measure ARECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for Andrew Hill High, Eight (8) Portables Project.", 
+                    "item_number": "17.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for Andrew Hill High School, Eight (8) Portables Project (Lopes Electric)", 
+                    "item_text_raw": " 17.05 Approve Notice of Completion for Andrew Hill High School, Eight (8) Portables Project (Lopes Electric)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTT584B84", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Approve Minutes of October 24, 2009, Special Board MeetingAttached are the minutes of the October 24, 2009, Special Board meeting for review and approval by the Board of Trustees. FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the October 24, 2009, Board meeting minutes as presented.", 
+                    "item_number": "17.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of October 24, 2009, Special Board Meeting", 
+                    "item_text_raw": " 17.06 Approve Minutes of October 24, 2009, Special Board Meeting", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTW584BAB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Approve Minutes of October 29, 2009, Special Board MeetingAttached are the minutes of the October 29, 2009, Special Board meeting for review and approval by the Board of Trustees. FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the October 29, 2009, Board meeting minutes as presented.", 
+                    "item_number": "17.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of October 29, 2009, Special Board Meeting", 
+                    "item_text_raw": " 17.07 Approve Minutes of October 29, 2009, Special Board Meeting", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PNTZ584BC3", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Approve Minutes of October 31, 2009, Special Board MeetingAttached are the minutes of the October 31, 2009, Special Board meeting for review and approval by the Board of Trustees. FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the October 31, 2009, Board meeting minutes as presented.", 
+                    "item_number": "17.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of October 31, 2009, Special Board Meeting", 
+                    "item_text_raw": " 17.08 Approve Minutes of October 31, 2009, Special Board Meeting", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Consent Calendar Items - ATTACHMENT A", 
+            "section_number": "17."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNU5584C75", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of September 30, 2009Attached for information is the quarterly report as of September 30, 2009, from John V.Guthrie, Director of Finance for the County of Santa Clara, detailing the make-up of the County’s Investment Portfolio.  District funds are included in the total funds invested.", 
+                    "item_number": "18.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of September 30, 2009", 
+                    "item_text_raw": " 18.01 Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of September 30, 2009", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PNU8584D75", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Robert Ibarra, Coordinator of Professional Development/Migrant EducationSUBJECT:Receive Williams Settlement Annual Report for 2009DESCRIPTION:Attached is the annual Williams Settlement report for 2009 received from the Santa Clara County Office of Education as required by California Education Code Section 1240 (c) (2) (B).  This report presents the results of visits and reviews at Andrew Hill, James Lick, Overfelt, and Yerba Buena High Schools.", 
+                    "item_number": "18.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Williams Settlement Annual Report for 2009", 
+                    "item_text_raw": " 18.02 Receive Williams Settlement Annual Report for 2009", 
+                    "item_type": "Report"
+                }
+            ], 
+            "section_name": "Written Reports/Recommendations", 
+            "section_number": "18."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNUC584DC5", 
+                    "item_details": "J. Manuel HerreraFrank  BiehlMetroED Board UpdateLan NguyenEddie GarciaPatricia Martinez-Roach ", 
+                    "item_number": "19.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": " 19.01 Board of Trustees", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PNUF584DD4", 
+                    "item_details": "Dan Moser, Interim Superintendent", 
+                    "item_number": "19.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Interim Superintendent", 
+                    "item_text_raw": " 19.02 Interim Superintendent", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Board of Trustees/Superintendent Communications/Comments", 
+            "section_number": "19."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNUK584DDD", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "20."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PNUP584DEA", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "21."
+        }
+    ]
+}

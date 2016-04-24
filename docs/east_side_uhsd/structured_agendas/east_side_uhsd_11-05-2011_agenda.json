@@ -1,0 +1,111 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "11-05-2011", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF873839090", 
+                    "item_details": "\nThe Regular Board Meeting will begin at 9:00 a.m. in the Board Room of the Education Center.   \n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF8778390A8", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "PLEDGE OF ALLEGIANCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF87B8390B2", 
+                    "item_details": "\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF87F8390C4", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "4.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA/ADOPT AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF87K8390CF", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "5.01 Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF89Q002388", 
+                    "item_details": "\n9:05 AM:  Presentation/Discussion:  Implementing Equitable Practices to Improve Performance - Dr. Edwin Javius\n\t \n11:15 AM:  Academic/Instruction Presentation/Discussion - Kirsten King, Director of Instruction\n\t \n11:20 AM:  Recess for Breakout Sessions:  One Board Member and Administrator Teams\nTeam #1:  Tow Sites; Business Office (Purchasing Area)\nTeam #2:  Two Sites; Conference Room E/F\nTeam #3:  Two Sites; Universal Training Room (IT)\nTeam #4:  Two Sites; Global Training Room (IT)\nTeam #5:  Three Sites; Board Room\n12:15 PM:  Next Steps/Board Comments - Board Room\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board and School Site Administrators: Access and Achievement Gap Issues", 
+                    "item_text_raw": "6.01 Board and School Site Administrators: Access and Achievement Gap Issues", 
+                    "item_type": "Discussion, Presentation"
+                }
+            ], 
+            "section_name": "BOARD OF TRDISCUSSION AND/OR ACTION ITEM(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9DF87Q8390E6", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "7.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

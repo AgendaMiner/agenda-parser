@@ -1,0 +1,594 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "08-26-2004", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LPSSJ741514", 
+                    "item_details": "\nAttached is the amended August 26, 2004, Regular Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A5235Z8247A8", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment Regarding items to be discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_text_raw": "1.02 Announcement and Public Comment Regarding items to be discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523HT0186D2", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 P.M.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 P.M.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523HX019550", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523J301A106", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_text_raw": "3.01 Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A55F5X7A60DC", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No Items on Calendar Under this Section", 
+                    "item_text_raw": "4.01 No Items on Calendar Under this Section", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523J701B4F1", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523JJ01E2B5", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A55F677A6933", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No Items on Calendar Under this Section", 
+                    "item_text_raw": "7.01 No Items on Calendar Under this Section", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "STUDENT ACHIEVEMENT/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A522TD7FCA87", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Variable Term Waiver Requests for Certificated Employees", 
+                    "item_text_raw": "8.01 Approve Variable Term Waiver Requests for Certificated Employees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A5233C81B77A", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "ESUHSD Wireless Telephone Service for 2004-2005", 
+                    "item_text_raw": "8.02 ESUHSD Wireless Telephone Service for 2004-2005", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A5233L81D8A0", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation by Taxpayer on Measure K Parcel Tax Campaign", 
+                    "item_text_raw": "8.03 Presentation by Taxpayer on Measure K Parcel Tax Campaign", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A52353822DBA", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation of Legal Counsel Support for 2003-2004", 
+                    "item_text_raw": "8.04 Presentation of Legal Counsel Support for 2003-2004", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A5235H823B1A", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Recommend Board to Ratify July 1, 2001, Salary Schedule For Employee #104571", 
+                    "item_text_raw": "8.05 Recommend Board to Ratify July 1, 2001, Salary Schedule For Employee #104571", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A522TB7FC4B2", 
+                    "item_details": "", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Purchase Orders Dated August 26, 2004", 
+                    "item_text_raw": "9.01 Purchase Orders Dated August 26, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522TH7FD7A5", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Transfers Dated August 26, 2004", 
+                    "item_text_raw": "9.02 Budget Transfers Dated August 26, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522TN7FDE32", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Classified Personnel Actions Dated August 26, 2004", 
+                    "item_text_raw": "9.03 Classified Personnel Actions Dated August 26, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522TR7FE53B", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Certificated Personnel Actions August 26, 2004", 
+                    "item_text_raw": "9.04 Certificated Personnel Actions August 26, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A526WA7FEA4C", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Minutes of June 17, 2004, Board Meeting", 
+                    "item_text_raw": "9.05 Minutes of June 17, 2004, Board Meeting", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A526WE7FEF38", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Gifts/Donations", 
+                    "item_text_raw": "9.06 Acceptance of Gifts/Donations", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A526WJ7FF77E", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts for Professional Services", 
+                    "item_text_raw": "9.07 Approve Contracts for Professional Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A526WN7FFBE4", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Award of Bids", 
+                    "item_text_raw": "9.08 Award of Bids", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522UJ800964", 
+                    "item_details": "\nApprove the following Memorandums of Understanding:\nRegents of UC Santa Cruz               Instructional Services\nLockheed Martin                               Evergreen Valley High School\nMETRO Ed                                       District Wide Vocational/Occupational Programs\nNational Hispanic University           Outreach Program - Independence, James Lick,\nEsperanza Talent Search               Overfelt High Schools\nSan Jose State University              Evergreen Valley High School\nYMCA of Santa Clara                      Special Education\n24x6, Inc.                                         Evergreen Valley High School\n", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve the following Memorandums of Understanding", 
+                    "item_text_raw": "9.09 Approve the following Memorandums of Understanding", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522VP8050A6", 
+                    "item_details": "\nApprove School Field Trips\nSacramento, CA           Andrew Hill, Independence & Yerba Buena High Schools\n", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": "9.10 Approve School Field Trips", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522VT806661", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2004/2005-01 and Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546", 
+                    "item_text_raw": "9.11 Adopt Resolution #2004/2005-01 and Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522VX806EB5", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Request Authorization to Increase the Cost of a National School Lunch Meal to $2.50 Effective October 1, 2004", 
+                    "item_text_raw": "9.12 Request Authorization to Increase the Cost of a National School Lunch Meal to $2.50 Effective October 1, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522W3807485", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "pproval to Accept Donation Agreement Between the City of San Jose and the East Side Union High School District for the Conveyance of Real Property at Andrew Hill High School", 
+                    "item_text_raw": "9.13 pproval to Accept Donation Agreement Between the City of San Jose and the East Side Union High School District for the Conveyance of Real Property at Andrew Hill High School", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522W7807AE7", 
+                    "item_details": "", 
+                    "item_number": "9.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for the Tennis Court Resurfacing at Silver Creek High School", 
+                    "item_text_raw": "9.14 Notice of Completion for the Tennis Court Resurfacing at Silver Creek High School", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522WB8080CF", 
+                    "item_details": "", 
+                    "item_number": "9.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for the Floor Covering at Various Sites (Oak Grove, Foothill, Mt. Pleasant, Andrew Hill, Yerba Buena, Independence, Overfelt, Overfelt Adult Education Center, Silver Creek)", 
+                    "item_text_raw": "9.15 Notice of Completion for the Floor Covering at Various Sites (Oak Grove, Foothill, Mt. Pleasant, Andrew Hill, Yerba Buena, Independence, Overfelt, Overfelt Adult Education Center, Silver Creek)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522WF808699", 
+                    "item_details": "", 
+                    "item_number": "9.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for the Concrete Work at Various Sites (James Lick, Oak Grove, Mt. Pleasant, Andrew Hill)", 
+                    "item_text_raw": "9.16 Notice of Completion for the Concrete Work at Various Sites (James Lick, Oak Grove, Mt. Pleasant, Andrew Hill)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522WK808C1E", 
+                    "item_details": "", 
+                    "item_number": "9.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for the Asphalt Work at Various Sites (Oak Grove, Mt. Pleasant, Overfelt Adult Education Center, Andrew Hill)", 
+                    "item_text_raw": "9.17 Notice of Completion for the Asphalt Work at Various Sites (Oak Grove, Mt. Pleasant, Overfelt Adult Education Center, Andrew Hill)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522WP8090CC", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  XX.XX\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\n[prepared by]\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\n[subject]\n\t \n\t \nbody of memo:  Arial, 14 point\n\t \n\t \n\t \nFISCAL IMPACT:\n[FI]\n\t \nFUNDING SOURCE:\n[FS]\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees\n", 
+                    "item_number": "9.18", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for Roofing Repairs at Various Sites (Andrew Hill and Santa Teresa)", 
+                    "item_text_raw": "9.18 Notice of Completion for Roofing Repairs at Various Sites (Andrew Hill and Santa Teresa)", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "A522WS809660", 
+                    "item_details": "", 
+                    "item_number": "9.19", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Revised Job Description and Salary Range for Director of Human Resources", 
+                    "item_text_raw": "9.19 Approve Revised Job Description and Salary Range for Director of Human Resources", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522WY809FC5", 
+                    "item_details": "", 
+                    "item_number": "9.20", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Job Description and Salary Range for Breakthrough East Side Program Manager", 
+                    "item_text_raw": "9.20 Approve Job Description and Salary Range for Breakthrough East Side Program Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522X780A795", 
+                    "item_details": "", 
+                    "item_number": "9.21", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Revised Board Policy BB9270 Conflict of Interest to Reflect the New Titles for the New Job Titles for 2004-2005", 
+                    "item_text_raw": "9.21 Approve Revised Board Policy BB9270 Conflict of Interest to Reflect the New Titles for the New Job Titles for 2004-2005", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522XC80AF5B", 
+                    "item_details": "", 
+                    "item_number": "9.22", 
+                    "item_recommendation": "", 
+                    "item_text": "Rescind Board Memo of April 8, 2004: Authorize Administration to Exceed Maximum Department Class Sizes as Defined in Section 15.1 of the Collective Bargaining Agreement Between the District and the East Side Teachers Association/CTA/NEA", 
+                    "item_text_raw": "9.22 Rescind Board Memo of April 8, 2004: Authorize Administration to Exceed Maximum Department Class Sizes as Defined in Section 15.1 of the Collective Bargaining Agreement Between the District and the East Side Teachers Association/CTA/NEA", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522ZD814038", 
+                    "item_details": "", 
+                    "item_number": "9.23", 
+                    "item_recommendation": "", 
+                    "item_text": "Revise JPA Agreements and By-Laws for Worker's Compensation", 
+                    "item_text_raw": "9.23 Revise JPA Agreements and By-Laws for Worker's Compensation", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522ZJ814B65", 
+                    "item_details": "", 
+                    "item_number": "9.24", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve 2004/2005 Bell Schedules", 
+                    "item_text_raw": "9.24 Approve 2004/2005 Bell Schedules", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522ZR81566A", 
+                    "item_details": "", 
+                    "item_number": "9.25", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2004/05-02 Approving Contract #GCTR-4408 for General Child Development Program Services in the Amount of $1,383,796 General Child Care Services will be at Independence, Andrew Hill, James Lick, Mt. Pleasant, W.C. Overfelt, Yerba Buena, Santa Teresa and Evergreen Valley Child Development Centers", 
+                    "item_text_raw": "9.25 Adopt Resolution #2004/05-02 Approving Contract #GCTR-4408 for General Child Development Program Services in the Amount of $1,383,796 General Child Care Services will be at Independence, Andrew Hill, James Lick, Mt. Pleasant, W.C. Overfelt, Yerba Buena, Santa Teresa and Evergreen Valley Child Development Centers", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A522ZV815B75", 
+                    "item_details": "", 
+                    "item_number": "9.26", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2004/05-03 Approving Contract #FCAP-3276 in the Amount of $10,762 for Infant and Toddler Child Care Resource Program", 
+                    "item_text_raw": "9.26 Adopt Resolution #2004/05-03 Approving Contract #FCAP-3276 in the Amount of $10,762 for Infant and Toddler Child Care Resource Program", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A5272U81760B", 
+                    "item_details": "", 
+                    "item_number": "9.27", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2004/05-04 Approving Contract #GRPK-3574 in the Amount of $2,467 for Pre-Kindergarten Child Care Resource Program", 
+                    "item_text_raw": "9.27 Adopt Resolution #2004/05-04 Approving Contract #GRPK-3574 in the Amount of $2,467 for Pre-Kindergarten Child Care Resource Program", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A52732817C50", 
+                    "item_details": "", 
+                    "item_number": "9.28", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2004/05-05 Approving Contract #GRPM-3061 in the Amount of $50,000 for Facilities Renovation and Repairs at Andrew Hill, James Lick, Mt. Pleasant, Yerba Buena, Santa Teresa and Independence Children’s Centers", 
+                    "item_text_raw": "9.28 Adopt Resolution #2004/05-05 Approving Contract #GRPM-3061 in the Amount of $50,000 for Facilities Renovation and Repairs at Andrew Hill, James Lick, Mt. Pleasant, Yerba Buena, Santa Teresa and Independence Children’s Centers", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A527398181CF", 
+                    "item_details": "", 
+                    "item_number": "9.29", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Contract #2004/05-06 Approving Head Start Contract in the Amount of $156,000 to Provide Program Enhancement to the Cal-SAFE Program at W.C. Overfelt and Foothill Family Learning Centers for the Period of May 1, 2004, through April 30, 2005", 
+                    "item_text_raw": "9.29 Accept Contract #2004/05-06 Approving Head Start Contract in the Amount of $156,000 to Provide Program Enhancement to the Cal-SAFE Program at W.C. Overfelt and Foothill Family Learning Centers for the Period of May 1, 2004, through April 30, 2005", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A5232D8187CE", 
+                    "item_details": "", 
+                    "item_number": "9.30", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Resolution to Student Advisor Job Description to Meet Compliance with CCTC Requirements", 
+                    "item_text_raw": "9.30 Approve Resolution to Student Advisor Job Description to Meet Compliance with CCTC Requirements", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A5232H818E02", 
+                    "item_details": "", 
+                    "item_number": "9.31", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Employment Contract for Chief Financial Officer", 
+                    "item_text_raw": "9.31 Approve Employment Contract for Chief Financial Officer", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CALENDAR ITEMS - ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523JW022175", 
+                    "item_details": "", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of June 30, 2004", 
+                    "item_text_raw": "10.01 Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of June 30, 2004", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523K2022E95", 
+                    "item_details": "", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "11.01 Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523K60235B8", 
+                    "item_details": "", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": "11.02 Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A522TC7FC79D", 
+                    "item_details": "", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsions", 
+                    "item_text_raw": "12.01 Expulsions", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523L30256DA", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.02 Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523L7025D56", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code §Section 54957.6) \nAgency Designated Representatives: \nSuperintendent Dr. Zendejas, \nBob Nuñez \nEmployee Organization: \nEast Side Teachers Association\n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": "12.03 Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523LK0273E4", 
+                    "item_details": "\n\t \nAnticipated Litigation (Government Code §Section 54956.9) \n\t \nConference with Legal Counsel – ANTICIPATED LITIGATION, Significant exposure to litigation pursuant to subdivision (b) of §Section 54956.9 statement threatening litigation.\n(2) Potential case\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Anticipated Litigation (Government Code §Section 54956.9) Conference with Legal Counsel – ANTICIPATED LITIGATION, Significant exposure to litigation pursuant to subdivision (b) of §Section 54956.9 statement threatening litigation.", 
+                    "item_text_raw": "12.04 Anticipated Litigation (Government Code §Section 54956.9) Conference with Legal Counsel – ANTICIPATED LITIGATION, Significant exposure to litigation pursuant to subdivision (b) of §Section 54956.9 statement threatening litigation.", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523LY02A1F8", 
+                    "item_details": "", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.05 Public Employee Performance Evaluation (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A523M802AAC2", 
+                    "item_details": "\nPublic Employment/Transfer (Government Code §Section 54957) \nInterim Director of Special Services \nInterim Co-Directors \nPrincipal \nAssociate Principal \nDirector of Human Resources \n", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Transfer (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.06 Public Employment/Transfer (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523M602A855", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will report of Closed Session Action Item(s).", 
+                    "item_text_raw": "13.01 Legal Counsel will report of Closed Session Action Item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A523M702AABB", 
+                    "item_details": "", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting", 
+                    "item_text_raw": "14.01 President adjourns the meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

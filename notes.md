@@ -2,7 +2,7 @@
 
 ### Monitored School Districts
 Alum Rock Union ESD - SCANNED PDFS
-Cupertino Union SD - Parse-able PDFs
+Cupertino Union SD - Parse-able PDFs (FORMATTING ISSUE)
 East Side Union HSD - PDFS and BoardDocs
 Foothill De Anza CCD - BoardDocs
 Franklin McKinley SD - Scanned PDFs
@@ -49,3 +49,13 @@ Mission West Valley Land Corporation - PDFs
 - Los Altos
 - Gilroy
 - Berryessa
+
+
+
+
+==================
+BoardDocs Notes
+
+WEB APP SYSTEM, CAN ACCESS VIA ID URLS
+- Agenda (scrape from hidden tab when curl main screen)
+- ITEM (scrape from sidebar) http://www.boarddocs.com/ca/fhda/Board.nsf/LT-GetAgendaItem?open&id=9Z9LSW56EBBF

@@ -12,8 +12,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 def main():
 
-	agency = "east_side_uhsd"
-	date = "1-21-16"
+	agency = "cupertino_usd"
+	date = "4-19-16"
 
 	parsePDFtoLines(agency, date, False)
 
