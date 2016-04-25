@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import pickle
 import re
-import datetime
 import os.path
 import json
 import line_structurer
