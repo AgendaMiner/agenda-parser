@@ -1,6 +1,6 @@
 # Training data
-training-data/
-docs/training-data/
+training_data/
+docs/training_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

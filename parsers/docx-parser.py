@@ -3,11 +3,21 @@ import json
 import re
 import datetime
 import codecs
+import os
 
 def main():
-	filename = "AgendaReport_2015Aug14.docx"
+	# filename = "AgendaReport_2015Aug14.docx"
 
-	parseTrainingDoc(filename)
+	# parseTrainingDoc(filename)
+
+	base_dir = "../docs/training_data/raw_docs"
+	files = os.listdir(base_dir)
+	for file in files:
+		print(file)
+		parseTrainingDoc(file)
+
+
+
 
 
 
@@ -84,13 +94,14 @@ def extractInfoFromDoc(classed_paras):
 
 			priorities = extractPriorities(para['text'])
 
-			json_doc.append({'agency': '', \
-				'meeting_date': '', \
-				'item_name': '', \
-				'item_number': '', \
-				'priority_wpusa': priorities['wpusa'], \
-				'priority_sblc': priorities['sblc'], \
-				'priority_unite': priorities['unite'], \
+			json_doc.append({'agency': '',
+				'wpusa_heading': para['text'], 
+				'meeting_date': '',
+				'item_name': '',
+				'item_number': '',
+				'priority_wpusa': priorities['wpusa'],
+				'priority_sblc': priorities['sblc'],
+				'priority_unite': priorities['unite'],
 				'priority_ibew': priorities['ibew']})
 
 		elif para['line_type'] == 'name':
@@ -146,6 +157,9 @@ def extractPriorities(text):
 		elif 'blue' in for_string:
 			yellow_clients = ""
 			blue_clients = re.sub('blue', '', for_string)
+		else:
+			yellow_clients = ""
+			blue_clients = for_string
 
 		# check the clients against the yellow and blue client strings
 		if 'wpusa' in yellow_clients:
@@ -180,7 +194,7 @@ def extractPriorities(text):
 			priorities['unite'] = 'blue'
 
 	else:
-		print("ERROR - COULD NOT FIND CLIENTS")
+		print("ERROR - COULD NOT FIND CLIENTS:")
 		print(text)
 
 	return priorities
@@ -194,17 +208,16 @@ Save out the JSON-formatted agenda report to disk.
 def writeDocToDisk(json_doc, original_filename):
 
 	# extract date from original filename
-	date_regex = re.search(r'\d{4}\w{3}\d+', original_filename)
-	if date_regex:
-		date_string = date_regex.group()
-
-		json_filepath = "../docs/training_data/structured_reports/%s.json" % date_string
-		with codecs.open(json_filepath, 'w', encoding="utf-8") as outfile:
-			json.dump(json_doc, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
-
+	date_regex_abrv_month = re.search(r'\d{4}\w{3}\d+', original_filename)
+	if date_regex_abrv_month:
+		date_string = date_regex_abrv_month.group()
 	else:
-		print("ERROR - COULD NOT PARSE DATE STRING FROM THE FILENAME")
-		print(original_filename)
+		date_string = original_filename.replace(".docx", "").replace("AgendaReport_", "")
+
+	json_filepath = "../docs/training_data/structured_reports/%s.json" % date_string
+	with codecs.open(json_filepath, 'w', encoding="utf-8") as outfile:
+		json.dump(json_doc, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+
 
 
 
