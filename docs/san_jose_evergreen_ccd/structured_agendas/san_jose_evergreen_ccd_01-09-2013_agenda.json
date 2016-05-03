@@ -1,0 +1,87 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "01-09-2013", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "93RUTH7D530B", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "6:00 p.m. - Call Meeting to Order at the District Board Room, 4750 San Felipe Road, San Jose, CA 95134", 
+                    "item_text_raw": "1. 6:00 p.m. - Call Meeting to Order at the District Board Room, 4750 San Felipe Road, San Jose, CA 95134", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "93RUTU7D57C2", 
+                    "item_details": "\nThe Board of Trustees offers an opportunity for the public to address the Board in four sections of the agenda: on matters of concern about Closed Session items; on matters not appearing on the agenda; on action items contained in the Consent Agenda; and prior to voting on any item contained in the Action Agenda. Each speaker is encouraged to submit a comment card to the Board clerk in order to be recognized to speak.\n\tPer Board Policy, three minutes may be allotted to each speaker with a maximum of 30 minutes per subject. No action or discussion shall be undertaken on any public comments except that members of the Board or its staff may briefly respond to or ask a question for clarification regarding statements made or questions posed by persons addressing the Board under this agenda item.\n\tFor information and disability access to materials, call 408-270-6402. Meetings are held in a location accessible to the disabled.\n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Information on Public Comments and Disability Access", 
+                    "item_text_raw": "2. Information on Public Comments and Disability Access", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "93RUTX7D57CB", 
+                    "item_details": "\n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3. Pledge of Allegiance", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "93RUU27D57D4", 
+                    "item_details": "\na. Additions/Deletions/Corrections\n\tb. Items to be Deferred\n\tc. Adoption of Agenda\n\tThe Board reserves the right to modify the order of business in the manner it deems appropriate.\n \n", 
+                    "item_number": "4.", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "4. Adoption of the Agenda", 
+                    "item_type": "Action, Procedural"
+                }, 
+                {
+                    "boarddocs_id": "93RUU57D57DA", 
+                    "item_details": "\nThis is an opportunity for members of the public to address the Board concerning issues not listed on the agenda.\n", 
+                    "item_number": "5.", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments on Matters not on the Agenda", 
+                    "item_text_raw": "5. Public Comments on Matters not on the Agenda", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "93RV3T7E400E", 
+                    "item_details": "\nOn November 5, 2012, the District entered into a non-binding contract to purchase a facility located at 40 South Market Street, San Jose, CA.  The Chancellor was charged with the completion of a due diligence and facility assessment process to be completed no later than January 10, 2013, to comply with all of the \"Buyers Contingencies.\" \n\t \nThe purpose of this item is to present the information gathered through the due diligence process, to report on staff compliance with all of the \"Buyers Contingencies\" and to request that the Board  proceed with the purchase of the property on 40 S. Market Street pursuant to the terms of the purchase agreement,  and to close escrow on or before January 15, 2013.  \n", 
+                    "item_number": "", 
+                    "item_recommendation": "A recommendation that the Board accepts staff recommendation and proceed with the purchase of the 40 South Market Street Property.", 
+                    "item_text": "Decision to Acquire Property at 40 S. Market Street, San Jose, CA", 
+                    "item_text_raw": " Decision to Acquire Property at 40 S. Market Street, San Jose, CA", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "93RUUA7D57E4", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "The meeting will be adjourned.", 
+                    "item_text_raw": "1. The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

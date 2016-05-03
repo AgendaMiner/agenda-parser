@@ -1,7 +1,7 @@
 import os
  
 def main():
-	agency = "san_jose_evergreen_ccd"
+	agency = "scc_boe"
  	agenda_type = "boarddocs"
  	buildDirectoryStructure(agency, agenda_type)
 

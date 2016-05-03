@@ -1,0 +1,87 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "08-05-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "87Z6WL16EDB8", 
+                    "item_details": "\n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "5:00 p.m. - Call Meeting to Order at the District Board Room, 4750 San Felipe Road, San Jose, CA 95134", 
+                    "item_text_raw": "1. 5:00 p.m. - Call Meeting to Order at the District Board Room, 4750 San Felipe Road, San Jose, CA 95134", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "87Z6WP16EDCA", 
+                    "item_details": "\nThe Board of Trustees offers an opportunity for the public to address the Board in four sections of the agenda: on matters of concern about Closed Session items; on matters not appearing on the agenda; on action items contained in the Consent Agenda; and prior to voting on any item contained in the Action Agenda. Each speaker is encouraged to submit a comment card to the Board clerk in order to be recognized to speak.\n\tPer Board Policy, three minutes may be allotted to each speaker with a maximum of 30 minutes per subject. No action or discussion shall be undertaken on any public comments except that members of the Board or its staff may briefly respond to or ask a question for clarification regarding statements made or questions posed by persons addressing the Board under this agenda item.\n\tFor information and disability access to materials, call 408-270-6402. Meetings are held in a location accessible to the disabled.\n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Information on Public Comments and Disability Access", 
+                    "item_text_raw": "2. Information on Public Comments and Disability Access", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "87Z6WY16EE03", 
+                    "item_details": "\n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3. Pledge of Allegiance", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "87Z6X316EE0C", 
+                    "item_details": "\na. Additions/Deletions/Corrections\n\tb. Items to be Deferred\n\tc. Adoption of Agenda\n\tThe Board reserves the right to modify the order of business in the manner it deems appropriate.\n", 
+                    "item_number": "4.", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "4. Adoption of the Agenda", 
+                    "item_type": "Action, Procedural"
+                }, 
+                {
+                    "boarddocs_id": "87Z6X616EE1A", 
+                    "item_details": "\nThis is an opportunity for members of the public to address the Board concerning issues not listed on the agenda.\n", 
+                    "item_number": "5.", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments on Matters not on the Agenda", 
+                    "item_text_raw": "5. Public Comments on Matters not on the Agenda", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "87ZQKM6998EC", 
+                    "item_details": "\nBackground and Analysis:\n\t \n\t \nThe District desires a way to financially support the implementation of the 2025 Educational Master Plans of the colleges that were approved by the Board of Trustees in July 2010 and the Facilities Master Plan of the District, which will be completed in December 2010.  These plans require necessary funding for facility, technology and basic infrastructure repairs that are required for instructional programs and services that support student success.\n\t \nThere are currently no state resources allocated for these purposes, and given the economic condition of the state, resources will likely be minimally available in the future.  The District has successfully passed Measure I in 1998 and Measure G in 2004 to support capital projects in the District, but the majority of the projects associated with these bonds have been completed.\n\t \nRecent surveys indicate community support for those projects which upgrade and replace classrooms and labs, improve infrastructure, increase energy efficiency and reduce operating costs, ensure accessibility for disabled students, and make sure that technology is current for teaching and learning.\n\t \nResolution 080510-1 authorizes a General Obligation Bond Election in November 2010 in the amount of $268,000,000 to fund needed projects across the district that will support essential job training, re-training and general education of students at San Jose City College and Evergreen Valley College.enee e\n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "The Chancellor recommends approval of Resolution 080510-1 authorizing a General Obligation Bond Election in November 2010.", 
+                    "item_text": "Resolution 080510-1 Authorizing a Proposition 39 General Bond Election", 
+                    "item_text_raw": "1. Resolution 080510-1 Authorizing a Proposition 39 General Bond Election", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "87Z6XE16EE42", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "The meeting will be adjourned.", 
+                    "item_text_raw": "1. The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

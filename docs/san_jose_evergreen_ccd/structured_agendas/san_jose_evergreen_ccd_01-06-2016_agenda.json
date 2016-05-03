@@ -1,0 +1,93 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "01-06-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A5FPA3638311", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "6:00 p.m. - Call Meeting to Order at the District Office, First Floor Multipurpose Room (CR-112), 40 S. Market Street, San Jose, CA 95113", 
+                    "item_text_raw": "1. 6:00 p.m. - Call Meeting to Order at the District Office, First Floor Multipurpose Room (CR-112), 40 S. Market Street, San Jose, CA 95113", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A5FPA663832F", 
+                    "item_details": "\nFor information and disability access to materials, call 408-270-6402. Meetings are held in a location accessible to the disabled.\n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Information on Disability Access", 
+                    "item_text_raw": "2. Information on Disability Access", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A5FPAB638332", 
+                    "item_details": "\nThis is an opportunity for members of the public to address the Committee concerning issues not listed on the agenda.\n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments on Matters not on the Agenda", 
+                    "item_text_raw": "3. Public Comments on Matters not on the Agenda", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A5FPAF638336", 
+                    "item_details": "\na. Additions/Deletions/Corrections\nb. Items to be Deferred\nc. Adoption of the Agenda\n\t \n\t \n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "1. Adoption of the Agenda", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "A5FPAJ638339", 
+                    "item_details": "", 
+                    "item_number": "2.", 
+                    "item_recommendation": "A recommendation that the Board Self-evaluation Committee approve the November 30, 2015, committee meeting minutes as submitted.", 
+                    "item_text": "Approval of the October 1, 2015, and November 30, 2015, Board Self-Evaluation Committee Meeting Minutes", 
+                    "item_text_raw": "2. Approval of the October 1, 2015, and November 30, 2015, Board Self-Evaluation Committee Meeting Minutes", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A5FQ99682F40", 
+                    "item_details": "\nThe Board of Trustees Self-evaluation Committee will review the summative report of the Board of Trustees Self-evaluation for 2015.\n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "Review the Summative Report of the Board of Trustees Self-evaluation", 
+                    "item_text_raw": "1. Review the Summative Report of the Board of Trustees Self-evaluation", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "INFORMATION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A5FPAP63833E", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "The meeting will be adjourned.", 
+                    "item_text_raw": "1. The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

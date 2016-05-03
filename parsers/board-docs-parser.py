@@ -8,8 +8,8 @@ import line_structurer
 
 def main():
 
-	agency = "east_side_uhsd"
-	agency_code = "esuhsd"
+	agency = "san_jose_evergreen_ccd"
+	agency_code = "sjeccd"
 
 	parseAgendas(agency, agency_code)
 

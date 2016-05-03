@@ -1,0 +1,93 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "04-21-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8U2FL724423", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "6:30 p.m. - Call Meeting to Order at the District Office, Conference Room, CR-112, 40 S. Market Street, San Jose, CA 95113", 
+                    "item_text_raw": "1. 6:30 p.m. - Call Meeting to Order at the District Office, Conference Room, CR-112, 40 S. Market Street, San Jose, CA 95113", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A8U2FP724429", 
+                    "item_details": "\nFor information and disability access to materials, call 408-270-6402. Meetings are held in a location accessible to the disabled.\n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Information on Disability Access", 
+                    "item_text_raw": "2. Information on Disability Access", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A8U2FS72442C", 
+                    "item_details": "\na. Additions/Deletions/Corrections\n\tb. Items to be Deferred\n\tc. Adoption of Agenda\n\tThe Board reserves the right to modify the order of business in the manner it deems appropriate.\n\t \n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "3. Adoption of the Agenda", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8U2FV72442F", 
+                    "item_details": "\nThis is an opportunity for members of the public to address the Board concerning issues not listed on the agenda.\n", 
+                    "item_number": "4.", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments on Matters not on the Agenda", 
+                    "item_text_raw": "4. Public Comments on Matters not on the Agenda", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8U2FZ724433", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "A recommendation that the Board Audit Committee approve the above listed minutes.", 
+                    "item_text": "Approval of the December 14, 2015, Board Audit Committee Meeting Minutes", 
+                    "item_text_raw": "1. Approval of the December 14, 2015, Board Audit Committee Meeting Minutes", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8XUKH7C600F", 
+                    "item_details": "\nThe Audit Committee will discuss the upcoming FY 2015-2016 Audit with representatives from CWDL, Certified Public Accountants, the District's independent auditors.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "FY 2015-2016 Audit", 
+                    "item_text_raw": " FY 2015-2016 Audit", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "INFORMATION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8U2G972443B", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "The meeting will be adjourned.", 
+                    "item_text_raw": "1. The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

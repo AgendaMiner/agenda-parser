@@ -8,8 +8,8 @@ import json
 
 def main():
 
-	agency = "east_side_uhsd"
-	agency_code = "esuhsd"
+	agency = "scc_boe"
+	agency_code = "scccoe"
 
 	agenda_list = loadExistingAgendaList(agency)
 	agenda_list = getAgendasList(agency, agency_code, agenda_list)

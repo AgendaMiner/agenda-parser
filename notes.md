@@ -4,7 +4,7 @@
 Alum Rock Union ESD - SCANNED PDFS
 Cupertino Union SD - Parse-able PDFs (FORMATTING ISSUE)
 East Side Union HSD - PDFS and BoardDocs
-Foothill De Anza CCD - BoardDocs
+Foothill De Anza CCD - BoardDocs - DONE
 Franklin McKinley SD - Scanned PDFs
 Gavilan CCD - PDFs
 San Jose Evergreen CCD - BoardDocs

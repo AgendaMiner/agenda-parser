@@ -6,9 +6,6 @@ import codecs
 import os
 
 def main():
-	# filename = "AgendaReport_2015Aug14.docx"
-
-	# parseTrainingDoc(filename)
 
 	base_dir = "../docs/training_data/raw_docs"
 	files = os.listdir(base_dir)
@@ -66,7 +63,7 @@ def classifyDocParas(doc):
 			para_object['line_type'] = 'number'
 		elif re.match(r'Public entity:', para.text):
 			para_object['line_type'] = 'agency'
-		elif re.match(r'Date/time/location of meeting:', para.text):
+		elif re.match(r'Date/time/location', para.text):
 			para_object['line_type'] = 'date_time'
 		elif re.match(r'Issue summary:', para.text):
 			para_object['line_type'] = 'summary'
@@ -114,10 +111,18 @@ def extractInfoFromDoc(classed_paras):
 			json_doc[-1]['agency'] = re.sub(r'Public entity:', '', para['text']).strip()
 
 		elif para['line_type'] == 'date_time':
-			date_string = re.sub(r'Date/time/location of meeting:', '', para['text']).strip()
-			date_regex = re.match(r'\w{3}\.\s\d+,\s\d{4}', date_string)
+			date_string = re.sub(r'Sept', 'Sep', para['text'])
+			date_string = re.sub(r'Date/time/location of meeting:|Date/time/location item will be heard:', '', date_string).strip()
+			date_string = re.sub(r'\.', '', date_string)
+			date_regex = re.search(r'\b\w{3}\s\d+,\s\d{4}', date_string)
+			full_date_regex = re.search(r'\w{3,8}\s\d+,\s\d{4}', date_string)
 			if date_regex:
-				json_doc[-1]['meeting_date'] = datetime.datetime.strptime(date_regex.group(), "%b. %d, %Y").date().strftime('%m-%d-%Y')
+				json_doc[-1]['meeting_date'] = datetime.datetime.strptime(date_regex.group(), "%b %d, %Y").date().strftime('%m-%d-%Y')
+			elif full_date_regex:
+				json_doc[-1]['meeting_date'] = datetime.datetime.strptime(full_date_regex.group(), "%B %d, %Y").date().strftime('%m-%d-%Y')
+			else:
+				print "FAILED TO MATCH DATE"
+				print date_string
 
 	return json_doc
 	# print(json.dumps(json_doc, indent=4))

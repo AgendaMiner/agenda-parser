@@ -1,0 +1,111 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "10-01-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A28PUF662483", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "6:00 p.m. - Call Meeting to Order at the District Office, First Floor Multipurpose Room (CR-112), 40 S. Market Street, San Jose, CA 95113", 
+                    "item_text_raw": "1. 6:00 p.m. - Call Meeting to Order at the District Office, First Floor Multipurpose Room (CR-112), 40 S. Market Street, San Jose, CA 95113", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A28PUJ662494", 
+                    "item_details": "\nFor information and disability access to materials, call 408-270-6402. Meetings are held in a location accessible to the disabled.\n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Information on Disability Access", 
+                    "item_text_raw": "2. Information on Disability Access", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "A28Q2C66C1B3", 
+                    "item_details": "\n\tThis is an opportunity for members of the public to address the Committee concerning issues not listed on the agenda.\n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments on Matters not on the Agenda", 
+                    "item_text_raw": "3. Public Comments on Matters not on the Agenda", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A28PXX668376", 
+                    "item_details": "\n\ta. Additions/Deletions/Corrections\n\tb. Items to be Deferred\n\tc. Adoption of the Agenda\n\t \n\t \n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "1. Adoption of the Agenda", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "A2CQ4Q673E3E", 
+                    "item_details": "", 
+                    "item_number": "2.", 
+                    "item_recommendation": "A recommendation that the Board Self-evaluation Committee approve the May 28, 2015, committee meeting minutes as submitted.", 
+                    "item_text": "Approval of the May 28, 2015, Board Self-Evaluation Committee Meeting Minutes", 
+                    "item_text_raw": "2. Approval of the May 28, 2015, Board Self-Evaluation Committee Meeting Minutes", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A2E37P058457", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "Calendar for Board Self-Evaluation Committee", 
+                    "item_text_raw": "1. Calendar for Board Self-Evaluation Committee", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A2E39405B991", 
+                    "item_details": "", 
+                    "item_number": "2.", 
+                    "item_recommendation": "", 
+                    "item_text": "Continuation of Discussion of Board Self-Evaluation Process", 
+                    "item_text_raw": "2. Continuation of Discussion of Board Self-Evaluation Process", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A2E39R05D234", 
+                    "item_details": "", 
+                    "item_number": "3.", 
+                    "item_recommendation": "", 
+                    "item_text": "Board Self-Evaluation and it's link to Accreditation Standards", 
+                    "item_text_raw": "3. Board Self-Evaluation and it's link to Accreditation Standards", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "INFORMATION AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A28PUW6624A0", 
+                    "item_details": "", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "The meeting will be adjourned.", 
+                    "item_text_raw": "1. The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}
