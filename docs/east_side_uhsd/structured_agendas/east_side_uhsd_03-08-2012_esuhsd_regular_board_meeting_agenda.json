@@ -1,0 +1,294 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "03-08-2012", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8S22NU030D23", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "8RRN8N5C5C86", 
+                    "item_details": "\nPersons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.\n\t \n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8RRN8R5C5C8F", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": "1.03 Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RYA3425A5DE", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): None", 
+                    "item_text_raw": "2.01 Expulsion(s): None", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RYA3725A609", 
+                    "item_details": "\nPublic Employee Performance Evaluation (Government Code Section 54957)\n\t \n", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_text_raw": "2.02 Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RYA3A25A613", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment (Government Code Section 54957)\n\t \n", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957)", 
+                    "item_text_raw": "2.03 Public Employment/Public Employee Appointment (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RYA3D25A61B", 
+                    "item_details": "", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": "2.04 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RRN995C5CC0", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\n\t \nAgency Designated Representatives:\n\tDan Moser, Superintendent\n\tCathy Giammona, Associate Superintendent of Human Resources and Instruction\nMarcus Battle, Associate Superintendent of Business Services\nJuan Cruz, Assistant Superintendent of Instructional Services\n\tVida Branner, Director of Compensation and Classified Employee Relations\nCari Vaeth, Director of Human Resources\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\n", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.05 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RYA3G25A622", 
+                    "item_details": "\nConference with Legal Counsel - Anticipated Litigation \nSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: \n\t \nOne (1) Potential Case\n", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) Potential Case", 
+                    "item_text_raw": "2.06 Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) Potential Case", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRN9G5C5CCE", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNA95C5DA9", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "4.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNAD5C5DB3", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "ADOPTION OF AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNAK5C5DC0", 
+                    "item_details": "\nThe Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_text_raw": "6.01 The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "SPECIAL ORDER OF BUSINESS - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNAR5C5DD2", 
+                    "item_details": "\nMembers of the public may address the Board on any subject not on tonight’s agenda; however, provisions of the Brown Act (Government Code section 54954.2(a) and .3) preclude any action.  As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting.  When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.\n\t \nPersons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "7.01 Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNBZ5C5F07", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  8.01\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Gail Beal, Senior Vice President from Keenan Financial Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nPresentation/Discussion regarding Supplemental Employee Retirement Plan (SERP)\n\t\t\t \n\t\t\t \nThe attached presentation provides a review and analysis of findings for the Supplemental Employee Retirement Plan that was offered to Certificated non-management employees.\n\t\t\t \n\t\t\t \n\t \n", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation/Discussion regarding Supplemental Employee Retirement Plan (SERP) - Marcus Battle, Associate Superintendent of Business Services, and Gail Beal, Senior Vice President, Keenan Financial Services", 
+                    "item_text_raw": "8.01 Presentation/Discussion regarding Supplemental Employee Retirement Plan (SERP) - Marcus Battle, Associate Superintendent of Business Services, and Gail Beal, Senior Vice President, Keenan Financial Services", 
+                    "item_type": "Action, Discussion, Information, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "8RS2DW01BDBC", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  8.02\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nAdopt Amended Resolution #2011/2012-08A Supplemental Employee Retirement Plan (SERP) for Certificated Non-Management Employees\n\t\t\t \n\t\t\t \nDISCLOSURE OF POTENTIAL CONFLICT OF INTEREST\nThe subject matter of this Agenda item (Supplemental Early Retirement Plan (SERP)) raises a potential conflict of interest insofar as the eligibility criteria developed by Keenan and Associates could result in a monetary benefit to the spouse of Superintendent Dan Moser. For that reason, and upon the guidance and advice of the District’s Legal Counsel, the Superintendent has recused himself and will recuse himself from the Board discussion and consideration of this matter and will recuse himself from any involvement in the creation and administration of the SERP if it is approved by the Board in its current proposed form or as it may be amended or modified.\n\t\t\t \n\t\t\t*******************************************\n\t\t\t \nThis resolution will enable the District to offer an incentive to Certificated Non-Management employees to retire effective June 30, 2012.  There were a total of 77 certificated non-management employees who decided to retire now.  The average age for all retirees is 62.5 years and their average years of service is 29.6 years.  Employees were required to meet certain eligibility requirements as stated in the resolution in order to participate in the plan.  The cost of the incentive is offset by the savings realized by reducing positions and/or filling positions at a lower salary.\n\t\t\t \n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nNet Savings of $2.4 million over 5 years\n\t\t\t \nFUNDING SOURCE:\nGeneral Fund-Benefits\n\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt amended resolution 2011/2012-08A Supplemental Employee Retirement Plan (SERP) for Certificated Non-Management Employees.\n\t \n", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt amended resolution 2011/2012-08A Supplemental Employee Retirement Plan (SERP) for Certificated Non-Management Employees.", 
+                    "item_text": "Adopt Amended Resolution #2011/2012-08A Supplemental Employee Retirement Plan (SERP) for Certificated Non-Management Employees - Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_text_raw": "8.02 Adopt Amended Resolution #2011/2012-08A Supplemental Employee Retirement Plan (SERP) for Certificated Non-Management Employees - Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RS2QK024A38", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  8.03\n\t\t\t \nAmended\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nPresentation, Discussion and/or Action regarding ESUHSD Budget Status Outlook\n\t\t\t \n\t\t\t \nThe attached 2012-13 Budget Status Outlook provides an in-depth analysis of how the State budget actions have impacted the East Side Union High School District since FY 2007-08. The budget outlook examines how the district has responded to State budget actions and reviews the fiscal and budgetary challenges that are expected to impact the district over the short and long-term.  The budget outlook analyzes the Governor’s budget for FY 2012-13 and provides budget contingency recommendations in order to ensure that the district is prepared in the event the Governor’s tax measure fails.  Finally, the budget outlook will look at some of the opportunities that may be available to the district in order to generate additional revenues and reduce expenses. \n\t\t\t \n\t\t\t \n\t \n", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation, Discussion, and/or Action regarding ESUHSD Budget Status Outlook â Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_text_raw": "8.03 Presentation, Discussion, and/or Action regarding ESUHSD Budget Status Outlook â Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion, Information, Presentation, Report"
+                }, 
+                {
+                    "boarddocs_id": "8RWSHR72CDED", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  8.04\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nPresentation, Discussion and/or Action regarding General Obligation Bond Forecasting and Planning\n\t\t\t \n\t\t\t \nWith he upcoming issuance of $100 million of Measure E General Obligation Bonds, the District will have $79 million of authorized but unissued bonds remaining. This presentation reviews the District's options for the issuance of these remaining bonds. \n\t\t\t \n\t\t\t \n\t \n", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation, Discussion, and/or Action regarding General Obligation Bond Forecasting and Planning - Marcus Battle, Associate Superintendent of Business Services, and Dale Scott, Financial Advisor, Dale Scott and Company", 
+                    "item_text_raw": "8.04 Presentation, Discussion, and/or Action regarding General Obligation Bond Forecasting and Planning - Marcus Battle, Associate Superintendent of Business Services, and Dale Scott, Financial Advisor, Dale Scott and Company", 
+                    "item_type": "Action, Discussion, Information, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "8RY9J92330F2", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  8.05 \n\t \n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nExtension of Contract for Substitute Director of Construction/Facilities\n\t \n\t \n\t \nAdministration requests that the Board approve a 40-day extension of the contract for Thomas J. Herrington as \"Substitute Director of Construction/Facilities.\"\n\t \nMr. Herrington was initially employed in the Substitute Director position effective as of July 25, 2011, for a period of 90 days.  At the October 20, 2011, Board Meeting the Board approved a 90-day extension of his contract which expired on January 21, 2012, and, thereafter, at the Board meeting of January 19, 2012, the Board approved a 30-day extension of Mr. Herrington's contract.  \n\t \nMr. Herrington is providing critical support in connection with the District’s Measure E and Measure G Bond Programs and the District’s Facilities department and the District has an ongoing need for his services for an additional 40 days.\n\t \n\t \nFiscal Impact:\n$419.75 per eight (8) hour day\n\t \nFunding Source:\nMeasure G and Measure E\n\t \nRecommendation: \nAdministration recommends that the Board approve a 40-day extension of the contract for Thomas J. Herrington as \"Substitute Director of Construction/Facilities” in the form attached and at the same compensation rate as previously approved.\n\t \n\t \n\t \n\t \n", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "Administration recommends that the Board approve a 40-day extension of the contract for Thomas J. Herrington as \"Substitute Director of Construction/Facilitiesâ in the form attached and at the same compensation rate as previously approved.", 
+                    "item_text": "Extension of Contract for Substitute Director of Construction/Facilities - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Dan Moser, Superintendent", 
+                    "item_text_raw": "8.05 Extension of Contract for Substitute Director of Construction/Facilities - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Dan Moser, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNCU5C5F90", 
+                    "item_details": "", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_text_raw": "9.01 Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "FUTURE AGENDA ITEMS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNCX5C5F97", 
+                    "item_details": "\n\t \nFrank Biehl, President\nPatricia Martinez-Roach, Vice President\nJ. Manuel Herrera, Clerk\nMetroED\nLan Nguyen, Member\nVan Le, Member\n\t \n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "10.01 Board of Trustees", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8RRND25C5FA1", 
+                    "item_details": "", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Dan Moser, Superintendent", 
+                    "item_text_raw": "10.02 Dan Moser, Superintendent", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRND65C5FA9", 
+                    "item_details": "\nAttorney will report on Closed Session action item(s).\n", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will Report on Closed Session Action item(s)", 
+                    "item_text_raw": "11.01 Attorney will Report on Closed Session Action item(s)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8RRNDA5C5FB9", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "12.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

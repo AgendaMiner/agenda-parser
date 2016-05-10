@@ -26,7 +26,7 @@ def structureLines(agency, date):
 
 	print(json.dumps(json_agenda, indent=4))
 
-	writeJSONtoDisk(json_agenda, agency, date)
+	writeJSONtoDisk(json_agenda, agency, date, "TODO INSERT TITLE")
 
 
 '''
@@ -217,8 +217,8 @@ writeJSONtoDisk
 Given a JSON-formatted agenda object, an agency name, and a date,
 writes out the object to disk as JSON
 '''
-def writeJSONtoDisk(json_agenda, agency, date):
-	filepath = "../docs/" + agency + "/structured_agendas/" + agency + "_" + date + "_agenda.json"
+def writeJSONtoDisk(json_agenda, agency, date, meeting_title):
+	filepath = "../docs/" + agency + "/structured_agendas/" + agency + "_" + date + "_" + meeting_title + "_agenda.json"
 
 	with codecs.open(filepath, 'w', encoding="utf-8") as outfile:
 		json.dump(json_agenda, outfile, sort_keys = True, indent = 4, ensure_ascii=False)

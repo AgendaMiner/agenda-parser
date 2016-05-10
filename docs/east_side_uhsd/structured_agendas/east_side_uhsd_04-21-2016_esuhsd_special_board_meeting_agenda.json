@@ -1,0 +1,84 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "04-21-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A98V4S6D6F7E", 
+                    "item_details": "\nThe Special Board Meeting will begin at 3:55 p.m. in East Side Union High School District Board Room.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A98V4V6D6F81", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7).  \n\t \nMembers of the public may address the Board on a closed session item. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a speaker request form, which is located at the entrance of the Board Room.   When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. \n\t \n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Members of the public may address the Board on a closed session item. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a speaker request form, which is located at the entrance of the Board Room. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Members of the public may address the Board on a closed session item. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a speaker request form, which is located at the entrance of the Board Room. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A98V4Y6D6F86", 
+                    "item_details": "\nRecess to Closed Session in the Superintendent’s Conference Room; see item 2 on agenda (CLOSED SESSION).   (There will be a report out on any Closed Session actions at the conclusion of Closed Session)   \n", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session in the Superintendent’s Conference Room; see item 2 on agenda (CLOSED SESSION). (There will be a report out on any Closed Session actions at the conclusion of Closed Session)", 
+                    "item_text_raw": "1.03 Recess to Closed Session in the Superintendent’s Conference Room; see item 2 on agenda (CLOSED SESSION). (There will be a report out on any Closed Session actions at the conclusion of Closed Session)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A98V546D6F8A", 
+                    "item_details": "\nExpulsion(s): Student A\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): Student A", 
+                    "item_text_raw": "2.01 Expulsion(s): Student A", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A98V586D6F8E", 
+                    "item_details": "\nThe Board and/or Superintendent will report on Closed Session actions.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will Report on Closed Session Actions", 
+                    "item_text_raw": "3.01 Legal Counsel will Report on Closed Session Actions", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A98V5C6D6F92", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "4.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

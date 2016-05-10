@@ -1,0 +1,457 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "03-04-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN22580D4C", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_text_raw": " Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session", 
+            "section_number": "0."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN26580D56", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PN29580D63", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " 1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PN2C580D6F", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " 1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN2G580D78", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): Students A-C", 
+                    "item_text_raw": " 2.01 Expulsion(s): Students A-C", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN2K580D7F", 
+                    "item_details": "", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": " 2.02 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN2N580D8B", 
+                    "item_details": "", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_text_raw": " 2.03 Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN2R580D9A", 
+                    "item_details": "", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957)", 
+                    "item_text_raw": " 2.04 Public Employment/Public Employee Appointment (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN2U580DA6", 
+                    "item_details": "Agency Designated Representatives: Dan Moser, Interim SuperintendentJerry Kurr, Associate Superintendent of Administration and Business ServicesCathy Giammona, Interim Associate Superintendent of Human Resources and InstructionVida Branner-Siders, Director of Compensation and Classified Employee RelationsEmployee Organizations:American Federation of Teachers (AFT)California School Employees Association (CSEA)East Side Teachers Association (ESTA)", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": " 2.05 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN2X580DAF", 
+                    "item_details": "Conference with Legal Counsel - Existing LitigationSubdivision (a) of Section 54956.9 of the Government Code: One (1) CaseKinetics Mechanical Services, Inc. vs. East Side Union High School District, Santa Clara County Superior Court, Case No. 109CV141312", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "2.06a Conference with Legal Counsel - Existing Litigation; Subdivision (a) of Section 54956.9 of the Government Code: One (1) Case", 
+                    "item_text_raw": " 2.06a Conference with Legal Counsel - Existing Litigation; Subdivision (a) of Section 54956.9 of the Government Code: One (1) Case", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN32580DB9", 
+                    "item_details": "Conference with Legal Counsel - Anticipated LitigationSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) potential case", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "2.06b Conference with Legal Counsel - Anticipated Litigation; Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) potential case", 
+                    "item_text_raw": " 2.06b Conference with Legal Counsel - Anticipated Litigation; Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: One (1) potential case", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN35580DC6", 
+                    "item_details": "\tProperty:\tESUHSD Educational Center, or portion thereof, \t830 N. Capitol Avenue\tSan Jose, CA  95133\tDistrict Negotiators:\tDan Moser, Interim Superintendent\tJerry Kurr, Associate Superintendent of Administration \t                  and Business Services\tRogelio Ruiz, Legal Counsel\tReal Estate Representatives Sam Swan, Bob Hunt and Andre HuntNegotiating Parties:   ESUHSD, Santa Clara Valley Water District, and \tOther Parties To Be DeterminedUnder Negotiation:\tPrice and Terms", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Real Property Negotiators", 
+                    "item_text_raw": " 2.07 Conference with Real Property Negotiators", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN39580DD5", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 3.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 6:30 P.M. – District Office Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3D580DE8", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3H580DF1", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3M580DF9", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "African American Student Achievement", 
+                    "item_text_raw": " 6.01 African American Student Achievement", 
+                    "item_type": "Recognitions"
+                }
+            ], 
+            "section_name": "Board Special Recognition(s)", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3R580E05", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Presentation"
+                }
+            ], 
+            "section_name": "Student Board Liaisons", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3V580E14", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN3Z580E7B", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction, Kirsten King, Interim Director of Instructional Services and Kathleen Jackson, Counseling Subject Area CoordinatorSUBJECT:AB1802 Procedures PresentationThis is a presentation on AB1802 implementation by the Counseling Subject Area Coordinator on the procedures and timelines counselors use to notify parents and students regarding graduation status. AB1802 legislation requires that all 11th grade students and their parents be notified and counseled on graduation status once during their junior year. This legislation also requires that seniors and their parents be contacted regarding graduation status two times during their 12th grade year. The District has a common timeline and letters printed in three languages that are used throughout the District for the purposes of AB1802.   ", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "AB1802 Procedures Presentation - Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction, Kirsten King, Interim Director of Instructional Services, and Kathleen Jackson, Counseling Subject Area Coordinator", 
+                    "item_text_raw": " 9.01 AB1802 Procedures Presentation - Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction, Kirsten King, Interim Director of Instructional Services, and Kathleen Jackson, Counseling Subject Area Coordinator", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PN44580F3A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction, and Tim Nguyen, Coordinator of English Language Learners Supplementary EducationSUBJECT:Approve ARRA Title I Waiver and PlanAmerican Recovery and Reinvestment Act (ARRA) Waiver – ARRA monies were allocated to ESUHSD using the Title I entitlement formula.  As such, ARRA funds were subject to the rules and regulations that govern Title I. These regulations included the required 20% set aside for Supplemental Education Services (SES) as well as the required 10% for Professional Development. This is above and beyond the amounts already being set aside for these activities from the “regular” Title I funds received. Many Local Education Agencies (LEA – school districts) were concerned that this additional set aside will not provide the flexibility needed in this fiscal climate.  Consequently, the California Department of Education (CDE) and the State Board of Education (SBE) jointly submitted eight waiver requests to the United States Department of Education (ED). East Side Union High School District is submitting an ARRA waiver and plan to the State Board of Education (SBE) to achieve more flexibility in expending our ARRA funds.FISCAL IMPACT:NoneFUNDING SOURCE:Title I Part AARRA FundRECOMMENDATION:It is recommended that the Board of Trustees approve the 2010 ARRA Waiver Application and Plan as indicated herein, and that the Interim Superintendent be authorized to make modifications as needed. ", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve ARRA Title I Waiver and Plan - Cathy Giammona, Interim Superintendent, Human Resources and Instruction, and Tim Nguyen, Coordinator of English Language Learners Supplementary Education", 
+                    "item_text_raw": " 9.02 Approve ARRA Title I Waiver and Plan - Cathy Giammona, Interim Superintendent, Human Resources and Instruction, and Tim Nguyen, Coordinator of English Language Learners Supplementary Education", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Instructional Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN48580F4F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Eddie Garcia, Board President, and Dan Moser, Interim SuperintendentSUBJECT:Discussion/Report/Action on Potential Parcel Tax Ballot MeasureProposals for service in the development and implementation of a ballot measure feasibility and public information program leading up to a future parcel tax election for the November 2010 Election are being solicited.  A recommendation will be brought forward at the March 18, 2010, Board Meeting. FISCAL IMPACT:NoneFUNDING SOURCE:Not ApplicableRECOMMENDATION:None", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion/Report/Action on Potential Parcel Tax Ballot Measure - Eddie Garcia, Board President, and Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 10.01 Discussion/Report/Action on Potential Parcel Tax Ballot Measure - Eddie Garcia, Board President, and Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN4B580FC3", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Response to Santa Clara County Office of Education regarding FCMAT Extraordinary Audit of ESUHSDOn January 29, 2010, the FCMAT Report of its Extraordinary Audit of the East Side Union High School District was released to the District.  The Audit was conducted by FCMAT at the request of the Santa Clara County Office of Education pursuant to Education Code section 1241.5(b).  In the letter accompanying the FCMAT report, the County Superintendent strongly recommends that the District carefully review the Findings and Recommendations in the FCMAT report and “exercise due diligence to ensure that the recommended actions are taken.”  The County Superintendent has indicated that the District’s response to the FCMAT Report is due no later than March 5, 2010. This memorandum includes the Administration’s recommended response to the FCMAT Report. Administration’s Recommended Response to FCMAT Report The FCMAT Report includes a total twenty-one (21) separate recommendations, thirteen of which relate to “Contract Services”, three of which relate to “Bond Funds”, and the remaining five of which relate to vacation and vacation accrual issues.  At the February 9, 2010, Board meeting, the Board approved the implementation of several remedial steps and measures in response to several of the FCMAT recommendations.  A copy of the Administrative Directive to all responsible staff implementing those measures is attached. ADMINISTRATION’S RECOMMENDED RESPONSES1.\tCONTRACTED SERVICESRecommendations to the Governing BoardFCMAT Recommendation #1 to the BOARD:  Amend Administrative Regulation 3323 to require informal bids for all service contracts of more than $5,000 with no maximum limit.Recommended Response:Recommended amendment to be implemented immediately by administrative directive from Superintendent’s Office; provided that Staff will be directed to assess overall impact to District operations from such administrative changes.  Administration will report such findings and any additional recommendations to the Board within the next 60-90 days. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT Recommendation #2 to the BOARD:Amend Administrative Regulation 3323 to clarify that informal bids are required when consulting service contracts are otherwise exempt from bidding per Government Code 56030.Recommended Response:Recommended amendment to be implemented immediately by administrative directive from Superintendent’s Office; provided that Staff will be directed to assess overall impact to District operations from such administrative changes.  Administration will report such findings and any additional recommendations to the Board within the next 60-90 days. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT Recommendation #3 to the BOARD:Enforce Administrative Regulation 3323 regarding utilization of informal bids.Recommended Response:Recommended amendment to be implemented immediately by administrative directive from Superintendent’s Office. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT Recommendation #4 to the BOARD:Include specific details on contract approvals in minutes of Board meetings.Recommended Response:Recommendation to be implemented immediately.  FCMAT Recommendation #5 to the BOARD:Require evidence that conflict-of-interest statement has been submitted for every consultant contract being considered for approval as required by Board Policy 3600.Recommended Response:Administration recommends that the Board implement this recommendation immediately.Consistent with that approach, Administration further recommends that Board Policy 3600 be amended to provide that all contracts for consultant services submitted to the Board for approval include a statement by Administration/staff that the required conflict of interest statement has been submitted by the proposed consultant.FCMAT Recommendation #6 to the BOARD:Restore the internal audit function, including funding for an internal auditor position, and operate this function according to industry standards.Recommended Response:The Education Code recognizes the \"Internal Auditor\" and \"Disbursing Officer\" as positions whose responsibilities typically include the verification of District payments and monitoring of internal financial practices.  Attached is a copy of the job description for the Internal Auditor position which formerly existed in the District.  Also attached is a draft job description prepared by staff for a possible \"Disbursing Officer\" position within the District. Administration recommends that the Board authorize, fund and approve the creation of a District Internal Auditor or Disbursing Officer position whose responsibilities shall include implementation and enforcement of internal financial controls and verification that District payments are made in accordance with State and Federal laws and District Policies and Administrative Regulations.  Administration recommends that the position description and title be finalized and posted after consultation with and input from the District's Audit Committee, but no later than March 19, 2010.  The position would report and be directly responsible to the Governing Board.  Position is to be funded by general fund and Measures G and E Bond funds as appropriate.  FCMAT Recommendation #7 to the BOARD:Establish Board policy providing guidance to the staff in circumstances where contracted services can be billed to the district by consultants and other service providers.Recommended Response:Administration recommends that the Board implement this recommendation immediately.  Administration will prepare the requested Board policy for Board review and first reading at the March 18, 2010, Regular Meeting. FCMAT recommendation #1 to the DISTRICT:Submit all contract extensions for Board approval per policy 3312.Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #2 to the DISTRICT:Submit purchase orders for all consulting services contracts to the Governing Board for approval.Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #3 to the DISTRICT:Submit to the Board for approval all purchase orders adjustments that do not otherwise meet the criteria of Board Policy 3314.Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #4 to the DISTRICT:Require all vendors to provide detailed invoices that include specific dates and hours per day of service, detailed by the professional providing the service.Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff.  Administration will develop and implement administrative regulation requiring such detail as a prerequisite to payment. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #5 to the DISTRICT:Refrain from utilizing contract provisions that provide for equal payment installments if they do not require itemized invoices with the same detail included in recommendation number four.Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #6 to the DISTRICT:Review the process utilized to hire the consultant whose payments were made under the purchase order of a different consultant and determine whether these services were authorized.Response to Recommendation:Administration will confer with FCMAT to determine the identity of the subject consultant and within the next 60 days will investigate the facts and circumstances surrounding the subject payments.  Administration will report back to the Board on its findings and recommendations. 2.\tBOND FUNDS – CONTRACTED SERVICESFCMAT recommendation #1 to the DISTRICT:Require all vendors provide detailed invoices that include specific dates and hours per day of service, detailed by the person providing the service, with the underlying facility project identified with each charge. Response to Recommendation:Administration recommends that this recommendation be implemented immediately by administrative directive from the Superintendent’s Office to all responsible staff. Administrative Directive issued on March 1, 2010. Copy attached. FCMAT recommendation #2 to the DISTRICT:Consider a review of all invoices charged to Measure G and Measure E funds to determine that project costs were properly allocated to each bond program.Response to Recommendation:In 2008, the District commissioned a Management Review of the District’s Measure G bond program by Total School Solutions (“TSS”).  The TSS Review report was issued in June 2008 and presented to the Board in open session.  In addition, in compliance with state law, the Measure G and Measure E bond programs are audited annually by outside independent auditors.Given the history of audits and oversight of the District’s bond program and the potential cost factors involved, Administration recommends that this item be referred to the District Audit Committee for review and consideration by that Committee in light of the scope of past and on-going audits, and that the Audit Committee prepare a recommendation to be submitted to the Board within the next 60-90 days. FCMAT recommendation #3 to the DISTRICT:Fund from other sources any inappropriate expenditures identified as a result of the review per recommendation number two.Response to Recommendation:See immediately preceding recommended response.3.\tSUPERINTENDENT’S VACATIONFCMAT recommendation #1 to the BOARD:Adopt policy and regulations to require periodic vacations be taken by all staff that accrue this leave, and implement procedures to periodically confirm vacations are taken.Response to Recommendation:Administration recommends that staff be directed to prepare the referenced policies and regulations for submittal to the Board for a first reading within the next 60 days.FCMAT recommendation #2 to the BOARD:Adopt policy and regulations to develop a clear process for cash payouts of unused vacation.  Include in this process a requirement that each payout is to be approved by the Governing Board in advance of the payout.Response to Recommendation:Administration recommends that staff be directed to prepare the referenced policies and regulations for submittal to the Board for a first reading within the next 60 days.FCMAT recommendation #3 to the BOARD:Establish Board regulations regarding the basis for calculation of administrator daily rates to be utilized for vacation payout calculations.Response to Recommendation:Administration recommends that staff be directed to prepare the referenced regulations and to be submittal to the Board for review at a Regular Meeting within the next 60 days.FCMAT recommendation #4 to the BOARD:Review all Board policy, regulations and contracts for administrators and modify if necessary to establish clear language identifying required annual days of paid service, paid holidays, accrued vacation, sick leave and other leaves for members of management.Response to Recommendation:Administration to begin review of such items and to report its findings to the Board at a Regular Meeting within the next 60-90 days.FCMAT recommendation #5 to the DISTRICT:Develop and implement forms to be utilized by the staff to request and process accrued vacation payouts.Response to Recommendation:Recommended forms to be developed and implemented by Staff.  Administration will report its progress to the Board on this matter within the next 60 days.FISCAL IMPACT:To be determined. FUNDING SOURCE:General Fund and Measures G and E Bond Funds. RECOMMENDATION:Administration recommends the Board approve the above recommended response to be submitted to the Santa Clara County Superintendent of Schools and that the Board direct and authorize Administration to take and implement all necessary actions as stated above. ", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Response to Santa Clara County Office of Education regarding FCMAT Extraordinary Audit of ESUHSD â Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 10.02 Response to Santa Clara County Office of Education regarding FCMAT Extraordinary Audit of ESUHSD â Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN4E581081", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTAMENDED          TO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Discussion and/or Action regarding FCMAT Fiscal Health Risk Analysis Tool of ESUHSDAt the January 18, 2010, Board Meeting, Dr. Charles Weis, County Superintendent of Schools, cited the FCMAT Fiscal Health Risk Analysis tool used to evaluate key fiscal indicators of ESUHSD.   The Fiscal Health Risk Analysis tool includes seventeen (17) components of key fiscal indicators to measure a district’s potential fiscal risk and provide a fiscal “snapshot.”  At the time of the fiscal “snapshot” eight (8) components were identified as areas to be monitored. Fiscal Health Risk Analysis Components Identified for Monitoring:1.  Deficit Spending2.  Fund Balance3.  Reserve for Economic Uncertainty5.  Interfund Borrowing6.  Bargaining Agreements7.  General Fund8.  Encroachment13.  Leadership/StabilityFISCAL IMPACT:NoneFUNDING SOURCE:Not ApplicableRECOMMENDATION:It is recommended that the Board of Trustees direct administration to provide a progress report on these seven areas at the May 20, 2010, Board Meeting.", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion and/or Action regarding FCMAT Fiscal Health Risk Analysis Tool of ESUHSD â Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 10.03 Discussion and/or Action regarding FCMAT Fiscal Health Risk Analysis Tool of ESUHSD â Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN4H5810ED", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTGovernor Schwarzenegger's Proposed BudgetResolution #2009/2010-32WHEREAS, despite Governor Schwarzenegger’s vow to protect education, his proposed budget manipulates the numbers to reduce education funding by $900 million in the current year and an additional $2.4 billion in 2010–2011; andWHEREAS, California’s education system plays a vital role in the state’s economic future and schools are now in a crisis bigger than any ever seen -- one that the Governor and Legislators must take more seriously; and WHEREAS, these unprecedented cuts are changing the face of education for an entire generation of schoolÂ­children; andWHEREAS, California’s educational programs have been cut to the bone, in some cases down to the marrow, and as a result schools have been forced to eliminate summer school, libraries, transportation, athletics, technology, agriculture, Regional Occupational Programs (ROP) and General Education Development (GED); andWHEREAS, the educational programs being cut are the very programs that help our students succeed in school and compete in the workforce; andWHEREAS, administrative costs have taken the biggest hit in most districts and yet the Governor’s budget proposal recommends that 10% be cut from school districts and county office of education administrative costs; andWHEREAS, district administration provides important functions that have a direct impact on what happens in the classroom and currently California’s schools rank among the lowest in the nation in the number of district administrators per student; andWHEREAS, schools simply can’t continue to absorb these cuts on top of the $17 billion in reductions they’ve endured over the past two years; andNOW, THEREFORE, BE IT RESOLVED that the East Side Union High School District opposes further cuts to education funding and urges the legislature to take responsibility for California’s future by making education a priority.PASSED AND ADOPTED this 4th day of March, 2010 by the Governing Board of the East Side Union High School District at its Regular Meeting held at 830 N. Capitol Avenue, San Jose, State of California. AYES:   ________NOES:  ________ABSENT:  ______ABSTAIN:  ______I certify the foregoing resolution was duly introduced, passed, and adopted by the East Side Union High School District Board of Trustees at a meeting held on March 4, 2010._________________________ClerkESUHSD Board of Trustees", 
+                    "item_number": "10.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2009/2010-32 Governor Schwarzenegger's Proposed Budget - Frank Biehl, Board Member", 
+                    "item_text_raw": " 10.04 Adopt Resolution #2009/2010-32 Governor Schwarzenegger's Proposed Budget - Frank Biehl, Board Member", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN4L58115A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTMarch 4, 2010, Day of ActionStand Up for SchoolsResolution #2009-2010-33WHEREAS, California’s public schools and colleges have been left with the fallout of more than $17 billion in state budget cuts over the last two years; andWHEREAS, these historic cuts are unlike anything we've seen since the Great Depression, ranking California 46th in the nation in education spending -- $2,400 below the national average; andWHEREAS, drastic state budget cuts have led to larger class sizes and the elimination of vital programs including art, music, career technical education, and physical education; and WHEREAS, more than 16,000 teachers, school librarians, counselors, education support professionals and other education employees were laid off in 2009, and thousands more will receive pink slips by the state's March 15 deadline this year; andWHEREAS, CSU enrollment is expected to drop by 40,000 students over the next two years and student tuition has increased by 32%, community college fees have risen 30% while course offerings have been reduced, and tuition for UC students has risen 10%; andWHEREAS, the state budget cuts have led to cuts to health care for children, poor and working families, and vital social services for our most vulnerable populations—the poor and senior citizens; and WHEREAS, March 4 “Start the Day for Students” is part of a statewide day of action that has grown into a day of students, parents, teachers, administrators, school board members, college faculty, education support professionals and community members united against the state budget cuts that are destroying the future for a generation of students and the future of California; and WHEREAS, investing in public education is essential to the future of this state; and WHEREAS, it is crucial to find a solution to ongoing and long-term assaults on public education funding; andNOW, THEREFORE, BE IT RESOLVED, that the East Side Union High School District fully supports the March 4, 2010 “Start the Day For Students” events of the California Teachers Association, its local chapters, California School Boards Association, Association of California School Administrators, parents, other education organizations and labor unions to protect schools and other essential services from more drastic state budget cuts; andBE IT FURTHER RESOLVED, that the East Side Union High School District encourages everyone concerned about public education in this community to join the conversation at www.standupforschools.org. PASSED AND ADOPTED this 4th day of March, 2010 by the Governing Board of the East Side Union High School District at its Regular Meeting held at 830 N. Capitol Avenue, San Jose, State of California.AYES:   ________NOES:  ________ABSENT:  ______ABSTAIN:  ______I certify the foregoing resolution was duly introduced, passed, and adopted by the East Side Union High School District Board of Trustees at a meeting held on March 4, 2010._________________________ClerkESUHSD Board of Trustees", 
+                    "item_number": "10.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2009/2010-33 Endorsing March 4, 2010, Day of Action -- Stand Up for Schools - Frank Biehl, Board Member", 
+                    "item_text_raw": " 10.05 Adopt Resolution #2009/2010-33 Endorsing March 4, 2010, Day of Action -- Stand Up for Schools - Frank Biehl, Board Member", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PN4P5811B0", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Approve Board Members Attendance and Lawful Expenses to the CSBA Delegate Assembly and 2010 CSBA Legislative Action ConferenceApproval for Board Members attendance and lawful expenses to the following events is requested:  CSBA Delegate Assembly - May 22 and May 23, 2010CSBA 2010 Legislative Action Conference - May 23 and May 24, 2010FISCAL IMPACT:All authorized expenses as stipulated by the Board of TrusteesFUNDING SOURCE:General Fund - Board of TrusteesRECOMMENDATION:It is recommended that the Board of Trustees approve Board Members attendance and lawful expenses to the CSBA Delegate Assembly and 2010 CSBA Legislative Action Conference.", 
+                    "item_number": "10.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Board Members Attendance and Lawful Expenses to the CSBA Delegate Assembly and CSBA 2010 Legislative Action Conference - Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 10.06 Approve Board Members Attendance and Lawful Expenses to the CSBA Delegate Assembly and CSBA 2010 Legislative Action Conference - Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN4T581215", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Student Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "11."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN4X581228", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\nTO:\nBoard of Trustees\nFROM:\nDan Moser, Interim Superintendent\nPREPARED BY:\nCathy Giammona, Interim Associate Superintendent, Human Resources and Instruction \nSUBJECT:\nHold Public Hearing at Approximately 6:30 p.m.\nAccept the Initial Proposal for Successor Contract: From East Side Union High School District to San Jose Federation of Teachers Local 957, AFT, AFL-CIO\nThe East Side Union High School District presents the following initial proposal to the San Jose Federation of Teachers Local 957, AFT, AFL-CIO for the 2010-2011 school year. Pursuant to Government Code § 3547 the District’s initial proposal must be presented to the public in open session at a public meeting.\nThe District continues to acknowledge and appreciate the contributions made to its mission and programs by its certificated employees, and continues to seek the utilization of equitable and collaborative methods of addressing the needs of the students, parents and employees of the East Side Union High School District. Accordingly, the District initially proposes to continue the language of the present agreement for the 2010-2011 school year except as modified in a manner consistent with the matters and issues described below.\nThe District continues to experience severe financial constraints arising from a variety of factors. The District views financial issues in the context of keeping the District solvent, maintaining the legally required reserves, and preserving quality education for the students of the District. Given the above, the District proposes the following areas for negotiations: total compensation which includes salary and benefits; and reduction of work year.\nFISCAL IMPACT:\nTo be Negotiated\nFUNDING SOURCE:\nVarious\nRECOMMENDATION:\nAdministration recommends that the Board sunshine and accept any comment on the District’s initial proposal to the San Jose Federation of Teachers Local 957, AFT, AFL-CIO.\n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to San Jose Federation of Teachers Local 957, AFT, AFL-CIO - Dan Moser, Interim Superintendent; and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_text_raw": " 12.01 Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to San Jose Federation of Teachers Local 957, AFT, AFL-CIO - Dan Moser, Interim Superintendent; and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN5258127D", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction; and Vida Branner-Siders, Director of Compensation and Classified Employee RelationsSUBJECT:Hold Public Hearing at Approximately 6:30 p.m.Accept the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187The East Side Union High School District presents the following initial proposal to the California School Employees Association, Chapter 187 for the 2010-2011 school year.  Pursuant to Government Code ยง 3547 the District’s initial proposal must be presented to the public in open session at a public meeting.The District continues to acknowledge and appreciate the contributions made to its mission and programs by its classified employees, and continues to seek the utilization of equitable and collaborative methods of addressing the needs of the students, parents and employees of the East Side Union High School District.  Accordingly, the District initially proposes to continue the language of the present agreement for the 2010-2011 school year except as modified in a manner consistent with the matters and issues described below.The District continues to experience severe financial constraints arising from a variety of factors.  The District views financial issues in the context of keeping the District solvent, maintaining the legally required reserves, and preserving quality education for the students of the District.  Given the above, the District proposes the following areas for negotiations:  Adjustments/reduction in total compensation which includes salary and benefits; reduction of work year and work day; reduction of chapter release time.FISCAL IMPACT:To be NegotiatedFUNDING SOURCE:VariousRECOMMENDATION:Administration recommends that the Board sunshine and accept any comment on the District’s initial proposal to the California School Employees Association, Chapter 187.\n", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Dan Moser, Interim Superintendent; Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction; Vida Branner-Siders, Director of Compensation and Classified Employee Relations", 
+                    "item_text_raw": " 12.02 Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to California School Employees Association, Chapter 187 - Dan Moser, Interim Superintendent; Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction; Vida Branner-Siders, Director of Compensation and Classified Employee Relations", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PN555812E6", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Interim Associate Superintendent, Human Resources and InstructionSUBJECT:Hold Public Hearing at Approximately 6:30 p.m.Accept the Initial Proposal for Successor Contract: From East Side Union High School District to East Side Teachers AssociationThe East Side Union High School District presents the following initial proposal to the East Side Teachers Association for the 2010-2011 school year.  Pursuant to Government Code ยง 3547 the District’s initial proposal must be presented to the public in open session at a public meeting.The District continues to acknowledge and appreciate the contributions made to its mission and programs by its certificated employees, and continues to seek the utilization of equitable and collaborative methods of addressing the needs of the students, parents and employees of the East Side Union High School District.  Accordingly, the District initially proposes to continue the language of the present agreement for the 2010-2011 school year except as modified in a manner consistent with the matters and issues described below.The District continues to experience severe financial constraints arising from a variety of factors.  The District views financial issues in the context of keeping the District solvent, maintaining the legally required reserves, and preserving quality education for the students of the District.  Given the above, the District proposes the following areas for negotiations:  Adjustments/reductions in total compensation which includes salary and benefits; reduction of work year; increase class size; Special Day Class caseload; and reduction in athletic director release time/stipend.FISCAL IMPACT:To be NegotiatedFUNDING SOURCE:VariousRECOMMENDATION:Administration recommends that the Board sunshine and accept any comment on the District’s initial proposal to the East Side Teachers Association.\n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to East Side Teachers Association - Dan Moser, Interim Superintendent; and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_text_raw": " 12.03 Hold Public Hearing at Approximately 6:30 p.m. - Accept the Initial Proposal for Successor Contract: From East Side Union High School District to East Side Teachers Association - Dan Moser, Interim Superintendent; and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Human Resources - Operational Items/Board Discussion and/or Action", 
+            "section_number": "12."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN5958137B", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business Services, Dennis Barbata, Director of Information Technology Services, and George Sanchez, Coordinator of Student ServicesSUBJECT:ADA Recovery PresentationThe purpose of the ADA Recovery presentation is to show how absences affect our ADA.  However, because of the new pro-active programs created by the Attendance Accounting Department,  school sites now have vehicles for recovering lost ADA.  The presentation will show how these State-approved programs are being used to bring back dollars to the district.", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "ADA Recovery Presentation - Jerry Kurr, Associate Superintendent of Administration and Business Services, Dennis Barbata, Director of Information Technology Services, and George Sanchez, Coordinator of Student Services", 
+                    "item_text_raw": " 13.01 ADA Recovery Presentation - Jerry Kurr, Associate Superintendent of Administration and Business Services, Dennis Barbata, Director of Information Technology Services, and George Sanchez, Coordinator of Student Services", 
+                    "item_type": "Discussion, Report"
+                }, 
+                {
+                    "boarddocs_id": "86PN5C5813ED", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business Services SUBJECT:Adopt Resolution #2009/2010-34 Authorizing the Issuance and Sale of General Obligation Bonds, 2008 Election, Series B, in the Principal Amount not to Exceed $100,000,000East Side Union High School District wishes to institute proceedings to authorize the issuance and sale of a second series of its General Obligation Bonds, which were authorized by the voters at the February 5, 2008 election.  The total bond authorization was $349 million of which $50 million has been previously issued.    The District proposes to issue the bonds in the aggregate principal amount not to exceed $100 million.  The Series B bonds will be issued under the Government Code (beginning at Section 53506), which allows the District to issue the bonds directly rather than through the Board of Supervisors of the County.The proceeds of the Bonds will be applied by the District for acquisition and construction of educational facilities to be used for the educational purposes of the District, which is in accordance with the ballot proposition as authorized by the voters.FINANCIAL IMPACT:$100,000,000 (not to exceed)FUNDING SOURCE:Measure ERECOMMENDATION:It is recommended the Board of Trustees adopt Resolution #2009/2010-34 Authorizing the Issuance and Sale of General Obligation Bonds, 2008 Election, Series B, (Measure E) in a Principal Amount not to Exceed $100,000,000.\n", 
+                    "item_number": "13.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2009/2010-34 Authorizing the Issuance and Sale of General Obligation Bonds, 2008 Election, Series B, in the Principal Amount not to Exceed $100,000,000 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 13.02 Adopt Resolution #2009/2010-34 Authorizing the Issuance and Sale of General Obligation Bonds, 2008 Election, Series B, in the Principal Amount not to Exceed $100,000,000 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Business Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "13."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN5G581483", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Facilities - Operational Items/Board Discussion and/or Action", 
+            "section_number": "14."
+        }, 
+        {
+            "items": [], 
+            "section_name": "Consent Calendar Items - ATTACHMENT A", 
+            "section_number": "15."
+        }, 
+        {
+            "items": [], 
+            "section_name": "Written Reports/Recommendations", 
+            "section_number": "16."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN5N581496", 
+                    "item_details": "Lan Nguyen, Vice PresidentPatricia Martinez-Roach, ClerkJ. Manuel Herrera, MemberFrank Biehl, MemberEddie Garcia, President ", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": " 17.01 Board of Trustees", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PN5R5814A2", 
+                    "item_details": "Dan Moser, Interim Superintendent", 
+                    "item_number": "17.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Interim Superintendent", 
+                    "item_text_raw": " 17.02 Interim Superintendent", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Board of Trustees/Superintendent Communications/Comments", 
+            "section_number": "17."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN5V5814AB", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "18."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PN5Z5814B8", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "19."
+        }
+    ]
+}

@@ -1,0 +1,540 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "02-15-2007", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LQQE268DE81", 
+                    "item_details": "\nAttached is the February 15, 2007, Regular Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3FW4Q6403EF", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment Regarding items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment Regarding items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3G2226417BD", 
+                    "item_details": "\nRecess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.)SEE ITEM 12 ON AGENDA (CLOSED SESSION) \n\t \nOpen Session 6:00 P.M. – Board Room\n", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3G24S6474D3", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3G25K64935E", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3G2BV651CE8", 
+                    "item_details": "\nBoard Special Recognition(s) \nStudent Academic Achievement Awards \n\t \nTrieu Ton                      Andrew Hill High School \nLarry Bach                    Evergreen Valley High School \nYadira Villegas              Foothill High School \nKhanh Le                      Independence High School \nCarmen Buckner          James Lick High School \nSteven Chan                Mt. Pleasant High School \nTerik Daly                     Oak Grove High School \nLiza De Los Reyes       Overfelt High School \nLucinda Lai                   Piedmont Hills High School \nJimmy Shen                 Santa Teresa High School \nFlorence On                 Silver Creek High School  \nJonamirian Ventura      Yerba Buena High School \n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Student Academic Achievement Awards", 
+                    "item_text_raw": "4.01 Student Academic Achievement Awards", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3G27764B005", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For Consideration by the Board of Trustess", 
+                    "item_text_raw": "5.01 For Consideration by the Board of Trustess", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3G3576697BF", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3GUZ95DBD30", 
+                    "item_details": "\nStudent Board Liaison\nPresentation by Amelia Yeh, Santa Teresa High School ASB President \n", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Santa Teresa High School ASB President-Student Board Liason", 
+                    "item_text_raw": "7.01 Santa Teresa High School ASB President-Student Board Liason", 
+                    "item_type": "Action, Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "A3GV3H5DF265", 
+                    "item_details": "\nStudent Board Liaison\nPresentation by Chalesea Schuler, Mt. Pleasant High School ASB President \n", 
+                    "item_number": "7.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Mt. Pleasant High School ASB President-Student Board Liason", 
+                    "item_text_raw": "7.02 Mt. Pleasant High School ASB President-Student Board Liason", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "STUDENT BOARD LIASIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3GVSS5F3DB7", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation by West Coast Aquatics – Bob Nuñez, Superintendent and Sandra Rasmussen, Chairperson of West Coast Aquatics", 
+                    "item_text_raw": "8.01 Presentation by West Coast Aquatics – Bob Nuñez, Superintendent and Sandra Rasmussen, Chairperson of West Coast Aquatics", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GVUN5F56D1", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation and Request for Consideration of Renewal for Escuela Popular Charter School – Patricia Requerin, Principal of Escuela Popular Charter School and Carol Blackerby, Interim Director of Student Services", 
+                    "item_text_raw": "8.02 Presentation and Request for Consideration of Renewal for Escuela Popular Charter School – Patricia Requerin, Principal of Escuela Popular Charter School and Carol Blackerby, Interim Director of Student Services", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GVW35F64ED", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at 6:30 p.m. to Consider the Level of Support by Teachers Employed by the District, Other Employees of the District, and Parents for the Bay Area Technology School Charter Petition Submitted to the District on or about January 11, 2007 (Education Code Section 47605(b) – Suleyman Bahceci, Ph.D., and Carol Blackerby, Interim Director of Student Services", 
+                    "item_text_raw": "8.03 Hold Public Hearing at 6:30 p.m. to Consider the Level of Support by Teachers Employed by the District, Other Employees of the District, and Parents for the Bay Area Technology School Charter Petition Submitted to the District on or about January 11, 2007 (Education Code Section 47605(b) – Suleyman Bahceci, Ph.D., and Carol Blackerby, Interim Director of Student Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GVY85F7EED", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation of Citizen's Bond Oversight Committee – John Moore, Chairperson Citizen’s Bond Oversight Committee", 
+                    "item_text_raw": "8.04 Presentation of Citizen's Bond Oversight Committee – John Moore, Chairperson Citizen’s Bond Oversight Committee", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GVZ95F8DD1", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-24 declaring March 4-11, 2007, as Week of the School Administrator – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.05 Adopt Resolution #2006/2007-24 declaring March 4-11, 2007, as Week of the School Administrator – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GVZX5F9D36", 
+                    "item_details": "", 
+                    "item_number": "8.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Nomination and Election of Representative to Santa Clara County School Boards Association – Bob Nuñez, Superintendent", 
+                    "item_text_raw": "8.06 Nomination and Election of Representative to Santa Clara County School Boards Association – Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3GW3B5FAF48", 
+                    "item_details": "", 
+                    "item_number": "8.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Calendar for 2007-2008 – Linda Gubman, Assistant Superintendent of Human Resources", 
+                    "item_text_raw": "8.07 Approve School Calendar for 2007-2008 – Linda Gubman, Assistant Superintendent of Human Resources", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "A3H22A5FBBCE", 
+                    "item_details": "", 
+                    "item_number": "8.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Latino College Preparatory Academy High Priority Grant 2007-2008 School Action Plan – Carol Blackerby, Interim Director of Student Services", 
+                    "item_text_raw": "8.08 Latino College Preparatory Academy High Priority Grant 2007-2008 School Action Plan – Carol Blackerby, Interim Director of Student Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H23E5FD0DE", 
+                    "item_details": "", 
+                    "item_number": "8.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Amend Board Policy 3515c, Business and Non-Instructional Operations, Video Camera Safety of School Grounds, Second Reading and Adoption – Carol Blackerby, Interim Director of Student", 
+                    "item_text_raw": "8.09 Amend Board Policy 3515c, Business and Non-Instructional Operations, Video Camera Safety of School Grounds, Second Reading and Adoption – Carol Blackerby, Interim Director of Student", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H23D5FD0D9", 
+                    "item_details": "", 
+                    "item_number": "8.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-23 East Side Union High School District Designation of Specific Material, Product, or Service – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_text_raw": "8.10 Adopt Resolution #2006/2007-23 East Side Union High School District Designation of Specific Material, Product, or Service – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H24M5FF6A4", 
+                    "item_details": "", 
+                    "item_number": "8.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2006/2007-20 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_text_raw": "8.11 Adopt Resolution #2006/2007-20 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H25M6006C3", 
+                    "item_details": "", 
+                    "item_number": "8.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Amendment #3 to the Master Business Relationship Agreement between MetroED and East Side Union High School District – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_text_raw": "8.12 Approve Amendment #3 to the Master Business Relationship Agreement between MetroED and East Side Union High School District – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H26S60219A", 
+                    "item_details": "", 
+                    "item_number": "8.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Variable Term Waiver Requests for Certificated Employees – Linda Gubman, Assistant Superintendent of Human Resources – Attachment D", 
+                    "item_text_raw": "8.13 Approve Variable Term Waiver Requests for Certificated Employees – Linda Gubman, Assistant Superintendent of Human Resources – Attachment D", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H28L604FBA", 
+                    "item_details": "", 
+                    "item_number": "8.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Contracts for Professional Services – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment B", 
+                    "item_text_raw": "8.14 Contracts for Professional Services – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment B", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H29F605C7B", 
+                    "item_details": "", 
+                    "item_number": "8.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Memoranda of Understanding – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment C", 
+                    "item_text_raw": "8.15 Memoranda of Understanding – Jerry Kurr, Interim Assistant Superintendent of Business Services – Attachment C", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H2AU6084E8", 
+                    "item_details": "", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented February 15, 2007", 
+                    "item_text_raw": "9.01 Ratify/Approve Classified Personnel Actions Presented February 15, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2BQ60A5F7", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented February 15, 2007", 
+                    "item_text_raw": "9.02 Ratify/Approve Certificated Personnel Actions Presented February 15, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2BX60B0F5", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Student Aide Personnel Actions Presented February 15, 2007", 
+                    "item_text_raw": "9.03 Ratify/Approve Student Aide Personnel Actions Presented February 15, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2C660BB01", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Purchase Orders Presented February 15, 2007", 
+                    "item_text_raw": "9.04 Purchase Orders Presented February 15, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2CG60C68F", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Transfers Presented February 15, 2007", 
+                    "item_text_raw": "9.05 Budget Transfers Presented February 15, 2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2CS60D7FF", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Award of Bids", 
+                    "item_text_raw": "9.06 Award of Bids", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2D860E279", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Donations/Grants/Awards", 
+                    "item_text_raw": "9.07 Donations/Grants/Awards", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2HA6114F2", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": "9.08 Approve School Field Trips", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2HR61228C", 
+                    "item_details": "", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Site Proposals for Expenditures of the 2006 Discretionary Block Grant", 
+                    "item_text_raw": "9.09 Approve Site Proposals for Expenditures of the 2006 Discretionary Block Grant", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2J5612EA9", 
+                    "item_details": "", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Andrew Hill Summer School Biology Preparation Course", 
+                    "item_text_raw": "9.10 Approve Andrew Hill Summer School Biology Preparation Course", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2JP61390A", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Consolidated Program Application and Waiver (CADS) - Part II for 2006-2007", 
+                    "item_text_raw": "9.11 Approve Consolidated Program Application and Waiver (CADS) - Part II for 2006-2007", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2JX614428", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "General Child Care and Development Program Contract CCTR – 6414 Amendment 01", 
+                    "item_text_raw": "9.12 General Child Care and Development Program Contract CCTR – 6414 Amendment 01", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2L7615AC8", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Regular Board Meeting Dated January 25, 2007", 
+                    "item_text_raw": "9.13 Approve Minutes of Regular Board Meeting Dated January 25, 2007", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CALENDAR ITEMS-ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H2MR6177E9", 
+                    "item_details": "\nQuarterly Report of Santa Clara County Treasury Investment Portfolio Status as of December 31, 2006 \nJerry Kurr, Interim Assistant Superintendent of Business Services \n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Quarterly Report of Santa Clara County Treasury Investment Portfolio Status as of December 31, 2006 – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_text_raw": "10.01 Quarterly Report of Santa Clara County Treasury Investment Portfolio Status as of December 31, 2006 – Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A3H2P86199E8", 
+                    "item_details": "\nAccept Audit Report for 2005/2006 \nJerry Kurr, Interim Assistant Superintendent of Business Services \n", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Audit Report for 2005/2006 â Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_text_raw": "10.02 Accept Audit Report for 2005/2006 â Jerry Kurr, Interim Assistant Superintendent of Business Services", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H2TM61E172", 
+                    "item_details": "\nBoard of Trustees/Superintendent Communications/Comments \nBoard of Trustees \n", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "11.01 Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H2W7620174", 
+                    "item_details": "\nBoard of Trustees/Superintendent Communications/Comments \nBob Nuñez, Superintendent \n", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Bob Nuñez, Superintendent", 
+                    "item_text_raw": "11.02 Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H2Y5622C5B", 
+                    "item_details": "", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsions A through F", 
+                    "item_text_raw": "12.01 Expulsions A through F", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H2YD623DB3", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.02 Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H2Z8624926", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code §Section 54957.6) \n\t \nAgency Designated Representatives: \nBob Nuñez, Superintendent\nLinda Gubman, Assistant Superintendent of Human Resources \nEmployee Organizations: \nAmerican Federation of Teachers (AFT) \nCalifornia School Employees Association (CSEA) \nEast Side Teachers Association (ESTA)\n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": "12.03 Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H338628778", 
+                    "item_details": "\nCONFERENCE WITH LEGAL COUNSEL –ANTICIPATED LITIGATION \nSignificant exposure to litigation pursuant to subdivision (b) of section 54956.9 of the Government Code:\n 1 potential case\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel–Anticipated Litigation Significant exposure to litigation pursuant to subdivision (b) of section 54956.9 of the Government Code", 
+                    "item_text_raw": "12.04 Conference with Legal Counsel–Anticipated Litigation Significant exposure to litigation pursuant to subdivision (b) of section 54956.9 of the Government Code", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H3AP62DF40", 
+                    "item_details": "", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performace Evaluation (Government Code ยง Section 54957)", 
+                    "item_text_raw": "12.05 Public Employee Performace Evaluation (Government Code ยง Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A3H3BT62FE78", 
+                    "item_details": "\nPublic Employment/Public (Government Code § Section 54957) \nAssistant Superintendent of Instructional Services\nPrincipals (2) \n", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code ยง Section 54957)", 
+                    "item_text_raw": "12.06 Public Employment/Public Employee Appointment (Government Code ยง Section 54957)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H3QA63887E", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will report on Closed Session action items(s).", 
+                    "item_text_raw": "13.01 Legal Counsel will report on Closed Session action items(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A3H3SN63B735", 
+                    "item_details": "", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "14.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

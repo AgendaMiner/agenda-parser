@@ -1,0 +1,132 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "06-20-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9GR22F69E", 
+                    "item_details": "\nThe Board Retreat will begin at 9:00 AM at Calero High School in Room A110.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9US24BC2D", 
+                    "item_details": "\nInformation explaining Board meeting/retreat procedures and how citizens can address the Board will be read.  Written information is located near the entrance to the Room A110.\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting/retreat procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Room A110.", 
+                    "item_text_raw": "2.01 Information explaining Board meeting/retreat procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Room A110.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9UU24BE23", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": "3.01 For consideration by the Board of Trustees.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "ADOPTION OF AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9H422F6AB", 
+                    "item_details": "\nMembers of the public may address the Board on any subject not on tonight’s agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. \n\t \nAny person may address the Board on any item on the meeting/retreat agenda.  Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Room A110. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. \tAny person may address the Board on any item on the meeting/retreat agenda. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Room A110. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_text_raw": "4.01 Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. \tAny person may address the Board on any item on the meeting/retreat agenda. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Room A110. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9GZ22F6A7", 
+                    "item_details": "\nKey Issues on the Horizon\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Key Issues on the Horizon", 
+                    "item_text_raw": "5.01 Key Issues on the Horizon", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9ZQ9MB23A172", 
+                    "item_details": "\nRevisit Stakeholder Mapping\n", 
+                    "item_number": "5.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Revisit Stakeholder Mapping", 
+                    "item_text_raw": "5.02 Revisit Stakeholder Mapping", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9ZQ9MA23A12B", 
+                    "item_details": "\nBoard Self-Evaluation\n", 
+                    "item_number": "5.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Board Self-Evaluation", 
+                    "item_text_raw": "5.03 Board Self-Evaluation", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9ZQ9M923A0DB", 
+                    "item_details": "\nExpectations for Fall, 2015\n", 
+                    "item_number": "5.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Expectations for Fall, 2015", 
+                    "item_text_raw": "5.04 Expectations for Fall, 2015", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9ZQ9MS23B515", 
+                    "item_details": "\nIssue Tracking\n", 
+                    "item_number": "5.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Issue Tracking", 
+                    "item_text_raw": "5.05 Issue Tracking", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD/SUPERINTENDENT - RETREAT ITEMS/BOARD DISCUSSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9ZQ9H722F6AE", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "6.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

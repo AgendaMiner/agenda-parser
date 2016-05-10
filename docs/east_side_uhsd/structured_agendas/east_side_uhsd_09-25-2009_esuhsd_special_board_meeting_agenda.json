@@ -1,0 +1,183 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "09-25-2009", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LP2XP6E0B8F", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Meeting location: East Side Union High School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_text_raw": " Meeting location: East Side Union High School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Open Session", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LP2YP6E2A7E", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " Roll Call", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "9LP2YQ6E2AB8", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "9LNRET6DAFEF", 
+                    "item_details": "\n\tRecess to Closed Session\n\t(Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.)\n\t \n\tSee item 2 on agenda (Closed Session).\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Call to Order Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LP2YU6E2E4F", 
+                    "item_details": "\nPUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE/COMPLAINTS/ADMINISTRATIVE LEAVE (Government Code Section 54957)\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE/COMPLAINTS/ADMINISTRATIVE LEAVE (Government Code Section 54957)", 
+                    "item_text_raw": " PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE/COMPLAINTS/ADMINISTRATIVE LEAVE (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9LNRGM6DF3C3", 
+                    "item_details": "\nPUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code Section 54957):\n\t \nTitle: Superintendent\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code Section 54957): Title: Superintendent", 
+                    "item_text_raw": " PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code Section 54957): Title: Superintendent", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LP2YT6E2E29", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Open Session 6:30 PM - District Office Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRK86E5528", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRKD6E59D8", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRKE6E5A14", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRKF6E5A27", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Report from Hanson Bridget Law Firm regarding Investigation concerning Citizen Complaints to Santa Clara County Office of Education - Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " Report from Hanson Bridget Law Firm regarding Investigation concerning Citizen Complaints to Santa Clara County Office of Education - Patricia Martinez-Roach, Board President", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRMJ6EAB4B", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRMK6EAB60", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "9."
+        }
+    ]
+}

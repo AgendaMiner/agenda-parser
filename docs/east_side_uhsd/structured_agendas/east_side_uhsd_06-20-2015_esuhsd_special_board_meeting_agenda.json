@@ -1,0 +1,84 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "06-20-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9XYBDL2BE06D", 
+                    "item_details": "\nThe Special Board Meeting will begin at 2:00 p.m. in Room A110 of Calero High School.   \n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9XYBDP2BE070", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7).  \n\t \nMembers of the public may address the Board on a closed session item. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. Anyone wishing to address the Board from either the teleconference location or the Board Room meeting location regarding Closed Session items may speak at this time. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a gold request form, which is located at the entrance of the Board Room. Persons wishing to address the Board from the teleconference location should state his/her name before speaking.\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Members of the public may address the Board on a closed session item. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. Anyone wishing to address the Board from either the teleconference location or the Board Room meeting location regarding Closed Session items may speak at this time. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a gold request form, which is located at the entrance of the Board Room. Persons wishing to address the Board from the teleconference location should state his/her name before speaking.", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Members of the public may address the Board on a closed session item. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. Anyone wishing to address the Board from either the teleconference location or the Board Room meeting location regarding Closed Session items may speak at this time. Persons present in the Board Room wishing to address the Board on Closed Session items must fill out a gold request form, which is located at the entrance of the Board Room. Persons wishing to address the Board from the teleconference location should state his/her name before speaking.", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9XYBDS2BE073", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session; see item 2 on agenda (CLOSED SESSION).", 
+                    "item_text_raw": "1.03 Recess to Closed Session; see item 2 on agenda (CLOSED SESSION).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9XYBDW2BE077", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\nAgency Designated Representatives:\n\tChris D. Funk, Superintendent\nMarcus Battle, Associate Superintendent of Business Services\nCari Vaeth, Associate Superintendent of Human Resources\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\nAdministrator Collaborative of East Side (ACES)\n\t \nUnrepresented Employees:\nAdministrators\nâManagers\nâConfidential Employees\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.01 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9XYBE22BE07B", 
+                    "item_details": "\nThe Board and/or Superintendent will report on Closed Session action item(s).\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will Report on Closed Session Action Item(s)", 
+                    "item_text_raw": "3.01 Legal Counsel will Report on Closed Session Action Item(s)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9XYBE62BE07F", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "4.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

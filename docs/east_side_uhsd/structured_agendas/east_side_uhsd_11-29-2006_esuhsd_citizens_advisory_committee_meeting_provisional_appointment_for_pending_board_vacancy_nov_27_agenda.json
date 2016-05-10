@@ -1,0 +1,81 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "11-29-2006", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LQPWP66A11C", 
+                    "item_details": "\nAttached is the November 27-30 2006, ESUHSD Citizens Advisory Committee Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Committee meeting procedures and how citizens can address the Committee will be provided and/or read.", 
+                    "item_text_raw": "1.01 Information explaining Committee meeting procedures and how citizens can address the Committee will be provided and/or read.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO COMMITTEE MEMBERS AND AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4EN9G5ED23A", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Interview of Candidates for Pending Board Vacancy: Shall take place on November 27, 28, 29 and 30, 2006, beginning at 6:00 p.m. each day.", 
+                    "item_text_raw": "2.01 Interview of Candidates for Pending Board Vacancy: Shall take place on November 27, 28, 29 and 30, 2006, beginning at 6:00 p.m. each day.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "INTERVIEW OF CANDIDATES FOR PENDING BOARD VACANCY", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4EN9T5EE3F0", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Comments: To take place on November 30, 2006, beginning at 8:45 p.m", 
+                    "item_text_raw": "3.01 Public Comments: To take place on November 30, 2006, beginning at 8:45 p.m", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4ENAK5EF766", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Committee selection of Semi-Finalists for Appointment to Pending Board Vacancy: To take place at November 30, 2006, meeting.", 
+                    "item_text_raw": "4.01 Committee selection of Semi-Finalists for Appointment to Pending Board Vacancy: To take place at November 30, 2006, meeting.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "COMMITTEE SELECTION OF SEMI-FINALISTS FOR APPOINTMENT TO PENDING BOARD VACANCY", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A4ENB95F0446", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "5.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

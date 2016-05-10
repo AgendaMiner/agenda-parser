@@ -1,0 +1,228 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "05-10-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMBT57DCFA", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_text_raw": " Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session", 
+            "section_number": "0."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMBX57DD03", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PMC257DD0B", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " 1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PMC557DD19", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " 1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMC957DD30", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": " 2.01 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PMCC57DD3E", 
+                    "item_details": "Associate Superintendent of Student Services and FacilitiesAssociate Superintendent of Administration and Business Services", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957): Associate Superintendent of Student Services and Facilities; Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 2.02 Public Employee Performance Evaluation (Government Code Section 54957): Associate Superintendent of Student Services and Facilities; Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PMCF57DD48", 
+                    "item_details": "Conference with Legal Counsel - Existing LitigationSubdivision (a) of Section 54956.9 of the Government Code: Two (2) CasesGeraldine Forte vs. East Side Union High School District, U.S. District Court for the Northern District of California, San Jose Division, Case Number CV 10-01368 HRLMichelle Reyna vs. East Side Union High School District et al, Case Number 109CV154425", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Existing Litigation; Subdivision (a) of Section 54956.9 of the Government Code: Two (2) Cases: Geraldine Forte vs. East Side Union High School District, U.S. District Court for the Northern District of California, San Jose Division, Case Number CV 10-01368 HRL; Michelle Reyna vs. East Side Union High School District et al, Case Number 109CV154425", 
+                    "item_text_raw": " 2.03 Conference with Legal Counsel - Existing Litigation; Subdivision (a) of Section 54956.9 of the Government Code: Two (2) Cases: Geraldine Forte vs. East Side Union High School District, U.S. District Court for the Northern District of California, San Jose Division, Case Number CV 10-01368 HRL; Michelle Reyna vs. East Side Union High School District et al, Case Number 109CV154425", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PMCJ57DD58", 
+                    "item_details": "Agency Designated Representatives: Dan Moser, Interim SuperintendentJerry Kurr, Associate Superintendent of Administration and Business ServicesCathy Giammona, Interim Associate Superintendent of Human Resources and InstructionVida Branner-Siders, Director of Compensation and Classified Employee RelationsEmployee Organizations:American Federation of Teachers (AFT)California School Employees Association (CSEA)East Side Teachers Association (ESTA)", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": " 2.04 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMCN57DD6C", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 3.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 6:30 P.M. – Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMCS57DD80", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMCW57DD93", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMD257DD9D", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMD657DDEB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Consideration and Adoption, Rejection or Modification of May 5, 2010 Proposed Decision of Administrative Law Judge regarding Reduction in Particular Kinds of Service (Office of Administrative Hearings Case No. 2010030281)Attached is the Proposed Decision of the Administrative Law Judge regarding the Reduction in Particular Kinds of Service.  Administration is recommending that the Board adopt the May 5, 2010, Proposed Decision of the Administrative Law Judget regarding the Reduction in Particular Kinds of Service (Office of Administrative Hearings Case No. 2010030281).RECOMMENDATION:It is recommended that the Board adopt the May 5, 2010 Proposed Decision of the Administrative Law Judge regarding the Reduction in Particular Kinds of Service (Office of Administrative Hearings Case No. 2010030281).", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Consideration and Adoption, Rejection or Modification of May 5, 2010 Proposed Decision of Administrative Law Judge regarding Reduction in Particular Kinds of Service (Office of Administrative Hearings Case No. 2010030281) - Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 7.01 Consideration and Adoption, Rejection or Modification of May 5, 2010 Proposed Decision of Administrative Law Judge regarding Reduction in Particular Kinds of Service (Office of Administrative Hearings Case No. 2010030281) - Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PMD957DEA9", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Accept Superintendent's Recommendation to Dismiss Employees Due to Reduction in Particular Kinds of Service and Direct Superintendent to Issue Final Termination Notices in Accordance with the Board's Certificated layoff Decision and the Requirements of the Education CodeOn March 11, 2010, I recommended to the Governing Board that it not reemploy 114 certificated personnel for the 2010-2011 school year and that the Board give them notice as required by Education Code sections 44949 and 44955 that their services will not be required.I now hereby recommend to the Governing Board that it not reemploy the following certificated personnel for the 2010-2011 school year and that the Board give them notice as required by Education Code sections 44949 and 44955 that their services will not be required:Juan Aguila - MSTVictoria Duran - Activity DirectorYesenia Marquez - CounselorKira Allen - EnglishBenjamin Ellison -  Biol. Science (0.8 FTE)Angie Nguyen -  Biol. ScienceJoyce Armstrong - CounselorMartha Espinoza -  Biol. ScienceMyla Perkins - AdvisorMaria Baeza - SpanishMartha Esquivel - CounselorSylvia Rabago - CounselorThomas Bingham - Social Science (0.6 FTE)Angela Estrella - Social ScienceLuz Griselda Ramirez - Spanish Troy Brown - CounselorAshlee Girardin -  Biol. ScienceAna Reid - SpanishRosemary Bulaich - CounselorCristelda Guillen - SpanishAshley Riley - CounselorRachel Bull - Social WorkerJuliet Hamak -  Biol. ScienceNatalie Rodriguez - CounselorMarie-Chris Busque - Social WorkerJennifer Higareda - EnglishJoel Romo-Gonzalez - CounselorTamra Chavez - MSTJennifer Klassen - Social WorkerMary Servin - CounselorAmy Choy - CounselorJason Kubo - CounselorJill Shoopman - CounselorLeah Cohen - MSTKathy Lair - English Laura Solof - CounselorMiguel Cortez - P.E.Sue Ann Lee - Counselor  William Uken -  Biol. ScienceJeanine Davis-Guarente - MSTBinh Lieu - CounselorCharity Wooden -P.E.RECOMMENDATION:It is recommended that the Board of Trustees approve the certificated non reemployment list for the 2010-2011 school year.\n", 
+                    "item_number": "7.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Superintendent's Recommendation to Dismiss Employees Due to Reduction in Particular Kinds of Service and Direct Superintendent to Issue Final Termination Notices in Accordance with the Board's Certificated layoff Decision and the Requirements of the Education Code - Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 7.02 Accept Superintendent's Recommendation to Dismiss Employees Due to Reduction in Particular Kinds of Service and Direct Superintendent to Issue Final Termination Notices in Accordance with the Board's Certificated layoff Decision and the Requirements of the Education Code - Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PMDC57DF98", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Contract for Associate Superintendent of Student Services and FacilitiesItem forthcoming.", 
+                    "item_number": "7.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Contract for Associate Superintendent of Student Services and Facilities â Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 7.03 Contract for Associate Superintendent of Student Services and Facilities â Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PMDF57DFB8", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentSUBJECT:Contract for Associate Superintendent of Administration and Business ServicesItem forthcoming.", 
+                    "item_number": "7.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Contract for Associate Superintendent of Administration and Business Services â Dan Moser, Interim Superintendent", 
+                    "item_text_raw": " 7.04 Contract for Associate Superintendent of Administration and Business Services â Dan Moser, Interim Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMDK57E020", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMDP57E02D", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "9."
+        }
+    ]
+}

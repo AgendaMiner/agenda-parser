@@ -1,0 +1,497 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "05-08-2003", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLPX579354", 
+                    "item_details": "\nAttached is the May 8, 2003, Regular Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Agenda Attached", 
+                    "item_text_raw": "1.01 Agenda Attached", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER", 
+            "section_number": ""
+        }, 
+        {
+            "items": [], 
+            "section_name": "ROLL CALL/PLEDGE OF ALLEGIANCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLQ357935A", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_text_raw": "3.01 Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLRZ579398", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Safety Simulation Video of February 11, at MPHS", 
+                    "item_text_raw": "4.01 Safety Simulation Video of February 11, at MPHS", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLQ757935E", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLQA579361", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLRX579396", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Student Board", 
+                    "item_text_raw": "7.01 Student Board", 
+                    "item_type": "Presentation"
+                }
+            ], 
+            "section_name": "STUDENT ACHIEVEMENT/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLQE579365", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Update on 830 N. Capitol Ave Property Project - Silicon Valley Advisors", 
+                    "item_text_raw": "8.01 Update on 830 N. Capitol Ave Property Project - Silicon Valley Advisors", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQG579367", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Prop 39 Requirements - Charter Schools", 
+                    "item_text_raw": "8.02 Prop 39 Requirements - Charter Schools", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQJ579369", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing 6:45 PM on the Charter Petition Submitted by Escuela Popular", 
+                    "item_text_raw": "8.03 Hold Public Hearing 6:45 PM on the Charter Petition Submitted by Escuela Popular", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQL57936B", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing 7:00 PM on the Charter Petition Submitted by California Youth Outreach", 
+                    "item_text_raw": "8.04 Hold Public Hearing 7:00 PM on the Charter Petition Submitted by California Youth Outreach", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DMF65AFB33", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "2003 Safety Survey - ESTA", 
+                    "item_text_raw": "8.05 2003 Safety Survey - ESTA", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DMF55AFAEA", 
+                    "item_details": "", 
+                    "item_number": "8.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent's Search Firm Update", 
+                    "item_text_raw": "8.06 Superintendent's Search Firm Update", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DMF45AFA86", 
+                    "item_details": "", 
+                    "item_number": "8.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Project Labor Agreement (PLA) - Update", 
+                    "item_text_raw": "8.07 Project Labor Agreement (PLA) - Update", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DMF35AF99A", 
+                    "item_details": "", 
+                    "item_number": "8.08", 
+                    "item_recommendation": "", 
+                    "item_text": "2003/2004 Preliminary Budget", 
+                    "item_text_raw": "8.08 2003/2004 Preliminary Budget", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DMK45B9092", 
+                    "item_details": "", 
+                    "item_number": "8.09", 
+                    "item_recommendation": "", 
+                    "item_text": "District Master Architects Perkins & Will", 
+                    "item_text_raw": "8.09 District Master Architects Perkins & Will", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLQP57936E", 
+                    "item_details": "\nSuperintendent asserts that the attached Business Transactions, Personnel Actions, Maintenance of Records, Approvals and Recommendations Requiring Board Action have been carried out to the best of her knowledge in accordance with the law and the executive limitations determined by the Board of Trustees.\n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Purchase Orders Dated, May 8, 2003", 
+                    "item_text_raw": "9.01 Purchase Orders Dated, May 8, 2003", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQR579370", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Transfers Dated May 8, 2003", 
+                    "item_text_raw": "9.02 Budget Transfers Dated May 8, 2003", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQT579372", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Classified Personnel Actions Dated May 8, 2003", 
+                    "item_text_raw": "9.03 Classified Personnel Actions Dated May 8, 2003", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQV579374", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Certificated Personnel Actions Dated May 8, 2003", 
+                    "item_text_raw": "9.04 Certificated Personnel Actions Dated May 8, 2003", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQX579376", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Minutes of April 17, 2003 Board Meeting; 9.5.1 Minutes of April 15, 2003 Special Meeting", 
+                    "item_text_raw": "9.05 Minutes of April 17, 2003 Board Meeting; 9.5.1 Minutes of April 15, 2003 Special Meeting", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLQZ579378", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Gifts/Donations", 
+                    "item_text_raw": "9.06 Acceptance of Gifts/Donations", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLR357937A", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts for Professional Services", 
+                    "item_text_raw": "9.07 Approve Contracts for Professional Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLR557937C", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Award of Bids", 
+                    "item_text_raw": "9.08 Award of Bids", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLR757937E", 
+                    "item_details": "", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/2003-40 A Certificate of Consent to Self-Insure Workers' Compensation Liabilities", 
+                    "item_text_raw": "9.09 Adopt Resolution #2002/2003-40 A Certificate of Consent to Self-Insure Workers' Compensation Liabilities", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLR9579380", 
+                    "item_details": "", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Local Education Agency (LEA) Plan", 
+                    "item_text_raw": "9.10 Adopt Local Education Agency (LEA) Plan", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRB579382", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Evergreen Valley High School Construction Project - Change Order #29 Phase II", 
+                    "item_text_raw": "9.11 Evergreen Valley High School Construction Project - Change Order #29 Phase II", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRD579384", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Updated Five-Year Deferred Maintenance Plan", 
+                    "item_text_raw": "9.12 Updated Five-Year Deferred Maintenance Plan", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRF579386", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Amendment to Extend the California School Information Services (CSIS) Agreement", 
+                    "item_text_raw": "9.13 Amendment to Extend the California School Information Services (CSIS) Agreement", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRH579388", 
+                    "item_details": "", 
+                    "item_number": "9.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/03-41 To Reduce Classified Workforce", 
+                    "item_text_raw": "9.14 Adopt Resolution #2002/03-41 To Reduce Classified Workforce", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRK57938A", 
+                    "item_details": "", 
+                    "item_number": "9.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees Meeting Calendar for 2003-2004", 
+                    "item_text_raw": "9.15 Board of Trustees Meeting Calendar for 2003-2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRM57938C", 
+                    "item_details": "", 
+                    "item_number": "9.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/03-42 Supplemental Employee Retirement Plan (SERP) for Certificated Management, Classified Confidential and Classified Management", 
+                    "item_text_raw": "9.16 Adopt Resolution #2002/03-42 Supplemental Employee Retirement Plan (SERP) for Certificated Management, Classified Confidential and Classified Management", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRP57938E", 
+                    "item_details": "", 
+                    "item_number": "9.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/2003-43 Supplemental Employee Retirement Plan (SERP) for Classified Bargaining Unit Members", 
+                    "item_text_raw": "9.17 Adopt Resolution #2002/2003-43 Supplemental Employee Retirement Plan (SERP) for Classified Bargaining Unit Members", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRR579390", 
+                    "item_details": "", 
+                    "item_number": "9.18", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/2003-44 Supplemental Employee Retirement Plan (SERP) Certificated Bargaining Unit Members", 
+                    "item_text_raw": "9.18 Adopt Resolution #2002/2003-44 Supplemental Employee Retirement Plan (SERP) Certificated Bargaining Unit Members", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRT579392", 
+                    "item_details": "", 
+                    "item_number": "9.19", 
+                    "item_recommendation": "", 
+                    "item_text": "Field Trip to Germany for Independence High School's German American Partnership Program", 
+                    "item_text_raw": "9.19 Field Trip to Germany for Independence High School's German American Partnership Program", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLRV579394", 
+                    "item_details": "", 
+                    "item_number": "9.20", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2002/2003-45 San Jose Schools and the city of San Jose Joint Legislative Statement", 
+                    "item_text_raw": "9.20 Adopt Resolution #2002/2003-45 San Jose Schools and the city of San Jose Joint Legislative Statement", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLS357939A", 
+                    "item_details": "", 
+                    "item_number": "9.21", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Request for Reduced Workload Program for 2003-2004 School Year", 
+                    "item_text_raw": "9.21 Approve Request for Reduced Workload Program for 2003-2004 School Year", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CALENDAR ITEMS - ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLS657939D", 
+                    "item_details": "", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No Items on Calendar under this Section", 
+                    "item_text_raw": "10.01 No Items on Calendar under this Section", 
+                    "item_type": "Action (Receive Report), Information"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLS95793A0", 
+                    "item_details": "", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees: Use of Cafeteria Facilities - Patricia Martinez-Roach", 
+                    "item_text_raw": "11.01 Board of Trustees: Use of Cafeteria Facilities - Patricia Martinez-Roach", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A8DLSB5793A2", 
+                    "item_details": "", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": "11.02 Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLSE5793A5", 
+                    "item_details": "\nClosed Session may convene before, after or during the regular meeting. Closed Session may include Negotiations, Personnel, Expulsions, Certificated/Classified, and Concerns/Grievances.\n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Explusions - A-J", 
+                    "item_text_raw": "12.01 Explusions - A-J", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLSG5793A7", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment (Government Code Section 54957) - Superintendent's Contract", 
+                    "item_text_raw": "12.02 Public Employment (Government Code Section 54957) - Superintendent's Contract", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLSJ5793A9", 
+                    "item_details": "", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.03 Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLSL5793AB", 
+                    "item_details": "", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Employee Negotiations - ESTA, CSEA, Confidential, Administration", 
+                    "item_text_raw": "12.04 Employee Negotiations - ESTA, CSEA, Confidential, Administration", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DLSN5793AD", 
+                    "item_details": "", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Existing Litigation (Government Code Section 54956.9 (a))", 
+                    "item_text_raw": "12.05 Existing Litigation (Government Code Section 54956.9 (a))", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A8DN7U5E9A75", 
+                    "item_details": "", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent Search Update", 
+                    "item_text_raw": "12.06 Superintendent Search Update", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8DLSR5793B0", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "13.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

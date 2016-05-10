@@ -1,0 +1,126 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "03-18-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMX8580995", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_text_raw": " Meeting location: East Side Union HIgh School District - Board Room, 830 N. Capitol Avenue, San Jose, CA 95133", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session", 
+            "section_number": "0."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXC5809AB", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXG5809B3", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 2.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 5:55 P.M. â District Office Board Room", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXL5809C0", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXQ5809CE", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXU5809DC", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMXY5809E9", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Dan Moser, Interim SuperintendentPREPARED BY:Cathy Giammona, Interim Associate Superintendent, Human Resources and InstructionSUBJECT:Receive and Sunshine the Initial Proposal for Successor Contract: From East Side Teachers Association to East Side Union High School District The District has received a copy of the East Side Teachers Association's (ESTA) initial bargaining proposal, a copy of which is attached.  Per the Government Code, the District must receive and sunshine in open session the initial proposal of any bargaining unit prior to commencing negotiations.  Administration recommends that the Board receive, sunshine, and take any public comment on the initial proposal of the East Side Teachers Association.FISCAL IMPACT:To be NegotiatedFUNDING SOURCE:VariousRECOMMENDATION:It is recommended that the Board of Trustees receive, sunshine, and take any public comment on the initial proposal of the East Side Teachers Association (ESTA).\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive and Sunshine the Initial Proposal for Successor Contract: From East Side Teachers Association to East Side Union High School District - Dan Moser, Interim Superintendent, and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_text_raw": " 6.01 Receive and Sunshine the Initial Proposal for Successor Contract: From East Side Teachers Association to East Side Union High School District - Dan Moser, Interim Superintendent, and Cathy Giammona, Interim Associate Superintendent, Human Resources and Instruction", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PMY4580A52", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "7."
+        }
+    ]
+}

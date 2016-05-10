@@ -1,0 +1,585 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "03-11-2004", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CUX32B9EE", 
+                    "item_details": "\nAttached is the March 11, 2004, Regular Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6LNGU5E4FED", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment Regarding items to be discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_text_raw": "1.02 Announcement and Public Comment Regarding items to be discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6LNGT5E4FA7", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 P.M.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 P.M.) SEE ITEM 12 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CV232B9F1", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CV532B9F4", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_text_raw": "3.01 Information sheet explaining Board meeting procedures and how citizens can address the Board is located near the entrance to the Board Room", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MPK25A32D8", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Nick Alfano, Santa Teresa High School; Michelle Sunseri, Evergreen Valley High School; Dr. John Martinez, W.C. Overfelt High School; Bruce Shelton, Oak Grove High School; Kevin Heyman, Independence High School; Shelly Innes Valdivia, Silver Creek High School; Hedi Black, Sciencepalooza; Oak Grove Science Teachers, Sciencepalooza", 
+                    "item_text_raw": "4.01 Nick Alfano, Santa Teresa High School; Michelle Sunseri, Evergreen Valley High School; Dr. John Martinez, W.C. Overfelt High School; Bruce Shelton, Oak Grove High School; Kevin Heyman, Independence High School; Shelly Innes Valdivia, Silver Creek High School; Hedi Black, Sciencepalooza; Oak Grove Science Teachers, Sciencepalooza", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CV932B9F8", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CVC32B9FB", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_text_raw": "6.01 Persons wishing to address the Board must fill out a 'gold' request form, located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD OF TRUSTEES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MMBZ5A866D", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Student Board Presentation", 
+                    "item_text_raw": "7.01 Student Board Presentation", 
+                    "item_type": "Presentation"
+                }
+            ], 
+            "section_name": "STUDENT ACHIEVEMENT/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MMC45A89DA", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing 6:20 PM Algebra I Wavier for Special Education Students", 
+                    "item_text_raw": "8.01 Hold Public Hearing 6:20 PM Algebra I Wavier for Special Education Students", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A6MMCF5A9497", 
+                    "item_details": "", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Summary Presentation of the 2002-2003 Financial Audit by Bohren and Company", 
+                    "item_text_raw": "8.02 Summary Presentation of the 2002-2003 Financial Audit by Bohren and Company", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A6MMCE5A93CC", 
+                    "item_details": "", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Second Interim Financial Report 2003-2004 with Positive Certification", 
+                    "item_text_raw": "8.03 Second Interim Financial Report 2003-2004 with Positive Certification", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A6MMCD5A9395", 
+                    "item_details": "", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Evergreen Valley High School Growth Mitigation Recommendations", 
+                    "item_text_raw": "8.04 Evergreen Valley High School Growth Mitigation Recommendations", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A6MMCC5A9366", 
+                    "item_details": "", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Harvey Rose Information Systems Audit Report", 
+                    "item_text_raw": "8.05 Harvey Rose Information Systems Audit Report", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MMDB5AB7E3", 
+                    "item_details": "\nSuperintendent asserts that the attached Business Transactions, Personnel Actions, Maintenance of Records, Approvals and Recommendations Requiring Board Action have been carried out to the best of her knowledge in accordance with the law and the executive limitations determined by the Board of Trustees.\n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Purchase Orders Dated March 11, 2004", 
+                    "item_text_raw": "9.01 Approve Purchase Orders Dated March 11, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME25AC979", 
+                    "item_details": "", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Budget Transfers Dated March 11, 2004", 
+                    "item_text_raw": "9.02 Approve Budget Transfers Dated March 11, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDZ5AC943", 
+                    "item_details": "", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Classified Personnel Actions Dated March 11, 2004", 
+                    "item_text_raw": "9.03 Approve Classified Personnel Actions Dated March 11, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDY5AC83A", 
+                    "item_details": "", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Certificated Personnel Actions Dated March 11, 2004", 
+                    "item_text_raw": "9.04 Approve Certificated Personnel Actions Dated March 11, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDX5AC7DC", 
+                    "item_details": "", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of Board Meeting Dated February 12, 2004", 
+                    "item_text_raw": "9.05 Approve Minutes of Board Meeting Dated February 12, 2004", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDW5AC734", 
+                    "item_details": "", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Grants/Gifts/Donations", 
+                    "item_text_raw": "9.06 Accept Grants/Gifts/Donations", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDS5AC68E", 
+                    "item_details": "", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts for Professional Services", 
+                    "item_text_raw": "9.07 Approve Contracts for Professional Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDR5AC52C", 
+                    "item_details": "", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Award Bids", 
+                    "item_text_raw": "9.08 Award Bids", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDQ5AC4EE", 
+                    "item_details": "", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Student Calendar for the 2004-2005 School Year", 
+                    "item_text_raw": "9.09 Approve Student Calendar for the 2004-2005 School Year", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDP5AC47B", 
+                    "item_details": "", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve District Certification of Meeting the Provisions of Section 5594, Title V Administrative Code", 
+                    "item_text_raw": "9.10 Approve District Certification of Meeting the Provisions of Section 5594, Title V Administrative Code", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDN5AC42B", 
+                    "item_details": "", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Job Description and Salary Range for Energy Manager", 
+                    "item_text_raw": "9.11 Approve Job Description and Salary Range for Energy Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEP5AD0B7", 
+                    "item_details": "", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve District Board Policies", 
+                    "item_text_raw": "9.12 Approve District Board Policies", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEN5AD03A", 
+                    "item_details": "", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve ESUHSD Guidelines for Use of Fields-2004-2006 Seasons", 
+                    "item_text_raw": "9.13 Approve ESUHSD Guidelines for Use of Fields-2004-2006 Seasons", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEM5ACF23", 
+                    "item_details": "", 
+                    "item_number": "9.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Employment Contact for Chief Operations Officer", 
+                    "item_text_raw": "9.14 Approve Employment Contact for Chief Operations Officer", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEL5ACEDA", 
+                    "item_details": "", 
+                    "item_number": "9.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Field Trips", 
+                    "item_text_raw": "9.15 Approve Field Trips", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEK5ACE8B", 
+                    "item_details": "", 
+                    "item_number": "9.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Approval of New Physics Textbook", 
+                    "item_text_raw": "9.16 Approval of New Physics Textbook", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEJ5ACE4E", 
+                    "item_details": "", 
+                    "item_number": "9.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Payment of Non-Public School Costs for Placement of Two District Special Education Students", 
+                    "item_text_raw": "9.17 Approve Payment of Non-Public School Costs for Placement of Two District Special Education Students", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEE5ACD82", 
+                    "item_details": "", 
+                    "item_number": "9.18", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Resolution 2003/2004-20 Authorizing Lease Agreement for the Acquisition of (11) Ambulatory and Wheelchair Buses", 
+                    "item_text_raw": "9.18 Approve Resolution 2003/2004-20 Authorizing Lease Agreement for the Acquisition of (11) Ambulatory and Wheelchair Buses", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEB5ACD09", 
+                    "item_details": "", 
+                    "item_number": "9.19", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve the Establishment of Fund 20, Special Reserve Fund for Post Employment Benefits", 
+                    "item_text_raw": "9.19 Approve the Establishment of Fund 20, Special Reserve Fund for Post Employment Benefits", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMEA5ACCDC", 
+                    "item_details": "", 
+                    "item_number": "9.20", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contract with Energy Education, Inc. For Implementation of Energy Management", 
+                    "item_text_raw": "9.20 Approve Contract with Energy Education, Inc. For Implementation of Energy Management", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME95ACC79", 
+                    "item_details": "", 
+                    "item_number": "9.21", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for Oak Grove High School Streetscape Improvement Project", 
+                    "item_text_raw": "9.21 Notice of Completion for Oak Grove High School Streetscape Improvement Project", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME85ACC26", 
+                    "item_details": "", 
+                    "item_number": "9.22", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for Independence High School Cogeneration System for Heating Swimming Pools", 
+                    "item_text_raw": "9.22 Notice of Completion for Independence High School Cogeneration System for Heating Swimming Pools", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME75ACBDB", 
+                    "item_details": "", 
+                    "item_number": "9.23", 
+                    "item_recommendation": "", 
+                    "item_text": "Change Order #1 for the Silver Creek High School Fire Alarm Upgrade Phase I Project", 
+                    "item_text_raw": "9.23 Change Order #1 for the Silver Creek High School Fire Alarm Upgrade Phase I Project", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME65ACB52", 
+                    "item_details": "", 
+                    "item_number": "9.24", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratification of Measure G Citizens Bond Oversight Committee Members", 
+                    "item_text_raw": "9.24 Ratification of Measure G Citizens Bond Oversight Committee Members", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME55ACB01", 
+                    "item_details": "", 
+                    "item_number": "9.25", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Donation Agreement Between the City of San Jose and the East Side Union High School District for the Conveyance of Easements", 
+                    "item_text_raw": "9.25 Approve Donation Agreement Between the City of San Jose and the East Side Union High School District for the Conveyance of Easements", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME45ACACA", 
+                    "item_details": "", 
+                    "item_number": "9.26", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2003/2004-21 Approving Authorized Signatures", 
+                    "item_text_raw": "9.26 Adopt Resolution #2003/2004-21 Approving Authorized Signatures", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MME35ACA92", 
+                    "item_details": "", 
+                    "item_number": "9.27", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2003/04-23 to Reduce Certificated Workforce", 
+                    "item_text_raw": "9.27 Adopt Resolution #2003/04-23 to Reduce Certificated Workforce", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MMDM5AC3E8", 
+                    "item_details": "", 
+                    "item_number": "9.28", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2003/04-22 to Request for and Consent to Consolidation of Elections", 
+                    "item_text_raw": "9.28 Adopt Resolution #2003/04-22 to Request for and Consent to Consolidation of Elections", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CONSENT CALENDAR ITEMS - ATTACHMENT A", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MQE35C8C76", 
+                    "item_details": "", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Report on Recovery of Special Education Students from Non-Public Schools", 
+                    "item_text_raw": "10.01 Receive Report on Recovery of Special Education Students from Non-Public Schools", 
+                    "item_type": "Action (Receive Report), Information"
+                }, 
+                {
+                    "boarddocs_id": "A6MQE75C90D8", 
+                    "item_details": "", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Report of Reimbursement for Excess Costs of a Non-Public School Student", 
+                    "item_text_raw": "10.02 Receive Report of Reimbursement for Excess Costs of a Non-Public School Student", 
+                    "item_type": "Action (Receive Report), Information"
+                }, 
+                {
+                    "boarddocs_id": "A6MQE45C909E", 
+                    "item_details": "", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of December 31, 2003", 
+                    "item_text_raw": "10.03 Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of December 31, 2003", 
+                    "item_type": "Action (Receive Report), Information"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CVK32BA02", 
+                    "item_details": "\nBoard of Trustees\n\t \nPatricia Martinez-Roach\nMetroEd Update\n", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "11.01 Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "A66CVM32BA04", 
+                    "item_details": "", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": "11.02 Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A6MNNA60A680", 
+                    "item_details": "", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Explusions - A-C", 
+                    "item_text_raw": "12.01 Explusions - A-C", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MNNJ60A928", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.02 Public Employee Discipline/Dismissal/Release (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MNNH60A8CB", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code §Section 54957.6) \nAgency Designated Representatives: Superintendent Dr. Zendejas\nEmployee Organization: East Side Teachers Association\n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": "12.03 Conference with Labor Negotiators (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MNNG60A89E", 
+                    "item_details": "", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Anticipated Litigation (Government Code Section 54956.9) Conference with Legal Counsel – ANTICIPATED LITIGATION, Significant exposure to litigation pursuant to subdivision (b) of §Section 54956.9 statement threatening litigation. (1) Potential Case", 
+                    "item_text_raw": "12.04 Anticipated Litigation (Government Code Section 54956.9) Conference with Legal Counsel – ANTICIPATED LITIGATION, Significant exposure to litigation pursuant to subdivision (b) of §Section 54956.9 statement threatening litigation. (1) Potential Case", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MNNF60A85E", 
+                    "item_details": "", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.05 Public Employee Performance Evaluation (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A6MNNC60A82A", 
+                    "item_details": "", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Transfer (Government Code ยงSection 54957)", 
+                    "item_text_raw": "12.06 Public Employment/Transfer (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A8BN5V5E4BD8", 
+                    "item_details": "", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will report of Closed Session Action Item(s).", 
+                    "item_text_raw": "13.01 Legal Counsel will report of Closed Session Action Item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A66CVU32BA0B", 
+                    "item_details": "", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "14.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

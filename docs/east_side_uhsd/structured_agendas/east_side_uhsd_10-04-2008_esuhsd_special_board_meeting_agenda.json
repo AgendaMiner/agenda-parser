@@ -1,0 +1,111 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "10-04-2008", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRRN6EFD1D", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Call to Order / Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRRZ6EFD34", 
+                    "item_details": "\n \nI pledge allegiance\nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n\t\t\t\t\t\t \n\t \n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Pledge of Allegiance", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRS46EFD3A", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "3.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRS76EFD40", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": "4.01 For consideration by the Board of Trustees.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRSA6EFD46", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "5.01 Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRSC6EFD4D", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation on Academic Master Plan - Linda Gubman, Consultant, Carol Blackerby, Consultant, and Eric Hall, Eric Hall and Associates", 
+                    "item_text_raw": "6.01 Presentation on Academic Master Plan - Linda Gubman, Consultant, Carol Blackerby, Consultant, and Eric Hall, Eric Hall and Associates", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "Study Session / Board Discussion", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNRSG6EFD55", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "7.01 President adjourns the meeting.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": ""
+        }
+    ]
+}

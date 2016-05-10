@@ -1,0 +1,723 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "06-09-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UMF7CB58E", 
+                    "item_details": "\nThe Regular Board Meeting will begin at 4:30 p.m. in the Board Room of the Education Center.   Anyone wishing to address the Board regarding Closed Session items may speak at this time.  The Board will then adjourn to Closed Session in the Superintendent’s Conference Room.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9U6UMJ7CB592", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7).  \n\t \nPersons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Persons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Persons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9U6UMM7CB595", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": "1.03 Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:30 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UMR7CB599", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): A - C", 
+                    "item_text_raw": "2.01 Expulsion(s): A - C", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UMU7CB59C", 
+                    "item_details": "\nPublic Employee Performance Evaluation (Government Code Section 54957)\n\t \nSenior Manager of Internal Controls\n\t \n", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957): Senior Manager of Internal Controls", 
+                    "item_text_raw": "2.02 Public Employee Performance Evaluation (Government Code Section 54957): Senior Manager of Internal Controls", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UMX7CB59F", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment (Government Code Section 54957)\n\t \n\t\tChief Technology Officer  (1)\n\t\tDirector of Special Services  (1)\n\t\tDirector of Purchasing and Capital Accounting  (1)\n\t\tAssociate Principal  (2)\n\t\tDean  (1)\n", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957): Chief Technology Officer (1); Director of Special Services (1); Director of Purchasing and Capital Accounting (1); Associate Principal (2); Dean (1)", 
+                    "item_text_raw": "2.03 Public Employment/Public Employee Appointment (Government Code Section 54957): Chief Technology Officer (1); Director of Special Services (1); Director of Purchasing and Capital Accounting (1); Associate Principal (2); Dean (1)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UN27CB5A2", 
+                    "item_details": "", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": "2.04 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UN57CB5A5", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\nAgency Designated Representatives:\n\tChris D. Funk, Superintendent\nMarcus Battle, Associate Superintendent of Business Services\nJuan Cruz, Associate Superintendent of Educational Services\nCari Vaeth, Associate Superintendent of Human Resources\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\nAdministrator Collaborative of East Side (ACES)\n\t \nUnrepresented Employees:\nAdministrators\nâManagers\nâConfidential Employees\n", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.05 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UN87CB5AB", 
+                    "item_details": "\nConference with Legal Counsel – Anticipated Litigation:\nSignificant exposure to litigation pursuant to subdivision (d)(2) of Government Code Section 54956.9:\n\t \nTwo (2) Potential Cases\n", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel â Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (d)(2) of Government Code Section 54956.9: Two (2) Potential Cases", 
+                    "item_text_raw": "2.06 Conference with Legal Counsel â Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (d)(2) of Government Code Section 54956.9: Two (2) Potential Cases", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UNB7CB5B6", 
+                    "item_details": "\nConference with Legal Counsel - Anticipated Litigation \nInitiation of litigation pursuant to subdivision (d)(4) of Government Code Section 54956.9: \n\t \nTwo (2) Potential Cases\n", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Anticipated Litigation: Initiation of litigation pursuant to subdivision (d)(4) of Government Code Section 54956.9: Two (2) Potential Cases", 
+                    "item_text_raw": "2.07 Conference with Legal Counsel - Anticipated Litigation: Initiation of litigation pursuant to subdivision (d)(4) of Government Code Section 54956.9: Two (2) Potential Cases", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UND7CB5B8", 
+                    "item_details": "\nConference with Legal Counsel – Existing Litigation\n(Paragraph (1) of subdivision (d) of Section 54956.9)\n\t \n\t \n", 
+                    "item_number": "2.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel – Existing Litigation (Paragraph (1) of subdivision (d) of Section 54956.9)", 
+                    "item_text_raw": "2.08 Conference with Legal Counsel – Existing Litigation (Paragraph (1) of subdivision (d) of Section 54956.9)", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UNG7CB5BC", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:30 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UNL7CB5C2", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "4.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UNQ7CB5C9", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "ADOPTION OF AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WQ9JF23375D", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No Items on Calendar Under this Section", 
+                    "item_text_raw": "6.01 No Items on Calendar Under this Section", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UNU7CB5CE", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Downtown College Prep - Associated Student Body (ASB)", 
+                    "item_text_raw": "7.01 Downtown College Prep - Associated Student Body (ASB)", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "STUDENT BOARD LIAISON(S) (5 minutes each)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UP47CB5D9", 
+                    "item_details": "\nThe Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.\n", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_text_raw": "8.01 The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WRL5U8081D2", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  8.02\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nPresentation, Discussion and/or Action to Adopt Resolution #2014/2015-25 Authorizing the Issuance and Sale of General Obligation Bonds, 2012 Election, Series B, in the Principal Amount of Not to Exceed $100,000,000, and Approving Documents and Official Actions Relating Thereto\n\t \n\t \nThe proposed Resolution #2014/2015-25 authorizes the sale of $100 million of General Obligation Bonds from the District's Election of 2012.  At the 2012 Election, District voters approved the issuance of $120 million of bonds by the District.  The District has previously issued $20 million in November 2013.  This financing will constitute the remainder of the authorization.  The bonds will be sold through a competitive bid process which has been the District's predominant method of bringing new money bond financing to market.  The winning bid will be based on the lowest cost of interest.  The structure of the bonds will not include the use of capital appreciation bonds. \n\t \nFISCAL IMPACT:\nIf sold, the Bonds are payable from ad valorem property taxes levied on taxpayers in the District.\n\t \nFUNDING SOURCE:\nAll associated cost of issuance will be paid form funds received through the issuance of the bond.\n\t \n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution #2014/2015-25 authorizing the issuance and sale of General Obligation Bonds, 2012 Election, Series B, in the principal amount of not to exceed $100 million and approving documents and official actions relating thereto.     \n", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution #2014/2015-25 authorizing the issuance and sale of General Obliation Bonds, 2012 Election, Series B, in the principal amount of not to exceed $100 million and approving documents and official actions relating thereto.", 
+                    "item_text": "Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-25 Authorizing the Issuance and Sale of General Obligation Bonds, 2012 Election, Series B, in the Principal Amount of Not to Exceed $100,000,000, and Approving Documents and Official Actions Relating Thereto - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_text_raw": "8.02 Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-25 Authorizing the Issuance and Sale of General Obligation Bonds, 2012 Election, Series B, in the Principal Amount of Not to Exceed $100,000,000, and Approving Documents and Official Actions Relating Thereto - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WRLBH818DFE", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  8.03\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nPresentation, Discussion and/or Action to Adopt Resolution #2014/2015-26 Authorizing the Issuance and Sale of General Obligation Bonds, 2014 Election, Series A, (Ed-Tech Bonds®), in the Principal Amount of Not to Exceed $16,200,000, and Approving Documents and Official Actions Relating Thereto\n\t \n\t \nResolution #2014/2015-26 authorizes the sale of $16.2 million of Ed-Tech General Obligation bonds from the District’s Election of 2014. This is the first series of bonds from the $113.2 million authorization.  The bonds will be sold through a competitive bid which has been the District’s predominant method of bringing new money bond financing to market. The winning bid will be based on the lowest rate of lowest cost of interest. Although the resolution allows for the bonds to be repaid for a period of up to five years, the current proposed structure envisions the bonds being fully repaid over three years.\n\t \nFISCAL IMPACT:\nIf sold, the Bonds are payable from ad valorem property taxes levied on taxpayers in the District.\n\t \nFUNDING SOURCE:\nAll associated cost of issuance will be paid form funds received through the issuance of the bond.\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution #2014/2015-26 Authorizing the issuance and sale of General Obligation Bonds, 2014 Election, Series A, (Ed-Tech Bonds®), in the principal amount of not to exceed $16,200,000, and approving cocuments and official actions relating thereto.\n", 
+                    "item_number": "8.03", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution #2014/2015-26 Authorizing the issuance and sale of General Obligation Bonds, 2014 Election, Series A, (Ed-Tech Bonds速), in the principal amount of not to exceed $16,200,000, and approving cocuments and official actions relating thereto.", 
+                    "item_text": "Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-26 Authorizing the Issuance and Sale of General Obligation Bonds, 2014 Election, Series A, (Ed-Tech Bonds速), in the Principal Amount of Not to Exceed $16,200,000, and Approving Documents and Official Actions Relating Thereto - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_text_raw": "8.03 Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-26 Authorizing the Issuance and Sale of General Obligation Bonds, 2014 Election, Series A, (Ed-Tech Bonds速), in the Principal Amount of Not to Exceed $16,200,000, and Approving Documents and Official Actions Relating Thereto - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WRLRM014E5B", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  8.04\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nPresentation, Discussion and/or Action to Adopt Resolution #2014/2015-27 Authorizing the Issuance and Sale of 2015 General Obligation Refunding Bonds in the Principal Amount of Not to Exceed $46,000,000, for the Purpose of Refunding Outstanding General Obligation Bonds of the District\n\t \nResolution #2014/2015-27 authorizes the refinancing of the District’s Election of 2008, Series A Bonds in an amount not to exceed $46 million. The refinancing of these bonds is possible due to recent reductions in interest rates. The number of years over which the new bonds will be repaid will not be increased nor will the structure of the new bonds include any capital appreciation bonds. All interest rate savings will be returned to taxpayers in the form of reduced property tax assessments. While the savings from the refinancing of the bonds are projected to be well above industry guidelines, should market rates rise and the refinancing become infeasible, the District will not be responsible for any costs associated with the attempted refinancing.  The bonds will be sold through a negotiated bid which has been the District’s predominant method of bringing bond refinancing to market. The underwriter of the refinancing will be selected based on proposals submitted to the District. An overview of this selection process as well as projected savings from the refinancing will be made by the District’s financial advisor.\n\t \n\t \nFISCAL IMPACT:\nIf sold, the Bonds are payable from ad valorem property taxes levied on taxpayers in the District.\n\t \nFUNDING SOURCE:\nAll associated cost of issuance will be paid from funds received through the issuance of the bond.\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution #2014/2015-27 authorizing the issuance and sale of 2015 General Obligation Refunding Bonds in the Principal amount of not to exceed $46,000,000, for the purpose of refunding outstanding General Obligation Bonds of the District.  \n", 
+                    "item_number": "8.04", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution #2014/2015-27 authorizing the issuance and sale of 2015 General Obligation Refunding Bonds in the Principal amount of not to exceed $46,000,000, for the purpose of refunding outstanding General Obligation Bonds of the District.", 
+                    "item_text": "Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-27 Authorizing the Issuance and Sale of 2015 General Obligation Refunding Bonds in the Principal Amount of Not to Exceed $46,000,000, for the Purpose of Refunding Outstanding General Obligation Bonds of the District - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_text_raw": "8.04 Presentation, Discussion and/or Action to Adopt Resolution #2014/2015-27 Authorizing the Issuance and Sale of 2015 General Obligation Refunding Bonds in the Principal Amount of Not to Exceed $46,000,000, for the Purpose of Refunding Outstanding General Obligation Bonds of the District - Marcus Battle, Associate Superintendent of Business Services, Dale Scott, Financial Advisor, Dale Scott & Company, and Charles F. Adams, Bond Counsel, Jones Hall, A Professional Law Corporation", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9TE3UE08812C", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  8.05\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nPresentation and/or Discussion regarding Genesys Works-Bay Area\n\t\t \nA presentation to describe the scope of services and professional training that Genesys Works-Bay Area (GWBA) will provide to East Side Union High School District.\nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nAs stipulated by the Board of Trustees.\n\t\t \n\t \n", 
+                    "item_number": "8.05", 
+                    "item_recommendation": "As stipulated by the Board of Trustees.", 
+                    "item_text": "Presentation and/or Discussion regarding Genesys Works-Bay Area - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "8.05 Presentation and/or Discussion regarding Genesys Works-Bay Area - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Action, Discussion, Presentation"
+                }
+            ], 
+            "section_name": "SPECIAL ORDER OF BUSINESS - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WSJMX7AEC93", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\nItem:  9.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nPresentation and Discussion regarding the Proposed Budget Adoption for 2015-16\n\t\t \nAttached for your review is a presentation of the 2015-16 preliminary budget as recommended. This is the second of three presentations of the budget to the Governing Board.  The Preliminary Budget is the result of a culmination of budget development activities between the sites, departments, and cabinet, which provide a basis for the final budget.  The preliminary budget presentation is summarized first by providing an update on the District’s fiscal year ending 2014-15 budget, State budget update, and preliminary assumptions.  The fiscal year 2014-15 budget is presented to provide year end projections for revenues, expenses, and ending fund balance.  After reviewing the fiscal year end 2014-15 summary, major budget assumption updates for the 2015-16 budget will be discussed, including May Revision School Services Dartboard.   The impact and adjustments based on the Governor’s May Revisions have been announced and are reflected in this second preliminary budget update.  \nThe Preliminary Budget presentation summarizes the projected estimate for general fund revenues and expenses for the budget year 2015-16 and for the multi-year through 2017-18 and incorporates all proposed savings, additions and adjustments to the District’s budget.  The presentation concludes with a summary of proposed actions and next steps in the budget process.  The final budget will be presented for budget adoption at the Governing Board’s June 18 meeting.\n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees receive the proposed budget as recommended for fiscal year 2015-16 as presented.\n\t \n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees receive the proposed budget as recommended for fiscal year 2015-16 as presented.", 
+                    "item_text": "Presentation and Discussion regarding the Proposed Budget Adoption for 2015-16 - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_text_raw": "9.01 Presentation and Discussion regarding the Proposed Budget Adoption for 2015-16 - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_type": "Action, Discussion, Information, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "9WQ4897B9C10", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  9.02\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:30 p.m. regarding the Proposed Budget Adoption for 2015-16. The Proposed Budget is available for Inspection at the District Office (Business Services Department, 830 N. Capitol Avenue, San Jose)\n\t\t\t \n\t\t\t \nPer Education Code Section 42103, the East Side Union High School District will hold a Public Hearing on the Proposed Budget Adoption for 2015-16.  The proposed budget is available for inspection at the District Office.\n\t\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t\t \nRECOMMENDATION:\nNot Applicable. \n\t \n", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "Public Hearing", 
+                    "item_text": "Hold Public Hearing at Approximately 6:30 p.m. regarding the Proposed Budget Adoption for 2015-16. The Proposed Budget is available for Inspection at the District Office (Business Services Department, 830 N. Capitol Avenue, San Jose) - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_text_raw": "9.02 Hold Public Hearing at Approximately 6:30 p.m. regarding the Proposed Budget Adoption for 2015-16. The Proposed Budget is available for Inspection at the District Office (Business Services Department, 830 N. Capitol Avenue, San Jose) - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WV7GZ19A1CE", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  9.03\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nPresentation and Discussion regarding Proposed Annual Update to Local Control Accountability Plan (LCAP)\n\t\t \nAn update on the Local Control Accountability Plan (LCAP) will be presented by Juan Cruz, Associate Superintendent of Educational Services.\n\t\t \n\t\t \n\t \n", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation and Discussion regarding Proposed Annual Update to Local Control Accountability Plan (LCAP) - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "9.03 Presentation and Discussion regarding Proposed Annual Update to Local Control Accountability Plan (LCAP) - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Action, Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "9WRKWF7EFD53", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  9.04\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:35 p.m. regarding the Proposed Annual Update to the Local Control Accountability Plan (LCAP). A copy of the Local Control Accountability Plan is available for inspection at the District Office (Instructional Services Department, 830 N. Capitol Avenue, San Jose)\n\t\t \n\t\t \nHold Public Hearing at Approximately 6:35 p.m. regarding the Local Control Accountability Plan (LCAP). A copy of the Local Control Accountability Plan is available for inspection at the District Office in the Educational Services Department, 830 N. Capitol Avenue, San Jose.\n\t\t \nFISCAL IMPACT:\nEIA $2,821,030.00\nSupplemental $12,283,636.00\n\t\t \nFUNDING SOURCE:\nEIA Funds\nSupplemental Funds\n\t\t \nRECOMMENDATION:\nHold public hearing to solicit comments for the public regarding regulations for supplemental grants\n\t\t \n\t \n", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "Hold public hearing to solicit comments from the public regarding regulations for suppplemental grants.", 
+                    "item_text": "Hold Public Hearing at Approximately 6:35 p.m. regarding the Proposed Annual Update to the Local Control Accountability Plan (LCAP). A copy of the Local Control Accountability Plan is available for inspection at the District Office (Instructional Services Department, 830 N. Capitol Avenue, San Jose) - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "9.04 Hold Public Hearing at Approximately 6:35 p.m. regarding the Proposed Annual Update to the Local Control Accountability Plan (LCAP). A copy of the Local Control Accountability Plan is available for inspection at the District Office (Instructional Services Department, 830 N. Capitol Avenue, San Jose) - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9W4T5W75AD1D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.05\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:40 p.m. to Receive and Sunshine the Initial Proposal for Contract Reopeners for 2015-2016:  From the California School Employees Association, Chapter 187, to the East Side Union High School District\n\t \n\t \nThe District has received a copy of the California School Employees Association, Chapter 187, initial bargaining proposal for contract reopeners for 2015-2016, a copy of which is attached.  Pursuant to Government Code §3547 the District must receive and sunshine in open session the initial proposal of any bargaining unit prior to commencing negotiations. \n\t \nAdministration recommends that the Board receive, sunshine and accept any public comment on the California School Employees Association, Chapter 187, initial proposal for contract reopeners for 2015-2016.\n\t \n\t \nFUNDING SOURCE:\nVarious\n\t \nFISCAL IMPACT:\nTo be negotiated\n\t \nRECOMMENDATION:\nAdministration recommends that the Board receive, sunshine and accept any public comment on the California School Employees Association, Chapter 187, initial proposal for contract reopeners for 2015-2016.\n", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "Administration recommends that the Board receive, sunshine and accept any public comment on the California School Employees Association, Chapter 187, initial proposal for contract reopeners for 2015-2016.", 
+                    "item_text": "Hold Public Hearing at Approximately 6:40 p.m. to Receive and Sunshine the Initial Proposal for Contract Reopeners for 2015-2016: From the California School Employees Association, Chapter 187, to the East Side Union High School District - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "9.05 Hold Public Hearing at Approximately 6:40 p.m. to Receive and Sunshine the Initial Proposal for Contract Reopeners for 2015-2016: From the California School Employees Association, Chapter 187, to the East Side Union High School District - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WWACK73EECA", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  9.06\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:45 p.m. regarding the Local Reserves Cap SB 858, Section 27/California Education Code 42127.01\n\t\t \n\t\t \nPer Education Code 42127.01 and beginning with the 2015-16 budget, the District is required to hold a public hearing regarding the Local Reserves Cap SB 858, Section 27.  Attached is the statement that substantiates the need for the excess of the minimum recommended reserve for economic uncertainties.\n\t\t \n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nNot Applicable\n\t \n", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "Public Hearing Notice", 
+                    "item_text": "Hold Public Hearing at Approximately 6:45 p.m. regarding the Local Reserves Cap SB 858, Section 27/California Education Code 42127.01 - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance.\n\nThere were no public speakers.", 
+                    "item_text_raw": "9.06 Hold Public Hearing at Approximately 6:45 p.m. regarding the Local Reserves Cap SB 858, Section 27/California Education Code 42127.01 - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance.\n\nThere were no public speakers.", 
+                    "item_type": "Action, Discussion, Information"
+                }
+            ], 
+            "section_name": "PUBLIC HEARING(S) - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UP87CB5DD", 
+                    "item_details": "\nMembers of the public may address the Board on any subject not on tonight’s agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action.  As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting.\n\t \nAny person may address the Board on any item on the meeting agenda.  Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.   \n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. Any person may address the Board on any item on the meeting agenda. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_text_raw": "10.01 Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. Any person may address the Board on any item on the meeting agenda. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WQVKU5B0CB0", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  11.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nJ. Manuel Herrera, Board Member\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nAdopt Resolution #2014/2015-28 regarding Santa Maria Phillips 66 Rail Refinery Oils Trains\n\t \n\t \nPresented for action and adoption by the Board of Trustees is Resolution #2015/2016-28 regarding the Santa Maria Phillips 66 Rail Refinery Oil Trains.  The East Side Union High School District Board of Trustees is urged to strongly oppose this oil project and to ask the San Luis Obispo County Planning Commission and San Luis Obispo County Board of Supervisors to soundly reject the Santa Maria Phillips 66 Rail Refinery Project. \n\t \nThe East Side Union High School District Board of Trustees would be taking this action as the representative of schools that are located along the proposed rail route and would be directly impacted by the oil trains for this project.   The District would hereby urge advocacy on behalf of the many community leaders expressing grave concerns about the impacts this oil train project would have on our local communities.   \n\t \n\t \n\t \nFISCAL IMPACT:\nNot Applicable\n\t \nFUNDING SOURCE:\nNot Applicable\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution #2015/2016-28 regarding the Santa Maria Phillips 66 Rail Refinery Oil Trans and a copy of the resolution be forwarded to the San Luis Obispo Planning Commission and San Luis Obispo County Board of Supervisors. \n\t \n\t \n\t \n\t \n\t \n", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution #2015/2016-28 regarding the Santa Maria Phillips 66 Rail Refinery Oil Trans and a copy of the resolution be forwarded to the San Luis Obispo Planning Commission and San Luis Obispo County Board of Supervisors.", 
+                    "item_text": "Adopt Resolution #2014/2015-28 regarding Santa Maria Phillips 66 Rial Refinery Oil Trains - J. Manuel Herrera, Board Member", 
+                    "item_text_raw": "11.01 Adopt Resolution #2014/2015-28 regarding Santa Maria Phillips 66 Rial Refinery Oil Trains - J. Manuel Herrera, Board Member", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WRKWS7F2B27", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  12.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nPresentation and Discussion regarding Independent Study Report\n\t\t \nEast Side Union High School District has three programs, Independent Study (ISP), SOAR – Students Overcoming and Redirecting, and Home/Hospital, which serve students who cannot participate in a traditional high school model or in one of our existing alternative school models. Each program has unique characteristics that support the unique needs of the child and family and each program has different enrollment requirements.\n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation and Discussion regarding Independent Study Report - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "12.01 Presentation and Discussion regarding Independent Study Report - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "9WRL227FCE96", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  12.02\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Title III Plan and Budget for English Learners and Immigrant Students for the 2015-2016 School Year.\n\t\t \nAs required by the California Department of Education (CDE), school districts that receive Title III \nsupplemental funds for English Learners (ELs) and immigrant students need to update their Title III Plan.\n\t\t \nA team of District Administrators and Associate Principals of Educational Development (APEDs) convened to review the needs, goals, and activities for English Learners (ELs). The team also aligned the EL programs and services with Title III supplemental funds.\n\t\t \nThe Title III supplemental funds are used to meet the following goals:\nImprove English language proficiency for English Learners\nProvide high quality professional development for teachers of English Learners and immigrant students\nIncrease parent and community participation\nIncrease graduation rates\nNotify parents annually on EL instructional program, alternative programs, reclassification criteria, expected rate of graduation for students in the program, and Title III annual measurable objectives for ELs\nThe proposed Title III Plan and Budget were reviewed by the English Language Development (ELD) chairpersons and the District English Learner Advisory Committee (DELAC) at their May 2015 meetings.\n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nTitle III\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Title III Plan and Budget for English Learners and Immigrant Students for the 2015-2016 school year.\n\t\t \n\t\t \n\t \n", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the Title III Plan and Budget for English Learners and Immigrant Students for the 2015-2016 school year.", 
+                    "item_text": "Discussion and/or Action to Approve Title III Plan and Budget for English Learners and Immigrant Students for the 2015-2016 School Year - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "12.02 Discussion and/or Action to Approve Title III Plan and Budget for English Learners and Immigrant Students for the 2015-2016 School Year - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WRL2T7FF94B", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  12.03\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Receive First Reading of Amended Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform Complaint Procedures Form\n\t\t \nTo insure compliance with applicable State and Federal laws and regulations regarding the Local Control Funding Formula (LCFF) and the requirements regarding the development and adoption of the Local Control Accountability Plan (LCAP), the attached proposed amendments to Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform Complaint Procedures Form are submitted to the Board to Trustees for review.\n\t\t \nFor the Board's information, attached is proposed amendment to Administrative Regulation 1312.3.\n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nN/A\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board receive the first reading of the amendment to Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform complaint Procedures Form.\n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "It is recommended that the Board receive the first reading of the amendment to Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform complaint Procedures Form.", 
+                    "item_text": "Discussion and/or Action to Receive First Reading of Amended Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform Complaint Procedures Form - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_text_raw": "12.03 Discussion and/or Action to Receive First Reading of Amended Board Policy 1312.3 Community Relations - Uniform Complaint Procedures, and Board Policy 1312.3 E Uniform Complaint Procedures Form - Juan Cruz, Associate Superintendent of Educational Services", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "EDUCATIONAL SERVICES/STUDENT SERVICES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WW9PQ722689", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  13.01\n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and André Bell, Assistant Director of Capital Accounting and Purchasing\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Sponsorship Agreement with Motivational System, Inc.\n\t\t \n\t\t \nAttached for the Board's review is a sponsorship agreement with Motivational System, Inc. (KB Homes).  Sponsor desires to advertise or promote the business, product, or services of KB Homes for a limited time by placing a \"KB Homes\" sign on the site of Andrew Hill High School at the corner of Capitol Expressway and Senter Road.  The term of the sponsorship period is for two (2) years.  The sum of $2,400 from the sponsor will support the District's educational, athletic, or other programs or activities at Andrew Hill High School.   \n\t\t \nFISCAL IMPACT:\n($2,400.00)\n\t\t \nFUNDING SOURCE:\nGeneral Fund\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the sponsorship agreement with Motivational System, Inc.\n\t \n", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the sponsorship agreement with Motivational System, Inc.", 
+                    "item_text": "Discussion and/or Action to Approve Sponsorship Agreement with Motivational System, Inc. - Marcus Battle, Associate Superintendent of Business Services, and AndrĂŠ Bell, Assistant Director of Capital Accounting and Purchasing", 
+                    "item_text_raw": "13.01 Discussion and/or Action to Approve Sponsorship Agreement with Motivational System, Inc. - Marcus Battle, Associate Superintendent of Business Services, and AndrĂŠ Bell, Assistant Director of Capital Accounting and Purchasing", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WXKZ55424EA", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  13.02\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance, and Kelly Kwong, Senior Manager of Internal Controls\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Suspension of Mt. Pleasant High School Booster Club Approval to Solicit Contributions or Funds per Education Code 51520 and 51521\n\t\t \n\t\t \nThe Mt. Pleasant High School Booster Club is a separately organized and controlled non-profit entity that in the past has raised funds for Mt. Pleasant High School student programs.  The booster organization is not controlled by or overseen by the District.  The law requires, however, that the booster organization must obtain the District’s approval to solicit funds on the school site for the benefit of students, or if it solicits funds on the representation that the money received is to be used in whole or in part for the benefit of Mt. Pleasant High School or any other District school or students.\n\t\t \nEducation Code section 51520(a) provides: \n\t\t \n“During school hours, and within one hour before the time of opening and within one hour after the time of closing of school, pupils of the public school shall not be solicited on school premises by teachers or others to subscribe or contribute to the funds of, to become members of, or to work for, any organization not directly under the control of the school authorities, unless the organization is a nonpartisan, charitable organization organized for charitable purposes by an act of Congress or under the laws of the State, the purpose of the solicitation is nonpartisan and charitable, and the solicitation has been approved by the county board of education or by the governing board of the school district in which the school is located.” (Emphasis added.)\n\t\t \nEducation Code section 51521 further provides in part: \n\t\t \n“No person shall solicit any other person to contribute to any fund or to purchase any item of personal property, upon the representation that the money received is to be used wholly or in part for the benefit of any public school or the student body of any public school, unless such person obtains the prior written approval of either the governing board of the school district in which such solicitation is to be made or the governing board of the school district having jurisdiction over the school or student body represented to be benefited by such solicitation, or the designee of either of such boards.”\n\t\t \nRecently, Administration became aware that the booster organization’s tax exempt status was revoked by the Internal Revenue Service for failure to file tax returns.  In addition, based on a review of the booster organization’s financial records, it appears that individuals were paid wages or a form of wages with booster funds although the booster has not issued IRS Form 1099-Miscellaneous to the individuals or otherwise report the taxable earnings paid to the IRS.  The District’s review of the booster’s accounting records and internal controls is on-going and other questionable practices have been identified and are under review.  On these bases, Administration recommends that the Board approve the suspension of the Mt. Pleasant High School Booster Club ‘s authorization to solicit contributions and funds on any District site for any purpose and/or upon the representation  that any money received is to be used wholly or in part for the benefit of any District students or academic or athletic programs.  Administration further recommends that no such solicitations shall occur or resume unless and until the Board reauthorize such activities, the booster organization has shown to the satisfaction of the District that the IRS has reinstated the booster organization’s tax exempt status, and that the booster organization has established and implemented appropriate controls and procedures to protect the District community.\n\t\t \nFiscal Impact:\nNot Applicable  \n\t\t \nFunding Source:\nNot Applicable\n\t\t \nRecommendation:\nIt is recommended that the Board of Trustees approve the suspension of the Mt. Pleasant High School Booster Club authorization to solicit contributions or funds on any District site for any purpose and/or upon the representation that any money received is to be used wholly or in part for the benefit of any District students or academic or athletic programs.\n\t \n", 
+                    "item_number": "13.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the suspension of the Mt. Pleasant High School Booster Club authorization to solicit contributions or funds on any District site for any purpose and/or upon the representation that any money received is to be used wholly or in part for the benefit of any District students or academic or athletic programs.", 
+                    "item_text": "Discussion and/or Action to Approve Suspension of Mt. Pleasant High School Booster Club's Approval to Solicit Contributions or Funds per Education Code 51520 and 51521 - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance, and Kelly Kwong, Senior Manager of Internal Controls", 
+                    "item_text_raw": "13.02 Discussion and/or Action to Approve Suspension of Mt. Pleasant High School Booster Club's Approval to Solicit Contributions or Funds per Education Code 51520 and 51521 - Marcus Battle, Associate Superintendent of Business Services, Karen Poon, Director of Finance, and Kelly Kwong, Senior Manager of Internal Controls", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "BUSINESS SERVICES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WQ5M30B9091", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action Regarding the Proposed Adoption of the Initial Proposal for Contract Reopeners for 2015-2016: from the East Side Union High School District to the California School Employees Association, Chapter 187\n\t \n\t \nThe East Side Union High School District presents the following contract reopener proposals to the California School Employees Association, Chapter 187 for the 2015-2016 school year.  Pursuant to Government Code §3547 the District’s initial proposal must be presented to the public in open session at a public meeting.\n\t \nThe District continues to acknowledge and appreciate the contributions made to its mission and programs by its classified employees, and continues to seek the utilization of equitable and collaborative methods of addressing the needs of the students, parents and employees of the East Side Union High School District.  \n\t \nAccordingly, the District proposes the following areas for contract reopeners: total compensation, which includes salary and benefits (Articles 15 and 16); contract language amendments to Articles 14 and 17. The District also has an interest in ensuring that contract language is consistent with current funding formulas; eliminating references to COLA. \n\t \n\t \nFISCAL IMPACT:\nTo be negotiated\n\t \nFUNDING SOURCE:\nVarious\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt the District's initial proposal for contract reopeners to the California School Employees Association, Chapter 187 for 2015-2016.\n", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt the District's initial proposal for contract reopeners to the California School Employees Association, Chapter 187 for 2015-2016.", 
+                    "item_text": "Discussion and/or Action Regarding the Proposed Adoption of the Initial Proposal for Contract Reopeners for 2015-2016: from the East Side Union High School District to the California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.01 Discussion and/or Action Regarding the Proposed Adoption of the Initial Proposal for Contract Reopeners for 2015-2016: from the East Side Union High School District to the California School Employees Association, Chapter 187 - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WQ5QQ0DC3E0", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.02\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Classified Management Job Description and Salary Range for Chief Technology Officer\n\t \n\t \nThe Chief Technology Officer job description reflects the increased role technology plays in the district's operation and education mission.  The passage of a Technology Bond adds the additional responsibility of long range planning to coordinate and direct a district-wide integrated information system that ensures the most efficient and effective use of hardware, software and systems networking.  A Chief Technology Officer reflects the unique combination of educational systems experience and technology systems expertise. The Director III, Information Technology position will be abandoned.\n\t \nThe District is requesting the approval of the classified management job description and salary range for Chief Technology Officer at a range 41 with an annual salary of $163,913 - $172,275.  This is a 12 month Classified Management position.\n\t \nFISCAL IMPACT:\n$12,772\n\t \nFUNDING SOURCE:\nGeneral Fund, Technology Bond\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified management job description and salary range for Chief Technology Officer.\n", 
+                    "item_number": "14.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the classified management job description and salary range for Chief Technology Officer.", 
+                    "item_text": "Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Chief Technology Officer â Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.02 Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Chief Technology Officer â Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WQ5QP0DC33E", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.03\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Classified Management Job Description and Salary Range for Assistant Director of Information Technology\n\t \nThe revision/update of the job description with the accompanying title change reflects the current duties of the Computer Support Manager.  The salary range remains at a range 24.\n\t \nThe District is requesting the approval of the classified management job description and salary range for Assistant Director of Information Technology at a range 24 with an annual salary of $77,808 - $99,300.  This is a 12 month Classified Management position.\n\t \n\t \nFISCAL IMPACT:\nNone\n\t \nFUNDING SOURCE:\nGeneral Fund\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified management job description and salary range for Assistant Director of Information Technology.\n", 
+                    "item_number": "14.03", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the classified management job description and salary range for Assistant Director of Information Technology.", 
+                    "item_text": "Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Assistant Director of Information Technology - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.03 Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Assistant Director of Information Technology - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WQ5QN0DC2A7", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.04\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Purchasing and Capital Accounting\n\t \n\t \nThe reorganizing of the Purchasing and Capital Accounting Division has created a need for a Director position to facilitate internal coordination and oversight of the division. The Assistant Director of Capital Accounting position will not be filled.\n\tThe District is requesting the approval of the classified management job description and salary rage for Director of Purchasing and Capital Accounting at a range 32 with an annual salary of $98,064 - $118,668.  This is a 12 month Classified Management position.\n\t \nFISCAL IMPACT:\n$8,040\n\t \nFUNDING SOURCE:\nGeneral Fund, Bond Measure E, Bond Measure G, Bond Measure I\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified management job description and salary range for Director of Purchasing and Capital Accounting.\n", 
+                    "item_number": "14.04", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the classified management job description and salary range for Director of Purchasing and Capital Accounting.", 
+                    "item_text": "Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Purchasing and Capital Accounting â Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.04 Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Purchasing and Capital Accounting â Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WQ5QM0DC0C0", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.05\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Classified Management Job Description and Salary Range for General Purchasing Manager \n\t \n\t \nThe reorganization of the Purchasing and Capital Accounting Division has eliminated the position of Contracts Administration Coordinator.  A General Purchasing Manager will best serve the needs of the division. The Contracts Administration position will be abandoned.\n\tThe District is requesting the approval of the classified management job description and salary rage for General Purchasing Manager at a range 24 with an annual salary of $77,808 - $99,300.  This is a 12 month Classified Management position.\n\t \n\t \nFISCAL IMPACT:\nSavings of $16,248 - $37,740 per year\n\t \nFUNDING SOURCE:\nGeneral Fund\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified management job description and salary range for General Purchasing Manager.\n", 
+                    "item_number": "14.05", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the classified management job description and salary range for General Purchasing Manager.", 
+                    "item_text": "Discussion and/or Action to Approve Classified Management Job Description and Salary Range for General Purchasing Manager - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.05 Discussion and/or Action to Approve Classified Management Job Description and Salary Range for General Purchasing Manager - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9UFTAF75F8F7", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.06\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Marketing and Public Engagement\n\t \n\t \nThe East Side Union High School District has a need for a Director of Marketing and Public Engagement to oversee a comprehensive communications program for both internal and external audiences, which includes media relations, marketing, social networking, special events, press releases and other related communications or requests.\n\t \nThe District is requesting the approval of the Classified Management job description and salary range at a Range 36 with an annual salary range of $112,272 - $118,932.  This position is a 12 month Classified Management position.\n\t \n\t \nFISCAL IMPACT:\n$112,272 - $118,932 per year\n\t \nFUNDING SOURCE:\nGeneral Fund\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Classified Management job description and salary range for Director of Marketing and Public Engagement.\n", 
+                    "item_number": "14.06", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the Classified Management job description and salary range for Director of Marketing and Public Engagement.", 
+                    "item_text": "Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Marketing and Public Engagement - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.06 Discussion and/or Action to Approve Classified Management Job Description and Salary Range for Director of Marketing and Public Engagement - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WQ5SA119E6A", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.07\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent  of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve Provisional Internship Permit Request for Certificated Employees\n\t \n\t \nPursuant to State mandate, the Governing Board must approve provisional internship permit requests allowing the district to employ and assign teacher(s) or administrator(s) who do not hold appropriate credential authorization.\n\tThe Provisional Internship Permit (PIP) was created in response to the phasing out of emergency permits and became effective on July 1, 2006.  It allows an employing agency to hire an individual who has not yet met the subject matter competence requirement needed to enter an internship program.\n\tThe district is requesting approval of the following provisional internship permit request for the 2015-2016 school year.\n\t \nProvisional Internship Permit\n\t \nLUGO, Carolina\nPiedmont Hills\nSpecial Education M/S\n\t \n\t \nFISCAL IMPACT:\nNot applicable\n\t \nFUNDING SOURCE:\nNot applicable\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the provisional internship permit request for certificated employees as specified.\n", 
+                    "item_number": "14.07", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the provisional internship permit request for certificated employees as specified.", 
+                    "item_text": "Discussion and/or Action to Approve Provisional Internship Permit Request for Certificated Employees - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.07 Discussion and/or Action to Approve Provisional Internship Permit Request for Certificated Employees - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9X6T8V6D2F97", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.08\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Receive First Reading of Proposed Amendment to Board Policy 4161/4261 Leaves\n\t \n\t \nBoard Policy 4161/4261 Leaves is being brought to the Board of Trustees for discussion and/or action to amend as per AB 1522 (Healthy Workplace Healthy Family Act of 2014), which goes into effect on July 1, 2015.\nIt is recommended that the Board of Trustees review and receive the first reading of the proposed amendment to Board Policy 4161/4261 Leaves.\n\t \n\t \nFISCAL IMPACT:\nNot Applicable\n\t \nFUNDING SOURCE:\nNot Applicable\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees receive the first reading of the proposed amendment to Board Policy 4161/4261 Leaves.\n", 
+                    "item_number": "14.08", 
+                    "item_recommendation": "It is recommended that the Board of Trustees receive the first reading of the proposed amendment to Board Policy 4161/4261 Leaves.", 
+                    "item_text": "Discussion and/or Action to Receive First Reading of Proposed Amendment to Board Policy 4161/4261 Leaves - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_text_raw": "14.08 Discussion and/or Action to Receive First Reading of Proposed Amendment to Board Policy 4161/4261 Leaves - Cari Vaeth, Associate Superintendent of Human Resources", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "HUMAN RESOURCES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WK2QE0003BA", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  15.01\n\t\t\t \n\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Assistant Director of Capital Accounting and Purchasing, and Janice Unger, Capital Projects Purchasing Manager\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Approve the Bond/Capital Projects Contract(s) Over $50,000   \n\t\t\t \n\t\t\t \nThe attachment for the bond/capital projects contract(s) over $50,000 is being presented for Board review and approval.\n\t\t\t \n\t\t\t \nFiscal Impact:\nAs indicated in the attachment\n\t\t\t \nFunding Source:\nAs indicated in the attachment\n\t\t\t \nRecommendation:\nIt is recommended that the Board of Trustees approve the bond/capital projects contract(s) as presented; and to authorize the Superintendent and/or designee to execute amendments to the Agreement that may be needed during the term up to ten percent (10%) of the original Board-approved contract amount, but not to exceed $175,000.00 in total and change orders to contracts for capital construction related professional services up to ten percent (10%) of the original contract value, but not to exceed $50,000.00 as per Board Policy 3312.1.\n\t \n", 
+                    "item_number": "15.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the bond/capital projects contract(s) as presented; and to authorize the Superintendent and/or designee to execute amendments to the Agreement that may be needed during the term up to ten percent (10%) of the original Board-approved contract amount, but not to exceed $175,000.00 in total and change orders to contracts for capital construction related professional services up to ten percent (10%) of the original contract value, but not to exceed $50,000.00 as per Board Policy 3312.1.", 
+                    "item_text": "Discussion and/or Action to Approve the Bond/Capital Projects Contract(s) Over $50,000 - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, AndrĂŠ Bell, Assistant Director of Capital Accounting and Purchasing, and Janice Unger, Capital Projects Purchasing Manager", 
+                    "item_text_raw": "15.01 Discussion and/or Action to Approve the Bond/Capital Projects Contract(s) Over $50,000 - Marcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, AndrĂŠ Bell, Assistant Director of Capital Accounting and Purchasing, and Janice Unger, Capital Projects Purchasing Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WRHFK73A7BD", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  15.02\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services and Linda da Silva, Director of Construction, Maintenance, and Facilities\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Receive First Reading of Proposed Amended Board Policy 7214 General Obligation Bonds\n\t\t \n\t\t \nIn order to comply with State and Federal regulations, it is recommended that the Board of Trustees receive and review the first reading of Board Policy 7214 General Obligation Bonds, which has been recommended by CSBA and/or District Administration to be modified to meet the needs of East Side Union High School District.\nFor the Board's information, attached is the proposed new Administrative Regulation 7214 General Obligation Bonds.\n\t\t \nFiscal Impact:\nNot Applicable\n\t\t \nFunding Source:\nNot Applicable\n\t\t \nRecommendation:\nIt is recommended that the Board of Trustees receive the first reading of the proposed amendment to Board Policy 7214 General Obligation Bonds.\n\t \n", 
+                    "item_number": "15.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees receive the first reading of the proposed amendment to Board Policy 7214 General Obligation Bonds.", 
+                    "item_text": "Discussion and/or Action to Receive First Reading of Proposed Amended Board Policy 7214 General Obligation Bonds - Marcus Battle, Associate Superintendent of Business Services and Linda da Silva, Director of Construction, Maintenance, and Facilities", 
+                    "item_text_raw": "15.02 Discussion and/or Action to Receive First Reading of Proposed Amended Board Policy 7214 General Obligation Bonds - Marcus Battle, Associate Superintendent of Business Services and Linda da Silva, Director of Construction, Maintenance, and Facilities", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "FACILITIES/BOND - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WQVS75B6A80", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  16.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nRatify/Approve Board Member(s) Lawful Expenses/Mileage to Conferences/\nWorkshops/Meetings\n\t\t \n\t\t \n\t\t \nApproval/ratification for Board Members' attendance and lawful expenses to the following event is requested:\n\t\t \nEvent\nDate(s)\nLocation\nCalifornia School Boards Association\nDelegate Assembly & Annual Education Conference and Trade Show\nDelegate Assembly:\nDecember 2-3, 2015\n\t\t\t\t\t\t \nConference & Trade Show:  December 3-5, 2015\nSan Diego, CA\n\t\t \n\t\t \nAlso submitted for ratification by the Board of Trustees is the attached mileage report.\n\t\t \n\t\t \n\t\t \nFISCAL IMPACT:\nAll authorized expenses as stipulated by the Board of Trustees\n\t\t \nFUNDING SOURCE:\nGeneral Fund - Board of Trustees\nRECOMMENDATION:\nIt is recommended that the Board of Trustees ratify/approve the lawful expenses/mileage report(s)/reimbursement(s) to conferences/workshops/meetings as presented.\n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "16.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees ratify/approve the lawful expenses/mileage report(s)/reimbursement(s) to conferences/workshops/meetings as presented.", 
+                    "item_text": "Ratify/Approve Board Member(s) Lawful Expenses/Mileage to Conferences/ Workshops/Meetings", 
+                    "item_text_raw": "16.01 Ratify/Approve Board Member(s) Lawful Expenses/Mileage to Conferences/ Workshops/Meetings", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WQVSF5B6CB4", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  16.02\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nRatify/Approve Superintendent's Attendance and Lawful Expenses to Conferences/\nWorkshops/Meetings\n\t\t \n\t\t \n\t\t \nApproval for the Superintendent's attendance and lawful expenses to the following events are requested:\n\t\t \n\t\t \nEvent\nDate(s)\nLocation\nSanta Clara County\nSuperintendents' Retreat\nFall, 2015\n2-Day Retreat; Date TBD\nSanta Cruz, CA\nCalifornia School Boards Association (CSBA)\nAnnual Education Conference &\nTrade Show\nDecember 3-5, 2015\nSan Diego, CA\nAssociation of California School Administrators (ACSA) \n2016 Superintendents' Symposium\nJanuary 27-29, 2016\nMonterey, CA\n\t\t \nFor ratification by the Board of Trustees, below are the Superintendent's expenses.\n\t\t \n\t\t \nEvent\nAmount\nAssociation of California School Administrators (ACSA)  2015 Superintendents' Symposium\n$103.95\nWisdom 2.0 2015\n$171.99\nEducation Exchange Forum\n$174.53\nApple Education Seminar:\nSchool Visit - Minarets High School\n\t\t\t\t\t\t \n$239.39\n\t\t \nFISCAL IMPACT:\nAll authorized expenses as stipulated by the Board of Trustees\n\t\t \nFUNDING SOURCE:\nGeneral Fund - Superintendent\nRECOMMENDATION:\nIt is recommended that the Board of Trustees ratify/approve the Superintendent's attendance and lawful expenses to conferences/workshops/meetings as presented.\n\t\t \n\t\t \n\t\t \n\t\t                                                                                           \n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "16.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees ratify/approve the Superintendent's attendance and lawful expenses to conferences/workshops/meetings as presented.", 
+                    "item_text": "Ratify/Approve Superintendent's Attendance and Lawful Expenses to Conferences/Workshops/Meetings", 
+                    "item_text_raw": "16.02 Ratify/Approve Superintendent's Attendance and Lawful Expenses to Conferences/Workshops/Meetings", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT - CONSENT/ACTION CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WXPAL5F7CA4", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  17.01\n\t\t \n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t\t \nSUBJECT:\nRatify/Approve School Field Trips\n\t\t \nThese field trips have been reviewed by the Administration and are cleared for the necessary amount of staff, supervisors and funding source(s).\n\t\t \nSchool/Group\nDestination\nDates\nBudget Impact\nRationale\nTransportation\nAH/HOSA\nAnaheim, CA\n06/24/2015-\n06/28/2015\nStanford Funding\nLeadership Conference\nPrivate Vehicles\nOG/Swimming Team\nClovis, CA\n05/21/2015-\n05/22/2015\nN/A\nDiving Championship\nPrivate Vehicles\nST/Diving Team\nClovis, CA\n05/22/2015-\n05/23/2015\nN/A\nDiving Championship\nPrivate Vehicles\n\t\t \nFISCAL IMPACT:\nVarious\n\t\t \nFUNDING SOURCE:\nStanford Funding\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees ratify/approve the field trips as listed pending purchase of trip insurance on travel out of the country and the continental United States\n\t \n", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "It is recommended that the Board approve the field trips as listed above pending purchase of trip insurance on travel out of the country and the continental United States.", 
+                    "item_text": "Ratify/Approve School Field Trips", 
+                    "item_text_raw": "17.01 Ratify/Approve School Field Trips", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9WXPD65FE1E3", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  17.02\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nJuan Cruz, Associate Superintendent of Educational Services\n\t\t\t\t\t \nSUBJECT:\nApprove CAHSEE Local Waivers for Special Education Students\n\t \nDESCRIPTION:\nEducation Code Section 60851 states that students who take one or both parts of the CAHSEE with a modification and receive the equivalent of a passing score are eligible for the waiver request process.  At the request of the student’s parent or guardian, a school principal must submit to the local school governing board a request for a waiver of the requirement to pass the part(s) of the CAHSEE on which a modification was used and the equivalent of a passing score was earned.  For the local board to waive the CAHSEE requirement, the principal must certify to the local board that the pupil has all of the following:\nAn individualized education program adopted pursuant to the federal Individuals with Disabilities Education Act or a plan adopted pursuant to Section 504 of the Rehabilitation Act of 1973 that requires the accommodations or modifications to be provided to the pupil when taking the high school exit examination.\nSufficient high school level coursework either satisfactorily completed or in progress in a high school level curriculum sufficient to have attained the skills and knowledge otherwise needed to pass the high school exit examination.\nAn individual score report for the pupil showing that the pupil has received the equivalent of a passing score on the high school exit examination while using a modification that fundamentally alters what the high school exit examination measures as determined by the State Board of Education.\nThe waivers were requested by the school site administration on behalf of the students’ parents.\nThe recommended waivers meet the aforementioned criteria delineated in Education Code Section 60851: \n\t \nStudent A\nStudent B\nStudent C\nStudent D\nStudent E\nStudent F\nStudent G\nStudent H\nStudent I\nStudent J\nStudent K\nStudent L\nStudent M\nStudent N\nStudent O\nStudent P\nStudent Q\nStudent R\nStudent S\nStudent T\nStudent U\nStudent V\nStudent W\nStudent X\nStudent Y\nStudent Z\nStudent AA\nStudent AB\nStudent AC\nStudent AD\nStudent AE\nStudent AF\nStudent AG\nStudent AH\nStudent AI\nStudent AJ\nStudent AK\nStudent AL\nStudent AM\nStudent AN\nStudent AO\nStudent AP\nStudent AQ\nStudent AR\nStudent AS\nStudent AT\nStudent AU\nStudent AV\nStudent AW\nStudent AX\nStudent AY\nStudent AZ\nStudent AAA\nStudent AAB\nStudent AAC\nStudent AAD\nStudent AAE\nStudent AAF\nStudent AAG\nStudent AAH\nStudent AAI\nStudent AAJ\nStudent AAK\nStudent AAL\nStudent AAM\nStudent AAN\nStudent AAO\nStudent AAP\nStudent AAQ\n\t\t\t\t \n\t \nFISCAL IMPACT:\nN/A\n\t \nFUNDING SOURCE:\nN/A\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the recommended waivers.\n", 
+                    "item_number": "17.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the recommended waivers.", 
+                    "item_text": "Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_text_raw": "17.02 Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "EDUCATIONAL SERVICES / STUDENT SERVICES - CONSENT/ACTION CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WMNPX60F5BF", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\nItem:  18.01\n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and André Bell, Assistant Director of Capital Accounting and Purchasing\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nApprove Purchase Orders  \n\t\t\t\t\t \nThe attached list of purchase orders from April 23, 2015, through May 14, 2015, are being presented to the Board for review and approval.\n\t\t\t\t\t \nFiscal Impact:\nAs presented in the attachment\n\t\t\t\t\t \nFunding Source:\nAs presented in the attachment\n\t\t\t\t\t \nRecommendation:\nIt is recommended that the Board of Trustees approve the purchase orders as presented.\n\t \n", 
+                    "item_number": "18.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the purchase orders as presented.", 
+                    "item_text": "Approve Purchase Orders", 
+                    "item_text_raw": "18.01 Approve Purchase Orders", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WMVUL7DD856", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t\t\t \nItem:  18.02\n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and André Bell, Assistant Director of Capital Accounting and Purchasing\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nApprove Change Orders to Purchase Orders  \n\t\t\t\t\t \n\t\t\t\t\t \nThe change orders are increases to the purchase orders that were approved at prior Board meetings.  These increases are being presented for review and approval.\n\t\t\t\t\t \nFiscal Impact:\nAs presented in the attachment\n\t\t\t\t\t \nFunding Source:\nAs presented in the attachment\n\t\t\t\t\t \nRecommendation:\nIt is recommended that the Board of Trustees approve the change orders to purchase orders as presented.\n\t \n", 
+                    "item_number": "18.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the change orders to purchase orders as presented.", 
+                    "item_text": "Approve Change Orders to Purchase Orders", 
+                    "item_text_raw": "18.02 Approve Change Orders to Purchase Orders", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WN2D78304CB", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  18.03\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and André Bell, Assistant Director of Capital Accounting and Purchasing\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nRatification of Contract(s) for Professional Services At or Below $25,000\n\t\t \n\t\t \nThe attached lists the General Purchasing Contracts for Professional Services at or below $25,000 being recommended for Board ratification. \n\t\t \nFiscal Impact:\nAs presented in the attachment\n\t\t \nFunding Source:\nAs presented in the attachment\n\t\t \nRecommendation:\nIt is recommended that the Board of Trustees ratify the projects contract(s) for professional services at or below $25,000 as recommended in the attachment and authorization is being requested for the Superintendent and/or designee to execute amendments to the Agreement that may be needed during the term, provided such amendments do not: (i) extend the term of the contract; (ii) increase the price of goods or services provided under the contract by the greater of ten percent (10%) of the contract amount (based on the original contract amount exclusive of any approved amendments in the aggregate); or (iii) alter the quality or quantity of services or goods provided under the Board-approved contract per Board Policy 3312.1.\n\t \n", 
+                    "item_number": "18.03", 
+                    "item_recommendation": "It is recommended that the Board of Trustees ratify the projects contract(s) for professional services at or below $25,000 as recommended in the attachment and authorization is being requested for the Superintendent and/or designee to execute amendments to the Agreement that may be needed during the term, provided such amendments do not: (i) extend the term of the contract; (ii) increase the price of goods or services provided under the contract by the greater of ten percent (10%) of the contract amount (based on the original contract amount exclusive of any approved amendments in the aggregate); or (iii) alter the quality or quantity of services or goods provided under the Board-approved contract per Board Policy 3312.1.", 
+                    "item_text": "Ratification of Contract(s) for Professional Services At or Below $25,000", 
+                    "item_text_raw": "18.03 Ratification of Contract(s) for Professional Services At or Below $25,000", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WW5SV66EF02", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t\t\t \nItem:  18.04\n\t\t\t\t\t \n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and André Bell, Assistant Director of Capital Accounting and Purchasing\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nAccept Report of Credit Card Purchases for Statement Dated April 22, 2015\n\t\t\t\t\t \n\t\t\t\t\t \nThe attached list of the District's credit card purchases for the credit card statement dated April 22, 2015, is being presented for Board review and acceptance.\n\t\t\t\t\t \nFiscal Impact:\nAs presented in the attachment\n\t\t\t\t\t \nFunding Source:\nAs presented in the attachment\n\t\t\t\t\t \nRecommendation:\nIt is recommended that the Board of Trustees accept the report of credit card purchases as presented. \n\t \n", 
+                    "item_number": "18.04", 
+                    "item_recommendation": "It is recommended that the Board of Trustees accept the report of credit card purchases as presented.", 
+                    "item_text": "Accept Report of Credit Card Purchases for Statement Dated April 22, 2015", 
+                    "item_text_raw": "18.04 Accept Report of Credit Card Purchases for Statement Dated April 22, 2015", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "BUSINESS SERVICES - CONSENT/ACTION CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WRKGH7D6D8E", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  19.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nRatify/Approve Classified Personnel Actions Presented June 9, 2015\n\t \n\t \nThe following classified personnel actions presented June 9, 2015 are recommended for approval by the Board of Trustees.\n\t \nNEW EMPLOYMENT \n\t \nNAME\nPOSITION / SITE \nFTE\nEFFECTIVE\nARREOLA, James\nCustodian / SC\n1.0\n05/19/2015\nCANTU, Ronald\nProgrammer Analyst I / EC\n1.0\n05/26/2015\nGARCIA II, Antonio\nCustodian / JL\n1.0\n05/19/2015\nNORIEGA, Aaron\nCampus Monitor / SC\n1.0\n04/29/2015\nSALSEDO, John\nCustodian / AH\n1.0\n05/19/2015\n\t \n\t \nCHANGE OF STATUS\n\t \nNAME\nFROM POSITION / SITE / FTE\nTO POSITION / SITE / FTE\nEFFECTIVE\nREASON\nCASTILLO, Rafael\nCustodian Head II / JL / 1.0\nCustodian Lead / JL / 1.0\n05/01/2015\nCS\nCISNEROS, Florence\nAttendance Secretary / EV / 1.0\nDepartment Secretary / EC / 1.0\n05/13/2015\nCSP\nCUEVAS, Gabriela\nCampus Monitor / ST / 1.0\nCampus Monitor / ST / 1.0\n05/11/2015\nCSP\nDE LA RIVA, Lilia\nChild Nutrition Wrkr I / PH / 0.5\nChild Nutrition Wrkr II / MP / 1.0\n05/01/2015\nCSP\nFLORES, Myra\nParaeducator / WCO / 0.75\nParaeducator / IH / 0.75\n04/01/2015\nCSL\nHERNANDEZ, Maria\nChild Care Asst / YB / 0.75\nChild Care Asst / FH / 075\n02/02/2015\nCSL\nMILES, Shannon\nParaeducator / EV / 1.0\nParaeducator / PH / 1.0\n04/01/2015\nCSL\nREGO, John\nGardener / YB / 1.0\nGardener / JL / 1.0\n05/05/2015\nCSL\nSHARPE, Hosac \nParaeducator / PH / 0.875\nParaeducator / SC / 0.875\n04/01/2015\nCSL\nVELEZ, Clement\nCustodian / SC / 1.0\nCustodian Lead / OG / 1.0\n05/01/2015\nCSP\n\t \nEMPLOYMENT SEPARATION \n\t \nNAME\nFROM POSITION / SITE / FTE\nEFFECTIVE\nREASON\nBERTRAND, Donna\nContracts Admin Coord / EC / 1.0\n05/01/2015\nRES\n\t \nCS = Change of Status \nCSL = Change of Status Lateral\nCSP = Change of Status Promotion\n\tRES = Resignation\n\t \nFISCAL IMPACT:\nGeneral, Special Education and Adult Education funds\n\t \nFUNDING SOURCE:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified personnel actions as specified.\n\t \n", 
+                    "item_number": "19.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the classified personnel actions as specified.", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented June 9, 2015", 
+                    "item_text_raw": "19.01 Ratify/Approve Classified Personnel Actions Presented June 9, 2015", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9WRKGZ7D889D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  19.02\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCari Vaeth, Associate Superintendent of Human Resources\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nRatify/Approve Certificated Personnel Actions Presented June 9, 2015\n\t \n\t \nThe following certificated personnel actions presented June 9, 2015 are recommended for approval by the Board of Trustees.\n\t \nEMPLOYMENT SEPARATION\n\t \nNAME\nSTATUS\nFTE\nLOC\nPOSITION\nEFFECTIVE\nREASON\nEDWARDS, Erika V.\nTenured\n1.0\nAH\nSpecial Education (M/M)\n05/30/2015\nRES\nGROFT, Ryan\nProb 1\n1.0\nEC\nSchool Psychologist\n07/25/2015\nRES\nMARQUEZ, Yesenia\nTenured\n1.0\nAH\nHead Counselor\n05/30/2015\nRES*\nMUELLER, Shannon\nIntern\n1.0\nST\nScience\n05/30/2015\nRES\nQUASARANO, John\nProb 2\n1.0\nJL\nSpecial Education (M/M)\n05/30/2015\nRES\nREESE, Marcus\nProb 0\n1.0\nOG\nSpecial Education (M/M)\n05/30/2015\nRES\nTABUCHI, Lynn\nTenured\n1.0\nJL\nSpecial Education (M/M)\n05/30/2015\nRES\nVICTORIO, Michelle\nProb 2\n1.0\nAH\nMathematics\n05/30/2015\nRES\n\t \nRES = Resignation\n\tRES* = Resignation Rescinded\n\t \n\t \n\t \n\t \n\t \n\t \nADULT EDUCATION PROGRAM – EMPLOYMENT SEPARATION\n\t \n\t\t\t\t\t \nNAME\n\t\t\t\t\t \nSTATUS\n\t\t\t\t\t \nHOURS\nPER WEEK\n\t\t\t\t\t \nLOCATION\n\t\t\t\t\t \nPOSITION\n\t\t\t\t\t \nEFFECTIVE\n\t\t\t\t\t \nREASON\nCHEN, Shirley\nPermanent\n19.00\nIAC\nTeacher Spec Assign\n06/02/2015\nRET*\nRET* = Retirement Date Amended\n\t \n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nFUNDING SOURCE:\nGeneral and Special Education Funds\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the certificated personnel actions as specified.\n", 
+                    "item_number": "19.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the certificated personnel actions as specified.", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented June 9, 2015", 
+                    "item_text_raw": "19.02 Ratify/Approve Certificated Personnel Actions Presented June 9, 2015", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "HUMAN RESOURCES - CONSENT/ACTION CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WK2PB8390E2", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  20.01\n\t\t \n\t\t\t\t\t \n\t\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nChris D. Funk, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, Linda da Silva, Director of Construction, Maintenance and Facilities, André Bell, Assistant Director of Capital Accounting and Purchasing, and Janice Unger, Capital Projects Purchasing Manager\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nApprove Award of Bids and Request for Proposals for Bond/Capital Projects\n\t\t \nThe attached award of bids and request for proposals for bond/capital projects is presented for review and approval as indicated in the attachment.\n\t\t \nFISCAL IMPACT:\nSee attachment\n\t\t \nFUNDING SOURCE:\nSee attachment\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the award of bids and request for proposals for bond/capital projects as indicated in the attachment presented.\n\t \n", 
+                    "item_number": "20.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the award of bids and request for proposals as presented.", 
+                    "item_text": "Approve Award of Bids and Request for Proposals for Bond/Capital Projects", 
+                    "item_text_raw": "20.01 Approve Award of Bids and Request for Proposals for Bond/Capital Projects", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "FACILITIES/BOND - CONSENT/ACTION CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9WRKKN7D08CC", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem: 21.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM: \nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nReceive Quarterly Report on the County of Santa Clara Treasury Investment Portfolio as of December 30, 2014\n\t\t \n\t\t \nFor informational purposes, attached is the County of Santa Clara Investment Portfolio Status Report as of December 30, 2014, from Emily Harrison, Director of Finance for the County of Santa Clara, detailing the make-up of the Countyâs Investment Portfolio.  The District's funds are included in the total funds invested.\n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees receive the quarterly report on the County of Santa Clara Treasury Investment Portfolio as of December 30, 2014.\n\t \n", 
+                    "item_number": "21.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees receive the quarterly report on the County of Santa Clara Treasury Investment Portfolio as of December 30, 2014.", 
+                    "item_text": "Receive Quarterly Report on the County of Santa Clara Treasury Investment Portfolio as of December 30, 2014.\n\nItem received", 
+                    "item_text_raw": "21.01 Receive Quarterly Report on the County of Santa Clara Treasury Investment Portfolio as of December 30, 2014.\n\nItem received", 
+                    "item_type": "Action (Receive Report)"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UPP7CB5EC", 
+                    "item_details": "", 
+                    "item_number": "22.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_text_raw": "22.01 Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UPR7CB5EE", 
+                    "item_details": "\nFuture Items:\n\t \nBoard President Van Le\nItem\nDate (tentative)\nType\nFailed Courses\nQuarterly\nReport\nCamera Project Update\nJune, 2015\nPresentation/Discussion\nConstruction Projects Update\nOctober 15, 2015\nPresentation/Discussion\n\t \nBoard Vice President Lan Nguyen\nItem\nDate (tentative)\nType\nAnti-Bullying Efforts\nJune, 2015\nPresentation/Discussion\n\t \nBoard Clerk Frank Biehl\nItem\nDate (tentative)\nType\nWater Conservation Efforts\nAugust 20, 2015\nPresentation/Discussion\n\t \nBoard Member J. Manuel Herrera\nItem\nDate (tentative)\nType\nConvert to All Electric Bus Fleet\nAugust 20, 2015\nPresentation/Discussion\n\t \nBoard Member Pattie Cortese\nItem\nDate (tentative)\nType\nRestorative Justice\nSeptember 24, 2015\nPresentation/Discussion\n\t \n", 
+                    "item_number": "22.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Future Items: Failed Courses - Van Le, Board President; Camera Project Update - Van Le, Board President; Construction Projects Update - Van Le, Board President; Anti-Bullying Efforts - Lan Nguyen, Board Vice President; Water Conservation Efforts - Frank Biehl, Board Clerk; Convert to All Electric Bus Fleet - Board Member J. Manuel Herrera; Restorative Justice - Board Member Pattie Cortese", 
+                    "item_text_raw": "22.02 Future Items: Failed Courses - Van Le, Board President; Camera Project Update - Van Le, Board President; Construction Projects Update - Van Le, Board President; Anti-Bullying Efforts - Lan Nguyen, Board Vice President; Water Conservation Efforts - Frank Biehl, Board Clerk; Convert to All Electric Bus Fleet - Board Member J. Manuel Herrera; Restorative Justice - Board Member Pattie Cortese", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UPT7CB5F0", 
+                    "item_details": "\nAnnual Governance Calendar\n\t \nJuly\nSummer School Program (concludes session)\nSummer School Graduation\n\t\t\t\t\t \nAugust\nBoard Retreat\nExpulsion Hearing Panel Committee\nFirst Day of School\nWilliams Quarterly Report\n\t\t\t\t\t \nSeptember\nBoard Study Session/Workshop\nCollege Night\nConflict of Interest/Board Policy (updates)\nPublic Hearing and Adoption:  Gann Spending Limit\nPublic Hearing:  Sufficiency or Insufficiency of Textbooks\nReceive Annual Developer Fees Report\nUnaudited Actuals\n\t\t\t\t\t \nOctober\nBond Program Presentation\nSolar Energy Presentation\nStudent Achievement Presentation\nSuperintendent’s Annual Evaluation\nWilliams Quarterly Report\n\t\t\t\t\t \nNovember\nBoard Study Session/Workshop\nElection Orientation for New Board Members\n\t\t\t\t\t \nDecember\nAnnual Organizational Board Meeting\nCSBA Annual Conference\nElection Orientation for New Board Members\nEnd of First Semester\nFirst Interim Report\nSuperintendent’s Mid-Year Evaluation\n\t\t\t\t\t \nJanuary\nAudit Report\nBoard Audit Committee Selections/Appointments\nBoard Retreat\nFinancial & Performance Audit Report for Bond Measures\nMagnet Night\nMartin Luther King, Jr. Writing, Art & Multi-Media Awards Ceremony & Reception\nMaster Business Relationship Agreement between East Side Union High School District and Metropolitan Education District\nPolicies & ByLaws  (Begin Review by Series)\nSports Recognitions  (Fall)\nTechnology Report\nWilliams Quarterly Report\n      \n\t\t\t\t\t \n\t\t\t\t\t \nFebruary\nAfrican American Students Achievement Awards\nAudit Committee Charter Amendment(s)\nCSBA Delegate Assembly Election\nNon-Re-Elects\nSafety Plan Goals for Each Site\nState of the District\n\t\t\t\t\t \nMarch\nCesar Chavez Writing, Art & Multi-Media Awards Luncheon\nLatino Students Awards Ceremony\nMarch 15 Notices\nNSBA Annual Conference (March or April)\nSecond Interim Report\nSJPD Secondary Employment Application\n\t\t\t\t\t\t\t\tVietnamese Students Achievement Awards\n\t\t\t\t\t \nApril\nBoard Study Session/Workshop\nForm 700 – Statement of Economic Interests Due to Santa Clara County (filing)\nHonor Nights\nMigrant Education Awards Night\nWilliams Quarterly Report\n\t\t\t\t\t \nMay\nBoard Self-Evaluation\nBudget (Preliminary/Draft) Presentation\nEmployee Recognition Event\nGraduations\nHonor Nights\nLast Day of School\nSports Recognitions (Winter/Spring)\n\t\t\t\t\t \nJune\nBudget (Preliminary) with May Revisions Public Hearing (first June Board Meeting)\nBudget Adoption  (second June Board Meeting)\nBudget Advisory Committee:  \nNominate and Appoint Board Representatives (2) and Alternative Board Representative (1) \n(2 year term, fiscal year)\nEmployee Retirement Celebration\nESTA Safety Survey\nMaster Contracts for Capital Projects\nPlan for Expelled Youth\n(due every three years – 2015)\nProgram Improvement Update\nSafety Plan Assessment for Each School\nSingle Plan for Student Achievement (SPSA) for Each School\nSummer School Program (session begins)\nSuperintendent’s Annual Evaluation\n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \n\t \n\t \n", 
+                    "item_number": "22.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Annual Governance Calendar", 
+                    "item_text_raw": "22.03 Annual Governance Calendar", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "FUTURE AGENDA ITEMS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UPW7CB5F3", 
+                    "item_details": "\n\t \nVan Le, President\n\t\t\t \nLan Nguyen, Vice President\n --MetroED\nFrank Biehl, Clerk\nâ--Board Audit Committee\nJ. Manuel Herrera, Member\nPattie Cortese, Member\n\t\t \n\t \n", 
+                    "item_number": "23.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees: Van Le, President; Lan Nguyen, Vice President -- MetroED; Frank Biehl, Clerk -- Board Audit Committee; J. Manuel Herrera, Member; Pattie Cortese, Member", 
+                    "item_text_raw": "23.01 Board of Trustees: Van Le, President; Lan Nguyen, Vice President -- MetroED; Frank Biehl, Clerk -- Board Audit Committee; J. Manuel Herrera, Member; Pattie Cortese, Member", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9U6UPZ7CB5F6", 
+                    "item_details": "", 
+                    "item_number": "23.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Chris D. Funk, Superintendent", 
+                    "item_text_raw": "23.02 Chris D. Funk, Superintendent", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UQ57CB5FA", 
+                    "item_details": "\nLegal Counsel will report on Closed Session action item(s).\n", 
+                    "item_number": "24.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Legal Counsel will Report on Closed Session Action Item(s)", 
+                    "item_text_raw": "24.01 Legal Counsel will Report on Closed Session Action Item(s)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9U6UQ97CB5FE", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "25.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "25.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

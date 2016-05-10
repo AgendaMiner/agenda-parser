@@ -1,0 +1,556 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "06-04-2009", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ3H58A93C", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQ3L58A949", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " 1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQ3P58A957", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " 1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ3T58A966", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsions A - E", 
+                    "item_text_raw": " 2.01 Expulsions A - E", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ3W58A96E", 
+                    "item_details": "", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_text_raw": " 2.02 PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ3Z58A978", 
+                    "item_details": "Agency Designated Representatives: Bob Nuñez, Superintendent Jerry Kurr, Associate Superintendent of Administration and Business ServicesDan Moser, Associate Superintendent of Instructional Services and Human RelationsCathy Giammona, Director of Human ResourcesVida Branner-Siders, Director of Compensation and Classified Employee RelationsEmployee Organizations:American Federation of Teachers (AFT)California School Employees Association (CSEA)East Side Teachers Association (ESTA)", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS (Government Code §Section 54957.6)", 
+                    "item_text_raw": " 2.03 CONFERENCE WITH LABOR NEGOTIATORS (Government Code §Section 54957.6)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ4458A98B", 
+                    "item_details": "CONFERENCE WITH LEGAL COUNSEL – ANTICIPATED LITIGATIONSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: Six (6) potential cases", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LEGAL COUNSEL – ANTICIPATED LITIGATION", 
+                    "item_text_raw": " 2.04 CONFERENCE WITH LEGAL COUNSEL – ANTICIPATED LITIGATION", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ4758A999", 
+                    "item_details": "\tProperty:\tESUHSD Educational Center, 830 N. Capitol Avenue, San Jose, CA  95133\tDistrict Negotiators:\tBob NuĂąez, Superintendent\tJerry Kurr, Associate Superintendent of Administration and \t\tBusiness Services\tRogelio Ruiz, Legal Counsel Real Estate Representatives Sam Swan, Bob Hunt and Andre Hunt\tNegotiating Parties: ESUHSD and Party To Be Determined", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_text_raw": " 2.05 CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ4A58A9AD", 
+                    "item_details": "", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_text_raw": " 2.06 PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ4D58A9B7", 
+                    "item_details": "", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_text_raw": " 2.07 PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ4H58A9C1", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 3.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 6:00 P.M. – Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ4M58A9D7", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ4R58A9E6", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ4V58A9F4", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Recognitions"
+                }
+            ], 
+            "section_name": "Board Special Recognition(s)", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [], 
+            "section_name": "Student Board Liaisons", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ5258A9FE", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ5658AA0A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Foothill High School PresentationWelcome to Foothill Continuation High School. The information in this summary is designed to provide you with an overview of the school’s direction and progress.The entire staff at Foothill invites your child to acquire the knowledge, life skills preparation and unique learning experiences necessary to ensure that they have acquired the background to establish life long learning. Foothill is a school for all students and strives to give all students the necessary skills and academic background to be successful in their current life and beyond. We offer a full array of courses and the support services necessary to prepare students to be successful beyond high school. Students at Foothill Continuation High School have the opportunity to work with social workers and a drug / alcohol counselor if needed. We provide these services, including a weekly health van, so that students can work on problems that may prevent them from learning and earning credits at Foothill Continuation High School. At Foothill Continuation High School one of our primary goals is to build relationships within our educational community. Toward that aim, we have partnered with local industry and social agencies to build and educational team that is committed to student achievement and educational growth.Foothill is dedicated to equity and success for all students and eagerly looks forward to providing the best learning opportunities possible.", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Foothill High School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations and Lynne Murray, Principal, Foothill High School", 
+                    "item_text_raw": " 9.01 Foothill High School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations and Lynne Murray, Principal, Foothill High School", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5958AA38", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Independence High School PresentationIndependence High School’s Board presentations main focus is answering the question, “How are we addressing “Reducing the Achievement Gap?”  The leadership team will show data that will demonstrate how we are moving as a school through Program Improvement in the core areas of Math, English and Reading.  The slide presentation will showcase the work done by the very critical departments and how we are improving our CST scores and CAHSEE scores.  In addition, we have included our in-house suspension program.  The outcome of our presentation is to let everyone know how we are improving overall, as a school wide effort and how we are reaching our school goals spelled out in our School Site plan for student Achievement.", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Independence High School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations and Grettel Castro-Stanley, Principal, Independence High School", 
+                    "item_text_raw": " 9.02 Independence High School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations and Grettel Castro-Stanley, Principal, Independence High School", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5C58AA72", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Update on Summer School 2009At this time of the year, planning for summer school focuses on the enrollment of students, development of a master schedule, and the hiring of staff. Different this year in the planning process is the necessity to take into consideration the deteriorating state budget. The state budget crises has lowered the state’s “Supplemental Instruction” (state funding that pays for summer school) reimbursement rates such that ESUHSD can not offer the summer school based on student interest and demand but rather construct a summer school that  is cost neutral.  The end result is a 2009 summer school that will offer services to 7,500 students rather than the typical 10,000 plus students. Supplemental Instruction (SI) funding is divided into two categories “capped” and “uncapped” for grades 9-12.  The higher reimbursement rate of $2.92 per student hour funds students in courses preparing students for the CAHSEE.  These courses include CAHSEE Prep, English 1 (Repeat), English 2 (Repeat), Algebra I (Repeat), and geometry (Repeat).  All other courses fall under the “capped” reimbursement rate of $2.659.  Currently the state funds 5% of CBEDS through SI which translates to approximately 1,200 students.  Through leveraging efforts between the income produced from “uncapped” classes the district plans to offer classes to approximately 3,600 students.  Additional cost saving measures taken to reduce the total costs include site administration for supervision, a reduction in profession development days, the strategic placement of programs to reduce busing, and reduced number of courses.   FISCAL IMPACT:At current state SI Reimbursement Rates it is estimated summer school income will equal costs.                                                                                        FUNDING SOURCE:American Reinvestment and Recovery ActRECOMMENDATION:It is recommended that the Board of Trustees continue with plans to provide summer school at a reduced level such that reimbursement rates equal costs.", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Update on Summer School 2009 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 9.03 Update on Summer School 2009 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5F58AA84", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Petition for Proposed Downtown College Prep – Alum Rock Charter SchoolOn March 5, 2009, the District received a charter petition from Across the Bridge Foundation, a non-profit corporation organized to provide education programs and services and to manage, operate, guide, direct and promote one or more California public charter schools.  The Petition from Across the Bridge Foundation proposes to establish Downtown College Prep – Alum Rock Charter School in the East Side Union High School / Alum Rock Community serving students in 6th through 12th grades.  The Petition proposes to gradually expand the curriculum at its Downtown College Prep – Alum Rock campus, Grades 6-12, to be completed by August / September 2016.The District held a public hearing on the Petition as required by law during the public session of the Board Meeting on April 9, 2009.At the public hearing, Julia Gonzalez Luna, New School Developer and Prospective Principal, presented information about the two other Downtown College Prep Charter School located in Alviso and downtown San Jose.  In addition several parents who reside in the East Side Union High School District addressed the Board to express their interest in sending their children to the proposed charter school.  No District teachers or other District employees addressed the Board at the hearing, or have otherwise expressed support for the proposed school.The District must now either grant or deny the charter petition.  The District may grant the charter “if it is satisfied that granting the charter is consistent with sound educational practice.”  The District may not deny a petition for the establishment of a charter school unless it makes written factual findings, specific to the particular petition, setting forth specific facts to support or more of the following findings:\t(1)\tThe charter school presents an unsound educational program for pupils to be \t\t\tenrolled in the charter school;\t(2)\tThe petitioners are demonstrably unlikely to successfully implement the program \t\t\tset forth in the petition;\t(3)\tThe petition does not contain the required number of signatures;\t(4)\tThe petition does not contain an affirmation of each of the required conditions set \t\t\tforth in section 47605(d); or\t(5)\tThe petition does not contain reasonable comprehensive descriptions of the 15 \t\t\telements of a charter school set forth in Education Code Section 47605(b)If the Board makes one or more of these five findings, it must also adopt written factual findings that are specific to the issues raised in this particular Petition.The District’s administration team carefully reviewed and analyzed the Petition, and met with representatives from Across the Bridge Foundation in order to discuss their petition.  As set forth in the attached Proposed Findings, Administration recommends that the Downtown College Prep – Alum Rock Charter Petition be denied.FISCAL IMPACT:If approved there will be fiscal impact.  The anticipated fiscal impact is not subject to quantification at this time due to the varying uncertainties with state funding, actual charter operations and the extent to which the charter school draws upon non-reimbursable District services.FUNDING SOURCE:General FundRECOMMENDATION:It is recommended that the Board of Trustees give careful consideration to this Petition and the concerns raised by the Administration.  If the Boards acts to deny the Petition, the Board should adopt the attached findings as support for the Board’s decision.", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Petition for Proposed Downtown College Prep – Alum Rock Charter School - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 9.04 Petition for Proposed Downtown College Prep – Alum Rock Charter School - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Instructional Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ5K58AA9D", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofolo, Associate Superintendent of Student Services and Facilities, and Regelio Ruiz, Legal CounselSUBJECT:Hold Public Hearing at Approximately 7:00 p.m. Regarding the Consideration of an Energy Conservation Project DESCRIPTION: The District will convene a public hearing regarding its consideration of a Energy Conservation Project, in accordance with Chapter 3.2, section 4217 of the California State Government Code.  This code section allows a public agency to negotiate a contract without competitive bidding with a company for carrying out a project that will result in reduced energy usage and cost.  The net effect of the project will result in less cost to the public agency.\n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 7:00 p.m. Regarding the consideration of a Energy Conservation Project - Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Rogelio Ruiz, Legal Counsel", 
+                    "item_text_raw": " 10.01 Hold Public Hearing at Approximately 7:00 p.m. Regarding the consideration of a Energy Conservation Project - Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Rogelio Ruiz, Legal Counsel", 
+                    "item_type": "Action, Information, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5N58AB3F", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Rogelio Ruiz, Legal CounselSUBJECT:Approval to Proceed with Solar and Energy Efficiency Project and Accept the California Solar Initiative Reservation Letter/Program Contract for Energy Incentives to Install Solar Projects The District currently has an operating budget shortfall and has been looking into ways to minimize the impact in order to save jobs and school programs.  Investing in energy efficiency improvements can provide immediate budget relief, local jobs, environmental benefits and educational opportunities without using bond funding.The District has been notified that they have been approved to receive incentives to design and build Solar Projects at our Schools.  By participating in this program, we will receive incentives up to $0.32/kWh for up to 6.5 MW of generating capacity.  This project will be phased in over a period of time and will only use funds available in the District's School Facilities Fund #35, which funds can only be used for capital projects.  Any expansion or use of other funding resources will require additional Board authorization.One significant benefit of these projects is the generation of renewable energy to supply 51% of the District's current electric use.  Not only is this the “right thing” to do for our environment, these projects will provide an estimated first year budget relief of approximately $2.1 million in the first calendar year.  Future energy cost savings will increase as energy rates continue to rise.FISCAL IMPACT: Reduced Energy Costs, Amount to be DeterminedFUNDING SOURCE: School Facilities Fund #35RECOMMENDATION:It is recommended that the Board of Trustees authorize the District to proceed with solar and energy efficiency projects and accept the California Solar Initiative Reservation Letter/Program Contract for energy incentives to install solar projects (Photovoltaic) at District Schools.  It is further recommended that the Board authorize the Associate Superintendent, Administration and Business Services to negotiate and execute a Solar Services Agreement and to fund the project with District funds and financing without using Bond Funding.\n", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approval to Proceed with Solar and Energy Efficiency Project and Accept the California Solar Initiative Reservation Letter/Program Contract for Energy Incentives to Install Solar Projects - Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Rogelio Ruiz, Legal Counsel", 
+                    "item_text_raw": " 10.02 Approval to Proceed with Solar and Energy Efficiency Project and Accept the California Solar Initiative Reservation Letter/Program Contract for Energy Incentives to Install Solar Projects - Jerry Kurr, Associate Superintendent of Administration and Business Services, Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Rogelio Ruiz, Legal Counsel", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5R58ABCF", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and Facilities, Dan Moser, Associate Superintendent of Instruction and Human Relations, Jerry Kurr, Associate Superintendent of Administration and Business Services, and Maz Zabaneh, Cisco Public Sector Account ManagerSUBJECT:Presentation on 21st Century Collaborative and Educational High Speed Network PresentationPresentation for the implementation the 2009-2012 Educational Technology Plan for East Side Union High School District 21st Century Collaborative and Educational Network.  Below is a summary of the technology projects that are based on IP (Internet Protocol) Communications which include:Upgrade Network Hardware at all campus locations: The upgraded network and an increase in wide area network (WAN) will provide the bases for the following applications and functionality:Video/Web/Voice ConferencingDistant Learning/Virtual Field Trips.Collaborative Tools (Smart Board Technology, GoToMeeting)Unified Communications (replace existing phone system and reduce the maintenance impact on the general fund)Wireless Access at all campus locations.The web based student information system Infinite Campus is scheduled to be active starting the Spring Semester of 2010.  Includes, student portal, parent portal and teacher portal and accessible from any internet connection.Exchange (E-mail) 2007:  Provide faster access to e-mail and additional storage of user mail boxes.Safety Features includes: Text Paging to all classroom phones, IP enabled cameras, intrusion alarm, continued use of Teleparent.Paging and Bells: Centrally located and managed over the web.Classroom Presentation Tools (projection systems and document cameras).Desktop Virtualization;  Will allow for older and less expensive computers to access applications from a central server. Recommendation:  Approve the initiation of the bidding process to start implementation of the IP communications upgrade\n", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation on 21st Century Collaborative and Educational High Speed Network - Alan Garofalo, Associate Superintendent of Student Services and Facilities, Dan Moser, Associate Superintendent of Instruction and Human Relations, Jerry Kurr, Associate Superintendent of Administration and Business Services, and Maz Zabaneh, Cisco Public Sector Account Manager", 
+                    "item_text_raw": " 10.03 Presentation on 21st Century Collaborative and Educational High Speed Network - Alan Garofalo, Associate Superintendent of Student Services and Facilities, Dan Moser, Associate Superintendent of Instruction and Human Relations, Jerry Kurr, Associate Superintendent of Administration and Business Services, and Maz Zabaneh, Cisco Public Sector Account Manager", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5U58AC37", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Eddie Garcia, Board Member, and Cindy Chavez, California Leadership Services, LLCSUBJECT:Foundation UpdateAn update on the East Side Education Foundation will be provided by Eddie Garcia, Board Member, and/or Cindy Chavez, California Leadership Services.", 
+                    "item_number": "10.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Foundation Update - Eddie Garcia, Board Member, and Cindy Chavez, California Leadership Services, LLC", 
+                    "item_text_raw": " 10.04 Foundation Update - Eddie Garcia, Board Member, and Cindy Chavez, California Leadership Services, LLC", 
+                    "item_type": "Action, Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQ5X58ACD1", 
+                    "item_details": " \tSenate Constitution Amendment 6 (Simitian), which reduces the two-thirds vote requirement for local parcel taxes, will be acted on by the California State Legislature.  Passage of Senate Constitutional Amendment 6 (Simitian) will empower local voters to invest in their schools based on the needs of their communities by requiring a tough, but fair 55 percent vote to pass local parcel taxes, while protecting taxpayers and homeowners with accountability provisions that will ensure that funds generated from parcel taxes are not wasted or mismanaged.  Revenue from parcel taxes can be spent according to local priorities and are not subject to State control.\tThe Board is asked to urge the California State Legislature to support and adopt Senate Constitutional Amendment 6 (Simitian).FISCAL IMPACT:        NoneFUNDING SOURCE:   NoneRECOMMENDATION:It is recommended that the Board of Trustees adopt Resolution #2008/2009-36 which strongly urges the California State Legislature to support and adopt Senate Constitutional Amendment 6 (Simitian).EAST SIDE UNION HIGH SCHOOL DISTRICTofSanta Clara County, State of CaliforniaRESOLUTION #2008/2009-36Senate Constitutional Amendment 6 (Simitian)WHEREAS, Senate Constitutional Amendment 6 (Simitian), which reduces the two-thirds vote requirement on parcel taxes, will be acted on by the California State Legislature; andWHEREAS, reductions in the State General Fund revenue have led to reduced school funding; andWHEREAS, State General Fund revenue is unstable and erratic, which results in unpredictable funding levels for school districts and county offices of education; andWHEREAS, parcel tax revenue can provide a stable, predictable source of school revenue; andWHEREAS, passage of Senate Constitutional Amendment 6 (Simitian) will empower local voters to invest in their schools based on the needs of their communities by requiring a tough, but fair 55 percent vote to pass local parcel taxes, while protecting taxpayers and homeowners with accountability provisions that will ensure that funds generated from parcel taxes are not wasted or mismanaged; andWHEREAS, revenue from parcel taxes can be spent according to local priorities and are not subject to State control; andWHEREAS, the two-thirds vote requirements results in minority rule by requiring two “yes” votes to cancel out one no vote; andWHEREAS, passage of Senate Constitutional Amendment 6 (Simitian) will allow local voters to decide to make investments in their neighborhood schools in addition to State funding; andNOW, THEREFORE, BE IT RESOLVED that the Governing Board of the East Side Union High School District strongly urges the California State Legislature to support and adopt Senate Constitutional Amendment 6 (Simitian).PASSED AND ADOPTED this 4th day of June 2009 by the Governing Board of the East Side Union High School District at its regular meeting held at 830 N. Capitol Avenue, San Jose, State of California.AYES: \t________NOES: \t________ABSENT:\t________ABSTENTIONS: \t________I certify that the foregoing resolution was duly introduced, passed, and adopted by the East Side Union High School District Board of Trustees at a meeting held on June 4, 2009._________________________Frank Biehl, ClerkESUHSD Board of Trustees", 
+                    "item_number": "10.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-36 Senate Constitutional Amendment 6 (Simitian) - Frank Biehl, Board Clerk", 
+                    "item_text_raw": " 10.05 Adopt Resolution #2008/2009-36 Senate Constitutional Amendment 6 (Simitian) - Frank Biehl, Board Clerk", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQ6258ACE6", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Patricia Martinez-Roach, Board PresidentPREPARED BY:Bob Nuñez, SuperintendentSUBJECT:District Asset Evaluation, Utilization and Disposition Plan: District Office PropertyItem to be provided by the Business Office.", 
+                    "item_number": "10.06", 
+                    "item_recommendation": "", 
+                    "item_text": "District Asset Evaluation, Utilization and Disposition Plan: District Office Property – Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " 10.06 District Asset Evaluation, Utilization and Disposition Plan: District Office Property – Patricia Martinez-Roach, Board President", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ6658AD3E", 
+                    "item_details": "Presentation by Marisa Hanson, ESTA President", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "ESTA Safety Survey Results - Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Marisa Hanson, ESTA President", 
+                    "item_text_raw": " 11.01 ESTA Safety Survey Results - Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Marisa Hanson, ESTA President", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQ6958AD5B", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Adopt Santa Clara County Office of Education / East Side Union High School District’s Expelled Plan for YouthAs mandated by Education Code 48926, each county superintendent of schools in counties that operate community schools pursuant to Section 1980, in conjunction with superintendents of the school districts within the county, shall develop a plan for providing education services to all expelled pupils that county.  The plans shall be adopted by the governing board of each school district within the county and by the county board of education.The plan shall enumerate existing education alternatives for expelled pupils, identify gaps in educational services to expelled pupils, and strategies for filling those service gaps.  The plan shall also identify alternative placements for pupils who are expelled and placed in district community day school programs, but who fail to meet the terms of the conditions of their rehabilitation plan or who pose a danger to other district pupils, as determined by the governing board.Each county superintendent of schools, in conjunction with the superintendents of the school districts, shall submit to the Superintendent of Public Instruction the county plan for providing educational services to all expelled pupils in the county no later than June 30, 2009, and shall submit a triennial update to the plan to the Superintendent of Public Instruction, including the outcome data pursuant to Section 48916.1, on June 30th thereafter.Per Education Code 48916.1, at the time an expulsion of a pupil is order, the governing board of the school district shall ensure that an educational program is provided to the pupil who is subject to the expulsion order for the period of the expulsion, but only to the extent funds are appropriated for this purpose in the annual budget Act or other legislation, or both.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees adopt the Santa Clara County Office of Education / East Side Union High School District’s Expelled Plan for Youth.", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Santa Clara County Office of Education / East Side Union High School District’s Expelled Plan for Youth - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 11.02 Adopt Santa Clara County Office of Education / East Side Union High School District’s Expelled Plan for Youth - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Student Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "11."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ6D58AD6D", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Human Resources - Operational Items/Board Discussion and/or Action", 
+            "section_number": "12."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ6H58AD81", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business Services, SUBJECT:Budget UpdateThe condition of the State budget chages daily if not hourly.  A State budget workshop takes place in San Jose June 5th.  An oral State/District budget update will be provided at the Board meeting on June 4th.\n", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Budget Update - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 13.01 Budget Update - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Business Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "13."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ6M58AE1A", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Facilities - Operational Items/Board Discussion and/or Action", 
+            "section_number": "14."
+        }, 
+        {
+            "items": [], 
+            "section_name": "Adult Education - Operational Items/Board Discussion and/or Action", 
+            "section_number": "15."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ6S58AE2B", 
+                    "item_details": " EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve School Field TripsBelow please find a list of field trips to be taken by student groups at various schools.  These field trips require approval by the Board of Trustees since they are beyond our local area and may include an overnight stay and/or transportation.  School / GroupDestinationDatesBudget ImpactRationaleTransportationEV/Senior ClassVallejo, CA06/08/09Student FeesSenior Class PicnicChartered BusEV/Volleyball TeamReno, NV09/03/09- 09/06/09FundraisersVolleyball TournamentPersonal VehiclesIH/Student BodySacramento, CA06/01/09Silicon Valley Education Foundation/ Supervisor Cortese's OfficeEducationalChartered BusMP/JROTCSan Luis Obispo, CA08/10/09- 08/14/09Marine CorpsJROTC Summer CampSchool Bus,Personal Vehicle,School VanWO/Student BodySacramento, CA06/01/09Silicon Valley Education Foundation/ Supervisor Cortese's OfficeEducationalChartered BusThese field trips have been reviewed by the Administration and are cleared for the necessary amount of staff, supervisors, and funding source(s).FISCAL IMPACT:VariousFUNDING SOURCE:FundraisersMarine CorpsSilicon Valley Education FoundationStudent FeesSupervisor Cortese's OfficeRECOMMENDATION:The Board of Trustees approve the Field Trips as listed above pending purchase of trip insurance on travel out of the country and the Continental  U. S. ", 
+                    "item_number": "16.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": " 16.01 Approve School Field Trips", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ6V58AECD", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve CAHSEE Local Waivers for Special Education Students  Description:Education Code Section 60851 states that students who take one or both parts of the CAHSEE with a modification and receive the equivalent of a passing score are eligible for the waiver request process.  At the request of the student’s parent or guardian, a school principal must submit to the local school governing board a request for a waiver of the requirement to pass the part(s) of the CAHSEE on which a modification was used and the equivalent of a passing score was earned.  For the local board to waive the CAHSEE requirement, the principal must certify to the local board that the pupil has all of the following:1)\tAn individualized education program adopted pursuant to the federal Individuals with Disabilities Education Act or a plan adopted pursuant to Section 504 of the Rehabilitation Act of 1973 that requires the accommodations or modifications to be provided to the pupil when taking the high school exit examination.2)\tSufficient high school level coursework either satisfactorily completed or in progress in a high school level curriculum sufficient to have attained the skills and knowledge otherwise needed to pass the high school exit examination.3)\tAn individual score report for the pupil showing that the pupil has received the equivalent of a passing score on the high school exit examination while using a modification that fundamentally alters what the high school exit examination measures as determined by the State Board of Education.The waivers were requested by the school site administration on behalf of the students’ parents.The recommended waivers meet the aforementioned criteria delineated in Education Code Section 60851: Student A\tStudent B\tStudent C\tStudent D\tStudent E\tStudent FStudent G\tStudent H\tStudent I\tStudent J\tStudent K\tStudent LStudent M\tStudent N\tStudent O\tStudent P\tStudent Q\tStudent RStudent S\tStudent T\tStudent U\tStudent V\tStudent W\tStudent XStudent Y\tStudent Z\tStudent A2\tStudent B2\tStudent C2\tStudent D2Student E2\tStudent F2\tStudent G2\tStudent H2\tStudent I2\tStudent J2Student K2\tStudent L2\tStudent M2\tStudent N2\tStudent O2\tStudent P2Student Q2\tStudent R2\tStudent S2\tStudent T2\tStudent U2\tStudent V2Student W2\tStudent X2\tStudent Y2\tStudent Z2\tStudent A3\tStudent B3Student C3\tStudent D3\tStudent E3\tStudent F3\tStudent G3\tStudent H3Student I3\tStudent J3\tStudent K3\tStudent L3\tStudent M3\tStudent N3Student O3\tStudent P3\tStudent Q3\tStudent R3\tStudent S3        Student T3     Student U3 Student V3 Student W3 Student X3 Student Y3 Student Z3    Student A4 Student B4 Student C4 Student D4 Student E4 Student F4             Student G4 Student H4 Student I4 Student J4 Student K4 Student L4             Student M4\tStudent N4 Student O4 Student P4\tStudent Q4\tStudent R4FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees approve the recommended waivers.   ", 
+                    "item_number": "16.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_text_raw": " 16.02 Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ6Y58AEE2", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for W. C. Overfelt High School Science Building Audio/Visual System and Security Camera ProjectContractor:  Cupertino Electric, Inc. The W. C. Overfelt High School Science Building Audio/Visual System and Security Camera Project is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-03-08-0990350801-108787G-040-011 Item #DescriptionReasonAmount1Projector mounting arms were not designed for a soffit-mounted application and were refabricated.  Exposed cabling was also rerouted through the soffit for a cleaner finish.Conditions Warranted$6,522.002Negotiated from contractRequested by Owner ($11,455.00)Original Contract Price:$126,000.00CREDIT TO DISTRICT     For This Change Order: ($4,933.00)Revised Contract Amount:$121,067.00FISCAL IMPACT:($4,933.00)FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for W. C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.).", 
+                    "item_number": "16.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for W. C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.)", 
+                    "item_text_raw": " 16.03 Approve Change Order #1 for W. C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.)\n", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7358AEFB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for Independence High School, Vocational Ed Modernization Project (Beals Martin, Inc)Bid #B-24-07-08Pursuant to the contract awarded by the Board of Trustees on May 15, 2008, Beals Martin, Inc. has furnished all material and finished all labor for the completion of work related to Independence High School, Vocational Ed Modernization Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$2,312,436.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for Independence High School, Vocational Ed Modernization Project (Beals Martin, Inc).", 
+                    "item_number": "16.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for Independence High School, Vocational Ed Modernization Project (Beals Martin, Inc.)", 
+                    "item_text_raw": " 16.04 Approve Notice of Completion for Independence High School, Vocational Ed Modernization Project (Beals Martin, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7658AF32", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (American Steel & Stairways, Inc.)Bid #B-09-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, American Steel & Stairways, Inc. has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$983,747.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (American Steel & Stairways, Inc.).", 
+                    "item_number": "16.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (American Steel & Stairways, Inc.)", 
+                    "item_text_raw": " 16.05 Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (American Steel & Stairways, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7958AF87", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (BCI Builders, Inc.)Bid #B-07-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, BCI Builders, Inc. has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$2,860,057.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (BCI Builders, Inc.).", 
+                    "item_number": "16.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (BCI Builders, Inc.)", 
+                    "item_text_raw": " 16.06 Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (BCI Builders, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7C58AFA0", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Dolan Concrete Construction)Bid #B-13-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, Dolan Concrete Construction has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$797,630.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Dolan Concrete Construction).", 
+                    "item_number": "16.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (Dolan Concrete Construction)", 
+                    "item_text_raw": " 16.07 Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (Dolan Concrete Construction)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7F58AFB7", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (George E. Masker Inc.)Bid #B-12-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, George E. Masker Inc. has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$77,699.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (George E. Masker Inc.).", 
+                    "item_number": "16.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (George E. Masker Inc.)", 
+                    "item_text_raw": " 16.08 Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (George E. Masker Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7J58AFCC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Jensen Corporation Landscape Contractors)Bid #B-14-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, Jensen Corporation Landscape Contractors has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$115,888.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Jensen Corporation Landscape Contractors).", 
+                    "item_number": "16.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (Jensen Corporation Landscape Contractors)", 
+                    "item_text_raw": " 16.09 Approve Notice of Completion for W. C. Overfelt High School Phase IV New Science Building Increment II Project (Jensen Corporation Landscape Contractors)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7M58B003", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Ray L. Hellwig Mechanical Company)Bid #B-10-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, Ray L. Hellwig Mechanical Company has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$1,750,730.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Ray L. Hellwig Mechanical Company).", 
+                    "item_number": "16.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Ray L. Hellwig Mechanical Company)", 
+                    "item_text_raw": " 16.10 Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Ray L. Hellwig Mechanical Company)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7Q58B039", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Reinhardt Roofing Inc.)Bid #B-11-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, Reinhardt Roofing Inc. has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$141,177.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Reinhardt Roofing Inc.).", 
+                    "item_number": "16.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Reinhardt Roofing Inc.)", 
+                    "item_text_raw": " 16.11 Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Reinhardt Roofing Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7T58B069", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Sasco Electric)Bid #B-08-07-08Pursuant to the contract awarded by the Board of Trustees on October 18, 2007, Sasco Electric has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Phase IV New Science Building Increment II Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$690,873.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Sasco Electric).", 
+                    "item_number": "16.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Sasco Electric)", 
+                    "item_text_raw": " 16.12 Approve Notice of Completion for W.C. Overfelt High School Phase IV New Science Building Increment II Project (Sasco Electric)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQ7W58B092", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Notice of Completion for W.C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.)Bid #B-03-08-09Pursuant to the contract awarded by the Board of Trustees on November 20, 2008, Cupertino Electric, Inc.has furnished all material and finished all labor for the completion of work related to W.C. Overfelt High School Science Building Audio/Visual System and Security Camera Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$121,067.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for W.C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.).", 
+                    "item_number": "16.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Notice of Completion for W.C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.)", 
+                    "item_text_raw": " 16.13 Approve Notice of Completion for W.C. Overfelt High School Science Building Audio/Visual System and Security Camera Project (Cupertino Electric, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Consent Calendar Items - ATTACHMENT A", 
+            "section_number": "16."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ8258B0C8", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Joe Cavanagh, SGISUBJECT:Facilities/Construction UpdateItem to be provided by the Facilities Office.\n", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Facilities/Construction Update - Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Joe Cavanagh, SGI", 
+                    "item_text_raw": " 17.01 Facilities/Construction Update - Alan Garofalo, Associate Superintendent of Student Services and Facilities, and Joe Cavanagh, SGI", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Written Reports/Recommendations", 
+            "section_number": "17."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ8658B0EE", 
+                    "item_details": "J. Manuel Herrera, Vice PresidentFrank  Biehl, ClerkMetroED Board UpdateLan Nguyen, MemberEddie Garcia, MemberPatricia Martinez-Roach, President ", 
+                    "item_number": "18.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": " 18.01 Board of Trustees", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQ8958B100", 
+                    "item_details": "Bob NuĂąez, Superintendent", 
+                    "item_number": "18.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": " 18.02 Superintendent", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Board of Trustees/Superintendent Communications/Comments", 
+            "section_number": "18."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ8D58B110", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "19."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQ8H58B11E", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "20."
+        }
+    ]
+}

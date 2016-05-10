@@ -1,0 +1,333 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "03-07-2013", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MKX5B6B7A", 
+                    "item_details": "\nThe Regular Board Meeting will begin at 4:00 p.m. in the Board Room of the Education Center.   Anyone wishing to address the Board regarding Closed Session items may speak at this time.  The Board will then adjourn to Closed Session in the Superintendent’s Conference Room.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "959ML25B6BA6", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7).  \n\t \nPersons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Persons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7). Persons wishing to address the Board on Closed Session items or any subject not on the agenda must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "959ML55B6BBF", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session in the Superintendent's Conference Room. Open Session will resume at the end of Closed Session in the Board Room at approximately 6:15 p.m. The Board intends to resume Closed Session at approximately 7:00 PM after consideration of Open Session agenda items. See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": "1.03 Recess to Closed Session in the Superintendent's Conference Room. Open Session will resume at the end of Closed Session in the Board Room at approximately 6:15 p.m. The Board intends to resume Closed Session at approximately 7:00 PM after consideration of Open Session agenda items. See item 2 on agenda (Closed Session).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959ML95B6BDF", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): None", 
+                    "item_text_raw": "2.01 Expulsion(s): None", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLC5B6BF5", 
+                    "item_details": "\nPublic Employee Performance Evaluation (Government Code Section 54957)\n\t \n\t \n\t \n", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_text_raw": "2.02 Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLF5B6C03", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment (Government Code Section 54957)\n\t \nSenior Manager of Internal Controls\n", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957): Senior Manager of Internal Controls", 
+                    "item_text_raw": "2.03 Public Employment/Public Employee Appointment (Government Code Section 54957): Senior Manager of Internal Controls", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLJ5B6C13", 
+                    "item_details": "", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": "2.04 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLM5B6C23", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\n\t \nAgency Designated Representatives:\n\tChris D. Funk, Superintendent\nMarcus Battle, Associate Superintendent of Business Services\nJuan Cruz, Assistant Superintendent of Instructional Services\nCari Vaeth, Director of Human Resources\nVida Branner, Director of Compensation and Classified Employee Relations\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\n\t \nUnrepresented Employees:\nAdministrators\nâManagers\nâConfidential Employees\n", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.05 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLQ5B6C36", 
+                    "item_details": "\nConference with Legal Counsel - Anticipated Litigation \nSignificant exposure to litigation pursuant to subdivision (b) of Government Code Section 54956.9: \n\t \nOne (1) Potential Case\n", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Government Code Section 54956.9: One (1) Potential Case", 
+                    "item_text_raw": "2.06 Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Government Code Section 54956.9: One (1) Potential Case", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MLT5B6C45", 
+                    "item_details": "\nConference with Legal Counsel - Anticipated Litigation \nInitiation of litigation pursuant to subdivision (c) of Government Code Section 54956.9: \n\t \nOne (1) Potential Case\n", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Anticipated Litigation: Initiation of litigation pursuant to subdivision (c) of Government Code Section 54956.9: One (1) Potential Case", 
+                    "item_text_raw": "2.07 Conference with Legal Counsel - Anticipated Litigation: Initiation of litigation pursuant to subdivision (c) of Government Code Section 54956.9: One (1) Potential Case", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MLY5B6C8B", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:15 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MM45B6CA9", 
+                    "item_details": "\nInformation explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "4.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MM85B6CF3", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "ADOPTION OF AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MME5B6D2D", 
+                    "item_details": "\nThe Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.\n", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_text_raw": "6.01 The Superintendent and/or Board Member(s) may request that items be considered, discussed, and acted on out of the order indicated on the agenda as per schedule.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "SPECIAL ORDER OF BUSINESS - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MMJ5B6D41", 
+                    "item_details": "\nMembers of the public may address the Board on any subject not on tonight’s agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action.  As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting.  When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes.\n\t \nPersons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "7.01 Members of the public may address the Board on any subject not on tonightâs agenda; however, provisions of the Brown Act (Government Code Section 54954.2(a) and 54954.3) preclude any action. As an unagendized item, no response is required from the Board or District staff and no action can be taken; however, the Board may instruct the Superintendent to agendize the item for a future meeting. When your name is called, please come to the podium, state your name for the record, and limit your remarks to three (3) minutes. Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959N545E3354", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  8.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action regarding 2013 California School Boards Association (CSBA) Delegate Assembly Election\n\t\t \n\t\t \n\t\t \nAttached please find the ballot material for election of a representative to the 2013 CSBA Delegate Assembly for our region. The Board is requested to vote for no more than five (5) candidates. Regardless of the number of vacancies, the Board of Trustees may cast no more than one vote for any one candidate.\n\t\tElection results from CSBA will be available no later than April 1, 2013. All re-elected and newly elected Delegates will serve two-year terms beginning April 1, 2013, - March 31, 2015.\n\t\t \n\t\t \nRecommendation:\nIt is recommended that the Board of Trustees vote for no more than five (5) candidates for submission of the Official 2013 Delegate Assembly Ballot to CSBA.\n\t\t \n\t\t \n\t\t \n\t \n", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees vote for no more than five (5) candidates for submission of the Official 2013 Delegate Assembly Ballot to CSBA.", 
+                    "item_text": "Discussion and/or Action regarding 2013 California School Boards Association (CSBA) Delegate Assembly Election - Frank Biehl, Board President", 
+                    "item_text_raw": "8.01 Discussion and/or Action regarding 2013 California School Boards Association (CSBA) Delegate Assembly Election - Frank Biehl, Board President", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "95BQZ86B9186", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  8.02\n\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Amend Senior Manager of Internal Controls Job Description\n\t \n\t \nAn amended job description for the Senior Manager of Internal Controls is being provided to the Board of Trustees for review and adoption.  \n\t \n\t \nFUNDING SOURCE:\nNot applicable\n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the amended Senior Manager of Internal Controls job description. \n\t \n", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the amended Senior Manager of Internal Controls Job Description.", 
+                    "item_text": "Discussion and/or Action to Amend Senior Manager of Internal Controls Job Description - Chris D. Funk, Superintendent", 
+                    "item_text_raw": "8.02 Discussion and/or Action to Amend Senior Manager of Internal Controls Job Description - Chris D. Funk, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "95CSYE71CD56", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \nFROM:\nChris D. Funk, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCari Vaeth, Director, Human Resources\n\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action to Ratify/Approve Certificated Personnel Actions Presented March 7, 2013\n\t \n\t \nThe following certificated personnel actions presented March 7, 2013, are recommended for approval by the Board of Trustees.\n\t \n\t \nEMPLOYMENT SEPARATION\n\t \nNAME\nSTATUS\nFTE\nLOC\nPOSITION\nEFFECTIVE\nREASON\nREYNOLDS, Marylynn\nTenured\n1.0\nWO\nEnglish\n02/25/2013\nRES\nRES = Resignation\n\t \nFUNDING SOURCE:\nGeneral Fund\n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the certificated personnel actions as specified.\n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion and/or Action to Ratify/Approve Certificated Personnel Actions Presented March 7, 2013 - Cari Vaeth, Director, Human Resources", 
+                    "item_text_raw": "9.01 Discussion and/or Action to Ratify/Approve Certificated Personnel Actions Presented March 7, 2013 - Cari Vaeth, Director, Human Resources", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "HUMAN RESOURCES - OPERATIONAL ITEMS/BOARD DISUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MNS5BB7BD", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT \nItem:  10.01\nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t\t\t \nChris D. Funk, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nDiscussion and/or Action of Second Interim Financial Report\n\t\t\t\t\t \n\t\t\t\t\t \nThis is the Second of two Interim Reports to be presented to the Governing Board for the 2012-13 fiscal year.  The report provides the Board with the financial status of the district as of January 31, 2013.  This report is presented to the Board to provide the current fiscal status of the district and to meet the fiscal accountability requirements of AB 1200.  \n\t\t\t\t\t \nIncluded in the accompanying binder is an executive summary which summarizes the financial data from the SACS reporting system and budget assumptions that provide the basis for determining the District’s fiscal status.  In addition, there are supporting documentation and comparative analysis of the 2012/13 First Interim vs. Second Interim Update as of January 31, 2013, multi-year projections, state reporting forms, and other related documents.  These documents and worksheets serve as tools to certify the ongoing fiscal health of the District for this current year as well as the two subsequent fiscal years.  \n\t\t\t\t\t \nCalifornia school district revenues and expenditures are subject to constant change.  School district budgets are not static documents, but instead are constantly revised to respond to decisions and actions at the state, local, and federal levels.  The Second Interim Report financial projections have been updated to reflect new information received and board actions taken since the Budget was adopted.  \n\t\t\t\t\t \nEducation Code Section 42131 requires that the Governing Board of each school district to certify in writing within 45 days after the close of the period being reported, whether or not the school district is able to meet its financial obligations for the remainder of the fiscal year and subsequent two fiscal years.  The certification is classified as either positive, qualified, or negative.   \n\t\t\t\t\t \nBased on the Districts Second Interim report and multi-year projections as of January 31, 2013, I am recommending that the Board approve the attached positive certification for the East Side Union High School District.  Your approval will provide certification to the State ensuring that the District is able to meet its financial obligations for the current fiscal year and subsequent two fiscal years.  \n\t\t\t\t\t \nFINANCIAL IMPACT:\nNot Applicable\n\t\t\t\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t\t\t\t \nRECOMMENDATION:\nIt is recommended the Board of Trustees approve the positive certification of the 2012-13 Second Interim Report/Revision to the operating budget as presented. \n\t \n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "It is recommended the Board of Trustees approve the positive certification of the 2012-13 Second Interim Report/Revision to the operating budget as presented.", 
+                    "item_text": "Discussion and/or Action of Second Interim Financial Report - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_text_raw": "10.01 Discussion and/or Action of Second Interim Financial Report - Marcus Battle, Associate Superintendent of Business Services, and Karen Poon, Director of Finance", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "87KQ26671695", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT \nItem:  10.02\nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t\t\t \nChris D. Funk, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nAdopt Resolution #2012/2013-22 Declaring an Emergency and Authorizing Superintendent or His Designee to Enter into Contracts for the Repair and remediation of Fire Damage at Independence High School       \n\t\t\t\t\t \n\t\t\t\t\t \nAs a result of a fire that occurred at Independence High School Campus on Sunday, March 3, 2013, the District is requesting that the Board of Trustees authorize an Emergency Resolution.  The fire at the B Villa was caused by someone unknown to the District who set fire to the vending machines at the south end of the building.  The fire spread to the interstitial space between the ceiling and roof on the southeast area, resulting in extensive structural damage in addition to water, smoke and soot that has affected every part of the building.  Time is of the essence in these kinds of situations. The remediation work needs to proceed immediately as the longer the soot and debris remains in place the more difficult the odor removal process can be and the smoke and soot will have a corrosive effect on the facility and its contents.  Moreover, an architectural firm, with structural, mechanical, electrical and hazardous materials sub-consultants, will need to assess the extent of the damage, develop repair plans, seek approval from the Division of the State Architect; then a construction contract will need to be awarded to implement the repairs.  The entire process is anticipated to take several months to execute, provided the normal time frames and processes related to procurement of the professional and construction services is bypassed.  The Emergency Resolution Declaring an Emergency enables the District to forgo the normal time frame and processes related to the work and to engage a contractor(s) for the repair and remediation work without advertising for or inviting bids.\n\t\t\t\t\t \nFINANCIAL IMPACT:\nUnknown at this time\n\t\t\t\t\t \nFUNDING SOURCE:\nProperty/Liability\n\t\t\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution 2012/2013-22 declaring an emergency pursuant to Public Contract Code section 1104 and 20113 and authorizing the Superintendent or his designee to enter into contracts for the repair and remediation of the fire damage at B Villa at Independence High School.\n\t \n", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution 2012/2013-22 declaring an emergency pursuant to Public Contract Code section 1104 and 20113 and authorizing the Superintendent or his designee to enter into contracts for the repair and remediation of the fire damage at B Villa at Independence High School.", 
+                    "item_text": "Adopt Resolution #2012/2013-22 Declaring an Emergency and Authorizing Superintendent or His Designee to Enter into Contracts for the Repair and Remediation of Fire Damage at Independence High School - Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_text_raw": "10.02 Adopt Resolution #2012/2013-22 Declaring an Emergency and Authorizing Superintendent or His Designee to Enter into Contracts for the Repair and Remediation of Fire Damage at Independence High School - Marcus Battle, Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "95GQKG691307", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\nItem:  10.03\nTO:\nBoard of Trustees\n\t\t\t\t\t \nFROM: \n\t\t\t\t\t \nChris D. Funk, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nMarcus Battle, Associate Superintendent of Business Services, C.P.M., Contracts Administration Coordinator\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action of Award of Bids   \n\t \n\t \nThe attached Award of Bid are presented for review and approval as indicated in the attachment.\n\t \nFISCAL IMPACT:\nSee attachment\n\t \nFUNDING SOURCE:\nSee attachment\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Award of Bid as indicated in the attachment.\n\t \n", 
+                    "item_number": "8.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the Award of Bid as indicated in the attachment.", 
+                    "item_text": "Discussion and/or Action of Award of Bids - Marcus Battle, Associate Superintendent of Business Services, and Donna Bertrand, C.P.M., Contracts Administration Coordinator", 
+                    "item_text_raw": "8.02 Discussion and/or Action of Award of Bids - Marcus Battle, Associate Superintendent of Business Services, and Donna Bertrand, C.P.M., Contracts Administration Coordinator", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BUSINESS SERVICES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MMZ5B6D95", 
+                    "item_details": "", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_text_raw": "11.01 Opportunity for Board of Trustees to Request Items on Future Agendas", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MN35B6D9F", 
+                    "item_details": "\nFuture Items:\n\t \n\t \n\t \nBoard President Frank Biehl:\n\t \nItem\nDate (tentative)\nType\nParent Involvement Plan\nMarch 2013\nBoard Policy\n\t \n\t \n\t \nBoard Clerk Van Le:\n\t \nItem\nDate (tentative)\nType\nReview of Safety Procedures\n\t\t\t\t \nBoard Policy\n\t \n\t \n\t \nBoard Member Lan Nguyen:\n\t \nItem\nDate (tentative)\nType\nReview of Procurement and Bidding Process\nApril 18, 2013\nPresentation\n\t \n\t \n\t \n\t \n", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Future items: Parent Involvement Plan, Frank Biehl, Board President; Review of Safety Procedures - Van Le, Board Clerk; Review of Procurement and Bidding Process - Lan Nguyen, Board Member", 
+                    "item_text_raw": "11.02 Future items: Parent Involvement Plan, Frank Biehl, Board President; Review of Safety Procedures - Van Le, Board Clerk; Review of Procurement and Bidding Process - Lan Nguyen, Board Member", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "FUTURE AGENDA ITEMS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MN65B6DB5", 
+                    "item_details": "\n\t \nFrank Biehl, President\n\t\t\t \nJ. Manuel Herrera, Vice President\n  --MetroED\nVan Le, Clerk\nLan Nguyen, Member\n  --Board Audit Commttee\nMagdalena Carrasco, Member\n\t \n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees: Frank Biehl, President; J. Manuel Herrera, Vice President -- MetroED; Van Le, Clerk; Lan Nguyen, Member -- Board Audit Committee; Magdalenda Carrasco, Member", 
+                    "item_text_raw": "12.01 Board of Trustees: Frank Biehl, President; J. Manuel Herrera, Vice President -- MetroED; Van Le, Clerk; Lan Nguyen, Member -- Board Audit Committee; Magdalenda Carrasco, Member", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "959MN95B6DC2", 
+                    "item_details": "", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Chris D. Funk, Superintendent", 
+                    "item_text_raw": "12.02 Chris D. Funk, Superintendent", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MND5B6DDF", 
+                    "item_details": "\nAttorney will report on Closed Session action item(s).\n", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will Report on Closed Session Action item(s)", 
+                    "item_text_raw": "13.01 Attorney will Report on Closed Session Action item(s)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "959MNH5B6DFE", 
+                    "item_details": "\nPresident Adjourns the meeting in Loving Memory of Jeanette Carol Bruntz, April 12, 1951, to January 31, 2013.\n", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting in Loving Memory of Jeanette Carol Bruntz, April 12, 1951, to January 31, 2013.", 
+                    "item_text_raw": "14.01 President Adjourns the Meeting in Loving Memory of Jeanette Carol Bruntz, April 12, 1951, to January 31, 2013.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

@@ -8,8 +8,8 @@ import line_structurer
 
 def main():
 
-	agency = "san_jose_evergreen_ccd"
-	agency_code = "sjeccd"
+	agency = "east_side_uhsd"
+	agency_code = "esuhsd"
 
 	parseAgendas(agency, agency_code)
 
@@ -38,7 +38,11 @@ def parseAgendas(agency, agency_code):
 				json_agenda['meeting_sections'].append(structureAgendaSection(agency, agency_code, section))
 
 			print(json.dumps(json_agenda, indent=4))
-			line_structurer.writeJSONtoDisk(json_agenda, agency, json_agenda['meeting_date'])
+
+			# clean up the meeting title
+			clean_title = agenda['meeting_title'].strip().lower()
+			clean_title = re.sub(r'\W+', '_', clean_title)
+			line_structurer.writeJSONtoDisk(json_agenda, agency, json_agenda['meeting_date'], clean_title)
 
 			agenda['parsed'] = True
 

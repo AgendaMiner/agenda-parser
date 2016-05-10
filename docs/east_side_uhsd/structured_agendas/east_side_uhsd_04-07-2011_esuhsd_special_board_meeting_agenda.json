@@ -1,0 +1,84 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "04-07-2011", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCFK30D93F", 
+                    "item_details": "\nThe Special Board Meeting will begin at 6:00 p.m. in the Board Room of the District Office.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9LNCFN30D94E", 
+                    "item_details": "\nAnnouncement and Public Comment regarding Items to be discussed in Closed Session (Government Code §54957.7)\n\t \nInformation explaining Board Meeting Procedures and how citizens can address the Board will be read.  Written information is located near the entrance to the Board Room.  Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code ยง54957.7)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9LNCFQ30D955", 
+                    "item_details": "\nRecess to Closed Session in the Superintendent's Conference Room.\nSEE ITEM 2 ON AGENDA (CLOSED SESSION)\n", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session. SEE ITEM 2 ON AGENDA (CLOSED SESSION)", 
+                    "item_text_raw": "1.03 Recess to Closed Session. SEE ITEM 2 ON AGENDA (CLOSED SESSION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCFT30D95F", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\n\t \nAgency Designated Representatives:\n\tDan Moser, Superintendent\n\tCathy Giammona, Associate Superintendent of Human Resources and Instruction\nHardy Childers, Interim Associate Superintendent of Business Services\n\tVida Branner, Director of Compensation and Classified Employee Relations\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\n", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.01 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCFX30D96A", 
+                    "item_details": "\nFor consideration by the Board of Trustees.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Report out on Closed Session action item(s).", 
+                    "item_text_raw": "3.01 Report out on Closed Session action item(s).", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9LNCG330D978", 
+                    "item_details": "\nPresident Adjourns the meeting.\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "4.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

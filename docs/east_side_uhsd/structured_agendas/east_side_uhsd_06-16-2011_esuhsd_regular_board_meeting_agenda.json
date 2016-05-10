@@ -1,0 +1,672 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "06-16-2011", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3WC08D48D", 
+                    "item_details": "\nThe Regular Board Meeting will begin at 4:00 p.m. in the Board Room of the Education Center.   Anyone wishing to address the Board regarding Closed Session items may speak at this time.  The Board will then adjourn to Closed Session in the Superintendent’s Conference Room.\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.01 Roll Call", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8GK3WF08D4AF", 
+                    "item_details": "\n", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": "1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8GK3WJ08D4B5", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": "1.03 Recess to Closed Session in the Superintendent's Conference Room (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CALL TO ORDER/ROLL CALL", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3WN08D4BD", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsion(s): A - D", 
+                    "item_text_raw": "2.01 Expulsion(s): A - D", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3WR08D4C1", 
+                    "item_details": "\nPublic Employee Performance Evaluation (Government Code Section 54957)\n", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_text_raw": "2.02 Public Employee Performance Evaluation (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3WU08D4C4", 
+                    "item_details": "\nPublic Employment/Public Employee Appointment (Government Code Section 54957)\nAssociate Superintendent of Business Services\nPrincipal (2)\nTemporary Director of Facilities\n", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employment/Public Employee Appointment (Government Code Section 54957): Associate Superintendent of Business Services; Principal (2); Temporary Director of Facilities", 
+                    "item_text_raw": "2.03 Public Employment/Public Employee Appointment (Government Code Section 54957): Associate Superintendent of Business Services; Principal (2); Temporary Director of Facilities", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3WX08D4C7", 
+                    "item_details": "", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_text_raw": "2.04 Public Employee Discipline/Dismissal/Release (Government Code Section 54957)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3X208D4CA", 
+                    "item_details": "\nConference with Labor Negotiators (Government Code Section 54957.6)\n\t \nAgency Designated Representatives:\n\tDan Moser, Superintendent\n\tCathy Giammona, Associate Superintendent of Human Resources and Instruction\nHardy Childers, Interim Associate Superintendent of Business Services\n\tVida Branner, Director of Compensation and Classified Employee Relations\nEmployee Organizations:\n\tAmerican Federation of Teachers (AFT)\n\tCalifornia School Employees Association (CSEA)\n\tEast Side Teachers Association (ESTA)\n", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_text_raw": "2.05 Conference with Labor Negotiators (Government Code Section 54957.6)", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3X508D4CD", 
+                    "item_details": "\nConference with Legal Counsel - Anticipated Litigation \nSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: \n\t \nTwo (2) Potential Cases\n", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: Two (2) Potential Cases", 
+                    "item_text_raw": "2.06 Conference with Legal Counsel - Anticipated Litigation: Significant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code: Two (2) Potential Cases", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3XB08D4D7", 
+                    "item_details": "\nConference with Real Property Negotiators\n\t \nProperty:\nESUHSD Educational Center, or portion thereof\n830 N. Capitol Avenue\nSan Jose, CA  95133\nDistrict Negotiators:\nDan Moser, Superintendent\nHardy Childers, Interim Associate Superintendent of Business Services\nRogelio Ruiz, Legal Counsel \nReal Estate Representatives Sam Swan, \nBob Hunt and Andre Hunt\nNegotiating Parties:\nESUHSD, Santa Clara Development Company, and \nOther Parties to be Determined\nUnder Negotiation:\nPrice and Terms\n", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Conference with Real Property Negotiators", 
+                    "item_text_raw": "2.07 Conference with Real Property Negotiators", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3XF08D4E0", 
+                    "item_details": "\n \nI pledge allegiance \nto the flag of the\nUnited States of America\nand to the Republic\nfor which it stands\none nation under God\nindivisible with liberty\nand justice for all.\n", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.01 Pledge of Allegiance", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RESUME OPEN SESSION AT APPROXIMATELY 6:00 P.M. - EDUCATION CENTER BOARD ROOM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3XK08D4E4", 
+                    "item_details": "\n", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": "4.01 Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "WELCOME AND EXPLANATION TO AUDIENCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3XP08D4E8", 
+                    "item_details": "", 
+                    "item_number": "5.01", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees", 
+                    "item_text_raw": "5.01 For consideration by the Board of Trustees", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "CONSIDERATION OF PROPOSED AMENDMENTS TO AGENDA", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HGT8E73BAC2", 
+                    "item_details": "", 
+                    "item_number": "6.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Danae G. Stahlnecker - National Merit Scholarship Winner", 
+                    "item_text_raw": "6.01 Danae G. Stahlnecker - National Merit Scholarship Winner", 
+                    "item_type": null
+                }, 
+                {
+                    "boarddocs_id": "8HMTTH6CEE93", 
+                    "item_details": "\nRetiring Administrators:\nThelma Boac, Principal - Silver Creek High School\nJohn Duran, Principal - Santa Teresa High School\nRichard Esparza, Associate Principal - James Lick High School\nChris Schroeder, Associate Principal - Mt. Pleasant High School\n", 
+                    "item_number": "6.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Retiring Administrators: Thelma Boac, Principal (SC); John Duran, Principal (ST); Richard Esparza, Associate Principal (JL); Chris Schroeder, Associate Principal (MP)", 
+                    "item_text_raw": "6.02 Retiring Administrators: Thelma Boac, Principal (SC); John Duran, Principal (ST); Richard Esparza, Associate Principal (JL); Chris Schroeder, Associate Principal (MP)", 
+                    "item_type": "Recognition"
+                }
+            ], 
+            "section_name": "BOARD SPECIAL RECOGNITION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HMTSK6CD554", 
+                    "item_details": "", 
+                    "item_number": "7.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No items on calendar under this section.", 
+                    "item_text_raw": "7.01 No items on calendar under this section.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "STUDENT BOARD LIAISON(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3XV08D4EE", 
+                    "item_details": "", 
+                    "item_number": "8.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": "8.01 Persons wishing to address the Board must fill out a gold request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "PUBLIC MEMBERS WHO WISH TO ADDRESS THE BOARD", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HGT9S73E2F8", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nPatricia Martinez-Roach, Board Member; Mulugeta Habtegabriel, Co-Chairperson of African American Student Advocates; and Sharon Jackson, Co-Chairperson of African American Student Advocates\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nPresentation on Achievement Gap for African American Students\n\t \n\t \nA presentation regarding the achievement gap for African American students will be made by African American Student Advocates Chairpersons Mulugeta Habtegabriel and Sharon Jackson.\n\t \n\t \n\t \n", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation on Achievement Gap for African American Students - Patricia Martinez-Roach, Board Member; Mulugeta Habtegabriel, Co-Chairperson of African American Student Advocates; and Sharon Jackson, Co-Chairperson of African American Student Advocates", 
+                    "item_text_raw": "9.01 Presentation on Achievement Gap for African American Students - Patricia Martinez-Roach, Board Member; Mulugeta Habtegabriel, Co-Chairperson of African American Student Advocates; and Sharon Jackson, Co-Chairperson of African American Student Advocates", 
+                    "item_type": "Action, Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "8HGPJ56213CD", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t\t \nItem:  9.02\nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:30 p.m. Regarding the Proposed Budget Adoption for 2011/2012. The Proposed Budget is available for Inspection at the District Office (Business Services Dept.) \n\t\t\t\t \nThe Per Education Code Section 42103, the East Side Union High School District will hold a Public Hearing on the Proposed Budget Adoption for 2011/2012.  The proposed budget is available for inspection at the district office.\n\t\t\t\t \n", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 6:30 p.m. Regarding the Proposed Budget Adoption for 2011/2012. The Proposed Budget is available for Inspection at the District Office (Business Services Dept.) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.02 Hold Public Hearing at Approximately 6:30 p.m. Regarding the Proposed Budget Adoption for 2011/2012. The Proposed Budget is available for Inspection at the District Office (Business Services Dept.) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Discussion, Information"
+                }, 
+                {
+                    "boarddocs_id": "8HGUQM7D302E", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  9.03\n(Year Correction on Title)\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nPresentation of the Proposed Budget Adoption for 2011/2012\n\t\t \n\t\t \nPresentation of the Proposed Budget Adoption for 2011/2012.\n\t\t \n\t\t \n", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation of the Proposed Budget Adoption for 2011/2012 - Hardy Childers, Interim Associate Superintendent of Business Services - (YEAR CORRECTION)", 
+                    "item_text_raw": "9.03 Presentation of the Proposed Budget Adoption for 2011/2012 - Hardy Childers, Interim Associate Superintendent of Business Services - (YEAR CORRECTION)", 
+                    "item_type": "Discussion, Information, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "8HGT7K7377AE", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.04\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nGeorge Sanchez, Coordinator of Student Services\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nPresentation and Discussion regarding Campus Safety Program\n\t \n\t \nA presentation regarding the campus safety program will be provided by George Sanchez, Coordinator of Student Services, including a discussion of the program by the Board of Trustees and Superintendent.\n", 
+                    "item_number": "9.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation and Discussion regarding Campus Safety Program - George Sanchez, Coordinator of Student Services, and Dan Moser, Superintendent", 
+                    "item_text_raw": "9.04 Presentation and Discussion regarding Campus Safety Program - George Sanchez, Coordinator of Student Services, and Dan Moser, Superintendent", 
+                    "item_type": "Discussion, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "8HGT5J730D35", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.05\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent, and Hardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscussion and/or Action regarding Budget Alternatives for Campus Safety Program\n\t \n\t \nThe Board of Trustees and Superintendent will discuss budget alternatives for the campus safety program, including action(s) as stipulated by the Board of Trustees.\n", 
+                    "item_number": "9.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion and/or Action regarding Budget Alternatives for Campus Safety Program - Dan Moser, Superintendent, and Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.05 Discussion and/or Action regarding Budget Alternatives for Campus Safety Program - Dan Moser, Superintendent, and Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HGM7Y593BED", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  9.06\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nVan Le, Board Clerk\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nDiscuss Legal Expenses for 2010/2011\n\t\t\t \n\t\t\t \n\t\t\t \nPer the request of Board Clerk, Van Le, attached is a break down of legal expenses from July 1, 2010 through April/May 30, 2011. \n\t\t\t \n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t\t \nRECOMMENDATION:\nNot Applicable\n", 
+                    "item_number": "9.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Discuss Legal Expenses for 2010/2011 - Van Le, Board Clerk", 
+                    "item_text_raw": "9.06 Discuss Legal Expenses for 2010/2011 - Van Le, Board Clerk", 
+                    "item_type": "Discussion, Information, Report"
+                }, 
+                {
+                    "boarddocs_id": "8H82PF032146", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  9.07 \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 6:45 p.m. regarding Intent to Lease District Property for Cellular and Wireless Communication Antenna Purposes\n\t\t\t \n\t\t\t \nPublic Hearing being held regarding the intent to lease District property for cellular and wireless communication antenna purposes.\n", 
+                    "item_number": "9.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 6:45 p.m. Regarding Intent to Lease District Property for Cellular and Wireless Communication Antennas - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.07 Hold Public Hearing at Approximately 6:45 p.m. Regarding Intent to Lease District Property for Cellular and Wireless Communication Antennas - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Discussion, Information"
+                }, 
+                {
+                    "boarddocs_id": "8H82Q90337C0", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  9.08\nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nAdopt Resolution #2010/2011-43 Intent to Lease District Property for Cellular and Wireless Communication Antenna Purposes\n\t\t \nThe District has received additional interest from cellular and wireless communication providers to lease property at the district’s school sites and other facilities for the purpose of installing and maintaining cellular and wireless communication antennas.  The Board has previously awarded such lease agreements to carriers Verizon, T-Mobile and Clear Wire.  Antennas potentially would be installed on light poles around the football stadiums at each of those campuses, on rooftops, or as otherwise approved by the District.  Other school districts have entered into such agreements as a means of generating lease income including, most recently, San Jose Unified School District.  \n\t\t \nAdministration seeks the Board’s approval to accept additional lease proposals at all of the District’s sites.\n\t\t \nAt the September 17, 2009, Regular Board Meeting, the Board held a public hearing to solicit community input on the potential leasing of District property for such purposes.  Before Administration can fully negotiate any such lease with any proposed lessee the Board must by 2/3rds vote (4 out of 5 Members) approve a Resolution of Intent to lease property and then advertise the notice of the approved resolution locally, including that the District will be accepting offers to lease such property upon minimum rental terms.  Each lease could generate approximately $30,000 annually, or more.\n\t\t \nAny offers to lease would be opened and examined at a subsequent regular Board meeting, and any lease agreements would be subject to final Board approval.\n\t\t \n\t\t \nFISCAL IMPACT:\nLease revenue to be determined\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees adopt Resolution #2010/2011-43 by a 2/3rds majority declaring the District’s intent to lease District property as described in the Resolution.\n", 
+                    "item_number": "9.08", 
+                    "item_recommendation": "It is recommended that the Board of Trustees adopt Resolution #2010/2011-43 by a 2/3rds majority declaring the Districtâs intent to lease District property as described in the Resolution.", 
+                    "item_text": "Adopt Resolution #2010/2011-43 Intent to Lease District Property for Cellular and Wireless Communication Antenna Sites - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.08 Adopt Resolution #2010/2011-43 Intent to Lease District Property for Cellular and Wireless Communication Antenna Sites - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HGPV4640ECB", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.09\nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nHold Public Hearing at Approximately 7:00 p.m. Regarding the Proposed Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2))\n\t \n\t \nPublic Hearing being held to allow public comment regarding the Tier III Categorical Program Funds to be used as unrestricted Fund for instructional and other education purposes under the SBX3 4 - Programs and Flexibility for the 2008/09 - 2012/13 school years, in reference to 2009 State Finance Bill releasing the restrictions.\n", 
+                    "item_number": "9.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Hold Public Hearing at Approximately 7:00 p.m. Regarding the Proposed Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2)) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.09 Hold Public Hearing at Approximately 7:00 p.m. Regarding the Proposed Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2)) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Discussion, Information"
+                }, 
+                {
+                    "boarddocs_id": "8HGQ2J64D47D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  9.10\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nApprove Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2))\n\t\t\t \nThe February 2009 State Finance Bill released the restrictions to allow the Tier III Categorical Program Funds to be used as unrestricted Fund for instructional and other education purposes under the SBX3 4 - Programs and Flexibility for the 2008/09 - 2012/13 school years.    Public hearing held to allow for public comment.   \n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nN/A\n\t\t\t \nFUNDING SOURCE:\nN/A\n\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2).\n", 
+                    "item_number": "9.10", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2).", 
+                    "item_text": "Approve Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2)) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "9.10 Approve Use of Tier III Categorical Program Funds as Unrestricted Funds (Education Code Section 42605(c2)) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HMTUS6D1668", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.11\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nApprove Employment Contract for Associate Superintendent of Business Services\n\t \n\t \nItem to be provided when available.\n", 
+                    "item_number": "9.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Employment Contract for Associate Superintendent of Business Services - Dan Moser, Superintendent", 
+                    "item_text_raw": "9.11 Approve Employment Contract for Associate Superintendent of Business Services - Dan Moser, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3Y408D4F9", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.12\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nFrank Biehl, Audit Committee Chair and Patricia Martinez-Roach, Audit Committee Vice Chair\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nBoard Audit Committee Update, Discussion and/or Action and Receive Minutes of April 16, 2011, Board Audit Committee Meeting\n\t \n\t \nUpdate to be provided by Frank Biehl, Audit Committee Chair, and Patricia Martinez-Roach, Audit Committee Vice Chair.\n\t \nIt is also requested that the Board of Trustees receive the minutes of the April 16, 2011, Board Audit Committee Meeting.\n\t \n\t \n", 
+                    "item_number": "9.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Board Audit Committee Update, Discussion and/or Action and Receive Minutes of April 16, 2011, Board Audit Committee Meeting - Frank Biehl, Audit Committee Chair and Patricia Martinez-Roach, Audit Committee Vice Chair", 
+                    "item_text_raw": "9.12 Board Audit Committee Update, Discussion and/or Action and Receive Minutes of April 16, 2011, Board Audit Committee Meeting - Frank Biehl, Audit Committee Chair and Patricia Martinez-Roach, Audit Committee Vice Chair", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HMTVS6D42F3", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  9.13\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nDiscuss Board By Law #9320 Meetings and Notices and Board By Law #9322 \nAgenda/Meeting Materials\n\t \n\t \nThe Board of Trustees will discuss/review Board By Law #9320 Meetings and Notices and Board By Law #9322 Agenda/Meeting Materials.\n\t \n", 
+                    "item_number": "9.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Discuss Board By Law #9320 Meetings and Notices and Board By Law #9322 Agenda/Meeting Materials - Dan Moser, Superintendent", 
+                    "item_text_raw": "9.13 Discuss Board By Law #9320 Meetings and Notices and Board By Law #9322 Agenda/Meeting Materials - Dan Moser, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GTMYM5AD9D7", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  10.01\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nDiscuss and/or Approve Program Improvement Year 4 School Alternative Governance Plans\n\t\t \nLocal Educational Agencies (LEA) who have schools in Program Improvement, Year 4 are responsible for working with the schools to develop a restructuring/alternative governance plan.  Andrew Hill and Independence High Schools are both in Year 4 and have been working with the District to analyze progress and construct a plan.\n\t\t \nSchools in Program Improvement Year 4 are required to do the following:\nCreate a District and School Liaison Team (DSLT).  This team leads the school through the PI Year 4 planning process and chooses a restructuring/alternative governance plan.  A DSLT was created at both sites following the State suggested composition, that is, supervisor of the principal, curriculum and instruction administrator, classroom teachers, member of the school’s advisory council, parents, and other informed individuals.  Each DSLT met twice and followed the CDE recommended protocol to select appropriate alternative governance option(s) and revise the Single Plan for Student Achievement.\nAllow adequate opportunity for teachers and parents to comment before taking action. With assistance from committee members, information was shared and stakeholders had opportunities to comment on suggested plans.  Andrew Hill held town hall meetings with staff and parents to gather input, and Independence shared their progress with staff at meetings and parents during School Site Council meetings.\nChoose one of the four following options as their restructuring/alternative governance structure.\n               a.  Close the school and reopen it as a charter school.\n               b.  Replace all or most of the school staff (which may include the principal) who are\n                    relevant to the failure to make AYP.\n               c.  Enter into a contract with an entity, such as a private management company with\n                    a demonstrated record of effectiveness, to operate the public school.\n               d.  Implement any other major restructuring of the school's governance arrangement\n                    that makes fundamental reforms and leads to improved student achievement.\n\t\t \n          After completing the CDE recommended protocol, Andrew Hill and Independence selected \n          D, that is, to implement an alternative governance structure.\n\t\t \n          Andrew Hill High School plan for alternative governance structure - The main focus areas   \n          of alternative governance structure are as follows:\n  \n                 *  Smaller Learning Communities\n                 *  Whole school participation by department of Professional Development focusing\n                     on engaging students\n                 *  Assessing student learning\n                 *  Extending learning to close the achievement gap\n\t\t \n\t\t \n           Independence High School plan for alternative governance structure - The three main\n           focus areas of their alternative governance structure are as follows:\n\t\t \n                 *  Develop and align instruction with content standards with focus on English language\n                     learners and special education.\n                 *  Implement common assessments and ongoing collaboration to inform staff about the\n                     effectiveness of instruction.\n                 *  Implement an intervention plan for students with multiple \"F\" grades.\n          \n      4. Ensure that the school’s Single Plan for Student Achievement reflects the alternative\n          governance structure chosen above.\n\t\t   \n          The alternative governance structure is represented in both Andrew Hill's Single Plan for\n          Student Achievement and Independence's Single Plan for Student Achievement.\n\t\t \n          The DSLT will continue to meet on a regular basis at both high schools to look at student \n          achievement data and monitor the alternative governance plan.\n\t\t \n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nN/A\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Governance Structures at Andrew Hill and Independence High Schools.\n", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Discuss and/or Approve Program Improvement Year 4 School Alternative Governance Plans - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Kirsten King, Director of Instructional Services", 
+                    "item_text_raw": "10.01 Discuss and/or Approve Program Improvement Year 4 School Alternative Governance Plans - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Kirsten King, Director of Instructional Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GTP7C5F5B99", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  10.02\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove the Appointment of Representatives to the South East Special Education Local Planning Areas Community Advisory Council Meetings\n\t\t \n\t\t \nThe South East Special Education Local Planning Areas (SELPA) Community Advisory Council (CAC) is made up of parent representatives from the eleven districts that make up the South East SELPA.  Each member district is charged with the responsibility of having a parent that serves as a liaison to share and bring information for parents of students with special needs.  Dianne Lemke and Janice Richason, parents of special needs students, were recommended by the ESUHSD Special Services Advisory Group to serve on South East SELPA CAC for a term of two years.\n\t\t \n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nN/A\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the appointment of Dianne Lemke and Janice Richason to represent East Side Union High School District at the South East SELPA CAC Meetings.\n", 
+                    "item_number": "10.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve the Appointment of Representatives to the South East Special Education Local Planning Areas Community Advisory Council Meetings - Cathy Giammona, Associate Superintendent, Human Resources and Instruction", 
+                    "item_text_raw": "10.02 Approve the Appointment of Representatives to the South East Special Education Local Planning Areas Community Advisory Council Meetings - Cathy Giammona, Associate Superintendent, Human Resources and Instruction", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8H5VA97FC481", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  10.03\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction, and Cari Vaeth, Director of Adult Education and Career Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Carl D. Perkins 132 Grant 2011-12 Grant Application for East Side Union High School District\n\t\t \n\t\t \nOverview:\nThe East Side Career Technical Education Program includes the AH Multimedia Academy, AH Culinary Arts Pathway, AH Biotechnology Academy, AH Heath/Nursing Academy, AH Green Occupations Academy, AH Public Services Academy, MP Manufacturing Academy, MP Green Remodeling and Construction Academy, MP Animation Pathway, WCO Early Childhood Education Academy, WCO Green Career Academy, WCO Multimedia Academy, WCO Electronics Academy, PH CAD Pathway, PH Entrepreneurship Pathway, PH Carpentry Pathway, OG Travel and Tourism Academy, OG International Cuisine Pathway, SC Business Careers Pathway, SC Telecommunications Pathway, YB Automotive, YB Green Construction Academy, YB Pre-Engineering Pathway, IH Academy of Finance, IH Engineering Space Science Pathway, IH Carpentry, IH Teaching Academy, and the ST Multimedia Pathway.\n\t\t \nProgram Support:\nPerkins funds will be used to assist programs in the Arts, Media and Entertainment Industry Sector, the Building Trades and Construction Industry Sector, Education, Child Development and Family Services Industry, Energy and Utilities Industry Sector, Engineering and Design Industry Sector, Finance and Business Industry Sector, Health,Science and Medical Technology Industry Sector, Hospitality, Tourism and Recreation Industry Sector, Transportation Industry Sector and the Public Services Industry Sector.  Funds will also be used  to support Certificated FTE for courses that will be offered for the first time at Andrew Hill, WC Overfelt, Mt. Pleasant, Oak Grove and Independence.\n\t\t \n\t\t \nFISCAL IMPACT:\nNone\n\t\t \nFUNDING SOURCE:\nCarl D. Perkins Career and Technical Education Improvement Act of 2006, Section 132\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Carl D. Perkins 132 Grant 2011-12 Grant Application for the East Side Union High School District. \n", 
+                    "item_number": "10.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Carl D. Perkins 132 Grant 2011-12 Grant Application for East Side Union High School District - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Cari Vaeth, Director of Adult Education and Career Services", 
+                    "item_text_raw": "10.03 Approve Carl D. Perkins 132 Grant 2011-12 Grant Application for East Side Union High School District - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and Cari Vaeth, Director of Adult Education and Career Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GSN2P5BEAE1", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  10.04\n\t\t\t\t \n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCathy Giammona,  Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nAccept Safety Plan Goals Assessment for 2010-2011\n\t \n\t \n\t \nTo ensure compliance with the requirements of SB 187, Comprehensive School Safety Plan, and Education Code, each school has reported on the status of its school safety plan goals for 2010-2011 and submitted its assessment to the Board of Trustees for review.\n\t \n\t \nFISCAL IMPACT:\nN/A\n\t \nFUNDING SOURCE:\nN/A\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees accept the Safety Plan Goals Assessment for 2010-2011.\n", 
+                    "item_number": "10.04", 
+                    "item_recommendation": "It is recommended that the Board of Trustees accept the Safety Plan Goals Assessment for 2010-2011.", 
+                    "item_text": "Accept Safety Plan Goals Assessment for 2010-2011 - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services", 
+                    "item_text_raw": "10.04 Accept Safety Plan Goals Assessment for 2010-2011 - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8H6QCQ6764DF", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  10.05\n\t\t\t\t \n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCathy Giammona,  Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nApprove Inter-District Attendance Agreements with Milpitas Unified School District and San Francisco Unified School District\n\t \n\t \n\t \nThe East Side Union High School District is requesting authorization to enter into an Inter-District Attendance Agreement with the following school districts, pursuant to California Education Code Section 46600 and Assembly Bill 2444:\n\t \nMilpitas Unified School District\nSan Francisco Unified School District\n\t \n\t \nFISCAL IMPACT:\nN/A\n\t \nFUNDING SOURCE:\nN/A\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees authorize entering in agreement with the above mentioned school districts until June 30, 2015.\n", 
+                    "item_number": "10.05", 
+                    "item_recommendation": "It is recommended that the Board of Trustees authorize entering in agreement with the above mentioned school districts until June 30, 2015.", 
+                    "item_text": "Approve Inter-District Attendance Agreements with Milpitas Unified School District and San Francisco Unified School District - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services", 
+                    "item_text_raw": "10.05 Approve Inter-District Attendance Agreements with Milpitas Unified School District and San Francisco Unified School District - Cathy Giammona, Associate Superintendent, Human Resources and Instruction, and George Sanchez, Coordinator of Student Services", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "INSTRUCTIONAL SERVICES/STUDENT SERVICES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HEUZF7E7A54", 
+                    "item_details": "", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "No items on calendar under this section.", 
+                    "item_text_raw": "11.01 No items on calendar under this section.", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "HUMAN RESOURCES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HGRV66CE934", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  12.01\n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy, Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nAdopt Resolution 2010/2011-44 an Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 \n\t\t \n\t\t \n\t\t \nAttached is a resolution and an itemized list of surplus equipment that is no longer needed for school purposes and will be sold and/or disposed of in accordance with Education Code Sections 17545 and 17546.\n\t\t \n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve Resolution #2010/2011-44 an Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal pursuant to Education Code Sections 17545 and 17546.\n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve Resolution #2010/2011-44 an Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal pursuant to Education Code Sections 17545 and 17546.", 
+                    "item_text": "Adopt Resolution #2010/2011-44 an Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "12.01 Adopt Resolution #2010/2011-44 an Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8GK3YD08D502", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  12.02\n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Contracts for Professional Services over $50,000\n\t\t \n\t\t \nThe attached list of Contracts for Professional Services over $50,000, are being presented for Board review and approval. \n\t\t \n\t\t \nFISCAL IMPACT:\nAs indicated in the attachment\n\t\t \nFUNDING SOURCE:\nAs indicated in the attachment\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the contracts for professional services as recommended on the attachment.\n", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the contracts for professional services as recommended on the attachment.", 
+                    "item_text": "Approve Contracts for Professional Services over $50,000 - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "12.02 Approve Contracts for Professional Services over $50,000 - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HGW4H839CB2", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t\t\t \nItem:  12.03\n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t\t\t \nDan Moser, Superintendent\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t \nSUBJECT:\nApprove Delegation of Authority to Award Public Works Contract\n\t\t\t\t\t \n\t\t\t\t\t \nIn order to maintain the timeline of getting the project listed below started and mostly completed during the summer, Administration is requesting authorization for the Superintendent or designee to award the project and ratify the award at the June 28, 2011 Board meeting:\nE-060-003 Title IX Interior Modernization at Yerba Buena High School, Bid Number B-20-10-11\n\t\t\t\t\t \n\t\t\t\t\t \nFISCAL IMPACT:\n$3,000,000.00 (estimate)\n\t\t\t\t\t \nFUNDING SOURCE:\nMeasure E\n\t\t\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees authorize the Superintendent of designee to award the bid for the project listed and ratify at the June 28, 2011, Board meeting.\n", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Delegation of Authority to Award Public Works Contract - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "12.03 Approve Delegation of Authority to Award Public Works Contract - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8HGM5J58D595", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  12.04\n\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nReceive Second Reading and Adopt Board Policy #3350 Travel Expenses\n\t\t\t \n\t\t\t \nThe attached second reading and adoption of Board Policy #3350 Travel Expenses is being presented for Board review and approval. \n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nN/A\n\t\t\t \nFUNDING SOURCE:\nN/A\n\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the second reading of Board Policy #3350 Travel Expenses as presented.\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the second reading of Board Policy #3350 Travel Expenses as presented.", 
+                    "item_text": "Receive Second Reading and Adopt Board Policy #3350 Travel Expenses - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "12.04 Receive Second Reading and Adopt Board Policy #3350 Travel Expenses - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "8HGM42588ECF", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  12.05\nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nReceive First Reading of New Board Policy #3105 Fund Balance (GASB 54)\n\t\t\t \n\t\t\t \nThe attached first reading of Board Policy #3105 Fund Balance (GASB 54) is being presented to the Board for review \n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nN/A\n\t\t\t \nFUNDING SOURCE:\nN/A\n\t\t\t \nRECOMMENDATION:\nN/A \n", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "Pending recommendation(s)", 
+                    "item_text": "Receive First Reading of Board Policy #3105 Fund Balance (GASB 54) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "12.05 Receive First Reading of Board Policy #3105 Fund Balance (GASB 54) - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "BUSINESS SERVICES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8H5TA4765D49", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  13.01\n\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t\t\t \nFROM:  \n\t\t\t\t\t\t\t \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services, and John Lawrence, Assistant Director of Maintenance and Operations\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nReview/Discuss and/or Action of Capital Fund Projects\n\t\t\t \n\t\t\t \nThe Administration will provide an update regarding activity in process to identify recommended priorities for certain types of projects at the schools which have not been specifically addressed in the bond fund modernization programs to date.  Examples of such projects to be identified for discussion at a future meeting include major painting projects, replacement of older HVAC systems, electrical and other infrastructure, asphalt paving, flooring, etc.\n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nN/A\n\t\t\t \nFUNDING SOURCE:\nN/A\n\t\t\t \nRECOMMENDATION:\nPending recommendation(s) by the Board of Trustees. \n", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "Pending recommendation(s) by the Board of Trustees.", 
+                    "item_text": "Review, Discuss and/or Action of Capital Fund Projects - Hardy Childers, Interim Associate Superintendent of Business Services and John Lawrence, Assistant Director of Maintenance and Operations", 
+                    "item_text_raw": "13.01 Review, Discuss and/or Action of Capital Fund Projects - Hardy Childers, Interim Associate Superintendent of Business Services and John Lawrence, Assistant Director of Maintenance and Operations", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HGT4P72D5C8", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  13.02\n\t\t\t\t \n\t\t\t\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nExtension of Measure G Program Management Agreement\n\t \n\t \n\t \nSGI has served as Bond Program Manager since the inception of the Measure E $298,000,000 Bond Program.  The Program Management Agreement was set to expire in December 2010 and Administration at that time requested, and the Board approved, a short contract extension.  The Measure G program funds are not yet fully expended and Program Management services are still needed in connection with that bond program.  Administration now recommends that the Measure G Program Management Agreement with SGI be extended to and including June 30, 2012.  \n\t \nThe draft proposed amendment incorporates and reflects changes to contracting and reimbursement practices recommended by FCMAT in the January 2010 Extraordinary Audit and the County Office of Education and which have previously been approved by the Board.\n\t \n\t \n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees extend the Measure G Program Management Agreement with SGI to and including June 30, 2012.\n\t \n\t \n\t \n", 
+                    "item_number": "13.02", 
+                    "item_recommendation": "It is recommended that the Board of Trustees extend the Measure G Program Management Agreement with SGI to and including June 30, 2012.", 
+                    "item_text": "Extension of Measure G Program Management Agreement - Dan Moser, Superintendent", 
+                    "item_text_raw": "13.02 Extension of Measure G Program Management Agreement - Dan Moser, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8HGTAE74441F", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  13.03\nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nApprove Form Professional Services Agreement for Architectural Services for Measure E and Measure G\n\t \n\t \n\t \nAttached is the Professional Services Agreement form for Architectural Services for Measure E and Measure G for Board approval.  \n\t \n\t \n\t \nFISCAL IMPACT:\nN/A\n\t \nFUNDING SOURCE:\nN/A\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the form Professional Services Agreement for Architectural Services for Measure E and Measure G.\n", 
+                    "item_number": "13.03", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the form Professional Services Agreement for Architectural Services for Measure E and Measure G.", 
+                    "item_text": "Approve Form Professional Services Agreement for Architectural Services for Measure E and Measure G - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_text_raw": "13.03 Approve Form Professional Services Agreement for Architectural Services for Measure E and Measure G - Hardy Childers, Interim Associate Superintendent of Business Services", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "FACILITIES - OPERATIONAL ITEMS/BOARD DISCUSSION AND/OR ACTION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3YJ08D509", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.01\n\t \nTO:                               Board of Trustees\n\t \nFROM:                          Dan Moser, Superintendent\n\t \nPREPARED BY:            Cathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t \nSUBJECT:                    Ratify/Approve Classified Personnel Actions Presented June 16, 2011\n\t \n\t \nThe following classified personnel actions presented June 16, 2011 are recommended for approval by the Board of Trustees.\n\t \n\t \n\t \nFUNDING SOURCE:\nGeneral, Special Education and Adult Education funds\n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the classified personnel actions as outlined above.\n", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented June 16, 2011", 
+                    "item_text_raw": "14.01 Ratify/Approve Classified Personnel Actions Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3YM08D50D", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.02\n\t \nTO:                               Board of Trustees\n\t \nFROM:                          Dan Moser, Superintendent\n\t \nPREPARED BY:            Cathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t \nSUBJECT:                    Ratify/Approve Certificated Personnel Actions Presented June 16, 2011\n\t \n\t \nThe following certificated personnel actions presented June 16, 2011, are recommended for approval by the Board of Trustees.\n\t \n\t \nEMPLOYMENT SEPARATION\n\t \nNAME\nSTATUS\nFTE\nLOC\nPOSITION\nEFFECTIVE\nREASON\nAYALA, Ruth\nTenured\n1.0\nSC\nForeign Language: Spanish\n05/27/2011\nRET\nESPARZA, Richard J.\nTenured\n1.0\nJL\nAssociate Principal\n08/30/2011\nRET\nGONZALEZ, Luis A.\nTenured\n1.0\nSC\nForeign Language: Spanish\n05/27/2011\nRET\nLIU, Jia\nProb 2\n1.0\nST\nScience\n05/27/2011\nRES\nSCHROEDER, Christopher J.\nTenured\n1.0\nMP\nAssociate Principal\n07/31/2011\nRET\nTATUM, Leslie\nProb 2\n1.0\nEC\nSchool Psychologist\n05/27/2011\nRES\nWALKER, Danton J.\nTenured\n1.0\nST\nSpecial Education\n05/27/2011\nRET\nRES = Resignation\nRET = Retirement\n\t \n\t \nCERTIFIED ATHLETIC COACHES\nEMPLOYMENT\n\t \n\t\t\t\t\t \nNAME\n\t\t\t\t\t \nLOCATION\n\t\t\t\t\t \nSTATUS\n\t\t\t\t\t \nSPORT\nEFFECTIVE\nFROM   -   TO \nALFANO, Nick\nST\nCertificated\nFootball\n08/12/11 – 11/18/11\nDAVIS, Michael\nMP\nWalk-on\nFootball\n08/12/11 – 11/18/11\nLOPEZ, JR, Frank\nMP\nCertificated\nFootball\n08/12/11 – 11/18/11\nMCHAM, Jason\nST\nCertificated\nFootball\n08/12/11 – 11/18/11\nMILLER, Timothy\nMP\nWalk-on\nFootball\n08/12/11 – 11/18/11\nNELSON, Steve\nMP\nCertificated\nCross Country\n08/12/11 – 11/18/11\nPAPPADAKIS, Clint\nOG\nWalk-on\nCross Country\n08/12/11 – 11/18/11\nYOUNG, Scott\nST\nCertificated\nCross Country\n08/12/11 – 11/18/11\n\t \n\t \nADULT EDUCATION PROGRAM\nEMPLOYMENT\n\t             \n\t\t\t\t\t \nNAME\n\t\t\t\t\t \nSTATUS\nHOURS \nPER WEEK\n\t\t\t\t\t \nLOCATION\n\t\t\t\t\t \nPOSITION\n\t\t\t\t\t \nFROM   -   TO\nAPPLEBY, Ronald E.\nPermanent\n23.33\nIAC\nTeacher\n06/06/11-06/17/11\nARCHIE, Jean G.\nTemporary\n17.00\nIAC\nTchr Spec Assign\n05/31/11-08/04/11\nCOBB, Jeannie A.\nTemporary\n4.00\nIAC\nTchr Spec Assign\n06/01/11-07/27/11\nD'ARMS, Alyson Marie\nTemporary\n23.33\nIAC\nTeacher\n06/06/11-07/01/11\nDEGEFU, Haileyesus A.\nTemporary\n23.33\nIAC\nTeacher\n06/06/11-07/01/11\nDELGADILLO, Miguel Q.\nPermanent\n6.00\nIAC\nTeacher\n07/05/11-08/03/11\nLEWIS, Jennifer L.\nPermanent\n19.00\nIAC\nTchr Spec Assign\n05/31/11-08/04/11\nLOH, Lee See\nTemporary\n17.00\nIAC\nTchr Spec Assign\n05/31/11-07/20/11\nMANN, Harkirat K.\nTemporary\n6.00\nIAC\nTeacher\n05/31/11-06/29/11\nNAVA, Lucina L.\nPermanent\n6.00\nIAC\nTeacher\n05/31/11-06/29/11\nNGUYEN, Minh-Ngoc T.\nPermanent\n17.00\nIAC\nTchr Spec Assign\n05/31/11-08/04/11\nREEN, Teresa C.\nPermanent\n6.00\nIAC\nTeacher\n05/31/11-08/03/11\nSTOKES, Jonathon\nTemporary\n6.00\nIAC\nTeacher\n07/05/11-08/03/11\nTE, Anna L.\nPermanent\n6.00\nIAC\nTeacher\n05/31/11-06/29/11\n\t \n\t \nADULT EDUCATION PROGRAM – CURRENT ESUHSD EMPLOYEES\nEMPLOYMENT\n\t \n\t\t\t\t\t \nNAME\n\t\t\t\t\t \nSTATUS\nHOURS \nPER WEEK\n\t\t\t\t\t \nLOCATION\n\t\t\t\t\t \nPOSITION\n\t\t\t\t\t \nFROM   -   TO\nDELROSARIO, Ike P.\nTemporary\n23.33\nIAC\nTeacher\n06/20/11-07/01/11\nZACARIA, Allana M.\nTemporary\n23.33\nIAC\nTeacher\n06/06/11-06/17/11\n\t \n\t \n\t \nADULT EDUCATION PROGRAM – EMPLOYMENT SEPARATION\n\t \n\t\t\t\t\t \nNAME\n\t\t\t\t\t \nSTATUS\nHOURS \nPER WEEK\n\t\t\t\t\t \nLOCATION\n\t\t\t\t\t \nPOSITION\n\t\t\t\t\t \nEFFECTIVE\n\t\t\t\t\t \nREASON\n\t\t\t\t\t \nRASAY, Sandra G.\n\t\t\t\t\t \nPermanent\n\t\t\t\t\t \n25.00\n\t\t\t\t\t \nOAC\nTchr/Tchr Spec Assign\n\t\t\t\t\t \n05/28/2011\n\t\t\t\t\t \nRET\nRET = Retirement\n\t \n\t \nFUNDING SOURCE:\nGeneral, Special Education and Adult Education Funds\n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the certificated personnel actions as outlined above.\n", 
+                    "item_number": "14.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented June 16, 2011", 
+                    "item_text_raw": "14.02 Ratify/Approve Certificated Personnel Actions Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3YQ08D512", 
+                    "item_details": "\n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.03\n\t \nTO:                               Board of Trustees\n\t \nFROM:                          Dan Moser, Superintendent\n\t \nPREPARED BY:            Cathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t \nSUBJECT:                    Ratify/Approve Student Aide Personnel Actions Presented June 16, 2011\n\t \n\t \nThe following student aide personnel actions presented June 16, 2011, are recommended for approval by the Board of Trustees.  These summer program positions are paid through various restricted funding and are not bargaining unit work.\n\t \n\t \nNEW EMPLOYMENT OF \n\t \nNAME\nPOSITION / PROGRAM / LOCATION\nEFFECTIVE\nNGUYEN, Hoang\nStudent Aide / Child Nutrition Services / SC\n05/26/2011\nNGUYEN, Ngoc\nStudent Aide / Child Nutrition Services / SC\n05/18/2011\nTRAC, Trang\nStudent Aide / Child Nutrition Services / IH\n05/26/2011\n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \nCABRAL, Darcy\nCollege Aide / MSW Intern / EC\n05/25/2011\nGUZMAN, Guadalupe\nCollege Aide / MSW Intern / EC\n05/25/2011\nHOLLOWELL, Lucia\nCollege Aide / MSW Intern / EC\n05/25/2011\nIKENADOR, Stephanie\nCollege Aide / MSW Intern / EC\n05/25/2011\nPAULSEN, Amy\nCollege Aide / MSW Intern / EC\n05/26/2011\n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \nCAREY, Daniel\nStudent Aide / Post Senior / EC\n05/18/2011\nESCATEL, Sergio\nStudent Aide / Post Senior / EC\n05/18/2011\nGAOAY, Joshua\nStudent Aide / Post Senior / EC\n05/18/2011\nHEREDIA,  Lorenzo\nStudent Aide / Post Senior / EC\n05/20/2011\nLOPEZ, Rafael\nStudent Aide / Post Senior / EC\n05/18/2011\nMANRIQUEZ, Patricia\nStudent Aide / Post Senior / EC\n05/18/2011\nMIYASHIRO, Kyle\nStudent Aide / Post Senior / EC\n05/18/2011\nNGUYEN, Kevin\nStudent Aide / Post Senior / EC\n05/18/2011\nOSBUAL, Gerald\nStudent Aide / Post Senior / EC\n05/18/2011\nPRICE, Preston\nStudent Aide / Post Senior / EC\n05/18/2011\nRAMIREZ, Mayra\nStudent Aide / Post Senior / EC\n05/18/2011\nRAMOS, Jonathan\nStudent Aide / Post Senior / EC\n05/18/2011\nRHANCEL, Allyssa\nStudent Aide / Post Senior / EC\n05/18/2011\n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \nPHAM, Thao\nCollege Aide / Supplementary Ed / IH, PH, EV\n06/06/2011\n\t\t\t\t\t \n\t\t\t\t\t \n\t\t\t\t\t \nABDALLA, Mohamud\nStudent Aide / Workability / OG\n05/20/2011\nAFRICA, Christopher\nStudent Aide / Workability / ST\n05/19/2011\nALDAMA, Raul\nStudent Aide / Workability / SC\n05/23/2011\nANGULO VAZQUEZ, Cristian\nStudent Aide / Workability / AH\n05/26/2011\nARROYO, Luis\nStudent Aide / Workability / SC\n05/20/2011\nAVILA, Armando\nStudent Aide / Workability / SC\n05/19/2011\nBAUTISTA, Mayra\nStudent Aide / Workability / AH\n05/25/2011\nBROOKS, Henry\nStudent Aide / Workability / SC\n05/19/2011\nBUCHHOLZ, Haliey\nStudent Aide / Workability / OG\n05/20/2011\nBURKEEN, Alicai\nStudent Aide / Workability / PH\n05/26/2011\nCAMPOSFARIAS, Jasmine\nStudent Aide / Workability / SC\n05/19/2011\nCARLOS, Zenia\nStudent Aide / Workability / JL\n05/20/2011\nCARRANZA, Starlene\nStudent Aide / Workability / SC\n05/19/2011\nCARRIZALES, Ariel\nStudent Aide / Workability / WCO\n05/20/2011\nCERDA, Adrian\nStudent Aide / Workability / SC\n05/20/2011\nCISNEROS, DANIEL\nStudent Aide / Workability / SC\n05/19/2011\nCORTEZ (RIOS), Osmar\nStudent Aide / Workability / SC\n05/23/2011\nESTRADA, Ruben\nStudent Aide / Workability / SC\n05/23/2011\nFAY, Rebecca\nStudent Aide / Workability / SC\n05/20/2011\nFLORES, Nabor\nStudent Aide / Workability / SC\n05/20/2011\nGALLEGOS, Ryan\nStudent Aide / Workability / PH\n05/26/2011\nGALVAN, Claudia\nStudent Aide / Workability / IH\n05/26/2011\nGONZALEZ, Gabriela\nStudent Aide / Workability / SC\n05/18/2011\nGONZALEZ, Maurico\nStudent Aide / Workability / FH\n05/26/2011\nGRIJALVA, Marlena\nStudent Aide / Workability / FH\n05/23/2011\nHERNANDEZ, Eduardo\nStudent Aide / Workability / SC\n05/19/2011\nHUIZAR, Luz\nStudent Aide / Workability / IH\n05/26/2011\nLOPEZ-ROCHA, Dora\nStudent Aide / Workability / WCO\n05/25/2011\nMORENO, Francisco\nStudent Aide / Workability / IH\n05/26/2011\nMORENO, Isabel\nStudent Aide / Workability / IH\n05/26/2011\nMORENO, Jonathan\nStudent Aide / Workability / IH\n05/25/2011\nOCHOA, Antonio\nStudent Aide / Workability / IH\n05/26/2011\nOJEDA, Sandra\nStudent Aide / Workability / ST\n05/19/2011\nOSEGUERA VELAZCO, Maria\nStudent Aide / Workability / SC\n05/20/2011\nPIMENTEL III, Omar\nStudent Aide / Workability / SC\n05/18/2011\n\t \n\t \nFUNDING SOURCE:\nWorkability Grant, Mental Health Grant, Child Nutrition and Intervention funds\n\t \nFISCAL IMPACT:\nAs per salary schedule\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the student aide personnel actions as outlined above.\n", 
+                    "item_number": "14.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Student Aide Personnel Actions Presented June 16, 2011", 
+                    "item_text_raw": "14.03 Ratify/Approve Student Aide Personnel Actions Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8H8SU971DB58", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\nItem:  14.04\n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t \n\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nApprove School Field Trips\n\t \nThese field trips have been reviewed by the Administration and are cleared for the necessary amount of staff, supervisors and funding source(s).\n\t \nSchool/Group\nDestination\nDates\nBudget Impact\nRationale\nTransportation\n OG/Robotics\n\t\t\t\t\t  Anaheim, CA\n 07/07/11-\n 07/15/11\nDonations \nRobotics Funds\nStudent Fee\n Robotics \n Conference\n Van Rental \n OG/ROTC\n Santa Cruz, CA\n 07/31/11-\n 08/05/11\n Fundraiser\n Student Fee\n Leadership \n Development, \n Teambuilding, \n Planning for \n School year\n School Bus\n\t \n\t \nFISCAL IMPACT:\nVarious\n\t \nFUNDING SOURCE:\nDonations\nRobotics Funds\nFundraiser\nStudent Fee\n\t \nRECOMMENDATION:\nThe Board approve the Field Trips as listed above pending purchase of trip insurance on travel out of the country and the Continental U.S.\n", 
+                    "item_number": "14.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": "14.04 Approve School Field Trips", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GWRYN6E39C2", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.05\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Permanent Textbook Adoption for Careers in Focus and Energy, Power and Transportation\n\t\t \n\t\t \nThe Instructional Policies Committee (IPC) has reviewed the textbooks listed below.  The textbooks were piloted during the 2010-2011 school year.  At this time, the members of IPC recommend approval of these textbooks.\n\t\t \nCareers in Focus\nHome Economics, Careers and Technology\nGoodheart-Wilcox\n$49.98\n2008-Third Edition\n\t\t \n\t\t \nEnergy, Power and Transportation\nIndustrial Education\nGoodheart-Wilcox\n$60.00\n2007\n\t\t \n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nN/A\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve above textbooks.\n", 
+                    "item_number": "14.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Permanent Textbook Adoption for Careers in Focus and Energy, Power and Transportation", 
+                    "item_text_raw": "14.05 Approve Permanent Textbook Adoption for Careers in Focus and Energy, Power and Transportation", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GWRUJ6D9220", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.06\n\t\t \n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nCathy Giammona, Associate Superintendent, Human Resources and Instruction\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Permanent Course Adoption for Aerospace Engineering, Digital Electronics, Elements of Human/Family Service, Genres of Composition, Introduction to Energy Management and Environmental Careers, Introduction to Engineering Design, Manufacturing I & II and Principles of Engineering\n\t\t \n\t\t \nThe Instructional Policies Committee (IPC) has reviewed Aerospace Engineering, Elements of Human/Family Service, Genres of Composition, Introduction to Energy Management and Environmental Careers, Introduction to Engineering Design, Manufacturing I & II and Principles of Engineering courses.  These courses was piloted during the 2010-2011 school year.  The course descriptions are included for your review.\n\t\t \nAerospace Engineering\nThe major focus of this course is to expose students to the work of aeronautics, flight and engineering through the fields of aeronautics, aerospace engineering, and related areas of study.  Lessons engage students in engineering design problems related to aerospace information systems, astronautics, rocketry, propulsion, the physics of space science,  space life sciences, the biology of space science, principles of aeronautics, structures and materials, and systems engineering.  Students work in teams utilizing hands-on activities, projects, and problems and are exposed to various situations based by aerospace engineers.  In addition, students use 3D design software to help design solutions to proposed problems.  Students design intelligent vehicles to learn about documenting their project, solving problems, and communicating their solutions to their peers and members of the professional community.\n\t\t \nDigital Electronics\nThis course is the study of electronic circuits that are used to process and control digital signals.  Digital electronics is the foundation of all modern electronic devices such as cellular phones, MP3 players, laptop computers, digital cameras, and high-definition televisions. The major focus of the DE course is to expose students to the design process of combinational and sequential logic design, teamwork, communication methods, engineering standards and technical documentation.\n\t\t \nElements of Human/Family Service\nThis course will assist the students in examining the components of career choice.  The focus in on career, personal and education awareness as they relate to the process of selecting a career and/or program of study at a university.  Students will identify personal interests, values, abilities and skills and will use self-assessment instruments to help them identify career options and goals.  Lifestyles and personal satisfaction will be discussed as related to the world of work.  Decision making strategies, resume writing, interviewing skills and job search techniques will be reviewed.  Students in the course will learn to assess their strengths and weaknesses and potential for personal growth.  Students will take the ADVAB career aptitude test.  In addition, students will examine the community service issues that are experienced by clients and providers of family service agencies, including drug/alcohol abuse, domestic violence, health issues, disabilities and mental illness.\n\t\t \nGenres of Composition\nThis is a two-semester English credit course that offers additional preparation in composition and response techniques, exploring a broad range of rhetorical modes (narrative, argumentation, informational expository, analytical expository, business communication, technical writing) with an emphasis on understanding nonfiction text.  Students perform multiple pieces of writing, composing a minimum of six original multiple-paragraph essays aligned with the California Content Standards for English/Language Arts Standards.  Class can not be repeated.\n\t\t \nIntroduction to Energy Management and Environmental Careers\nThis course gives an overview of the field of Energy Management and its importance in today's society, including future implications, and discussion of careers and impact on modern culture and society.  This module introduces the whole building concept and related energy and conservation issues including the building envelope, HVAC systems, lighting, energy management and controls renewable energy technologies.\n\t\t \nIntroduction to Engineering Design\nIn this course, students use 3D solid modeling design software to help them design solutions to solve proposed problems.  Students will learn how to document their work and communicate solutions to peers and members of the professional community.  The major focus of the IED course is to expose students to the design process, research and analysis, teamwork, communication methods, global and human impacts, engineering standards and technical documentation.\n\t\t \nManufacturing I\nThe Manufacturing I course will teach students the foundational manufacturing processes which are essential to the manufacturing industry.  In this hands-on course, students will learn the safe operation of the drill press, metal lathe, milling machine, sheet metal equipment and arc welding.  Students also learn to thread using taps and dies, and strengthen their basic measuring and precision measuring skills.  Students will make a variety of projects using all of the machines mentioned above as well as various sanders and grinders.\n\t\t \nManufacturing II\nThe Manufacturing II course will introduce students to AutoCAD, SolidWorks, CNC programing and operating various CNC machinery.  AutoCAD is a two dimensional design software package while SolidWorks is a 3-dimensional solid modeling design package.  The students will study AutoCAD and SolidWorks for the first semester, then study CNC programming and the operation of CNC machinery the second semester.  CNC programming involves using the Cartesian Coordinate System to describe geometry.  The computer code is written so that the CNC machine will operate automatically to cut geometry described by the program.  The programming is written in two formats: conversational and G & M codes.  Students will operate CNC machinery in order to complete various hands-on projects.\n\t\t \nPrinciples of Engineering\nThis survey course of engineering exposes students to some of the major concepts they will encounter in a postsecondary engineering course of study.  Students have an opportunity to investigate engineering and high-tech careers and to develop skills and understanding of course concepts.  Students employ engineering and scientific concepts in the solution of engineering design problems.  They develop problem-solving skills and apply their knowledge of research and design to create solutions to various challenges.  Students also learn how to document their work and communicate their solutions to peers and members of the professional community.\n\t\t \nFISCAL IMPACT:\nN/A\n\t\t \nFUNDING SOURCE:\nN/A\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the above courses.\n", 
+                    "item_number": "14.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Permanent Course Adoption for Aerospace Engineering, Digital Electronics, Elements of Human/Family Service, Genres of Composition, Introduction to Energy Management and Environmental Careers, Introduction to Engineering Design, Manufacturing I & II and Principles of Engineering", 
+                    "item_text_raw": "14.06 Approve Permanent Course Adoption for Aerospace Engineering, Digital Electronics, Elements of Human/Family Service, Genres of Composition, Introduction to Energy Management and Environmental Careers, Introduction to Engineering Design, Manufacturing I & II and Principles of Engineering", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3YZ08D52B", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.07\nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Contracts for Professional Services at or below $50,000\n\t\t \n\t\t \nThe attached list of Contracts for Professional Services at or below $50,000, is being recommended for Board approval and to delegate authority to the Superintendent or designee to amend said contracts and purchase orders on an as needed basis, including funding.\n\t\t \n\t\t \nFISCAL IMPACT:\nAs indicated in the attachment\n\t\t \nFUNDING SOURCE:\nAs indicated in the attachment\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the contracts for professional services at or below $50,000 as listed in the attachment and to delegate authority to the Superintendent or designee to amend said contracts and purchase orders on an as needed basis, including funding.\n", 
+                    "item_number": "14.07", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the contracts for professional services at or below $50,000 as listed in the attachment and to delegate authority to the Superintendent or designee to amend said contracts and purchase orders on an as needed basis, including funding.", 
+                    "item_text": "Approve Contracts for Professional Services at or Below $50,000", 
+                    "item_text_raw": "14.07 Approve Contracts for Professional Services at or Below $50,000", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8HPVZ3831C0F", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t\t \nItem:  14.08\nTO:\nBoard of Trustees\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t\t \n\t\t\t\t\t\t \nSUBJECT:\nApprove Memoranda of Understanding\n\t\t\t \n\t\t\t \nThe attached list of Memoranda of Understanding is being presented to the Board for review and approval.\n\t\t\t \n\t\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve and ratify the Memoranda of Understanding as presented on June 16, 2011.\n", 
+                    "item_number": "14.08", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve and ratify the Memoranda of Understanding as presented on June 16, 2011.", 
+                    "item_text": "Approve Memoranda of Understanding", 
+                    "item_text_raw": "14.08 Approve Memoranda of Understanding", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3Z408D547", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.09\nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Budget Transfers Presented June 16, 2011\n\t\t \n\t\t \nThe attached Budget Transfers for the month of May 2011, are being presented to the Board for review and approval.\n\t\t \n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Budget Transfers for the month of May 2011, as presented on June 16, 2011.\n", 
+                    "item_number": "14.09", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the Budget Transfers for the month of May 2011 as presented on June 16, 2011.", 
+                    "item_text": "Approve Budget Transfers Presented June 16, 2011", 
+                    "item_text_raw": "14.09 Approve Budget Transfers Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3Z708D55D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.10\n\t\t \nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Purchase Orders Presented June 16, 2011\n\t\t \n\t\t \nThe attached list of Purchase Orders from April 19, 2011, through May 24, 2011, are being presented to the Board for review and approval.\n\t\t \n\t\t \nFISCAL IMPACT:\nAs indicated\n\t\t \nFUNDING SOURCE:\nAs indicated\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Purchase Orders as presented on June 16, 2011.\n", 
+                    "item_number": "14.10", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the Purchase Orders as presented on June 16, 2011.", 
+                    "item_text": "Approve Purchase Orders Presented June 16, 2011", 
+                    "item_text_raw": "14.10 Approve Purchase Orders Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3ZA08D56D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.11\nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nApprove Change Orders to Purchase Orders Presented June 16, 2011\n\t\t \nThe Change Orders are increases to the Purchase Orders that were approved at prior Board meetings.  These increases are being presented for review and approval.\n\t\t \n\t\t \nFISCAL IMPACT:\nAs indicated in the attachment\n\t\t \nFUNDING SOURCE:\nAs indicated in the attachment\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees approve the Change Orders to Purchase Orders as presented on June 16, 2011.\n", 
+                    "item_number": "14.11", 
+                    "item_recommendation": "It is recommended that the Board of Trustees approve the change orders to purchase orders as presented on June 16, 2011.", 
+                    "item_text": "Approve Change Orders to Purchase Orders Presented June 16, 2011", 
+                    "item_text_raw": "14.11 Approve Change Orders to Purchase Orders Presented June 16, 2011", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3ZD08D57D", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  14.12\n\t \nTO:                              Board of Trustees\n\t \nFROM:                         Dan Moser, Superintendent\n\t \nPREPARED BY:           Hardy Childers, Interim Associate Superintendent of Business Services\n\t \nSUBJECT:                    Accept Donations, Grants and Awards\n\t \n\t \nThe following donations, grants and awards are being presented for acceptance by the Board of Trustees.\n\t \nType\nFrom\nDescription/Awarded to\nAmount/\nValue\nSite\nDonation\nVan Dao\nSan Jose, 95138\nWells Fargo Community Campaign\nDonation to Silver Creek High School\n$53.85\nSilver Creek High School\nThelma Boac\nDonation\nMay Chen\nSan Jose, 95121\nWells Fargo Community Campaign\nDonation to Silver Creek High School\n$13.44\nSilver Creek High School\nThelma Boac\nDonation\nStudents/Parents/Community Organizations\nDonations to school site Athletics Programs received in the month of May 2011\n\t\t\t\t\t \n(Total site donations to date $232,649.06   )\n(Total overall donations to-date for athletics $402,289.56 )\n(2010/11 = 108,674.25)\n$3,845.00\nEducation Center\nD. Moser\n\t \n\t \nFISCAL IMPACT:\nVarious\n\t \nFUNDING SOURCE:\nNot Applicable\n\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees accept the donations, grants and awards as listed above.\n", 
+                    "item_number": "14.12", 
+                    "item_recommendation": "It is recommended that the Board of Trustees accept the donations, grants and awards as listed.", 
+                    "item_text": "Accept Donations, Awards and Grants", 
+                    "item_text_raw": "14.12 Accept Donations, Awards and Grants", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "8GK3ZG08D58A", 
+                    "item_details": "\nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t\t \nItem:  14.13\nTO:\nBoard of Trustees\n\t\t\t\t\t \n\t\t\t\t\t \nFROM:  \nDan Moser, Superintendent\n\t\t\t\t\t \n\t\t\t\t\t \nPREPARED BY:\nHardy Childers, Interim Associate Superintendent of Business Services\n\t\t\t\t\t \n\t\t\t\t\t \nSUBJECT:\nAccept Warrant Register for the Month of May 2011\n\t\t \n\t\t \nAttached is a list of warrants issued during the month of May 2011, in response to board Policy 3314 Payment for Goods and Services adopted by the board in May 2009.  The Policy states that, “The Board shall approve all warrants (checks) at a regularly scheduled Board meeting\".  While there is no legal requirement for Board approval of issued warrants, this list and future lists will add to the “transparency” of when the Board approves purchase orders, contracts and other authorized expenses as per Board Policies.\n\t\t \n\t\t \nFISCAL IMPACT:\nNot Applicable\n\t\t \nFUNDING SOURCE:\nNot Applicable\n\t\t \nRECOMMENDATION:\nIt is recommended that the Board of Trustees accept the Warrant Register for the month of May 2011.\n", 
+                    "item_number": "14.13", 
+                    "item_recommendation": "It is recommended that the Board of Trustees accept the Warrant Register for the month of May 2011.", 
+                    "item_text": "Accept Warrant Register for the Month of May 2011", 
+                    "item_text_raw": "14.13 Accept Warrant Register for the Month of May 2011", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "ATTACHMENT A - CONSENT CALENDAR", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8HP77918348C", 
+                    "item_details": "\n\t \n\t \nEAST SIDE UNION HIGH SCHOOL DISTRICT\n\t \nItem:  15.01\n\t \n\t \nTO:\nBoard of Trustees\n\t\t\t\t \n\t\t\t\t \nFROM:  \nGlen Wetzel, Parent/Community Member\n\t\t\t\t \n\t\t\t\t \nSUBJECT:\nCorrespondence from Glen Wetzel:  Request to Place Matter on Board Agenda\n\t \n\t \nMr. Glen Wetzel will address the Board regarding the following:\n\t \n\"On whether the ESUHSD Governing Board is required by law to provide staffing levels and educational programs within local public schools on \"equal terms\" as other public schools in other school districts in the State.\"\n\t \n\t \n", 
+                    "item_number": "15.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Correspondence from Glen Wetzel: Request to Place Matter on Board Agenda", 
+                    "item_text_raw": "15.01 Correspondence from Glen Wetzel: Request to Place Matter on Board Agenda", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "WRITTEN REPORTS/RECOMMENDATIONS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3ZQ08D5AB", 
+                    "item_details": "\n\t \nLan Nguyen, President\nFrank Biehl, Vice President\n                   -- MetroED\nVan Le, Clerk\nPatricia Martinez-Roach, Member\nJ. Manuel Herrera, Member\n", 
+                    "item_number": "16.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": "16.01 Board of Trustees", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "8GK3ZT08D5B5", 
+                    "item_details": "", 
+                    "item_number": "16.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Dan Moser, Superintendent", 
+                    "item_text_raw": "16.02 Dan Moser, Superintendent", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "BOARD OF TRUSTEES/SUPERINTENDENT COMMUNICATIONS/COMMENTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK3ZX08D5C3", 
+                    "item_details": "\n", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will Report on Closed Session Action item(s)", 
+                    "item_text_raw": "17.01 Attorney will Report on Closed Session Action item(s)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "REPORT CLOSED SESSION ACTION(S)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "8GK42308D5CD", 
+                    "item_details": "", 
+                    "item_number": "18.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President Adjourns the Meeting", 
+                    "item_text_raw": "18.01 President Adjourns the Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

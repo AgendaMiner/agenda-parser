@@ -1,0 +1,93 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "07-18-2003", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A72NKE5EF2BC", 
+                    "item_details": "\n\tAttached is the July 18, 2003, Special Board Meeting Agenda (PDF).\n", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.01 Call to Order", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A72NKG5EF2BE", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment Regarding Items to be Discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_text_raw": "1.02 Announcement and Public Comment Regarding Items to be Discussed in Closed Session [Government Code ยง54957.7]", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A72NKJ5EF2C0", 
+                    "item_details": "\nThe Board adjourned to Closed Session to hear Update On Existing Litigation, Potential Litigation (Educ. Sec. 54856.9), Update ESTA Grievance, Personnel Assignments-Performance Audit, Public Employee Employment/Appointments/Contracts, Release/Suspension/Dismissal/Termination of Certificated Employees, Suspension/Dismissal/Termination of Classified Employees, Employee Negotiations - ESTA, CSEA, Confidential, Administration, Superintendent's Report on Anticipated Litigation/Business Contract.\n", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session at 4:00 PM [Government Code ยง54945.5]: Public Employee Appointment [Government Code ยง54957] Title:Superintendent", 
+                    "item_text_raw": "1.03 Recess to Closed Session at 4:00 PM [Government Code ยง54945.5]: Public Employee Appointment [Government Code ยง54957] Title:Superintendent", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "OPEN SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A72NKM5EF2C3", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "2.01 Call to Order", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "A72QKE676A1D", 
+                    "item_details": "", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Report Action Taken in Closed Session", 
+                    "item_text_raw": "2.02 Report Action Taken in Closed Session", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "RECONVENE OPEN SESSION AT APPROXIMATELY 4:15 PM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A72NKQ5EF2C6", 
+                    "item_details": "", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratification of Superintendent Employment Contract, Including Compensation [Copy of contract available upon request. Government Code Section 53262]", 
+                    "item_text_raw": "3.01 Ratification of Superintendent Employment Contract, Including Compensation [Copy of contract available upon request. Government Code Section 53262]", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A72NKT5EF2C9", 
+                    "item_details": "", 
+                    "item_number": "4.01", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": "4.01 President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

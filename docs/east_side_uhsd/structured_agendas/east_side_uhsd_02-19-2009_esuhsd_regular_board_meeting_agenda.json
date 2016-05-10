@@ -1,0 +1,728 @@
+{
+    "agency": "east_side_uhsd", 
+    "meeting_date": "02-19-2009", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQSX58E188", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": " 1.01 Roll Call", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQT258E197", 
+                    "item_details": "", 
+                    "item_number": "1.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_text_raw": " 1.02 Announcement and Public Comment regarding Items to be discussed in Closed Session (Government Code 54957.7)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQT558E19F", 
+                    "item_details": "", 
+                    "item_number": "1.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_text_raw": " 1.03 Recess to Closed Session (Open Session will resume at the end of Closed Session in the Board Room at approximately 6:00 p.m.) See item 2 on agenda (Closed Session).", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Call to Order/Roll Call", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQT958E1A9", 
+                    "item_details": "", 
+                    "item_number": "2.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Expulsions - NONE", 
+                    "item_text_raw": " 2.01 Expulsions - NONE", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTC58E1B5", 
+                    "item_details": "", 
+                    "item_number": "2.02", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_text_raw": " 2.02 PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE (Government Code ยงSection 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTF58E1C1", 
+                    "item_details": "\n\tCONFERENCE WITH LABOR NEGOTIATORS (Government Code §Section 54957.6)\n\t \nAgency Designated Representatives: \nBob Nuñez, Superintendent \nJerry Kurr, Associate Superintendent of Administration and Business Services\nDan Moser, Associate Superintendent of Instructional Services and Human Relations\nCathy Giammona, Director of Human Resources\nVida Branner-Siders, Director of Compensation and Classified Employee Relations\nEmployee Organizations:\nAmerican Federation of Teachers (AFT)\nCalifornia School Employees Association (CSEA)\nEast Side Teachers Association (ESTA)\n", 
+                    "item_number": "2.03", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS (Government Code ยงSection 54957.6)", 
+                    "item_text_raw": " 2.03 CONFERENCE WITH LABOR NEGOTIATORS (Government Code ยงSection 54957.6)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTJ58E1D2", 
+                    "item_details": "CONFERENCE WITH LEGAL COUNSEL – ANTICIPATED LITIGATIONSignificant exposure to litigation pursuant to subdivision (b) of Section 54956.9 of the Government Code:  Claim for damages of Marisa Mares/Jose Mares  and one (1) potential case", 
+                    "item_number": "2.04", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LEGAL COUNSEL", 
+                    "item_text_raw": " 2.04 CONFERENCE WITH LEGAL COUNSEL", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTM58E27C", 
+                    "item_details": "", 
+                    "item_number": "2.05", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_text_raw": " 2.05 CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTQ58E289", 
+                    "item_details": "", 
+                    "item_number": "2.06", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_text_raw": " 2.06 PUBLIC EMPLOYEE PERFORMANCE EVALUATION (Government Code ยง Section 54957)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQTT58E296", 
+                    "item_details": "", 
+                    "item_number": "2.07", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_text_raw": " 2.07 PUBLIC EMPLOYMENT/PUBLIC EMPLOYEE APPOINTMENT (Government Code ยง Section 54957)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Closed Session", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQTX58E2A4", 
+                    "item_details": "I pledge allegiance to the flagof the United States of Americaand to the Republic for which it standsone nation under Godindivisible with liberty and justice for all.", 
+                    "item_number": "3.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": " 3.01 Pledge of Allegiance", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Open Session 6:00 P.M. – Board Room", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQU358E2B4", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_text_raw": " Information explaining Board meeting procedures and how citizens can address the Board will be read. Written information is located near the entrance to the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Welcome and Explanation to Audience", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQU758E2C0", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "For consideration by the Board of Trustees.", 
+                    "item_text_raw": " For consideration by the Board of Trustees.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Consideration of Proposed Amendments to Agenda", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQUB58E2D3", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "None", 
+                    "item_text_raw": " None", 
+                    "item_type": "Recognitions"
+                }
+            ], 
+            "section_name": "Board Special Recognition(s)", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [], 
+            "section_name": "Student Board Liaisons", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQUG58E2E2", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_text_raw": " Persons wishing to address the Board must fill out a \"gold\" request form, which is located at the entrance of the Board Room.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Public Members Who Wish to Address the Board of Trustees", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQUL58E2EF", 
+                    "item_details": "Summer school presentation is attached.", 
+                    "item_number": "9.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Summer School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations, Tim Nguyen, Coordinator of English Language Learners and Supplementary Education", 
+                    "item_text_raw": " 9.01 Summer School Presentation - Dan Moser, Associate Superintendent of Instruction and Human Relations, Tim Nguyen, Coordinator of English Language Learners and Supplementary Education", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQUP58E371", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve the 2008 - 2009 Consolidated Program Application Part IIApproval is requested for submittal of the 2008-2009 California Department of Education Consolidated Application Part II for categorical programs.  FISCAL IMPACT:Per Consolidated Application Part IIFUNDING SOURCE:Title ITitle IITitle IIITitle IV – pending allocation from StateTitle VEconomic Impact Aid (EIA)\t\tRECOMMENDATION:It is recommended that the Board of Trustees approve the Consolidated Program Application Part II 2008-09 for submission to the CDE.", 
+                    "item_number": "9.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve the 2008 - 2009 Consolidated Program Application Part II - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 9.02 Approve the 2008 - 2009 Consolidated Program Application Part II - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQUS58E3EC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendnet of Instruction and Human RelationsSUBJECT:Accept Valenzuela/CAHSEE Williams Fourth Quarter ReportBACKGROUNDThe Board of Trustees revised BP 1312 (Uniform Complaint Procedures) through the adoption of a BP 1312.1(a) Supplement and accompanying regulations.  This “supplement” section to BP 1312 incorporates the recent requirements of EC 35186 (Williams: SB550 and AB2727), which requires a different complaint form and timeline.  Additionally, it is required that staff bring to the Board of Trustees a quarterly report of Williams complaints filed and their current disposition.  The attached report indicates the number of complaints filed from October 1, 2008 through December 31, 2008.FISCAL IMPACT:Unknown at this timeFUNDING SOURCE:Senate Bill 6 (Williams)State Instructional Materials AllocationDistrict Instructional Materials BudgetOther Categorical funds as AppropriateRECOMMENDATION:The administration recommends that the Governing Board accept the fourth Quarterly Valenzuela/CAHSEE and Williams Settlement Uniform Complaint report for the period covering October 1, 2008 through December 31, 2008, as required by EC 35186 (Williams Settlement Legislation SB550 and AB2727).\n", 
+                    "item_number": "9.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Accept Valenzuela/CAHSEE Williams Fourth Quarter Report - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 9.03 Accept Valenzuela/CAHSEE Williams Fourth Quarter Report - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Instructional Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQUW58E4A7", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Receive First Reading of New Board Policy #5353 Pertaining to Student LockersIt is recommended that the Board of Trustees review proposed Board Policy 5353.  The East Side Union High School District shall allow each school site to determine the need for school lockers on the campus in accordance with the school site safety plan.The determination will be based on:  Safety and security concerns  Instructional considerations  Resource availability  Physical and structural site capability  It is recommended that no student should carry books totaling more than 15% of his/her total body weight at any given time.Lockers on a school campus are a convenience for students and therefore schools are not required to have them.  Any school within the district that has lockers on its campus will enforce a policy outlining the rights, responsibilities and liabilities of both student and school.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees receive and review proposed policy 5353 - Student Lockers.", 
+                    "item_number": "10.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive First Reading of New Board Policy #5353 Pertaining to Student Lockers - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 10.01 Receive First Reading of New Board Policy #5353 Pertaining to Student Lockers - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Student Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQV258E4D2", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentSUBJECT:Receive First Reading of 4000 Board Policy Series, Part 2In order to comply with State and Federal regulations, it is recommended that the Board of Trustees recieve and review the first reading of the attached 4000 Board Policy series, Part 2 that have been recommended by CSBA and modified to meet the needs of East Side Union High School District. ", 
+                    "item_number": "11.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive First Reading of 4000 Board Policy Series, Part 2 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 11.01 Receive First Reading of 4000 Board Policy Series, Part 2 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Information, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQV558E572", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO: Board of TrusteesFROM: Bob NuĂąez, SuperintendentPREPARED BY: Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT: Approve Provisional Internship Permit Requests for Certificated Employees -  Attachment EPursuant to State mandate, the Governing Board must approve provisional internship permit requests allowing the district to employ and assign teacher(s) or administrator(s) who do not hold appropriate credential authorizationThe Provisional Internship Permit (PIP) was created in response to the phasing out of emergency permits and became effective on July 1, 2006.  It allows an employing agency to hire an individual who has not yet met the subject matter competence requirement needed to enter an internship program.The district is requesting approval of the following provisional internship permit requests for the 2008-2009 school year.Provisional Internship PermitNAMESUBJECTLOCATIONDE LA ROSA, AdamBiological ScienceAndrew Hill High SchoolMARTINOV, JaymieSpecial Education (Mild/Moderate)Independence High SchoolFISCAL IMPACT: NoneFUNDING SOURCE: NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the provisional internship permit requests.\n", 
+                    "item_number": "11.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Provisional Internship Permit Requests for Certificated Employees - Dan Moser, Associate Superintendent of Instruction and Human Relations - ATTACHMENT E", 
+                    "item_text_raw": " 11.02 Approve Provisional Internship Permit Requests for Certificated Employees - Dan Moser, Associate Superintendent of Instruction and Human Relations - ATTACHMENT E", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQV858E5A0", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve Variable Term Waiver Requests for Certificated Employees - ATTACHMENT DPursuant to State mandate, the Governing Board must approve variable term waiver requests allowing the district to employ and assign teacher(s) or administrator(s) who do not hold appropriate credential authorization.The district is requesting approval of the following variable term waiver for the 2008-2009 school year.Single SubjectNAMESUBJECTLOCATIONSILVA, ELIZABETHAdaptive Physical EducationEducation Center CLAD (Crosscultural, Language and Academic Development)NAMESUBJECTLOCATIONKREISMAN, FrancoisROTC(CLAD Training will be completed by March 10, 2009)Oak Grove High SchoolFISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the variable term waiver requests.\n", 
+                    "item_number": "11.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Variable Term Waiver Requests for Certificated Employees - Dan Moser, Associate Superintendent of Instruction and Human Relations - ATTACHMENT D", 
+                    "item_text_raw": " 11.03 Approve Variable Term Waiver Requests for Certificated Employees - Dan Moser, Associate Superintendent of Instruction and Human Relations - ATTACHMENT D", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQVB58E603", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Adopt Resolution #2008/2009-21 Declaring the Observance of Cesar Chavez Day on Monday, March 30Pursuant to the student school calendar adopted by the Board, March 31, 2009 was set as the date the District would observe Cesar Chavez Day. By law, the observance of Cesar Chavez Day should be held on March 30, 2009, unless modified through the current legal process, which in this case is through the passage of a resolution.FISCAL IMPACT:Not ApplicableFUNDING SOURCE:Not Applicable RECOMMENDATION:It is recommended that the Board of Trustees adopt resolution #2008/2009-21 declaring the observance of Cesar Chavez Day on Monday, March 30, 2009.", 
+                    "item_number": "11.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-21 Declaring the Observance of Cesar Chavez Day on March 30, 2009 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_text_raw": " 11.04 Adopt Resolution #2008/2009-21 Declaring the Observance of Cesar Chavez Day on March 30, 2009 - Dan Moser, Associate Superintendent of Instruction and Human Relations", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Human Resources - Operational Items/Board Discussion and/or Action", 
+            "section_number": "11."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQVF58E626", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Purchase Orders Presented February 19, 2009The attached Purchase Orders are presented to the Board for approval.\n", 
+                    "item_number": "12.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Purchase Order Presented on February 19, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.01 Approve Purchase Order Presented on February 19, 2009 - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQVJ58E6A4", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Contracts for Professional Services - ATTACHMENT BThe following Professional Contract Services are recommended for approval by the Board of Trustees.A.  Education Center/School SitesNo.Contractor NameContractPeriodCost/Funding SourceSchool/Dept. ManagerPurpose1ApangeaDecember 4, 2008 -June 30, 2009$16,815.00CAHSEEIndependence High SchoolDan MoserTo provide a 12 month pilot program for 177 students which inlcudes professional services, staff development, reporting and SmartHelp Summer School2Laura ChinSeptember 1, 2008 -June 30, 2009$3,500.00MAAEducation CenterStudent ServicesAna LomasIncrease purchase order #903500 by $3,500 due to the additional intern that has been added to Ms. Chin's contract3Carlos AguilaAugust 1, 2008 - June 30, 2009$5,320.00MAAEducation CenterStudent ServicesAna LomasIncrease purchase order #901697 due to the two additional interns that have been added to Mr. Aguila's contract4Empowering ParentsFebruary 7, 2009$2,000.00STOP FundEducation Center InstructionDan MoserProvide keynote speaker for ESUHSD \"Empowering Parents Conference\" on Saturday, February 7, 20095Extreme Learning, Inc.February 24, 2008 - June 30, 2009$130,000.00Title IEducation CenterInstructionDan MoserTo comply with No Child Left Behind requirements for Supplemental Educational Services (SES) for Andrew Hill High School, James Lick High School and Independence High School6Nancy Fong/d.b.a. Nan'el BeautySeptember 1, 2008 -December 31, 2008$34,233.38Adult EducationAdult EducationRichard UribeTo modify the contract and purchase order to correct the term and to increase the amount due to an increase in the number of students who attended the training program.7Nancy Fong/d.b.a. Nan'el BeautyJanuary 1, 2009 -June 30, 2009$51,600.00Adult EducationAdult EducationRichard UribeProvide training to Adult Education students in the theory and practice of Cosmetology, completion of program will lead to certification and licensing of student - 15000 hours.8Donald F. KenneySeptember 1, 2008 -June 30, 2009$8,000.00GeneralEduction CenterBoard of TrusteesAna LomasProvide services, assistance and recommendations with the development, updating and formatting of District Policies9Janet MuscioJuly 1, 2008-June 30, 2009$6,200.00Education CenterInstructionalDan MoserProvide mentoring of new teacher under AB1802 at Decil 1-3 schools10Sophia Tran/a.b.a./ Evergreen Beauty CollegeSeptember 1, 2008 - December 31, 2008$15,158.53Adult EducationAdult EducationRichard UribeTo modify the contract and purchase to correct the term and to incureasethe amount due to an increase in the number of students who attended the training program11Sophia Tran/a.b.a./ Evergreen Beauty CollegeJanuary 1, 2009 -June 30, 2009$51,600.00Adult EducationAdult EducationRichard UribeProvide training to Adult Education students in the theory and practice of Cosmetology.  Completion of program will lead to certification and licensing of studnets - 15000 hours.12William WheatOctober 1, 2008 -December 3, 2008$2,000.00Business AcademyOak Grove High SchoolCareer ServicesGeri ForteProvide teachers with the tools on how to teach business plan writing to students.  Completion of program will lead to students competing in a busines plan competition at the end of the school year using outside industry professionalsB.  Facilities1Intrepid Electronic Systems, Inc.October 1, 2008 -June 30, 2009$260,313.75Measure EEducation CenterTechnology InformationDennis Barbata/Alan GarofaloProvide Fire Alarm and System upgrade to all school sites2Aedis, IncJanuary 19, 2009 - December 31, 2010$34,903.00Capital Facilities FundEducation Center FacilitiesAlan GarofaloProvide Architectural &Engineering Services for the existing Kiln Installation at Oak Grove High School.3Bruce Flyn & AssociatesNovember 27, 2008 - November 26, 2010$77,440.003Capital Facilities FundEducation Center FacilitiesAlan GarofaloProvide DSA Project Inspection Services for the James Lick High School New Restroom Building Project.4Sugimura Finney ArchitectsJanuary 15, 2009 - January 14, 2011$127,600.00Capital Facilities FundFacilitiesAlan GarofaloProvide Architectural and Engineering Services to Coordinate the Design and layout for the installation of Mt. Pleasant High School Portables (KIPP).5Aedis, Inc.September 12, 2008 - December 31, 2009$9,328.00Capital Facilities FundFacilitiesAlan GarofaloTo increase and extend purchase orders #902709 &  #902712 for the existing Kiln Installation at Evergreen Valley High School, due to unforeseen conditions encountered during the course of construction.6Bruce Flyn & AssociatesDecember 13, 2007 - December 31, 2009$11,000.00Capital Facilities FundFacilitiesAlan GarofaloTo increase Purchase order 903967 for Santa Teresa High School Building 300 & 500 Project due to unforeseen conditions encountered during the course of construction.7Bruce Flyn & AssociatesJuly 01, 2006 - December 31, 2009$11,000.00Capital Facilities FundFacilitiesAlan GarofaloTo provide additional services for the Andrew Hill High School Modernization Project due to unforeseen conditions encountered during the course of construction (original contract expired June 30, 2006 - purchase order #605611).8Bruce Flyn & AssociatesJanuary 1, 2009 - December 31, 2009$11,000.00Capital Facilities FundFacilitiesAlan GarofaloTo provide additional services for the Overfelt High School New Science Building Phase 4 Project due to unforeseen conditions encountered during the course of construction (original contract expired December 31, 2008 - purchase order #802847).9Bruce Flyn & AssociatesApril 3, 2008 - December 31, 2009$2,000.00Capital Facilities FundFacilitiesAlan GarofaloTo increase and extend purchase order 806498 for Independence High School, Building M1 & M3 project due to unforeseen conditions encountered during the course of construction.10Cody Anderson Wasney ArchitectsJune 3, 2008 - December 31, 2011$3,750.00Capital Facilities FundFacilitiesAlan GarofaloTo increase and extend purchase orders 806824 & 806825 for James Lick High School Child Care Center project due to unforeseen conditions encountered during the course of construction.11Salas O’Brien Engineers, Inc.July 1, 2007 - December 31, 2009$15,000.00Capital Facilities FundFacilitiesAlan GarofaloTo provide additional services for the Santa Teresa High School, Building 300 Multi-Zone Unit Replacement Project due to unforeseen conditions encountered during the course of construction (original contract expired June 30, 2006 - purchase order #705017).FISCAL IMPACT:As listed aboveFUNDING SOURCE:As listed aboveRECOMMENDATION:Recommend approval and ratification of contract for professional services as listed above.\n", 
+                    "item_number": "12.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Contracts of Professional Services - Jerry Kurr, Associate Superintendent of Administration and Business Services - ATTACHMENT B", 
+                    "item_text_raw": " 12.02 Approve Contracts of Professional Services - Jerry Kurr, Associate Superintendent of Administration and Business Services - ATTACHMENT B", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQVM58E75B", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Approve Memoranda of Understanding - ATTACHMENT CThe following Memoranda of Understanding are recommended for approval.No.Contractor NameContractPeriodDistrict ResponsibilitySchool/DepartmentProvider Responsibility1South Bay Children’s Medical Group Inc.January 21, 2009 – June 30, 2009ESUHSD to provide space, a health clerk and classroom or other meeting space as needed for Student Healthy Living Program.James Lick High SchoolGlen VanderZeeContractor will provide physician(s) to treat students who use the medical clinics and will provide health educator(s) to facilitate the Student Healthy Living Program2South Bay Children’s Medical Group Inc.January 21, 2009 – June 30, 2009ESUHSD to provide space, a health clerk and classroom or other meeting space as needed for Student Healthy Living Program.Andrew Hill High SchoolBettina LopezContractor will provide physician(s) to treat students who use the medical clinics and will provide health educator(s) to facilitate the Student Healthy Living Program3South Bay Children’s Medical Group Inc.January 21, 2009 – June 30, 2009ESUHSD to provide space, a health clerk and classroom or other meeting space as needed for Student Healthy Living Program.Independence High SchoolGrettal Castro-StanleyContractor will provide physician(s) to treat students who use the medical clinics and will provide health educator(s) to facilitate the Student Healthy Living Program4South Bay Children’s Medical Group Inc.January 21, 2009 – June 30, 2009ESUHSD to provide space and a health clerkFoothill High School PreschoolLynne MurrayContractor will provide physician(s) to treat students who use the medical clinics.5Next Door Solutions to Domestic ViolenceJanuary 1, 2009 – December 30, 2009ESUHSD to host Next Door Solutions Youth Program Services and will provide meeting space.Yerba Buena High SchoolJuan CruzContractor will provide a 10 week gender specific program that focus’ on teen dating violence prevention and creating safe and health relationships.6West Valley College/Tech PrepSeptember 1, 2008 – June 30, 2009ESUHSD will provide required data for specific articulated coursed by total number of students by gender and support/teaching staff by gender.All SitesContractor will gather student data based on gender to complete year end report for CTE at the state and federal level.7Bethany UniversityJanuary 6, 2009 - June 30, 2009ESUHSD will provide opportunity for Bethany University student teachers and/or interns to gain supervised field experienceAll SitesBethany University will provide the students/internsRECOMMENDATION:Recommend approval and ratification of Memoranda of Understandings as listed above.", 
+                    "item_number": "12.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Memoranda of Understanding - Jerry Kurr, Associate Superintendent of Administration and Business Services - ATTACHMENT C", 
+                    "item_text_raw": " 12.03 Approve Memoranda of Understanding - Jerry Kurr, Associate Superintendent of Administration and Business Services - ATTACHMENT C", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQVQ58E7D7", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Adopt Resolution #2008/2009-17 an Itemized List of Suplus/Obsolete Equipment for Sale and/or Disposal per Education Code Section 17545 and 17546Attached is a Resolution and an itemized list of surplus equipment that is no longer needed for school purposes and will be sold and/or disposed of in accordance with Education Code Sections 17545 and 17546.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended the Board of Trustees approve the Resolution and the itemized list of surplus/obsolete equipment for sale and/or disposal pursuant to Education Code Sections 17545 and 17546.\n", 
+                    "item_number": "12.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-17 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 – Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.04 Adopt Resolution #2008/2009-17 An Itemized List of Surplus/Obsolete Equipment for Sale and/or Disposal per Education Code Sections 17545 and 17546 – Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQVT58E7FD", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Discussion on Contracts and MOUs: Elimination of ServicesPresentation by Jerry Kurr to discuss the current Contracts and Memoranda of Understanding for possible elimination of services.\n", 
+                    "item_number": "12.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Discussion on Contracts and MOUs: Elimination of Services - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.05 Discussion on Contracts and MOUs: Elimination of Services - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Information, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQVW58E863", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Report on Charter School FinancingPresentation by Jerry Kurr to report on the current status of all charter school financing.\n", 
+                    "item_number": "12.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Report on Charter School Financing - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.06 Report on Charter School Financing - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Report, Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQVZ58E8CB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Presentation on Purchasing Process for Bidding and Acquisition of Goods and ServicesPresentation on the Purchasing Process for Bidding and Acquisition of Goods and Services will be presented by June Rono, Julie Kasberger and Donna Bertrand.\n", 
+                    "item_number": "12.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Presentation on Purchasing Process for Bidding and Acquisition of Goods and Services - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.07 Presentation on Purchasing Process for Bidding and Acquisition of Goods and Services - Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQW758E97A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Award the Request for Proposals (RFP), RFP-01-08-09, for the Student Information System (SIS) and to Enter into a Five-Year Contract with Infinite CampusSUMMARYThe District is pleased to present to the Board of Trustees the following recommendation for the award of the RFP-01-08-09 for the replacement of the SIS.  The District underwent a thorough RFP.  The development of the RFP began several months prior to the release of the RFP.  A diverse group of district employees lead by Information Technology previewed the latest products available and compared them to the District’s experience with the existing SIS.  The current SIS will no longer be supported as of 2010 thereby forcing the District to procure an alternative SIS.  Out of the review of the latest products, a very well defined Scope of Work Matrix was developed.The RFP was released on November 18, 2008 and closed on December 17, 2008.  The RFP was advertised in a local newspaper and was announced at an IT conference where most if not all of vendors who provide this type of software were present. The District received nine responsive and responsible proposals.  The first step in the evaluation process was to score each of the nine proposals submitted to the District.  The proposals were scored in accordance with the scoring matrix in the RFP.  Those vendors who received a score of 60% or higher of the possible 80% (the remaining 20% was reserved for the oral interviews/demonstrations) were asked to give a demonstration: five vendors received a score of 60% or higher.The second and final step in the evaluation process was to conduct the oral interviews/ demonstrations. A 10 member panel was assembled which consisted of representatives from counseling, teachers, professional development, administration, attendance accounting, and IT.  All five vendors were scored on their demonstrations.All of the scores were added together and the vendor who received the highest score of 87% is Infinite Campus.  The second highest score was 78%.FISCAL IMPACT $457,000.00 Initial Costs$214,000.00 Ongoing Annual CostsFUNDING SOURCEMeasure EGeneral FundRECOMMENDATIONSIt is recommended that the Board of Trustees award the Request for Proposals (RFP), RFP-01-08-09, for the Student Information System (SIS) and to Enter into a Five-Year contract with Infinite Campus. \n", 
+                    "item_number": "12.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Award the Request for Proposals (RFP), RFP-01-08-09, for the Student Information System (SIS) and to Enter into a Five-Year Contract with Infinite Campus - Jerry Kurr, Associate Superintendent of Administration and Buisness Services", 
+                    "item_text_raw": " 12.08 Award the Request for Proposals (RFP), RFP-01-08-09, for the Student Information System (SIS) and to Enter into a Five-Year Contract with Infinite Campus - Jerry Kurr, Associate Superintendent of Administration and Buisness Services", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQWB58EAC3", 
+                    "item_details": "", 
+                    "item_number": "12.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Refundable Deposits for Energy Credit Applications not to Exceed the Amount of $200,000 â Jerry Kurr, Associate Superintendent of Administration and Business Services", 
+                    "item_text_raw": " 12.09 Approve Refundable Deposits for Energy Credit Applications not to Exceed the Amount of $200,000 â Jerry Kurr, Associate Superintendent of Administration and Business Services\n", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Business Services - Operational Items/Board Discussion and/or Action", 
+            "section_number": "12."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQWF58EB33", 
+                    "item_details": " ", 
+                    "item_number": "13.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Measure G and Measure E Citizens' Bond Oversight Committee Report - John Sellarole, Member of Measure G and Measure E Citizens' Bond Oversight Committee", 
+                    "item_text_raw": " 13.01 Measure G and Measure E Citizens' Bond Oversight Committee Report - John Sellarole, Member of Measure G and Measure E Citizens' Bond Oversight Committee", 
+                    "item_type": "Presentation"
+                }, 
+                {
+                    "boarddocs_id": "86PQWJ58EB85", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve the Merging of Measure G and Measure E Citizens’ Bond Oversight Committees to Form One CommitteeIn compliance with the Strict Accountability in Local School Construction Bonds Act of 2000 (“Strict Accountability Act”), the ESUHSD Board of Trustees formed an independent Citizens’ Oversight Committee (“CBOC”) for Measure G and Measure E, to report to the public on the proper expenditure of bond funds.The Board of Trustees approved the Measure G Citizens Bond Oversight Committee in April 2002 and Measure E Citizens Bond Oversight Committee on April 17, 2008.  To capitalize on the extensive and valuable experience the Measure G CBOC members have, the Board of Trustees appointed the members of the Measure G CBOC to also sit as the Measure E CBOC and appointed additional members.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees approve consolidating the Measure G and E CBOC Oversight Committee into one committee. ", 
+                    "item_number": "13.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve the Merging of Measure G and Measure E Citizens' Bond Oversight Committees to Form One Committee - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 13.02 Approve the Merging of Measure G and Measure E Citizens' Bond Oversight Committees to Form One Committee - Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQWM58EB9B", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approval of Measure E Prioritization ListThe Board of Trustees of the East Side Union High School District identified a goal of developing and implementing an Academic Master Plan (AMP) that would close the achievement gap while improving the overall academic performance of all students. The Academic Master Plan initiative was designed to guide District policy and practice through the year 2015 by integrating programs, services, and facilities for 21st century student success.The three major areas of focus for the AMP included:Identification of specific programs and projects that would meet the needs of the 21st century studentIdentification of practices and programs to narrow the achievement gap and meet the requirement of Program ImprovementRecommendations on the utilization of Measure E fundsThe plan included the identification of an intersection between academic programs and renovated and newly constructed facilities, technology and equipment that provides the district with an innovative approach to equitably prioritizing resources.Specific criteria were developed by a team of stakeholders, including the Academic Master Plan working group, district facility staff, Superintendent and cabinet, School Site Council, and campus administrators.A Project Ranking & Pricing Process that is standardized, equitable and stakeholder driven was developed based on the Academic Master Plan categories of Health, Safety & ADA, Capacity, Technology, Outdoor / Athletic Spaces, Collaborative Spaces, and Specialty Spaces. The Academic Master Plan criteria used to establish standardized criteria for ranking projects was used. The criteria was based on consistency of request, reasonable and affordable, impact on the greatest number of students, timing of projects – long & short, addressing the achievement gap, parity and equity, and cost savings measures. Sources of District and campus needs were based on the Academic Master Plan, Technology Master Plan, Measure G Master Plan, Preliminary Needs Assessment, Maintenance & Operations Deferred Maintenance Plan, and School Site Council priorities.The Measure E Campus Priority project evaluation was based on the above process.Following project reviews with each of the comprehensive campuses, the campuses presented their priorities to the Board on February 7, 2009.The cabinet reviewed the campus list of projects and provided an adjusted order of priorities.FISCAL IMPACT:Campus Projects Total   $215,897,865.00District-Wide Technology  $27,460,000.00FUNDING SOURCE:Measure ERECOMMENDATION:It is recommended that the Board of Trustees approve the Measure E Prioritization List. ", 
+                    "item_number": "13.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Approval of Measure E Prioritization List – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 13.03 Approval of Measure E Prioritization List – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action, Discussion"
+                }
+            ], 
+            "section_name": "Facilities - Operational Items/Board Discussion and/or Action", 
+            "section_number": "13."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQWR58EBBC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Adopt Resolution #2008/2009-18 Declaring March 9-13, 2009, as California Adult Education WeekIn recognition and celebration of California Adult Education Week, the District is requesting adoption of a resolution, which declares March 9-13, 2009, as the “California Adult Education Week”.FISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees adopt the Resolution #2008/2009-18 declaring March 9-13, 2009, as California Adult Education Week. ", 
+                    "item_number": "14.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-18 Declaring March 9-13, 2009, as California Adult Education Week – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_text_raw": " 14.01 Adopt Resolution #2008/2009-18 Declaring March 9-13, 2009, as California Adult Education Week – Alan Garofalo, Associate Superintendent of Student Services and Facilities", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adult Education - Operational Items/Board Discussion and/or Action", 
+            "section_number": "14."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQWV58EBD8", 
+                    "item_details": "", 
+                    "item_number": "15.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Parcel Tax - Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " 15.01 Parcel Tax - Patricia Martinez-Roach, Board President", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQWY58EBE2", 
+                    "item_details": "", 
+                    "item_number": "15.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Board of Trustees Retreat Goals - Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " 15.02 Adopt Board of Trustees Retreat Goals - Patricia Martinez-Roach, Board President", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQX358EBEC", 
+                    "item_details": "Discussion and action item regarding the need for a Special Board meeting.", 
+                    "item_number": "15.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Need for and Calendar Special Board Meeting - Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " 15.03 Need for and Calendar Special Board Meeting - Patricia Martinez-Roach, Board President", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQX658EBF9", 
+                    "item_details": " ", 
+                    "item_number": "15.04", 
+                    "item_recommendation": "", 
+                    "item_text": "MetroED: 1) Funding Model for 2009-2010; 2) Review of Joint Partnership Agreement (JPA) - Frank Biehl, Board Member, and Bob NuĂąez, Superintendent", 
+                    "item_text_raw": " 15.04 MetroED: 1) Funding Model for 2009-2010; 2) Review of Joint Partnership Agreement (JPA) - Frank Biehl, Board Member, and Bob NuĂąez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQX958EC08", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentSUBJECT:Receive First Reading to Amend Board By Law 9270 Conflict of InterestThe first reading of amended Board By Law 9270, Conflict of Interest, is being submitted to the Board of Trustees for review and discussion.Recommendation:It is recommended that the Board of Trustees receive the first reading of amended Board By Law 9270, Conflict of Interest.", 
+                    "item_number": "15.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive First Reading to Amend Board By Law 9270 Conflict of Interest - Patricia Martinez-Roach, Board President", 
+                    "item_text_raw": " 15.05 Receive First Reading to Amend Board By Law 9270 Conflict of Interest - Patricia Martinez-Roach, Board President", 
+                    "item_type": "Action, Information, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQXC58EC9E", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob Nuñez, SuperintendentSUBJECT:2009 CSBA Delegate Assembly ElectionAttached please find the ballot material for election of a representative to the 2009 CSBA Delegate Asembly for our region.  The Board is requested to vote for no more than four candidates.  Regardless of the number of vacancies, the Board of Trustees may cast no more than one vote for any one candidate.Election results from CSBA will be available no later than March 31, 2009.   All re-elected and newly elected Delegates will serve two-year terms beginning April 1, 2009 - March 31, 2011.Recommendation:It is recommended that the Board of Trustees vote for no more than four candidates for submission of the Official 2009 Delegate Assembly Ballot to CSBA.", 
+                    "item_number": "15.06", 
+                    "item_recommendation": "", 
+                    "item_text": "2009 CSBA Delegate Assembly Election - Bob Nuñez, Superintendent", 
+                    "item_text_raw": " 15.06 2009 CSBA Delegate Assembly Election - Bob Nuñez, Superintendent", 
+                    "item_type": "Action, Discussion"
+                }, 
+                {
+                    "boarddocs_id": "86PQXF58ED25", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTWeek of the School AdministratorMarch 1-7, 2009Resolution #2008-2009-19WHEREAS, Leadership Matters for California’s public education system and the more than 6 million students it serves;WHEREAS, School administrators are passionate, lifelong learners who believe in the value of quality public education, andWHEREAS, The title “school administrator” is a broad term used to define many education leadership posts. Superintendents, assistant superintendents, principals, assistant principals, special education and adult education leaders, curriculum and assessment leaders, school business officials, classified educational leaders, and other school district employees are considered administrators; andWHEREAS, providing quality service for student success is paramount for the profession; andWHEREAS, Most school administrators began their careers as teachers. The average administrator has served in public education for more than a decade. Most of California’s superintendents have served in education for more than 20 years. Such experience is beneficial in their work to effectively and efficiently lead public education and improve student achievement; andWHEREAS, Public schools operate with lean management systems. Across the nation, public schools employ fewer managers and supervisors than most public and private sector industries including transportation, food service, manufacturing, utilities, construction, publishing and public administration; andWHEREAS, School leaders depend on a network of support from school communities – fellow administrators, teachers, parents, students, businesses, community members, board trustees, colleges and universities, community and faith-based organizations, elected officials and district and county staff and resources – to promote ongoing student achievement and school success; andWHEREAS, Research shows great schools are led by great principals, and great districts are led by great superintendents. These site leaders are supported by extensive administrative networks throughout the state; andWHEREAS, the State of California has declared the first full week of March as the “Week of the School Administrator” in Education Code 44015.1; andWHEREAS, The future of California’s public education system depends upon the quality of its leadership; now thereforeTHEREFORE, BE IT RESOLVED, by the East Side Union High School District that all school leaders be commended for the contributions they make to successful student achievement.PASSED AND ADOPTED this 19th day of February, 2009 by the Governing Board of the East Side Union High School District at its regular meeting held at 830 N. Capitol Avenue, San Jose, State of California. AYES:   ________NOES:  ________ABSENT:  ______ABSTAIN:  ______I certify the foregoing resolution was duly introduced, passed, and adopted by the East Side Union High School District Board of Trustees at a meeting held on February 19, 2009._________________________ClerkESUHSD Board of Trustees", 
+                    "item_number": "15.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-19 Declaring March 1-7, 2009, as Week of the School Administrator – Bob Nuñez, Superintendent", 
+                    "item_text_raw": " 15.07 Adopt Resolution #2008/2009-19 Declaring March 1-7, 2009, as Week of the School Administrator – Bob Nuñez, Superintendent", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "86PQXM58EDA8", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTNational African American History MonthFebruary 2009Resolution #2008-2009-20WHEREAS, the East Side Union High School District takes pride in joining citizens throughout the country in recognizing February of 2009 as National African American History Month; andWHEREAS, African American History Month is an opportunity to share the historical and present contributions of African Americans, andWHEREAS, African American History Month began as \"Negro History Week\" in February 1926 as in the United States as supplement to the school curriculum, through the work of African American scholar, Dr. Carter G. Woodson; his aim was to encourage a greater awareness and understanding of the African experience and contributions in America, Africa and throughout the world; andWHEREAS, later, in the 1960’s, the week expanded into Black History Month to commemorate, through community activities, a more balanced and accurate picture of Black History, and is celebrated yearly during the entire month of February, as it coincides with the birthdays of the great African American Leader Frederick Douglass (February 15) and Abraham Lincoln (February 12); andWHEREAS, the East Side Union High School District recognizes the significant contributions and huge advances African Americans have made, and continue to make in our community, state and the world, in such areas as education, medicine, art, culture, public service, economic and development, politics and human rights; we see the greatness of America in those who have risen above injustice and enriched our society; andWHEREAS, the East Side Union High School District in its continued effort to honor African American History Month and to enhance equity and diversity, will seek to make changes in all its language to replace the word \"tolerance\" with words like \"acceptance, respect, inclusion and appreciation,\" whenever relating to equity and/or diversity;THEREFORE, BE IT RESOLVED, the East Side Union High School District hereby proclaims February 2009 as National African American History Month. PASSED AND ADOPTED this 19th day of February, 2009 by the Governing Board of the East Side Union High School District at its regular meeting held at 830 N. Capitol Avenue, San Jose, State of California. AYES:   ________NOES:  ________ABSENT:  ______ABSTAIN:  ______I certify the foregoing resolution was duly introduced, passed, and adopted by the East Side Union High School District Board of Trustees at a meeting held on February 19, 2009._________________________ClerkESUHSD Board of Trustees", 
+                    "item_number": "15.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Adopt Resolution #2008/2009-20 Recognition of February 2009 as National African American History Month – Bob Nuñez, Superintendent", 
+                    "item_text_raw": " 15.08 Adopt Resolution #2008/2009-20 Recognition of February 2009 as National African American History Month – Bob Nuñez, Superintendent\n", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Superintendent/Board of Trustees - Operational Items/Board Discussion and/or Action", 
+            "section_number": "15."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQXR58EDCC", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO: Board of TrusteesFROM: Bob NuĂąez, SuperintendentPREPARED BY: Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT: Ratify/Approve Classified Personnel Actions Presented February 19, 2009The following classified personnel actions presented February 19, 2009, are recommended for approval by the Board of Trustees.NEW EMPLOYMENTNAMEPOSITION / SITE FTEEFFECTIVELOCKE, Earl LParaeducator / AH0.7501/05/2009MORRIS, MatthewLow Voltage Systems Tech / EC1.001/05/2009YONENAKA, JimmyLow Voltage Systems Tech / EC1.001/26/2009EMPLOYMENT SEPARATIONNAMEFROM POSITION / SITE / FTEEFFECTIVEREASONAGUSTINEZ, JuanCustodian / PH / 1.001/16/2009TPGONZALEZ, AlejandroParaeducator / AH / 0.7501/16/2009RESJIMENEZ, RamonaSchool Bus Driver / EC / 1.012/08/200839LJURADO, DoroteoGardener / EC / 1.002/06/2009RETMILLER, RachelChild Nutri Wkr I / AH / 0.5001/20/2009RESCHANGE OF STATUSNAMEFROM POSITION / SITE / FTETO POSITION / SITE / FTEEFFECTIVEREASONGARCIA, DeborahChild Nutri Asst Mgr / EC / 1.0Child Nutri Asst Mgr / JL / 1.001/01/2009CSPEREZ-GREY, AngelaParaeducator / EC / 0.875Paraeducator / SC / 0.87501/19/2009CSVALERIO, AnthonyParaeducator / JL / 0.75Job Training Tech / EC / 0.87501/14/2009CSP39L = 39 Month Re-employment ListCS = Change of StatusCSP = Change of Status PromotionRES = ResignationRET = RetirementTP = Terminated (did not pass probation)NEW EMPLOYMENT CLASSIFIED SUBSTITUTE EMPLOYEESNAMEPOSITIONEFFECTIVETORRES DE BRIZUELA, BenedictaSubstitute / School Bus Driver01/20/2009FISCAL IMPACT: As per salary scheduleFUNDING SOURCE: General, Special Education and Adult Education fundsRECOMMENDATION: It is recommended that the Board of Trustees approve the classified personnel                    actions as outlined above.", 
+                    "item_number": "16.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Classified Personnel Actions Presented February 19, 2009", 
+                    "item_text_raw": " 16.01 Ratify/Approve Classified Personnel Actions Presented February 19, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQXU58EE7A", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Ratify/Approve Certificated Personnel Actions Presented February 19, 2009The following certificated personnel actions presented February 19, 2009, are recommended for approval by the Board of Trustees.EMPLOYMENTNAMESTATUSFTELOCPOSITIONEFFECTIVEMILLER, JoshuaPreliminary1.0EVEnglish01/20/2009SILVA, ElizabethTemporary1.0 ECAdaptive PE02/03/2009EMPLOYMENT SEPARATIONNAMESTATUSFTELOCPOSITIONEFECTIVEREASONDIXON, MIKE A.Temporary1.0WCOSpecial Education12/30/2008TLUTETE, Philippe M.Prob 11.0WCOMathematics02/27/2009RESVAN DREAL, NancyTenured1.0EVEnglish01/19/2009RESRES = ResignationT = TerminatedCERTIFICATED SUBSTITUTE EMPLOYMENTNAMESTATUSLOCATIONEFFECTIVE* GARCIA, Harry On-CallVarious01/28/2009GONZALEZ, AlejandroOn-CallVarious01/20/2009* KINDER, Marta RamosOn-CallVarious01/28/2009SALTZMAN, Michael On-CallVarious01/05/2009* ESUHSD RetireeCERTIFIED ATHLETIC COACHESEMPLOYMENT NAMELOCATIONSTATUSSPORTEFFECTIVEFROM   -   TO ATKINS, ChrisJLWalk-onFootball08/18/08 – 11/16/08BANDA, VictorYBClassifiedVolleyball08/18/08 – 11/16/08HOOKER, JessePHWalk-onFootball08/18/08 – 11/16/08LOCKE SR., EarlAHWalk-onFootball08/18/08 – 11/16/08ARELLANO, Nick C.MPCertificatedSoccer10/20/08 – 02/20/09CUESTAS, RogerYBWalk-onSoccer10/20/08 – 02/20/09DIAZ, LauraYBWalk-onSoccer10/20/08 – 02/20/09GARCIA, Nathan A.AHWalk-onWrestling10/20/08 – 02/20/09GARZA, Alfredo D.JLWalk-onWrestling10/20/08 – 02/20/09MARQUEZ, YeseniaAHCertificatedSoccer10/20/08 – 02/20/09MCKENZIE, GarrettSCCertificatedBasketball10/20/08 – 02/20/09NAGRA, CorrynaYBWalk-onBasketball10/20/08 – 02/20/09ROSAS, DavidJLCertificatedBasketball10/20/08 – 02/20/09SANDATE, JoeSCCertificatedBasketball10/20/08 – 02/20/09SANDORA, MattAHCertificatedBasketball10/20/08 – 02/20/09SCOTT, KevinJLWalk-onBasketball10/20/08 – 02/20/09UDA, FrankOGWalk-onBasketball10/20/08 – 02/20/09YOUNG, RichardOGCertificatedBasketball10/20/08 – 02/20/09ALAMEDA, JerrySTWalk-onSoftball01/05/09 – 05/11/09BARTHOLOMEW, RandyEVWalk-onBaseball01/05/09 – 05/11/09BEAN, Charles SCCertificatedTrack01/05/09 – 05/11/09BEAULIEU, SteveSTWalk-onBaseball01/05/09 – 05/11/09BLAKE, ThomasSTWalk-onTrack01/05/09 – 05/11/09BURGE, DanicaEVWalk-onSwimming01/05/09 – 05/11/09CASAREZ., John (Tony)IHSWalk-onBaseball01/05/09 – 05/11/09FANGONILO, RichardOGWalk-onSoftball01/05/09 – 05/11/09FUJII, DebbieSTCertificatedSwimming01/05/09 – 05/11/09GALANTE, TomSCWalk-onBaseball01/05/09 – 05/11/09GUERRA, EdSCCertificatedTrack01/05/09 – 05/11/09HENNINGER, WilliamSCCertificatedSwimming01/05/09 – 05/11/09HULL JR., JefferySTWalk-onBaseball01/05/09 – 05/11/09JAMES, JasonSCCertificatedTrack01/05/09 – 05/11/09KELKAR, SuneelSTWalk-onBadminton01/05/09 – 05/11/09KING, FrankOGWalk-onSoftball01/05/09 – 05/11/09LEBHERZ, TomSTCertificatedSwimming01/05/09 – 05/11/09LETTOW, JerryOGWalk-onSoftball01/05/09 – 05/11/09LUESCHER, EricSCCertificatedBadminton01/05/09 – 05/11/09MCINTYRE, BobSTWalk-onSoftball01/05/09 – 05/11/09MCKEE, RonSTWalk-onTrack01/05/09 – 05/11/09NIGOS, JoeOGCertificatedGolf01/05/09 – 05/11/09NUNES, MargaretSCCertificatedBadminton01/05/09 – 05/11/09PAPPADAKIS, ClintOGWalk-onBaseball01/05/09 – 05/11/09PARFITT, MiraSTWalk-onTrack01/05/09 – 05/11/09RUIZ, James D.OGWalk-onTrack01/05/09 – 05/11/09SALTZMAN, MikeEVWalk-onTrack01/05/09 – 05/11/09SARRIA, AlexOGCertificatedSwimming01/05/09 – 05/11/09SETA, RoySCWalk-onTennis01/05/09 – 05/11/09STULL, DanessaSCWalk-onSoftball01/05/09 – 05/11/09SUNSERI, TrishSCCertificatedSoftball01/05/09 – 05/11/09WOLVERTON, AndrewEVCertificatedTennis01/05/09 – 05/11/09YOUNG, ScottSTCertificatedTrack01/05/09 – 05/11/09ADULT EDUCATION PROGRAMEMPLOYMENTNAMESTATUSHOURS PER WEEKLOCATIONPOSITIONFROM   -   TOASCHER, Veronica AeriolTemporary2.00EVComm Ed Tchr01/29/09-03/12/09DOMINGO, NancyTemporary12.50AHTeacher02/02/09-06/04/09ELDER, Desiree C.Temporary1.00IACComm Ed Tchr03/28/09-05/09/09*OMAINSKY, Meg AnnTemporary12.50IACTeacher01/14/09-06/04/09STEPHENS, Thomas B.Temporary3.16IACTeacher01/08/09-06/04/09TACAZON, Linda SunicoTemporary12.50LPSTeacher01/07/09-06/04/09WESTER, Richard RobertTemporary3.16IACTeacher01/07/09-06/03/09*Former ESUHSD EmployeeADULT EDUCATION PROGRAM – CERTIFICATED SUBSTITUTESEMPLOYMENTNAMESTATUSLOCATIONPOSITIONEFFECTIVE* GONZALEZ, AlejandroOn CallVariousCert Sub01/28/2009IACOB, StelaOn Call VariousCert Sub02/02/2009SIGLER, Maiesha R.On CallVariousCert Sub02/02/2009WILLIAMSON, Charles D.On CallVariousCert Sub01/08/2009* Former ESUHSD EmployeeFISCAL IMPACT: As per salary scheduleFUNDING SOURCE: General, Special Education, and Adult Education fundsRECOMMENDATION: It is recommended that the Board of Trustees approve the certificated personnel  actions as outlined above.", 
+                    "item_number": "16.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Certificated Personnel Actions Presented February 19, 2009", 
+                    "item_text_raw": " 16.02 Ratify/Approve Certificated Personnel Actions Presented February 19, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQXY58EF51", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Ratify/Approve Student Aide Personnel Actions Presented February 19, 2009The following student aide personnel actions presented February 19, 2009, are recommended for approval by the Board of Trustees.  These positions are paid through various restricted funding and are not bargaining unit work.  The majority of these positions are less than 1.25 hours per day.NEW EMPLOYMENT OF:NAMEPOSITION / PROGRAM / LOCATIONEFFECTIVECARREJO, AnnysaStudent Aide / CBET / AH01/08/2009TOPETE, VianeyStudent Aide / CBET / MP01/30/2009CAMBA, NathanStudent Aide / Child Nutrition Services / OG01/15/2009MATURINO JR., SalvadorStudent Aide / Child Nutrition Services / MP01/15/2009NAVA JR., BennyStudent Aide / Child Nutrition Services / MP01/23/2009ORPIA, MarleoStudent Aide / Child Nutrition Services / EV01/28/2009RIVAS, JesusStudent Aide / Child Nutrition Services / FH01/15/2009SALIM, TrishaStudent Aide / Child Nutrition Services / IH01/28/2009TRAN, AmyStudent Aide / Child Nutrition Services / SC01/06/2009TRAN, JulieStudent Aide / Child Nutrition Services / MP01/15/2009TRAN, QuangStudent Aide / Child Nutrition Services / YB01/15/2009RIOS, Guadalupe RamonStudent Aide / Intervention / WCO01/14/2009BAIZA, SadieStudent Aide / Math / MP01/23/2009ZHAO, EricStudent Aide / Math / PH01/06/2009NGO, TrinhStudent Aide / Science / WCO01/29/2009CALDERA, ArmandoStudent Aide / Workability / MP12/19/2008CARPENTER, KristenStudent Adie / Workability / YB01/29/2009ESCATEL, SergioStudent Aide / Workability / EC01/22/2009LU, EricStudent Aide / Workability / PH12/09/2008OCHOA, LorindaStudent Aide / Workability / MP12/18/2008OLEA, EverStudent Aide / Workability / EC01/22/2009PADILLA, BernadetteStudent Aide / Workability / YB12/09/2008REYNAGA, DaisyStudent Aide / Workability / EV01/29/2009RODRIGUEZ, JenevieveStudent Aide / Workability / PH12/08/2008SANCHEZ, JacobStudent Aide / Workability / PH01/06/2009WHITE, JoshuaStudent Aide / Workability / EV12/19/2008FISCAL IMPACT:As per salary scheduleFUNDING SOURCE:Workability Grant, Child Nutrition, and Intervention fundsRECOMMENDATION:It is recommended that the Board of Trustees approve the student aide personnel actions as outlined above..", 
+                    "item_number": "16.03", 
+                    "item_recommendation": "", 
+                    "item_text": "Ratify/Approve Student Aide Personnel Actions Presented February 19, 2009", 
+                    "item_text_raw": " 16.03 Ratify/Approve Student Aide Personnel Actions Presented February 19, 2009", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQY358EF87", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve School FIeld TripsBelow please find a list of field trips to be taken by student groups by various schools.  These field trips require approval by the Board since they are beyond our local area and may include an overnight stay and/or air transportation.School / GroupDestinationDatesBudget ImpactRationaleTransportationAccel Middle CollegeU.C. Davis, CA03/13/2009BiotechCollege VisitSchool BusAccel Middle CollegeOrpheum Theaters / San Francisco, CA04/29/2009BiotechEducational EnrichmentSchool BusAH / Medical MagnetFresno State, UC Merced, UOP, Ohlone College02/25/2009CA Wellness FoundationCollege TourCharter BusAH / HOSASacramento, CA03/19/2009 - 03/23/2009Health & ScienceStudent ConferencePersonal Private VehicleAH / BiotechNew Brighton State Beach05/13/2009 - 05/15/2009BiotechStudent ConferenceSchool BusEV / CSFSouthern CA College    Campus02/13/2009 - 02/15/2009Fundraisers, Student FeeCollege VisitChartered BusEV / Close-up Washington D.C.02/28/2009 - 03/06/2009Student Fee Educational Trip Air TravelEV / Yearbook New York, New York03/18/2009 - 03/22/2009Fundraisers, Donations, Student Fees CSPA Convention Air TravelIH / German ClassHerferd, Berlin, Bacharach, Koln, Germany06/13/2009 - 07/13/2009Student FeeCultural / Educational TripAir TravelMP/ YearbookColumbia University, New York03/14/2009 - 03/21/2009ASBStudent ConferenceAir TravelOG / Junior State of AmericaSacramento, CA03/07/2009 - 03/08/2009FundraisersJSA Winter CongressPersonal Private VehiclePH / French 3 and Ap4French Camp, Saratoga, CA03/27/2009 - 03/29/2009FundraisersFrench Culture ImmersionParents Providing Transportation for thier studentST / ScienceMunicipal Warf, Monterey, CA01/27/2009Donation, Student FeeWhale WatchingCharter BusST / CSTSan Francisco, CA02/20/2009 - 02/21/2009FundraisersSea Lion Bowl CompetitionPersonal VehicleST / International Relations ClubU.C. Berkeley, CA02/27/2009 - 03/01/2009FundraisersModel United Nations ConferenceSchool BusST / SpiritAnaheim, CA03/26/2009 - 03/30/2009Fundraisers, Student FeeUSA Spirit NationalsAir TravelSC / BandSan Diego, CA04/02/2009 - 04/05/2009Fundraiser, Student FeesHeritage Music FestivalChartered BusYB / American GovermentSacramento, CA02/04/2009 - 02/06/2009Title 1We the People CompetitionTrainYB / Model UN ClubU.C. Berkeley, CA02/27/2009 - 03/01/2009Fundraisers, Student FeesModel United Nations ConferenceSchool BusThese field trips have been reviewed by the Administration and are cleared for the necessary amount of staff,  supervisors and funding source(s).FISCAL IMPACT:VariousFUNDING SOURCE:ASBBiotechCA Wellness FoundationDonationsFundraisersGeneral FundsStudent FeesTitle 1RECOMMENDATION:The Board approve the Field Trips as listed above pending purchase of trip insurance on travel out of the country and the Continental U.S.\nOur adopted rules of Parliamentary Procedure, Robert's Rules, provide for a consent agenda listing several items for approval of the Board by a single motion.  Most of the items listed under the consent agenda have gone through Board subcommittee review and recommendation.  Documentation concerning these items has been provided to all Board members and the public in advance to assure an extensive and thorough review.  Items may be removed from the consent agenda at the request of any board member.\n", 
+                    "item_number": "16.04", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve School Field Trips", 
+                    "item_text_raw": " 16.04 Approve School Field Trips", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQY658F073", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Acceptance of Donations, Grants and AwardsThe following donations, grants and awards are being presented for acceptance by the Board of Trustees.TypeFromDescription/Awarded ToAmount/Value/PeriodSiteDonationDennis BarbataDonation of 1997 Isuzu Rodeo Sport Utility Vehicle for the IT Services Department$2,455.00Jerry KurrEducation CenterDonationAmy CochranDonation to the Science Department$100.00W.C. OverfeltVita ChialaDonationGlenn CochranDonation to the Science Department$2,300.00W.C. Overfelt High SchoolVito ChialaDonationEdward KandrotDonation to the Science Department$300.00W.C. Overfelt High SchoolVito ChialaDonationWachovia Foundation Matching Gifts ProgramDonor: John D. RobertsDonation to Nancy Pors, teacher at Yerba Buena High School Post-Senior Program$750.00Yerba Buena High SchoolJuan CruzDonationMichael WatkinsDonation for classroon supplies$100.00Silver Creek High SchoolThelma BoacGrantAn Anonymous AdvisorDonation to offset the cost of purchasing a new photocopy machine for faculty use$10,000.00James Lick High SchoolGlenn Vander ZeeGrantPhilanthropic Ventures FoundationDonation for the Student Athlete Evening Tutoring Club. for supplies and Tutor salary$2,439.00Oak Grove High SchoolRich FriasFISCAL IMPACT:N/AFUNDING SOURCE:N/ARECOMMENDATION:It is recommended that the Board of Trustees accept the donations, grants and awards as listed above.", 
+                    "item_number": "16.05", 
+                    "item_recommendation": "", 
+                    "item_text": "Acceptance of Donations, Grants and Awards", 
+                    "item_text_raw": " 16.05 Acceptance of Donations, Grants and Awards", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQY958F0E4", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Dan Moser, Associate Superintendent of Instruction and Human RelationsSUBJECT:Approve CAHSEE Local Waivers for Special Education StudentsDESCRIPTION: Education Code Section 60851 states that students who take one or both parts of the CAHSEE with a modification and receive the equivalent of a passing score are eligible for the waiver request process.  At the request of the student’s parent or guardian, a school principal must submit to the local school governing board a request for a waiver of the requirement to pass the part(s) of the CAHSEE on which a modification was used and the equivalent of a passing score was earned.  For the local board to waive the CAHSEE requirement, the principal must certify to the local board that the pupil has all of the following:1)\tAn individualized education program adopted pursuant to the federal Individuals with Disabilities Education Act or a plan adopted pursuant to Section 504 of the Rehabilitation Act of 1973 that requires the accommodations or modifications to be provided to the pupil when taking the high school exit examination.2)\tSufficient high school level coursework either satisfactorily completed or in progress in a high school level curriculum sufficient to have attained the skills and knowledge otherwise needed to pass the high school exit examination.3)\tAn individual score report for the pupil showing that the pupil has received the equivalent of a passing score on the high school exit examination while using a modification that fundamentally alters what the high school exit examination measures as determined by the State Board of Education.The waivers were requested by the school site administration on behalf of the students’ parents.The recommended waivers meet the aforementioned criteria delineated in Education Code Section 60851: Student A\tStudent B\tStudent C\tStudent D\tStudent E\tStudent FStudent G\tStudent H\tStudent I\tStudent J\tStudent K\tStudent LStudent M\tStudent N\tStudent O\tStudent P\tStudent Q\tStudent RStudent S\tStudent T\tStudent U\tStudent V\tStudent W\tStudent XStudent Y\tStudent Z\tStudent A2\tStudent B2\tStudent C2\tStudent D2\tStudent E2\tStudent F2Student G2\tStudent H2\tStudent I2\tStudent J2\tStudent K2\tStudent L2Student M2\tStudent N2\tStudent O2\tStudent P2\tStudent Q2\tStudent R2Student S2\tStudent T2\tStudent U2\tStudent V2\tStudent W2\tStudent X2Student Y2\tStudent Z2\tStudent A3\tStudent B3\tStudent C3\tStudent D3\tStudent E3\tStudent F3\tStudent G3\tStudent H3\tStudent I3 FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the recommended waivers. ", 
+                    "item_number": "16.06", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_text_raw": " 16.06 Approve CAHSEE Local Waivers for Special Education Students", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYC58F0FB", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Beals Martin, Inc.  The General Trades at Andrew Hill High School, Phase III Additions and Modernizations is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-46-05-06700788107064G-025-005 Item #DescriptionReasonAmount1. Change to Nevamar brand laminateRequested by Architect$1,368.002. Add Upper Cabinets Above RangeRequested by Architect$853.003.Provide Backup Battery Operated Lowering for Elevator for RFI #217Requested by Architect$2,017.004.\"Moisture Limiter\" Under the Linoleum to Reduce Moisture Emissions at Bldg RUnforeseen Conditions$1,188.005.Additional Plastering Work on Building R as Directed (Backcharged Andy’s Roofing) Unforeseen Conditions$3,063.006.Replace Elevator's Standard Emergency Phone with District's Selection Viking E-1660-03B Emergency PhoneRequested by Owner$3,786.007.Make Adjustments for Toilet Paper Dispenser in Bldg R Due to Incorrect Dimensions Shown on DrawingsRequested by Architect$832.008.Add Horizontal Mullions and Breakshapes for Windows C27 through C-31 as Requested by ArchitectRequested by Architect$10,043.009.Credit for Deletion of Window Screens and for Change Windows C-14, C-25 & C-25A @ Bldg CUnforeseen Conditions($2,629.00)10.Provide (62) Breakshapes Requested by Architect$19,765.00 11.Asbestos Abatement Work at CanopiesUnforeseen Conditions$19,639.0012.Provide and Install Scuppers and Downspouts per RFI#341Requested by Architect$3,143.00    13.Seismic Sleepers @ Gas Line on Existing CanopyUnforeseen Conditions$4,009.00 14.Additional Sheet Metal at the Canopy Seismic Joints as RequestedUnforeseen Conditions$4,241.0015.Telecommunications work in the 200, 300 & 400 Wings per Proposal from Dyna ElectricRequested by Owner$153,130.0016.Provide Upright Heads for Fire Protection per DSA RequirementRequested by Owner$38,915.0017.Supplying & Installing Additional Flashings per RFI#367Requested by Architect$465.0018.REVISED proposal for additional signage required in ASI 005 and signage RFIsRequested by Architect$4,427.0019.Provide semi-recessed paper towel dispenser & waste receptacles (B-396034) instead of previously approved recessed (ASI#8522) per response to RFI#210 and credit for sanitary napkin dispenser deleted from scope per District directionRequested by Owner$3,064.0020.Additional fire treated plywood for Bldg R as directedUnforeseen Conditions$391.0021.Waterproofing of Covered/Canopy WalkwayRequested by Architect$52,888.0022.End Cap Closure Flashings per RFI#291Unforeseen Conditions$13,495.0023.Additional Flashings per RFI#388ARequested by Architect$2,037.0024.Addition Flashings per ASK 58.1 and ASK 58.2Requested by Architect$3,107.0025.Additional Flashings per RFI#397Unforeseen Conditions$13,255.0026.Revised proposal for additional metal panels requested in RFI#274ARequested by Architect$5,316.0027.Cabinet Changes in Bldg R per ASI 028Requested by Owner$2,588.0028.Blocking to Raise Roof AccessUnforeseen Conditions$629.0029.Fire Rated Plywood per RFI#343Requested by Owner$216.0030.Raising the Roof HatchUnforeseen Conditions$227.0031.Furnishing and Installing Fire Rated PlywoodRequested by Owner$1,423.0032.Add Door, Complete, for Opening #434AUnforeseen Conditions$1,635.0033.Install a Roof Nailer per RFI#298BUnforeseen Conditions$1,202.0034.CREDIT for Deletion of All Concrete Cutting and Removal Originally Part of Contract and Reworking the Stairs/Landing by Building K Not Shown on PlansRequested by Architect($9,455.00)35.Additional Flashings per RFI#405Requested by Architect$829.0036.183Additional Sheet Metal and Flashings per RFI#415Requested by Architect$3,518.0037.Additional Architectural Sheet Metal Flashing for (3) CMU Veneer LintelsUnforeseen Conditions$592.0038.Furnish & Install Plywood on Existing Sleepers for Expansion JointsUnforeseen Conditions$1,031.0039.Additional Acoustical Ceiling Work per ASI 31Requested by Architect$10,538.0040.CREDIT for Deletion of Gate GT10 as RequestedRequested by Architect($1,592.00)41.CREDIT for canopy sign and Furnish & Install Misc. Sheet MetalUnforeseen Conditions($7,651.00)42.Provide Chain Link Fence per ASI 040Requested by Owner$7,259.0043.Add Fire Protection per ASI 031 R1Requested by Owner$14,017.0044.Supply, Install and Remove Roof ProtectionUnforeseen Conditions$1,535.0045.Furnish & Install Sheet Metal Panel Between Window C29 and Masonry Veneer at CF Line per RFI#436Requested by Architect$1,295.0046.Install (11) Door Sweeps to Seal Door Openings Due to Unlevel Slab at These LocationsUnforeseen Conditions$845.0047.Additional Flashings requested in RFI#359ARequested by Architect$9,641.0048.Adding Expanded Metal Security Panels in Lieu of Requested Perforated Metal PanelsUnforeseen Conditions$1,586.0049.Chain Link Fence Enclosure at PG&E Gas MeterRequested by District$2,678.0050.Furnish & Install \"Moisture Limitor\" in Bldg C Under LinoleumUnforeseen Conditions$2,031.0051.Furnish and Install Two (2) Elevator SignsRequested by Architect$271.0052.Dig Up and Repair 4' SD Line Damaged by Beals Martin Fence SubUnforeseen Conditions($1,143.00)53.Elevator Lock Out Switch as Requested by DistrictRequested by Architect$2,357.0054.Add Stiffener/Backing to Parapet WallRequested by Architect$627.0055.Add Dex-O-Tex to Two StaircasesRequested by Owner$14,249.0056.Provide & Install No Smoking SignsRequested by Owner$868.0057.Work per ASI 39.2Unforeseen Conditions$1,575.0058.Repair Parapet Flashing Cap Where Two Flashing Systems MeetUnforeseen Conditions$733.0059.Remove and Relocate Existing Chain Link Fence at Softball FieldRequested by Architect$2,919.0060.Flashings Details per RFI#432Requested by Architect$2,966.0061.Additional Plaster Required due to the Raising of the Parapet Wall of Building C per ASI 020Requested by Architect$7,053.0062.Provide Additional Fire Protection Plans for DSA Approval of ASI 031Requested by Owner$462.0063.Backcharge for Parking Lot Clean Up & RepairsUnforeseen Conditions($1,364.00)64.Additional Chain Link Fencing at the East End of Singleton Parking LotRequested by Architect$531.0065. PCO #243 - Provide and Install Chain Link Fence at the New Electrical EnclosureRequested by Architect$1,980.0066.CREDIT for Bollards and Caps Supplied by OthersUnforeseen Conditions($15,000.00)67.REVISED Proposal for Elevator Repairs Due to the Elevator Being Damaged by OthersUnforeseen Conditions$8,623.0068.Material Change for the Trash Compactor gatesRequested by Owner($2,123.00)69.Install New Double Gate Posts and Fourteen Bollards per ASI #25Requested by Owner$9,733.0070.CREDIT for Deletion of Fence and Gate at the South Utility YardRequested by Architect($6,049.00)71.CREDIT for Deletion of Gates #21 & #22Requested by Owner($5,307.00)72.CREDIT for Deletion of 95' of Chain Link Fencing at Senter RoadRequested by Owner($3,529.00)73.CREDIT for Finish Caulking in Building CRequested by Owner($2,000.00)74.Negotiated from contractRequested by Owner($444,544.00)Original Contract Price:$4,889,989.00 This Change Order: ($17,687.00)Revised Contract Amount:$4,872,302.00FISCAL IMPACT:Credit: ($17,687.00) FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for the Andrew Hill High School, Phase III Additions and Modernizations (Beals Martin, Inc.). ", 
+                    "item_number": "16.07", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Beals Martin, Inc.)", 
+                    "item_text_raw": " 16.07 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Beals Martin, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYF58F130", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Andy’s Roofing CompanyThe Roofing at Andrew Hill High School, Phase III Additions and Modernizations is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-51-05-06701573107064G-025-005 Item #DescriptionReasonAmount1.Differential Time to Roof in 6-inch Mechanical Curb Installed After Work Was Already CompletedUnforeseen Conditions$1,397.002.Install Visqueen at ParapetUnforeseen Conditions$624.003.Remove and Replace Building Paper & Lath at Bldg R Canopies To Facilitate Replacement of Sheetmetal Fascia (Backcharge Beals Martin)Unforeseen Conditions($3,063.00)4.Install Wider Coping at CH Line Between C5.1 and C6 per RFI#239 Rev.AUnforeseen Conditions$165.005.Credit to delete work at ACCU-1 & ACCU-2@ Bldg DUnforeseen Conditions($728.00)6.Supply and Cut to Size Walkpad for Sleeper SupportsUnforeseen Conditions$3,811.007.Roof in 10-Mechanical/Duct Support Sleepers and 3-Line Set Curbs at Bldg CUnforeseen Conditions$3,640.008.Credit to delete 40-Duct Pipe SupportsUnforeseen Conditions($3,259.00)9.Roof in 30\" long gas line sleepers using torch on materials at (49 locations) in response to RFI#338Unforeseen Conditions$18,167.00   10.Roofed in (1) vent pipe, (1) pitch pocket and (3) abandoned penetrationsUnforeseen Conditions$754.0011.Provide and Install Crickets at Building \"C\" CanopyUnforeseen Conditions$3,825.0012.Backcharge for Beals Martin to Remove & Raise Roof Hatch @ Bldg C Low Roof Due to Previous Incorrect Coordination from Andy's RoofingUnforeseen Conditions($227.00)13.Install Specified Roofing Over Sloped Plywood Substrate at Canopies Wider than 4'. Install 60mil TPO Roofing Over 1/4\" Dens Deck at Canopy Less than 4' Wide. Per ASI 006 RevisedRequested by Architect$12,322.0014.Negotiated from contractRequested by Owner($38,106.00)Original Contract Price:$381,060.00This Change Order: ($678.00)Revised Contract Amount:$380,382.00FISCAL IMPACT:Credit: ($678.00) FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for the Phase III Additions and Modernizations (Andy’s Roofing Company). ", 
+                    "item_number": "16.08", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Andy's Roofing Company)", 
+                    "item_text_raw": " 16.08 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Andy's Roofing Company)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYJ58F147", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Joseph J. Albanese, Inc. The Concrete at Andrew Hill High School, Phase III Additions and Modernizations Project is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-55-05-06700699107064G-025-005 Item #DescriptionReasonAmount1.Re-Layout and Dig Footing for CMU    WallRequested by Architect$1,349.002.Install Additional Stirrups to Column Anchor Bolts per DSA Field Inspector RequestRequested by Architect$5,003.003.Add V-bars and Stirrups to Anchor Bolts in Footings per DSA Field Inspector RequestRequested by Architect$1,050.004.Set-up Footings and Curb for Drinking Fountain AlcoveRequested by Architect$2,563.005.Foundations/Slab Setup on Premium TimeRequested by Owner$3,956.006.Rebar for Spiral Cages for (5) Piers Changed from DP-2 Piers to DP-1 Piers per RFI#197Requested by Architect$1,741.007.Identify & Assist in Fixing Problem with Protruding Column Gusset per RFI#230Unforeseen Conditions$243.008.Canopy Retrofit Revisions Includes New Pier Footings and Backfill at Existing FootingsRequested by Architect$47,846.009.Installation of Safety Railing @ Stair #1Requested by Owner$6,805.0010.Place/Finish Concrete @ Elevator, South Foundation, Edge ExtensionRequested by Architect$1,197.0011.Truncated Domes in Rear Parking LotConditions Warranted$5,132.0012.Rebar Install @ Revised Ramp Per ASI 013Requested by Architect$2,043.0013.Extend Bent Plate (Edge Form) 1\" High to Accommodate Area Drain @ Top of Stair #2 LandingRequested by Architect$304.0014.Continue Form Work @ Expansion Joint/Bent Plate per RFI#248Requested by Architect$793.0015.Place Base Rock, Compact @ Play Structure, Mowband & Revised RampRequested by Architect$9,971.0016.Patch Veneer and Top of Ftg South-East Corner of Building, Strip Forms / Clean UpRequested by Architect$3,059.0017.Caulking of Joints at Breezeway EntranceConditions Warranted$27,753.0018.Raise Wall Height of CMU Screen Wall @ Bldg C, South @ Covered Walkway WD Line 16\" TallerRequested by Architect$2,994.0019.Saw Cut Openings on RoofUnforeseen Conditions$1,220.0020.Hand Excavate, Supply and Install 2 Extra Piers and 2 Extra Grade Beams per RFI#317Conditions Warranted$10,124.0021.Install Lintels at Roof Level on 3 Sides of    Teacher's Lounge Because Curb Was Not Poured Per DrawingsUnforeseen Conditions($3,553.00)22.Install New Mowband per ASI 019Unforeseen Conditions$8,843.0023.Sawcut for Demolition of Flatwork and Curb in Breezeway for Pipe Relocation per RFI #452Unforeseen Conditions$1,430.0024.Sub-Ex and Dry Out Singleton Avenue ApproachUnforeseen Conditions$12,436.0025.Supply & Install (2) Extra Truncated Domes at Bldg R per ASI 025Requested by Owner$749.0026.Set Up and Place 7' x 10' Slab Under Stair #2 per ASI #23Requested by Architect$3,730.0027.Backcharge for CEI Repair of (2) Light Pole Feeds Dug Up by AlbaneseUnforeseen Conditions($821.00)28.Credit for Storm Drain System Not Installed in Bldg B Alternate AreaRequested by Owner($52,610.00)29.Over Ex Footing @ Planter at Back of BuildingConditions Warranted$18,450.0030.Core Drill at Planter Box for SleeveUnforeseen Conditions$436.0031.Dug Up and Repair 4' SD Line Damaged by Beals Martin Fence SubUnforeseen Conditions$1,143.0032.Clean Up / TrashUnforeseen Conditions$8,762.0033.Patch Pave the Front Parking LotUnforeseen Conditions$6,572.0034.Complete Demo Work at Back of Bldg CRequested by Owner$4,041.0035.Finish Clean Up at PlantersUnforeseen Conditions$6,068.0036.Tapped Water Line to Verify It was Not WorkingUnforeseen Conditions$931.0037.Notch CMU Blocks 3/8\" for Control Joint per RFI#278Requested by Architect$2,074.0038.Tear Out and Repair CMU Block for Installation of New Flashing per RFI#432Requested by Architect$1,542.0039.Remove and Relocate 4 Bollards @ Singleton Ave Parking LotUnforeseen Conditions$7,185.0040.Regrade South Side RoadUnforeseen Conditions$7,807.0041.Sack and Patch Retaining Wall Under Stair #1Requested by Architect$12,644.0042.New AC ramp section from service road to CMU wall door @ teacher's lounge per civil punch list item #17Requested by Architect$604.0043.Demo Existing Sidewalk at Admin Front Parking Lot in Preparation for New Sidewalk Tie-in per RFI#385Requested by Architect$8,878.0044.Overexcavate Wet Area per Soils Tech's Recommendation. Section of South Service Lane Required Regrading to Match New Elevations per RFI#434Unforeseen Conditions$2,659.0045.Purchase and Placement of Fox Drain at Trash Compactor PadRequested by Architect$6,912.0046.Overexcavate and Rock Mowband Between Sidewalk on Senter Road & New Parking Lot per Soils Tech's RecommendationsUnforeseen Conditions$1,958.0047.Drain Rock and Transportation Costs Only for Installing Perforated Pipe in Planter AreaUnforeseen Conditions$803.0048.Credit for Deleting Flag Pole Reinstall from Scope of WorkRequested by Architect($4.665.00)49.Clean Up & Regrade Planter Area at Sidewalk Along Senter Road Disturbed by City WorkUnforeseen Conditions$1,834.0050.Remove & Replace CMU Blocks per RFI#451 &  ASI 018Requested by Architect$2,274.0051.Backfill 2:1 Slope at North Side of Fire Line Adjacent to Softball Field per RFI#450Requested by Architect$2,817.0052.Credit for the Deletion of Sidewalk Leading to Capitol Expressway Bus Stop per ASI 038Requested by Owner($2,309.00)53.REVISED Proposal for Elevator Repairs Due to Damage by AlbaneseUnforeseen Conditions($8,623.00)54.Install (11) Door Sweeps to Seal Door Openings Due to Unlevel Slabs at These LocationsConditions Warranted($845.00)55.Demo Ramp at South Side of Building per ASI 040Conditions Warranted$4,527.0056.Add Splash Pads for Downspouts at Bldg C OverhangConditions Warranted$2,395.0057.Negotiated from contractRequested by Owner($176,497.00)Original Contract Price:$1,941,476.00This Change Order: $25,727.00Revised Contract Amount:$1,967,203.00FISCAL IMPACT:$25,727.00FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for Andrew Hill High School, Phase III Additions and Modernizations Project (Joseph J. Albanese, Inc.).", 
+                    "item_number": "16.09", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Joseph J. Albanese, Inc.)", 
+                    "item_text_raw": " 16.09 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Joseph J. Albanese, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYM58F167", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Mastria, Inc.  The painting at Andrew Hill High School, Phase III Additions and Modernizations is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-52-05-06700944107064G-025-005 Item #DescriptionReasonAmount1.Prime & Paint Wood Rails and Skirts at Ramp adjacent to Portable K and Paint Doors & Exterior Wall at Bldg 400Requested by Architect$ 1,326.002.Additional Painting at Bldg RUnforeseen Conditions$ 2,476.003.Prepared, Primed, And Repainted Section of CMU Wall That Had Been Completed With Original Color and then later changed by schoolRequested by Owner$ 4,503.004.Patch, Sand, & Spot Prime Areas of Drywall Damaged by Others in Bldg CUnforeseen Conditions$ 2,939.005.CREDIT for Deletion of Concrete Sealer at Stairs #1 & #2Requested by Owner($ 614.00)6.CREDIT for Deletion of Painting at Collaboration Room CeilingsRequested by Owner ($1,150.00)7.CREDIT for Deletion of Graffiti Coating at Bldgs C & R per District DirectionRequested by Owner ($7,800.00)8.Prime & Paint \"Andrew P. High School\" Sign on CanopyRequested by Owner$ 1,931.009.Prime & Paint CMU Blocks Removed and Replaced for Downspout Support Installation per ASI 018 & RFI #451Requested by Architect$ 489.0010.Backcharge for Parking Lot Clean Up and RepairsUnforeseen Conditions($ 1,364.00)11.Credit to Mastria for CaulkingRequested by Owner$ 2,000.0012.Additional Touch-Up PaintingConditions Warranted $ 5,834.0013.Negotiated from contractRequested by Owner ($ 21,772.00)Original Contract Price:$239,492.00This Change Order:   ($ 11,202.00)Revised Contract Amount: $228,290.00FISCAL IMPACT:Credit: ($ 11,202.00) FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for the Phase III Additions and Modernizations (Mastria, Inc.). ", 
+                    "item_number": "16.10", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Mastria, Inc.)", 
+                    "item_text_raw": " 16.10 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Mastria, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYQ58F193", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Shooter & Butts, Inc.  The Landscaping at Andrew Hill High School, Phase III Additions and Modernizations is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-57-05-06700827107064G-025-005 Item #DescriptionReasonAmount1.Per email dated 11/9/06 from Bryan Rosevear to John Ebey - proceed with header board installation per RFI#132Requested by Architect$5,200.002.Per Estimate #2R dated 7/12/07 - Clarification of play surface material at Bldg R playground and revised play structure layout to meet fall zone compliance per RFI#350 & ASI 019Unforeseen Conditions$18,724.003.Per Estimate #3 dated 7/18/07 - Addition of Irrigation Controller at Bldg R per District's DirectionRequested by Owner$411.004.Backcharge for CEI Repair of Outside Light Pole Feed Broken by Shooter & Butts While TrenchingUnforeseen Conditions($658.00)5.Per Estimate #4R dated 1/24/08 - Credit for Deleted Lanscape Between Bldg R and Bldg 200Requested by Owner($1,722.00)6.Backcharge for JJA Core Drill at Planter Box for Irrigation Sleeve Not Installed Prior to Planter Being PouredUnforeseen Conditions($436.00)7.Per Estimate #5R dated 2/19/08 - Credit for Deleted Landscape Adjacent to 'Bid Alternate AreaRequested by Owner($12,418.00)8.Per Estimate #5R dated 3/10/08 - Repair/Restore Landscape Irrigation and SodRequested by Owner$15,673.009.Backcharge for Parking Lot Clean Up & RepairsUnforeseen Conditions($1,364.00)10.Negotiated from contract Requested by Owner($29,187.00)Original Contract Price:$321,060.00This Change Order:   ($5,777.00)Revised Contract Amount: $315,283.00FISCAL IMPACT:Credit: ($5,777.00) FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for the Andrew Hill High School, Phase III Additions and Modernizations (Shooter & Butts, Inc.). ", 
+                    "item_number": "16.11", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Shooter & Butts, Inc.)", 
+                    "item_text_raw": " 16.11 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Shooter & Butts, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYT58F1BA", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order # 1 for Yerba Buena High School ModernizationContractor:  Valhalla BuildersThe Yerba Buena High School Modernization Building 900 Vocational Ed project is complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-22-07-0880654801-109316G-060-024Item #DescriptionReasonAmount1.Transite removal on the west wall of wood shop.Requested by District$1,426.002.Install new sink & FRP panels in shops.Requested by District$7,750.003.Install Gyp Board Ceiling in auto shop.Requested by Architect$2,928.004.Install Draft Stops & Access Doors in soffit.Requested by Architect$12,754.005.Substitute steel wire for aluminum wire mesh partitions.Condition Warranted($5,388.00)6.Install two switches for Weld Exhaust Fans.Requested by Architect$994.00 7.Replace fire damaged members in auto shop.Unforeseen Condition$2,365.008.Removal & disposal of asbestos gypsum wall and ceilingUnforeseen Condition$4,680.009.Install gas lines to AC and EC units on roofRequested by Architect$9,515.0010.Relocate roof access ladder from room L6 to auto shop.Requested by Architect$1,028.0011.Replace 7 Rafters that have dry rot damage.Unforeseen Condition$3,359.0012.Replace 4 roof drainsRequested by District$6,283.0013.Replace roof joist due to dry rotUnforeseen Condition$3,504.0014.Remove & replace 2 christy boxesRequested by Architect$7,819.0015.Supply electrical for (N) tire changer. Requested by Architect$2,184.0016.Supply & install new lumber rackRequested by Architect$7,949.0017.Install Exhaust Fans in Auto shopRequested by Architect$8,067.0018.Remove asbestos transite pipe in Auto shop.  Woodshop cabinet credit applied.Requested by Architect$372.00 19.Remove dry rot plywood on roof and reinstall.Unforeseen Condition$1,470.00 20.Replace 4x6 Column TiesRequested by Architect$10,390.0021.Install Fire Alarm Wiring on J hooks in attic of admin building.Unforeseen Condition$16,990.0022.Add J hooks to hang existing cable in soffitsRequested by District$736.0023.Rewire Woodshop EquipRequested by District$526.0024.Install 3 thermostats, remove existing heating unit, provide credit for blower wheelRequested by Architect$6,590.0025.Floor Polishing CREDIT & Floor Cleaning COSTUnforeseen Condition($19,474.00)26.Power wash and paint dust collectorRequested by Architect$1,114.0027.Install L2 Wall Blocking & Parapet 3x6Unforeseen Condition$3,572.0028.Install Gutter Extensions & New GutterRequested by District$6,718.0029.Relocate Classroom Power & Data DropsRequested by District$19,225.0030.Relocate Air Drops in wood shopRequested by District$1,490.0031.Anchoring classroom tables to floorRequested by District$2,974.0032.Paint Existing Equipment in wood shop and metal shop.Requested by District$5,189.0033.Install Oxy-Acetylene Cabinets & Air Line ShutoffRequested by Architect$5,434.0034.Install Misc Electrical Unforeseen Condition$8,434.0035.Install Phase Detector Relay, PA Volume Control, Exterior Signage, Air LineRequested by Architect$4,491.0036.Cost Negotiated From ContractRequested by District($193,182.00)Original Contract Price:$ 2,125,000.00This Change Order: ($39,724.00) Revised Contract Amount: $2,085,276.00FISCAL IMPACT:($39,724.00)FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve Change Order # 1 for the Yerba Buena High School Modernization Building 900 Vocational Ed project.", 
+                    "item_number": "16.12", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Yerba Buena High School Modernization (Valhalla Builders)", 
+                    "item_text_raw": " 16.12 Approve Change Order #1 for Yerba Buena High School Modernization (Valhalla Builders)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYW58F1E9", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Approve Change Order #1 for Andrew Hill High School Phase III Additions and ModernizationsContractor:  Thermal Mechanical  The Phase III Additions and Modernizations are complete. The following change order is submitted to the Board of Trustees for approval.Bid #Purchase Order #DSA #Project #B-49-05-06700806107064G-025-005 Item #DescriptionReasonAmount1.Install trench drain at stair #2 second floor landingRequested by Architect$ 3,270.002.RFI #163 &164 – Roof curbs at Building R & C Requested by Architect$ 6,818.003.Piping modifications for a A/C unit in Elevator  Equipment  Room per State Elevator Inspector Unforeseen Conditions$ 4,267.004.Evacuate roof top unit on Day Care BuildingRequested by Owner$ 566.005.RFI #338 – Gas line seismic sleepers at canopyUnforeseen Conditions$ 4,331.006.Leaking unit on roof caused water damage to ceiling (Backcharged)Conditions Warranted ($ 766.00) 7.Relocate pipe in breezewayUnforeseen Conditions$ 661.008.Additional work at MPOE room 423 per summer canopy drawing revisions.Unforeseen Conditions$ 6,392.009.RFI #324 – Use reclaim water for irrigation and add irrigation controllerRequested by Owner$ 1,614.0010.Summer canopy work revisionsRequested by Architect$ 71,894.0011.Start up HVAC units to evaluate noise level of unitsUnforeseen Conditions$ 2,563.00 12.Back charge for parking lot clean up in preparation to complete repairs, paving and stripingUnforeseen Conditions ($ 1,364.00)13.Premium time to maintain slab pour schedule due to delay (Work done by C.E.I.)Requested by Owner ($ 1,033.00)14.Change our defective 2” gas regulator at cafeteria  Requested by Owner$ 618.0015.Negotiated from contractRequested by Owner($ 156,205.00)Original Contract Price:$1,905,618.00This Change Order:   ($ 56,374.00)Revised Contract Amount: $1,849,244.00FISCAL IMPACT:Credit: ($ 56,374.00) FUNDING SOURCE:Capital Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve change order # 1 for the Phase III Additions and Modernizations (Thermal Mechanical). ", 
+                    "item_number": "16.13", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Thermal Mechanical)", 
+                    "item_text_raw": " 16.13 Approve Change Order #1 for Andrew Hill High School Phase III Additions and Modernizations (Thermal Mechanical)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQYZ58F204", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Notice of Completion for Andrew Hill High School Phase III Additions and Modernizations Project. (Shooter & Butts, Inc.)Bid #B-57-05-06Pursuant to the contract awarded by the Board of Trustees on June 29, 2006, Shooter & Butts, Inc., has furnished all material and finished all labor for the completion of work related to Andrew Hill High School Phase III Additions and Modernizations Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$315,283.00FUNDING SOURCE:Capitol Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for the Andrew Hill High School Phase III Additions and Modernizations Project (Shooter & Butts, Inc.) ", 
+                    "item_number": "16.14", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for Andrew Hill High School Phase III Additions and Modernizations Project (Shooter & Butts, Inc.)", 
+                    "item_text_raw": " 16.14 Notice of Completion for Andrew Hill High School Phase III Additions and Modernizations Project (Shooter & Butts, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQZ458F22C", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Alan Garofalo, Associate Superintendent of Student Services and FacilitiesSUBJECT:Notice of Completion for Independence High School HVAC Roofing Modernization Project. (Kinetics Mechanical Service, Inc.)Bid #B-20-07-08Pursuant to the contract awarded by the Board of Trustees on April 17, 2008, Kinetics Mechanical Service, Inc., has furnished all material and finished all labor for the completion of work related to Independence High School HVAC Roofing Modernization Project.With the approval of the Board of Trustees, the attached Notice of Completion will be filed with the Santa Clara County Recorder’s Office as required by law.FISCAL IMPACT:$2,400,004.06FUNDING SOURCE:Capitol Facilities FundRECOMMENDATION:It is recommended that the Board of Trustees approve the Notice of Completion for the Independence High School HVAC Roofing Modernization Project (Kinetics Mechanical Service, Inc.) ", 
+                    "item_number": "16.15", 
+                    "item_recommendation": "", 
+                    "item_text": "Notice of Completion for Independence High School HVAC Roofing Modernization Project (Kinetics Mechanical Service, Inc.)", 
+                    "item_text_raw": " 16.15 Notice of Completion for Independence High School HVAC Roofing Modernization Project (Kinetics Mechanical Service, Inc.)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQZ758F24E", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentSUBJECT:Approve Minutes of January 8, 2009, Special Board MeetingAttached are the minutes of the January 8, 2009, Special Board meeting for review and approval by the Board of Trustees. FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the January 8, 2009, Board meeting minutes as presented.", 
+                    "item_number": "16.16", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of January 8, 2009, Special Board Meeting", 
+                    "item_text_raw": " 16.16 Approve Minutes of January 8, 2009, Special Board Meeting", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "86PQZD58F30D", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentSUBJECT:Approve Minutes of January 15, 2009, Regular Board MeetingAttached are the minutes of the January 15, 2009, Regular Board meeting for review and approval by the Board of Trustees. FISCAL IMPACT:NoneFUNDING SOURCE:NoneRECOMMENDATION:It is recommended that the Board of Trustees approve the January 15, 2009, Board meeting minutes as presented.", 
+                    "item_number": "16.17", 
+                    "item_recommendation": "", 
+                    "item_text": "Approve Minutes of January 15, 2009, Regular Board Meeting", 
+                    "item_text_raw": " 16.17 Approve Minutes of January 15, 2009, Regular Board Meeting", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "Consent Calendar Items - ATTACHMENT A", 
+            "section_number": "16."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQZH58F378", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Receive Budget Adjustment UpdateBelow is an update of the budget adjustments from January 2009 that have been made to our 2008-2009 Adopted Budget for your information: 1.  Unrestricted General Fund:Site discretionary from Use of Facilities Income$28,489.002.  Restricted General Fund (Categorical):New Money from Federal, State and Local resources$180,009.00\n", 
+                    "item_number": "17.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Budget Adjustments Update", 
+                    "item_text_raw": " 17.01 Receive Budget Adjustments Update", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQZL58F47E", 
+                    "item_details": "EAST SIDE UNION HIGH SCHOOL DISTRICTTO:Board of TrusteesFROM:Bob NuĂąez, SuperintendentPREPARED BY:Jerry Kurr, Associate Superintendent of Administration and Business ServicesSUBJECT:Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of December 31, 2008Attached for information is the quarterly report as of December 31, 2008, from John V.Guthrie, Director of Finance for the County of Santa Clara, detailing the make-up of the County’s Investment Portfolio.  District funds are included in the total funds invested.", 
+                    "item_number": "17.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of December 31, 2008", 
+                    "item_text_raw": " 17.02 Receive Quarterly Report on Santa Clara County Treasury Investment Portfolio Status as of December 31, 2008", 
+                    "item_type": "Report"
+                }
+            ], 
+            "section_name": "Written Reports/Recommendations", 
+            "section_number": "17."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQZR58F5CB", 
+                    "item_details": "J. Manuel Herrera, Vice PresidentFrank  Biehl, ClerkMetroED Board UpdateLan Nguyen, MemberEddie Garcia, MemberPatricia Martinez-Roach, President ", 
+                    "item_number": "18.01", 
+                    "item_recommendation": "", 
+                    "item_text": "Board of Trustees", 
+                    "item_text_raw": " 18.01 Board of Trustees", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "86PQZU58F5ED", 
+                    "item_details": "Bob NuĂąez, Superintendent", 
+                    "item_number": "18.02", 
+                    "item_recommendation": "", 
+                    "item_text": "Superintendent", 
+                    "item_text_raw": " 18.02 Superintendent", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "Board of Trustees/Superintendent Communications/Comments", 
+            "section_number": "18."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PQZY58F5FF", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Attorney will report on closed session action item(s).", 
+                    "item_text_raw": " Attorney will report on closed session action item(s).", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Report Closed Session Action(s)", 
+            "section_number": "19."
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "86PR2458F60D", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "President adjourns the meeting.", 
+                    "item_text_raw": " President adjourns the meeting.", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "Adjournment", 
+            "section_number": "20."
+        }
+    ]
+}
