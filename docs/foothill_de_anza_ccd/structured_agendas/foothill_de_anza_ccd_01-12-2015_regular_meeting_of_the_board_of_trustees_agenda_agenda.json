@@ -1,0 +1,489 @@
+{
+    "agency": "foothill_de_anza_ccd", 
+    "meeting_date": "01-12-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS4A70D270", 
+                    "item_details": "\nPrior to adjourning to closed session, the Board President will call the meeting to order.  Members of the public who wish to address the Board of Trustees concerning closed session items only may complete a request form prior to the start of the meeting.  Comments are limited to five minutes per person.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Call to Order / Public Comment on Closed Session Items Only", 
+                    "item_text_raw": " Call to Order / Public Comment on Closed Session Items Only", 
+                    "item_type": "Procedural"
+                }
+            ], 
+            "section_name": "REGULAR MEETING - CALL TO ORDER - Toyon Room (5:00 p.m.)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SGR4G6BFE50", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE APPOINTMENT - Interim Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_text_raw": " PUBLIC EMPLOYEE APPOINTMENT - Interim Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9SGR6G6C53E0", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION - Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_text_raw": " PUBLIC EMPLOYEE PERFORMANCE EVALUATION - Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9PAR2M6746EB", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATOR District Negotiator: Dorene Novotny Employee Organizations: All Represented and Unrepresented Groups (Pursuant to Government Code Section 54957.6)", 
+                    "item_text_raw": " CONFERENCE WITH LABOR NEGOTIATOR District Negotiator: Dorene Novotny Employee Organizations: All Represented and Unrepresented Groups (Pursuant to Government Code Section 54957.6)", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "ADJOURN TO CLOSED SESSION - Altos Room", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS4H70D2B1", 
+                    "item_details": "\nThe Board President will call the regular meeting of the Board of Trustees to order and lead the audience in the Pledge of Allegiance.  Please silence cell phones and electronic devices.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Call to Order / Pledge of Allegiance", 
+                    "item_text_raw": " Call to Order / Pledge of Allegiance", 
+                    "item_type": "Procedural"
+                }
+            ], 
+            "section_name": "PUBLIC SESSION - Toyon Room (6:00 p.m.)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS4M70D2B5", 
+                    "item_details": "\nThe Board President will announce any reportable action taken during closed session.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Closed Session Report", 
+                    "item_text_raw": " Closed Session Report", 
+                    "item_type": "Report"
+                }
+            ], 
+            "section_name": "REPORTING OUT FROM CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SDU637A7765", 
+                    "item_details": "\nDraft minutes of the December 8, 2014, organizational and regular meeting of the Board of Trustees are available using the \"View Minutes\" link.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "Chancellor Thor recommends approval of the December 8, 2014, minutes of the organizational and regular meeting of the Board of Trustees.", 
+                    "item_text": "Minutes of the December 8, 2014, Organizational and Regular Meeting of the Board of Trustees", 
+                    "item_text_raw": " Minutes of the December 8, 2014, Organizational and Regular Meeting of the Board of Trustees", 
+                    "item_type": "Action, Minutes"
+                }
+            ], 
+            "section_name": "APPROVAL OF MINUTES (ACTION)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS4S70D2BA", 
+                    "item_details": "\nMembers of the public who wish to address the Board or comment on items not on the agenda may do so by completing a request form prior to the start of the meeting.  Comments are limited to five minutes per person.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Public", 
+                    "item_text_raw": " Public", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "9QZS4W70D2BE", 
+                    "item_details": "\nStudents who wish to address the Board or comment on items not on the agenda may do so by completing a request form prior to the start of the meeting.  Comments are limited to five minutes per person.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Students", 
+                    "item_text_raw": " Students", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "9QZS5270D2C2", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Staff", 
+                    "item_text_raw": " Staff", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "9QZS5570D2C5", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Board", 
+                    "item_text_raw": " Board", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "HEARINGS: ITEMS NOT ON THE AGENDA (The Board does not take action or respond to items not on the agenda.)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS5970D2C9", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "Chancellor Linda Thor recommends approval of consent calendar items 1-10.", 
+                    "item_text": "Approval of Consent Calendar", 
+                    "item_text_raw": " Approval of Consent Calendar", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9SGNGG5F5EF4", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe district’s board policy concerning international travel (BP 4176) requires that the Chancellor submit a report to the Board of Trustees of all approved international travel requests.\n\t \nBelow are the requests approved by the Chancellor from October 2014 through January 2015:\n\t \nMargaret Hanzimanolis, De Anza College, English Instructor\nDates:  January 7 - January 12, 2015\nDestination:  Vancouver, Canada\nActivity:  Modern Language Association Annual Convention\nDistrict (General Fund) Allocation: $500.00\nFunding Source:  Professional conference funds\n\t \nIsaiah Nengo, De Anza College, Anthropology Instructor\nDates:  February 10 - February 11, 2015\nDestination:  Nairobi, Kenya and Addis Ababa, Ethiopia\nActivity:  Delivery of newly discovered fossil ape cranium to Addis Ababa for CT scanning\nDistrict (General Fund) Allocation: $2,000.00\nFunding Source:  Leakey Foundation Research Grant\n\t \nJohn Fox, Foothill College, Sociology Instructor\nDates:  February 26 - March 1, 2015\nDestination:  Vancouver, Canada\nActivity:  International Center for Academic Integrity Annual Conference\nDistrict (General Fund) Allocation: $1,400.00\nFunding Source:  Professional conference funds\n\t\t \nAmy Lombardi, De Anza College, English Instructor\nDates:  March 23 - March 27, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nKathy Flores, De Anza College, English as a Second Language Instructor\nDates:  March 24 - March 30, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nMaria Marin, De Anza College, English as a Second Language Instructor\nDates:  March 25 - March 29, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nMarcy Betlach, De Anza College, English as a Second Language Instructor\nDates:  March 25 - March 28, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nChristine Chai, De Anza College, English as a Second Language Instructor\nDates:  March 25 - March 28, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nLinda C. Yee, De Anza College, English as a Second Language Instructor\nDates:  March 25 - March 28, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nKristin Skager, De Anza College, Reading Program Instructor\nDates:  March 25 - March 28, 2015\nDestination:  Toronto, Canada\nActivity:  TESOL International Convention & English Language Expo \nDistrict (General Fund) Allocation: $1,000.00\nFunding Source:  Professional conference funds\n\t \nSubmitted by:\nLinda Thor, Chancellor\nAdditional contact names:\n\t\t\t\t\t \nIs backup provided?\nNo\n\t \n", 
+                    "item_number": "1.", 
+                    "item_recommendation": "", 
+                    "item_text": "Approved International Travel (INFORMATION)", 
+                    "item_text_raw": " 1. Approved International Travel (INFORMATION)", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "9QZT4T759868", 
+                    "item_details": "\nBackground and Analysis:\n\t \nPresented to the Board for ratification is the list of contracts and agreements signed by the Vice Chancellor of Business Services.  Business Services presents this list at each Board meeting per Education Code requirement and board policy section 3000.\n\t \nSubmitted by:\n Kevin McElroy, Vice Chancellor, Business Services, x6202\nAdditional contact names:\n\t\t\t\t\t \nIs backup provided?\n Yes\n\t \n", 
+                    "item_number": "2.", 
+                    "item_recommendation": "Vice Chancellor of Business Services recommends ratification of the contracts and agreements as presented.", 
+                    "item_text": "Ratification of Contracts and Agreements", 
+                    "item_text_raw": " 2. Ratification of Contracts and Agreements", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9SALMA56FBC2", 
+                    "item_details": "\nBackground and Analysis:\n\t \nEducation Code Section 76140 requires each district to establish its non-resident tuition for the subsequent fiscal year by February 1.  The non-resident tuition fee is composed of two parts: the tuition fee and an assessment for capital outlay.\n\t \nFor 2014/15, the base rate was set at the district rate of $132. The capital outlay rate was set at $17, for a total of $149 per quarter unit (applicable to all non-resident students).\n\t \nFor 2015/16, the statewide rate is $133 per quarter unit compared to the district rate of $135 as per the calculations on page 1 of the attached worksheet. Under these circumstances, the district has the following options:\n\t \n1. Set the rate at the statewide average rate of $133 (plus capital)\n\t \n2. Set the rate at the district average rate of $135 (plus capital)\n\t \n3. Option 3, as specified under Education Code Section 76140, cannot be exercised as FHDA enrollment in non-credit courses is below 10%\n\t \n4. Set the rate to equal the rate of a contiguous district (plus capital)\n\t \n5. No more than district average cost, no less than the state average cost (plus capital)\n\t \n6. Set the rate at ‘highest years statewide average tuition.’ This rate is calculated to be $133 per quarter unit (plus capital)\n\t \n7. Set the rate at no greater than the 2013/14 average non-resident tuition fee of public community colleges in a minimum of 12 states comparable to California in cost of living. This average is calculated to be $253 per quarter unit (plus capital)\n\t \nUpon analysis of these options, and in discussion with the Dean of International Programs, it is recommended that the base rate be set at $135 (Option 2) for 2015/16, or $3 more than in 2014/15.\n\t \nThe 2015/16 non-resident student capital outlay fee should not exceed the lesser of $23 per quarter unit (see calculation on page 2 of the attached worksheet) or 50% of the adopted 2014/15 nonresident tuition fee of $132, or $66.  We are recommending that the capital outlay fee for 2015/16 be set at $17, the same as for 2014/15.  Note: Since fiscal year 2010/11, AB 947 amended EC 76141 to enable community college districts to charge all non-resident students a capital outlay fee, not only those students who were both citizens and residents of a foreign country.\n\t \nIn summary, the rate for all non-resident students will be $135 base rate plus $17 capital rate for a total of $152 per quarter unit, representing a $3 increase over the 2014/15 rate.\n\t \nSubmitted by:\n Kevin McElroy, Vice Chancellor, Business Services, x6202\nAdditional contact names:\n Joni Hayes, Director, Budget Operations, x6261\nIs backup provided?\n Yes\n\t \n", 
+                    "item_number": "3.", 
+                    "item_recommendation": "It is recommended that the Board approve the base rate of $135/quarter unit and the capital outlay rate of $17/quarter unit for a total of $152/unit for all non-resident students for the 2015/16 fiscal year.", 
+                    "item_text": "Non-Resident Tuition Rate for 2015/16", 
+                    "item_text_raw": " 3. Non-Resident Tuition Rate for 2015/16", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9S9NTY618CCF", 
+                    "item_details": "\nBackground and Analysis:\n\t \nAttached is the 2015-2016 Annual Client Agreement between Arthur J. Gallagher and Foothill-De Anza Community College District.  All terms and conditions are identical to the agreements of the previous 2014-2015 agreement for insurance brokerage services.  The contract period is January 3, 2015, to January 2, 2016.  The contract amount is $88,207 and is funded under the general insurance budget.\n\t \nSubmitted by:\n Marsha Kelly, Director of Risk Management, x6131\nAdditional contact names:\n Kevin McElroy, Vice Chancellor, Business Services, x6201\nIs backup provided?\n Yes\n\t \n", 
+                    "item_number": "4.", 
+                    "item_recommendation": "The Vice Chancellor of Business Services, Kevin McElroy, recommends approval of the agreement between Arthur J. Gallagher and Foothill-De Anza Community College District for insurance brokerage services for calendar year, 2015-2016.", 
+                    "item_text": "Annual Client Agreement between Arthur J. Gallagher and Foothill-De Anza Community College District", 
+                    "item_text_raw": " 4. Annual Client Agreement between Arthur J. Gallagher and Foothill-De Anza Community College District", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9SBN4E5E19FF", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe District has been notified by CalSTRS that CalSTRS retirees may not serve in CalPERS eligible positions that are part of a school. This impacts Patricia James, the Online Education Initiative (OEI) Executive Director.  She is a current CalSTRS retiree, and her position as OEI Executive Director is a CalPERS eligible position.  The District was not made aware of this restriction by CalSTRS until after Ms. James was employed by the District.\n\tThe Foundation for California Community Colleges (FCCC) has agreed to assist the District with Ms. James' continued employment as the OEI Executive Director.  Effective January 1, 2015, the FCCC will employ Ms. James, and the District will contract with the FCCC for her services. Subsequently, Ms. James will resign her position with the District but will continue to provide leadership to the OEI as the Executive Director in an identical manner.  As the FCCC is not a school, the CalSTRS restriction on CalPERS employment is not applicable.\n\t \nSubmitted by:\n Joe Moreau, Vice Chancellor, Technology, x6120\nAdditional contact names:\n\t\t\t\t\t \nIs backup provided?\n Yes\n\t \n", 
+                    "item_number": "5.", 
+                    "item_recommendation": "Joe Moreau, Vice Chancellor, Technology, recommends that the Board of Trustees approve the Services Agreement between the Foundation for California Community Colleges and Foothill-De Anza Community College District for Ms. James to provide leadership serving as the Executive Director for the Online Education Initiative (OEI).", 
+                    "item_text": "Services Agreement between the Foundation for California Community Colleges and Foothill-De Anza Community College District (Agreement No. FS-038-14)", 
+                    "item_text_raw": " 5. Services Agreement between the Foundation for California Community Colleges and Foothill-De Anza Community College District (Agreement No. FS-038-14)", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9SGMJW5AF88F", 
+                    "item_details": "\nBackground and Analysis:\n\t \nHuman Resources Report\n\t \nThe Human Resources Report is presented for Board approval or ratification of personnel action items in the following categories:\n\t \nActing Assignment\nProfessional Growth Award\nAdministrative Achievement Award\nPromotion\nAdministrative Leave\nReassignment\nInterim Assignment\nReclassification\nLayoff\n39 Month Re-employment\nLeave of Absence\nResignation\nLongevity Award\nRetirement\nNew Appointment\nSeparation\nNew Assignment\nService Recognition Award\nNew Hire\nStaff Development Leave \nNew Position\nTemporary Contract Change\nPermanent Contract Change\nTraining/Retraining Stipend\nProfessional Achievement Award\nTransfer\nProfessional Development Leave\n\t\t\t\t \n\t \nThe report includes all action items for Administrators, Faculty, Classified and Temporary and Short-Term employees. \n\t \n\t \nSubmitted by:\n\t\t\t\t\t  Dorene Novotny, Vice Chancellor of Human Resources and Equal Opportunity  x6211\nAdditional contact names:\n\t\t\t\t\t  Charo Albarran, Director of Human Resources  x6109\nIs backup provided?\n\t\t\t\t\t  Yes\n\t \n", 
+                    "item_number": "6.", 
+                    "item_recommendation": "Dorene Novotny, Vice Chancellor of Human Resources and Equal Opportunity, recommends approval of the Human Resources Report.", 
+                    "item_text": "Human Resources Report", 
+                    "item_text_raw": " 6. Human Resources Report", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9RWEB564EA8A", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe SB 1070 legislation is designed to improve linkages and career technical education pathways between high schools and community colleges. Foothill College is the fiscal agent for the SB 1070 grant in the Southwest portion of the San Francisco Bay Region. The SB 1070 Grant â Bay Area Southwest Career Technical Education Pathways Consortium consists of fourteen community colleges and their respective partnering high schools. \n\t \nResearch Development Associates (RDA) is contracting with Foothill to provide research and writing services in support of grant deliverables. RDA will produce reports during the various phases of the grant. Cost of this work was built into the grant budget and is covered by the SB 1070 grant funding.\n\t \nSubmitted by:\nJudy C. Miner, Foothill College President\nAdditional contact names:\nJohn Mummert, Dawn Girardelli\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "7.", 
+                    "item_recommendation": "The Foothill College Administration recommends approval of the contract with Research Development Associates (RDA) for SB 1070.", 
+                    "item_text": "Foothill College - Approval of RDA Contract for SB 1070", 
+                    "item_text_raw": " 7. Foothill College - Approval of RDA Contract for SB 1070", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9RXMJ45B67D7", 
+                    "item_details": "\nBackground and Analysis:\n\t \nFoothill College seeks board approval for curriculum additions and changes for the 2015-16 Catalog. Per Title 5 direction, all course changes, substantial and non-substantial, must be approved by the governing board of the District before they may be submitted to the State Chancellor's Office for final approval.\n\t \nThese courses have met Foothill’s curriculum standards, and the Foothill College Curriculum Committee certifies that they are compliant with Title 5 regulations.\n\t \nSubmitted by:\nJudy C. Miner, Foothill College President\nAdditional contact names:\nKimberlee Messina, Andrew LaManque, Isaac Escoto\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "8.", 
+                    "item_recommendation": "The Foothill College Administration recommends approval of the Curriculum Updates for 2015-16 Catalog.", 
+                    "item_text": "Foothill College - Approval of Curriculum Updates for 2015-16 Catalog", 
+                    "item_text_raw": " 8. Foothill College - Approval of Curriculum Updates for 2015-16 Catalog", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9RSTMX011D7A", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe Celebrity Forum Speaker Series has been a part of Foothill College for 47 years. The series is an important community event and draws thousands of people each year to the Flint Center. From its founding in 1968, the series has been completely self-supporting and has never used District or college funds for its operation, being financed solely through ticket sales. The series has always been a financial success and has contributed valuable discretionary dollars to Foothill College.\n\t \nThe Foothill College Celebrity Forum has secured February 17, 18, 19, 2016, for lectures by Malcom Gladwell through his representative at W. Colston Leigh, Inc. The agreed upon fees for the three appearances is $225,000. This fee does not include travel expenses. Half of this fee will be used as a deposit to lock in Malcom Gladwell's appearances and is due immediately. The remaining half will be due before his actual appearance in February.\n\t \nThis item is being submitted to the board for contract approval.\n\t \nSubmitted by:\nJudy C. Miner, Foothill College President\nAdditional contact names:\nBernata Slater, Richard Henning\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "9.", 
+                    "item_recommendation": "The Foothill College Administration recommend approval of the Celebrity Forum Contract.", 
+                    "item_text": "Foothill College - Celebrity Forum Contract Approval", 
+                    "item_text_raw": " 9. Foothill College - Celebrity Forum Contract Approval", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9RXMRU5C8983", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe Celebrity Forum Speaker Series has been a part of Foothill College for 47 years. The series is an important community event and draws thousands of people each year to Flint Center. From its founding in 1968, the series has been completely self-supporting and has never used District or college funds for its operation, being financed solely through ticket sales. The series has always been a financial success and has contributed valuable discretionary dollars to Foothill College.\n\t \nThe Foothill College Celebrity Forum has secured October 21, 22, 23, 2015, for lectures by Michio Kaku through his representative at Keppler Associates, Inc. The agreed upon fees for the three appearances  is $225,000. This fee does not include travel expenses. Half of this fee will be used as a deposit to lock in Michio Kaku's appearances and is due immediately. The remaining half will be due before his actual appearances in October.\n\t \nThis item is being submitted to the board for contract approval.\n\t \nSubmitted by:\nJudy C. Miner, Foothill College President\nAdditional contact names:\nBernata Slater, Richard Henning\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "10.", 
+                    "item_recommendation": "The Foothill College Administration recommends the approval of the Celebrity Forum contract.", 
+                    "item_text": "Foothill College - Celebrity Forum Contract Approval", 
+                    "item_text_raw": " 10. Foothill College - Celebrity Forum Contract Approval", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "APPROVAL OF CONSENT CALENDAR (ACTION)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SGT6M74FE84", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe timeline for selecting a new Chancellor for the district will be discussed.\n\t \nSubmitted by:\nLinda Thor, Chancellor\nAdditional contact names:\n\t\t\t\t\t \nIs backup provided?\nYes (attachment posted 1/12/15 9:00 a.m.)\n\t \n", 
+                    "item_number": "11.", 
+                    "item_recommendation": "", 
+                    "item_text": "Chancellor Search Timeline (INFORMATION)", 
+                    "item_text_raw": " 11. Chancellor Search Timeline (INFORMATION)", 
+                    "item_type": "Discussion, Information"
+                }, 
+                {
+                    "boarddocs_id": "9SDUFE7BD69F", 
+                    "item_details": "\nBackground and Analysis:\n\t \nPresented for approval are proposed revisions to the schedule of 2015 Board of Trustees, Audit and Finance, and Citizens' Bond Oversight Committee meetings originally approved at the August 4, 2014, Board of Trustees meeting. Proposed revisions include moving the upcoming study session from February 2 to February 9 to accommodate the schedule of a key presenter and changing the regular meeting in July from July 6 to July 13 in order to avoid potential conflicts with Independence Day holiday weekend vacations.\n\t \nSubmitted by:\nLinda Thor\nAdditional contact names:\n\t\t\t\t\t \nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "12.", 
+                    "item_recommendation": "Chancellor Linda Thor recommends approval of the revised 2015 Board of Trustees meeting schedule.", 
+                    "item_text": "Revised 2015 Board of Trustees Meeting Calendar (ACTION)", 
+                    "item_text_raw": " 12. Revised 2015 Board of Trustees Meeting Calendar (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "BOARD BUSINESS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SE25H008234", 
+                    "item_details": "\nBackground and Analysis:\n\t \nIn accordance with Education Code  Sections 88017, 88117, and 88127, the board is requested to adopt Resolution #2015-01 eliminating the Classified position(s) and authorizing the District to provide the affected employee(s) with a sixty (60) day notice of layoff.\n\t \nSubmitted by:\n Dorene Novotny, Vice Chancellor of Human Resources and Equal Opportunity x6211\nAdditional contact names:\n Charo Albarran, Director of Human Resources x6109\nIs backup provided?\n Yes\n\t \n", 
+                    "item_number": "13.", 
+                    "item_recommendation": "Dorene Novotny, Vice Chancellor of Human Resources and Equal Opportunity, recommends approval.", 
+                    "item_text": "Resolution Authorizing the Reduction in Classified Service (ACTION)", 
+                    "item_text_raw": " 13. Resolution Authorizing the Reduction in Classified Service (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "HUMAN RESOURCES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9RVLKW69EED2", 
+                    "item_details": "\nBackground and Analysis:\n\t \nFoothill College desires to increase enrollment and foster community awareness of its educational offerings through continued media advertisements in the local Bay Area.  The cost of advertising ranges from $150,000 to $200,000 per year, depending on actual advertisement outreach efforts. Therefore, Purchasing Services staff worked with the Foothill College Marketing & Public Relations Department to develop a request for proposals and a scope of work for services required to obtain these services.\n\t \nRequest for Proposal (RFP) #1716 was advertised in the San Jose Post Record on October 17 and October 24, 2014.  The RFP was also sent to six (6) vendors and was posted on “BidNet” at www.govbids.com. RFP’s were due on November 12, 2014 and two vendors submitted a response, Ad Age Broadcast Network and SkoolLive.  Purchasing Services staff and Andrea Hanstein, Foothill College Director of Marketing & Public Relations evaluated the responses. Of the two responses, SkoolLive did not respond directly to all of the requirements and needs described in the RFP.  The response from Ad Age was complete and thorough and meets the needs of the College. Ad Age currently provides the same services to Foothill College and other higher education institutions in the Bay Area such as San Mateo CCD and West Valley Mission CCD.\n\t \nSubmitted by:\n  Pam Grey, Director of Purchasing Services, x 6166\nAdditional contact names:\n  Andrea Hanstein – x7645, Gina Bailey – x6165\nIs backup provided?\n  No\n\t \n", 
+                    "item_number": "14.", 
+                    "item_recommendation": "Authorize Director of Purchasing Services Pam Grey to enter into a contract with Ad Age Broadcast Network for one year, renewable for up to four additional years, for media buying services at Foothill College based upon the typical scope of services and price structure provided in RFP #1716.", 
+                    "item_text": "Award a contract pursuant to Request for Proposal #1716 – Media Buying Services – Foothill College (ACTION)", 
+                    "item_text_raw": " 14. Award a contract pursuant to Request for Proposal #1716 – Media Buying Services – Foothill College (ACTION)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9RWJQC73666F", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThe Board of Governors of the California Community Colleges awarded a competitive grant to a partnership of the Foothill-De Anza and Butte Glenn community college districts to launch Governor Jerry Brown’s groundbreaking Online Education Initiative (OEI) for the state of California.  The goal of the initiative is to increase the number of California students who obtain associate degrees and transfer to four-year institutions. Online tutoring services is a key component of this initiative and is anticipated to improve student course success rates.\n\t \nIn accordance with the California Public Contract Code (PCC) Section 20651(a) through (d), only the governing board may authorize award of purchase orders that exceed the legally mandated bid threshold, and the board must award the orders to the lowest responsible bidder or reject all bids.  However, in lieu of the district conducting its own bid process, Public Contract Code (PCC) section 20652 provides that community college districts may utilize contracts that have been awarded by other public entities. \n\t \nAs a lead agency of the OEI grant, Foothill-De Anza and the OEI Steering Committee will guide the success of the program for online tutoring.  Representatives from Foothill-De Anza, the OEI Steering Committee, and educators throughout the state sought the expertise of the Foundation for California Community Colleges to develop an RFP to secure online tutoring services and infrastructure in support of the OEI initiative.  Initial services will roll out to eight (8) colleges in Spring 2015 to pilot the program.  \n\t \nThe Foundation for California Community Colleges awarded RFP #14-001 which is a piggybackable contract for an online tutoring service infrastructure and fee structure slated to help improve student course success rates in support of the OEI initiative; the contract is valid for one and one-half years with an option to renew for up to three additional years. This award was the result of a competitive, RFP process conducted in accordance with the California Public Contract Code.\n\t \nThe OEI grant will fund up to $2.5 million to support the OEI online tutoring activities over the next four and one half years.\n\t \nSubmitted by:\n\t\t\t\t\t  Pam Grey, Director of Purchasing Services, x 6166\nAdditional contact names:\n\t\t\t\t\t  Joe Moreau, Pat James, Gina Bailey\nIs backup provided?\n\t\t\t\t\t  Yes\n\t \n", 
+                    "item_number": "15.", 
+                    "item_recommendation": "Pam Grey, Director of Purchasing Services, recommends the Board of Trustees make a finding that it is in the best interest of the District to issue purchase orders for online tutoring services in excess of the legally mandated bid threshold to Link-Systems International, Inc. pursuant to Public Contract Code 20652 and the Foundation for California Community Colleges RFP 14-001.", 
+                    "item_text": "Authorize the use of a contract awarded by the Foundation for California Community Colleges to Link-Systems International, Inc. for online tutoring services pursuant to Public Contract Code 20652 (ACTION)", 
+                    "item_text_raw": " 15. Authorize the use of a contract awarded by the Foundation for California Community Colleges to Link-Systems International, Inc. for online tutoring services pursuant to Public Contract Code 20652 (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "BUSINESS SERVICES/FINANCE", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9RW68E829113", 
+                    "item_details": "\nBackground and Analysis:\n\t \nThis project will replace the existing chiller, chilled water pumps, motors, and controls for the chilled water cooling system at the De Anza College Science Center buildings. The project scope of work will also include the Contractor’s coordination with the temporary chiller vendor as well as the installation and removal of temporary piping, valves, and support components that will complete the temporary chiller connections during the project. Salas O’Brien prepared the design and the bid specifications for the work.\n\t \nThe bid was legally advertised to contractors on November 7 and November 14, 2014. The “Invitation to Bid” was also sent to nine (9) builder’s exchanges and advertised in the Daily Pacific Builder as well as posted on “BidNet” at www.govbids.com.  Bids were publicly opened and read on December 11, 2014, in the Purchasing Services office. Four (4) contractors submitted bids. Bid results are below:\nBID RESULTS\nContractor\nBase Bid \nProposal Amount\nPullman Construction Inc.\n$625,000\nEnvironmental Systems Inc. of Northern California\n$639,000\nIntegra Construction Services Inc.\n$699,973\nLyles Mechanical Co.\n$869,700\n\t \nThe Bid Proposal submitted by the apparent low bidder, Pullman Construction Inc. (Pullman), was incomplete in that the fields that required the contractor’s license classification number and expiration date as defined in Paragraph 4 of the bid form were left blank. Purchasing staff immediately confirmed that Pullman’s contractor’s license was valid on the California Contractor’s State License Board website and requested that Pullman complete the form and resubmit. It is the opinion of the Director of Purchasing Services, Pam Grey, that this minor omission and the immediate correction can be waived as a minor irregularity. The contract documents state “the District reserves the right to reject any or all Bid Proposals or to waive any irregularities or informalities in any Bid Proposal or in the bidding.” \n\t \nFurthermore, Pullman confirmed that its bid price of $625,000 is true and accurate for the work as specified and it confirmed that all first tier subcontractors were listed. Pullman Construction successfully performed work at the Media and Learning Center building at De Anza College for its chilled water production system. \n\t \nThe construction estimate for the repair was $525,000 - $575,000, excluding a $50,000 allowance for unforeseen conditions and infrastructure for a temporary chiller. The bid price of $625,000 that includes the allowances is within the estimated value and will be paid for by a combination of State of California Block Grant and Proposition 39 funds. \n\t \nSubmitted by:\n  Director of Purchasing Services, Pam Grey \nAdditional contact names:\n  Jennifer Mahato, Tom Armstrong, Steve Kitchen, Gina Bailey \nIs backup provided?\n  No\n\t \n", 
+                    "item_number": "16.", 
+                    "item_recommendation": "Waive the minor omission in the Bid Proposal as a minor irregularity and authorize the Director of Purchasing Services, Pam Grey, to award a contract pursuant to Bid Document 1698 – Science Center Chiller Replacement at De Anza College in the amount of $625,000 to Pullman Construction, Inc.", 
+                    "item_text": "Award a contract for Bid Document 1698 – Science Center Chiller Replacement at De Anza College (ACTION)", 
+                    "item_text_raw": " 16. Award a contract for Bid Document 1698 – Science Center Chiller Replacement at De Anza College (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "FACILITIES", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS5H70D2D1", 
+                    "item_details": "\nSubmitted by:\nSteven Kitchen, Executive Director, Facilities and Operations, extension 6150\nAdditional contact names:\nTom Armstrong, Director, Bond Program Management, De Anza College,\nArt Heinrich, Director, Bond Program Management, Foothill College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "17.", 
+                    "item_recommendation": "Steven Kitchen, Executive Director of Facilities and Operations; Tom Armstrong, Director, Bond Program Management, De Anza College; and Art Heinrich, Director, Bond Program Management, Foothill College, recommend ratification/approval of Measure E consent item A.", 
+                    "item_text": "Measure E Consent (ACTION)", 
+                    "item_text_raw": " 17. Measure E Consent (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "MEASURE E CONSENT", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9S2VNW819D61", 
+                    "item_details": "\nBackground and Analysis:\n\t \nTitle:  Change Order #11\nVendor:  Alten Construction\nAgreement Date:  October 17, 2013\nCampus:  Foothill College\nProject Number:  420\nProject Name:  District Office Building Renovation\nAmount:  $48,177.00\nFor:\n\t \nChanges in construction issued by the architect due to the change of use of the District Office Building to house ETS office space.  As a part of this change order, a $5,000 credit is taken for an allowance that is no longer applicable to the project.\n\t \nThis change plus all previously approved change orders equal to 23.5% of the base contract value, excluding  time extension cost. \n\t \nThe funding for this change is within the current budget.\n\t \nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations, ext 6150\nAdditional contact names:\nArt Heinrich, Director, Bond Program Management, Foothill College\nIs backup provided?\nYes\n\t \n\t \n", 
+                    "item_number": "A)", 
+                    "item_recommendation": "Approval", 
+                    "item_text": "Alten Construction - Change Order #11 - District Office Building Renovation - $48,177.00", 
+                    "item_text_raw": " A) Alten Construction - Change Order #11 - District Office Building Renovation - $48,177.00", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "--Central Services Measure E Consent", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS7971353C", 
+                    "item_details": "\nSubmitted by:\nSteven Kitchen, Executive Director, Facilities and Operations, extension 6150\nAdditional contact names:\nTom Armstrong, Director, Bond Program Management, De Anza College,\nArt Heinrich, Director, Bond Program Management, Foothill College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "18.", 
+                    "item_recommendation": "Steven Kitchen, Executive Director of Facilities and Operations; Tom Armstrong, Director, Bond Program Management, De Anza College; and Art Heinrich, Director, Bond Program Management, Foothill College, recommend ratification/approval of Measure C consent items A - E.", 
+                    "item_text": "Measure C Consent (ACTION)", 
+                    "item_text_raw": " 18. Measure C Consent (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "MEASURE C CONSENT", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9EFS6M6725D7", 
+                    "item_details": "\nBackground and Analysis:\n\t \nTitle:  Change Order #4\nVendor:  C.W. Driver\nAgreement Date:  September 10, 2012\nCampus:  FHDA Education Center\nProject Number:  801\nProject Name:  FHDA Education Center\nAmount:  $100,000.00\nFor:\n\t \nAn increase in reimbursable expenses made for preparation of steel fabrication shop drawings for the Education Center.  \n\t \nAn increase in the contractor’s preconstruction services will allow for preparation of structural steel shop drawings prior to establishing the guaranteed maximum price for the project. This change will assist C.W. Driver in its efforts to “fast track” the lengthy process involved with detailing and approving the structural steel shop drawings needed for fabrication and delivery of the materials.  \n\t \nThis approach will advance the completion of the project at no added cost to the District; the increased cost in preconstruction services will be offset by savings in the construction cost.  A similar process was used to expedite the completion of the Media and Learning Center project.  \n\t \nA guaranteed maximum price for the Education Center is planned to be presented to the Board of Trustees for approval on March 2, 2015, with construction of the building to begin soon thereafter.  \n\t \nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations\nAdditional contact names:\nArt Heinrich, Director, Bond Management Program, Foothill College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "A)", 
+                    "item_recommendation": "Approval", 
+                    "item_text": "C.W. Driver - Change Order #4 - Foothill-DeAnza Education Center - $100,000", 
+                    "item_text_raw": " A) C.W. Driver - Change Order #4 - Foothill-DeAnza Education Center - $100,000", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9R6ULY7C0941", 
+                    "item_details": "\nBackground and Analysis:\n\t \nTitle:  Agreement for Services\nVendor:  Cody Andy Wasney Architects\nAgreement Date:  December 22, 2014\nCampus:  Foothill College\nProject Number:  405\nProject Name:  ETS Facilities: Training Room Renovation\nAmount:  $16,600.00\nFor:\n\t \nDesign, engineering, and construction administration services for the ETS Training Room Renovation in the former District Office Building.  This work was not included in the DOB Renovation project that is currently under way; it will adapt the former board room to a multipurpose training and meeting space. \n\t \nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations, extension 6150\nAdditional contact names:\nArt Heinrich, Director, Bond Program Management, Foothill College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "B)", 
+                    "item_recommendation": "Approval", 
+                    "item_text": "Cody Andy Wasney Architects - Agreement for Services - ETS Facilities - $16,600", 
+                    "item_text_raw": " B) Cody Andy Wasney Architects - Agreement for Services - ETS Facilities - $16,600", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "--Central Services Measure C Consent", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9R8LL50CD4EC", 
+                    "item_details": "\nBackground and Analysis:\n\t \nTitle:  Revision #3 to PAA 10B to Master Agreement\nVendor:  Noll and Tam Architects\nAgreement Date:  December 06, 2007\nCampus:  De Anza College\nProject Number:  216\nProject Name:  Library\nAmount:  $27,758\nFor:\nApproval\nďťżďťż\n\t \nAdditional design services for added scope as follows: \nUpon demolition of the existing ceilings it exposed a quantity of existing ductwork that is in unacceptable condition to remain.  It was also discovered that the support conditions at the perimeter slot diffusers in many rooms were insufficient and require to be addressed.  Re-design the low pressure ductwork distribution downstream of the VAV terminals for square lay-in diffusers. Construction administrative services for the added scope. \nProvide additional design services to assist the college with programming for the LCW 2nd floor (currently being used for swing space during library construction), furniture and finishes after construction of the library is complete.                                                          \nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations\nAdditional contact names:\nTom Armstrong, Director, Bond Program Management, De Anza College\nDonna Jones-Dulin, Associate Vice President, Finance & Educational Resources, De Anza College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "C)", 
+                    "item_recommendation": "Approval", 
+                    "item_text": "Noll & Tam Architects - Revision #3 to PAA 10B to Master Agreement - Library - $27,758", 
+                    "item_text_raw": " C) Noll & Tam Architects - Revision #3 to PAA 10B to Master Agreement - Library - $27,758", 
+                    "item_type": "Action (Consent)"
+                }, 
+                {
+                    "boarddocs_id": "9R8LBL822ABE", 
+                    "item_details": "\nBackground and Analysis:\n\t \nInformation was provided to the Board of Trustees on December 7, 2009, and January 19, 2010, concerning the use of a Lease-Leaseback construction procurement process for Measure C projects. The information included a discussion of the legal aspects of the process as well as the likely risks and benefits associated with construction using the authority provided under the Education Code section 81335. On August 31, 2010, a default judgment was issued by the Santa Clara County Superior Court which confirmed the validity of the use of this procurement process. Since that time the Board has approved the use of Lease-Leaseback procurement for several projects: the Media and Learning Center, the Physical Sciences & Engineering Center, the District Data Center, the Advanced Technology Center and the L-7 Renovation.\n\t \nThe procurement process for this project will be consistent with the process used for previously-approved projects, and it will include the same key decision/Board approval steps. The Board will be requested to review and approve key decisions and actions in the procurement process over a period of time. Target dates for key actions associated with the project are as follows:\nApril, 2015 - Approval of the Lease-Leaseback contractor based upon a Request for Qualifications and Request for Proposals process\nApril, 2015 - Award of a pre-construction services agreement for the Lease- Leaseback contractor\nMay, 2015 - Approval of a Site Lease and a Facilities Lease with the Lease- Leaseback contractor including a guaranteed maximum price for building renovation based on DSA-approved plans and Specifications\nMid-May, 2015 - Construction commences on the Campus Drive\nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations\nAdditional contact names:\nTom Armstrong, Director, Bond Program Management, De Anza College\nDonna Jones-Dulin, Associate Vice President, Finance & Educational Resources, De Anza College\nPam Grey, Director, Purchasing Services\nIs backup provided?\nNo\n\t \n", 
+                    "item_number": "D)", 
+                    "item_recommendation": "The Executive Director of Facilities and Operations recommends that the Board approve the initiation of a construction procurement process under the Lease-Leaseback provision of Education Code section 81335 for the Campus Drive project subject to the subsequent Board approvals as noted.", 
+                    "item_text": "Lease-Leaseback Construction Procurement Process for the De Anza College Campus Drive Project", 
+                    "item_text_raw": " D) Lease-Leaseback Construction Procurement Process for the De Anza College Campus Drive Project", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "--De Anza College Measure C Consent", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9P8N995ECF9A", 
+                    "item_details": "\nBackground and Analysis:\n\t \nTitle:  Revision #6\nVendor:  Ratcliff Architects\nAgreement Date:  August 6, 2012\nCampus:  Foothill College\nProject Number:  121\nProject Name:  Library & ISC\nAmount:  $60,000\nFor:\n\t \nAdditional architectural and engineering services, on a time-and-materials basis, for DSA Review, Bidding, and Construction Period Services not included in the original agreement.\n\t \nSubmitted by:\nSteve Kitchen, Executive Director, Facilities and Operations, extension 6150\nAdditional contact names:\nArt Heinrich, Director, Bond Program Management, Foothill College\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "E)", 
+                    "item_recommendation": "Approval", 
+                    "item_text": "Ratcliff Architects - Revision #6 - Library & ISC - $60,000", 
+                    "item_text_raw": " E) Ratcliff Architects - Revision #6 - Library & ISC - $60,000", 
+                    "item_type": "Action (Consent)"
+                }
+            ], 
+            "section_name": "--Foothill College Measure C Consent", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9RXTA7736B97", 
+                    "item_details": "\nBackground and Analysis:\n\t \nOn December 10, 2012, the Board authorized award of a Preconstruction Services Agreement to Kitchell CEM, Inc. (Kitchell) based upon the recommendation of the Selection Committee. The Preconstruction Services Agreement required Kitchell to prequalify subcontractors, obtain competitive bids from subcontractors, develop a Guaranteed Maximum Price (GMP) to construct the project, and develop a Preliminary Construction Schedule.  On April 7, 2014 the Board of Trustees approved execution of the Site Lease and the Facilities Lease for the Project, which included a GMP for only the 3600 Swing Space Build Out Phase of the project. Kitchell has completed that phase of work for the amount of the GMP.  \n\t \nThis Amendment modifies the Facilities Lease to include a GMP for a Building 3500 Renovation Phase of the Project in the amount of $10,495,749. This phase includes the remodel of existing library building 3500.  Improvements include: structural, mechanical, electrical, and telecom system upgrades, roof replacement, and new interior finishes throughout.\n\t \nDuring construction of this Building 3500 Renovation Phase a GMP for the following Building 3600 Renovation Phase will be developed by Kitchell CEM. A final Amendment to the Facilities Lease will be brought to the Board of Trustees that will include the GMP for that phase and the final cost for all phases. The construction budget for all Project phases is $10,900,000. The Library & ISC project is funded by Measure C.\n\t \nSubmitted by:\n\t\t\t\t\t  Pam Grey, x6166\nAdditional contact names:\n\t\t\t\t\t  Steve Kitchen, x6150; Art Heinrich, x6295\nIs backup provided?\n\t\t\t\t\t  Yes\n\t \n", 
+                    "item_number": "19.", 
+                    "item_recommendation": "Authorize Pam Grey, Director of Purchasing Services, to execute Amendment #1 to the Facilities Lease with Kitchell CEM, and to accept a GMP in the amount of 10,495,749 for the Building 3500 Renovation Phase of the Project.", 
+                    "item_text": "Authorize Execution of Amendment #1 to Foothill College Library Renovation Facilities Lease with Kitchell CEM for the Building 3500 Renovation Phase at Foothill College (Measure C Project 121) in the initial amount of $10,495,749 (ACTION)", 
+                    "item_text_raw": " 19. Authorize Execution of Amendment #1 to Foothill College Library Renovation Facilities Lease with Kitchell CEM for the Building 3500 Renovation Phase at Foothill College (Measure C Project 121) in the initial amount of $10,495,749 (ACTION)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "98RMNF5B5C06", 
+                    "item_details": "\nBackground and Analysis:\n\t \nAn easement to the City of Sunnyvale allows an existing city-owned sanitary sewer line to run through the parcel of the former Onizuka Air Force Station land that now belongs to the District.  The sewer is undersized and in poor condition and has been identified for replacement in the City’s utility master plan, but the City’s project to replace the sewer is scheduled to take place after the Education Center has been built. \n\t \nIn order to avoid future disruption to the Education Center operations and undue cost to the City, the District and the City have reached an agreement to allow the District to replace the sewer as part of its site improvements, with the cost of the work being reimbursed to the District by the City.\n\t \nThis agreement is similar to the Memorandum of Agreement that enabled the District to demolish City buildings with reimbursement by the City, as approved by the Board of Trustees on May 13, 2003.  Repayment by the City for design and construction cost is due to the District upon acceptance of the work.\n\t \nSubmitted by:\nSteve Kitchen x6150\nAdditional contact names:\nArt Heinrich x6295\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "20.", 
+                    "item_recommendation": "Steve Kitchen, Executive Director of Facilities & Operations, recommends that the Board of Trustees approve this Memorandum of Agreement between the District and the City of Sunnyvale for construction of a sanitary sewer.", 
+                    "item_text": "Memorandum of Agreement between City of Sunnyvale and the District for Construction of a Sanitary Sewer at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_text_raw": " 20. Memorandum of Agreement between City of Sunnyvale and the District for Construction of a Sanitary Sewer at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9S2VMS8174D3", 
+                    "item_details": "\nBackground and Analysis:\n\t \nOn October 3, 2011, a Memorandum of Agreement with the City of Sunnyvale (City) was approved by the Board of Trustees that defined the terms and conditions for the City to include the District’s project as part of the redevelopment plan for the reuse of the Onizuka Air Force Station property.  That Agreement required the District to make street frontage improvements and to dedicate land for the related rights-of-way.  In addition, the Education Center project involves extensions and modifications to City utilities to serve the building, requiring utility easements to be granted to the City, and requiring permits from the City.\n\t \nThis Improvement Agreement requires the District to provide bonds to the City to ensure that the utility and street improvements are completed, and provides for payment to the City for utility connections and related plan review and inspections, in the amount of $66,230.75.\n\t \nTwo related agreements are need to establish easements related to this construction.  Those agreements are the subject of a separate Agenda Item at this meeting of the Board.\n\t \nSubmitted by:\nSteve Kitchen x6150\nAdditional contact names:\nArt Heinrich x6295\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "21.", 
+                    "item_recommendation": "Steve Kitchen, Executive Director of Facilities & Operations, recommends that the Board of Trustees approve this Improvement Agreement between the District and the City of Sunnyvale for construction of utility and site improvements.", 
+                    "item_text": "Improvement Agreement between City of Sunnyvale and the District for Construction of Utility and Site Improvements at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_text_raw": " 21. Improvement Agreement between City of Sunnyvale and the District for Construction of Utility and Site Improvements at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_type": "Action"
+                }, 
+                {
+                    "boarddocs_id": "9S9RZD70684E", 
+                    "item_details": "\nBackground and Analysis:\n\t \nPublic Access Deed:\n\t \nThe parcel of land deeded to the District through the federal public benefit conveyance includes the eastern half of Innovation Way; the District, not the City of Sunnyvale, owns the street in front of the Education Center.  In order to maintain the street as a public way, the District will record a Public Access Easement Deed with Santa Clara County that allows public use of the street from the center line of Innovation Way to the back of the sidewalk.  This Deed is an attachment to the Improvement Maintenance Agreement.\n\t \nImprovement Maintenance Agreement:\n\t \nBecause the District owns the street, it is responsible for its operation and maintenance.  This agreement includes requirements for the repair, maintenance and operation of the street within the public access easement described above.  In summary, the District is required to maintain street pavement and signage, sidewalks, street lighting, street frontage landscaping, and private utilities within the area.  The District is bound to maintain insurance of its land within the street easement.\n\t \nThe attached backup documents do not include some exhibit drawings which were still being prepared at board agenda deadline.  \n\t \nSubmitted by:\nSteve Kitchen x6150\nAdditional contact names:\nArt Heinrich x6295\nIs backup provided?\nYes\n\t \n", 
+                    "item_number": "22.", 
+                    "item_recommendation": "Steve Kitchen, Executive Director of Facilities & Operations, recommends that the Board of Trustees approve this Improvement Maintenance Agreement between City of Sunnyvale and the District, and the Related Public Access Easement Deed to be recorded with Santa Clara County.", 
+                    "item_text": "Improvement Maintenance Agreement between City of Sunnyvale and the District, and a Related Public Access Easement Deed, at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_text_raw": " 22. Improvement Maintenance Agreement between City of Sunnyvale and the District, and a Related Public Access Easement Deed, at the FHDA Education Center (Measure C project #801) (ACTION)", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "MEASURE C PROJECTS", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9QZS5U70D2DC", 
+                    "item_details": "\nFebruary 9\nBoard of Trustees Meeting\nStudy Session\n\tBoard Legislative Principles\n\tBudget Update\n\tMeasure C Progress Report (semi-annual)\nClosed Session\n\tChancellor's Evaluation Process\nRegular Meeting\n\tProfessional Development Leaves 2015-16\n\tAnnual Fiscal Self-Assessment\n\tCBOC Annual Report\n\tFoundation Board Report\n-----\nMarch 2\nBoard of Trustees Meeting\nTenure Reception\nRegular Meeting\n\tFaculty Tenure\n\tQ Listing of Investments (AP 3130)\n\t2nd Quarter Report/Revisions and Transfers (3112)\n\tAdministrator Contracts\n\tCCCT Board Report\n-----\nMarch 5\nAudit & Finance Committee Meeting\n-----\nMarch 10\nCitizens' Bond Oversight Committee Meeting\n-----\nApril 6\nBoard of Trustees Meeting\nRegular Meeting\n\tCCCT Board Elections\n\tAnnual Review of BP 2015, Student Members\n\tAudit & Finance Report\n\tFoundation Board Report\n\t-----\nMay 4\nBoard of Trustees Meeting\nRegular Meeting\n\tResolution Recognizing Classified Staff Week\n\tASB Budgets\n\tInstructional Materials Fees for 2015-16 (5020)\n\tFacilities Use Fees for 2015-16 (3205)\n\tCCCT Board Report\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Dates to Remember/Future Agenda Items - Next Meeting February 9, 2015", 
+                    "item_text_raw": " Dates to Remember/Future Agenda Items - Next Meeting February 9, 2015", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

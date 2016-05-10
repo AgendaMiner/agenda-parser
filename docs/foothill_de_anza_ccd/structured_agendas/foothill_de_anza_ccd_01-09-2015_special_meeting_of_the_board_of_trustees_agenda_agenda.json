@@ -1,0 +1,69 @@
+{
+    "agency": "foothill_de_anza_ccd", 
+    "meeting_date": "01-09-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SGQJZ68E24C", 
+                    "item_details": "\nPrior to adjourning to closed session, the Board President will call the meeting to order.  Members of the public who wish to address the Board of Trustees concerning closed session items only may complete a request form prior to the start of the meeting.  Comments are limited to five minutes per person.\n", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Call to Order / Public Comment on Closed Session Items Only", 
+                    "item_text_raw": " Call to Order / Public Comment on Closed Session Items Only", 
+                    "item_type": "Procedural"
+                }
+            ], 
+            "section_name": "BOARD RETREAT - CALL TO ORDER - Taaffe House, Tetachuck Room (11:00 a.m.)", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SGR3J6BE50B", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE APPOINTMENT - Interim Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_text_raw": " PUBLIC EMPLOYEE APPOINTMENT - Interim Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9SGR4T6C1430", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION - Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_text_raw": " PUBLIC EMPLOYEE PERFORMANCE EVALUATION - Chancellor (Pursuant to California Government Code Section 54957)", 
+                    "item_type": "Discussion"
+                }, 
+                {
+                    "boarddocs_id": "9SGQPD69D2DF", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATOR District Negotiator: Dorene Novotny Employee Organizations: All Represented and Unrepresented Groups (Pursuant to Government Code Section 54957.6)", 
+                    "item_text_raw": " CONFERENCE WITH LABOR NEGOTIATOR District Negotiator: Dorene Novotny Employee Organizations: All Represented and Unrepresented Groups (Pursuant to Government Code Section 54957.6)", 
+                    "item_type": "Discussion"
+                }
+            ], 
+            "section_name": "ADJOURN TO CLOSED SESSION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "boarddocs_id": "9SGRA46C8BEC", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "Next Regular Meeting - January 12, 2015", 
+                    "item_text_raw": " Next Regular Meeting - January 12, 2015", 
+                    "item_type": "Procedural"
+                }
+            ], 
+            "section_name": "ADJOURNMENT", 
+            "section_number": ""
+        }
+    ]
+}

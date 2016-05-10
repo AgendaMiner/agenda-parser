@@ -1,0 +1,40 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "04-13-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "84C2DW01BE55", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "April 13, 2010, Meeting Agenda and February 9, 2010, Draft Minutes", 
+                    "item_text_raw": " April 13, 2010, Meeting Agenda and February 9, 2010, Draft Minutes", 
+                    "item_type": "Information"
+                }, 
+                {
+                    "boarddocs_id": "84C2DX01BF1F", 
+                    "item_details": "", 
+                    "item_number": "", 
+                    "item_recommendation": "", 
+                    "item_text": "New Agenda Item", 
+                    "item_text_raw": " New Agenda Item", 
+                    "item_type": null
+                }
+            ], 
+            "section_name": "Meeting Agenda and Draft Minutes", 
+            "section_number": ""
+        }, 
+        {
+            "items": [], 
+            "section_name": "New Category", 
+            "section_number": ""
+        }, 
+        {
+            "items": [], 
+            "section_name": "New Category", 
+            "section_number": ""
+        }
+    ]
+}

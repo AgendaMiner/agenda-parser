@@ -1,0 +1,26 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "04-29-2010", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "84VPRT65E9D4", 
+                    "item_details": "", 
+                    "item_number": "1.01", 
+                    "item_recommendation": "", 
+                    "item_text": "CBOC Meeting", 
+                    "item_text_raw": "1.01 CBOC Meeting", 
+                    "item_type": "Action"
+                }
+            ], 
+            "section_name": "CBOC 4.29.10 Meeting Agenda", 
+            "section_number": ""
+        }, 
+        {
+            "items": [], 
+            "section_name": "Approval of January 20, 2010 Meeting Minutes", 
+            "section_number": ""
+        }
+    ]
+}
