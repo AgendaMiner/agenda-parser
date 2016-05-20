@@ -1,8 +1,8 @@
 import os
  
 def main():
-	agency = "scc_boe"
- 	agenda_type = "boarddocs"
+	agency = "gavilan_ccd"
+ 	agenda_type = "pdf"
  	buildDirectoryStructure(agency, agenda_type)
 
 

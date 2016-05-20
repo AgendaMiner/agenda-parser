@@ -5,7 +5,7 @@ import pandas as pd
 
 def main():
 
-	classifyAgendas("east_side_uhsd", ["1-21-16"])
+	classifyAgendas("gavilan_ccd", ["05-10-2016"])
 
 
 '''
@@ -24,11 +24,11 @@ def classifyAgendas(agency, dates):
 		predict_filepath = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
 		classed_filepath = "../docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
 
-		classed_df = classifyLines(training_filepath, predict_filepath, False)
+		classed_df = classifyLines(training_filepath, predict_filepath, True)
 		print("classifyAgendas")
 		print classed_df.columns.values.tolist()
 
-		classed_df.to_csv(classed_filepath, index=False)
+		# classed_df.to_csv(classed_filepath, index=False)
 
 
 '''

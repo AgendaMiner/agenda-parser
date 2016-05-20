@@ -10,8 +10,9 @@ def main():
 	base_dir = "../docs/training_data/raw_docs"
 	files = os.listdir(base_dir)
 	for file in files:
-		print(file)
-		parseTrainingDoc(file)
+		if file.endswith(".docx"):
+			print(file)
+			parseTrainingDoc(file)
 
 
 
@@ -54,7 +55,7 @@ def classifyDocParas(doc):
 		para_object = {"text": para.text, "line_type": "text"}
 
 		# see if this matches the format for different lines
-		if re.match(r'Agenda Item Name:|Item Name:', para.text):
+		if re.match(r'Agenda Item Name:|Agenda Item Names:|Item Name:', para.text):
 			para_object['line_type'] = "name"
 			if i - 2 > 0:
 				classed_paras[i-2]['line_type'] = 'heading' # update the preceeding heading
@@ -69,6 +70,8 @@ def classifyDocParas(doc):
 			para_object['line_type'] = 'summary'
 
 		classed_paras.append(para_object)
+
+	# print(json.dumps(classed_paras, indent=4))
 
 	return classed_paras
 
@@ -111,11 +114,11 @@ def extractInfoFromDoc(classed_paras):
 			json_doc[-1]['agency'] = re.sub(r'Public entity:', '', para['text']).strip()
 
 		elif para['line_type'] == 'date_time':
-			date_string = re.sub(r'Sept', 'Sep', para['text'])
+			date_string = re.sub(r'Sept\W', 'Sep', para['text'])
 			date_string = re.sub(r'Date/time/location of meeting:|Date/time/location item will be heard:', '', date_string).strip()
 			date_string = re.sub(r'\.', '', date_string)
 			date_regex = re.search(r'\b\w{3}\s\d+,\s\d{4}', date_string)
-			full_date_regex = re.search(r'\w{3,8}\s\d+,\s\d{4}', date_string)
+			full_date_regex = re.search(r'\w{3,9}\s\d+,\s\d{4}', date_string)
 			if date_regex:
 				json_doc[-1]['meeting_date'] = datetime.datetime.strptime(date_regex.group(), "%b %d, %Y").date().strftime('%m-%d-%Y')
 			elif full_date_regex:

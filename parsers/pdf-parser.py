@@ -12,8 +12,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 def main():
 
-	agency = "cupertino_usd"
-	date = "4-19-16"
+	agency = "gavilan_ccd"
+	date = "05-10-2016"
 
 	parsePDFtoLines(agency, date, False)
 
@@ -37,16 +37,17 @@ def parsePDFtoLines(agency, date, manual_classify):
 		lines = manuallyClassifyLines(lines, agency, date)
 
 	# create a DTM from the line text
-	dtm = buildDTM(lines, agency, manual_classify)
+	# dtm = buildDTM(lines, agency, manual_classify)
 
 	# convert the lines to a pandas df
 	lines_df = pd.DataFrame(lines)
 
 	# combine the lines_df with the dtm
-	full_df = pd.concat([lines_df, dtm], axis=1)
+	# full_df = pd.concat([lines_df, dtm], axis=1)
 
 	# write out the lines to disk as csv
-	writeDFtoCSV(full_df, agency, date, manual_classify)
+	writeDFtoCSV(lines_df, agency, date, manual_classify)
+
 
 
 '''
@@ -136,7 +137,7 @@ def cropHeaderAndFooter(page, page_index):
 	and use the line's location to set the footer height
 	'''
 
-	footer_height = 100 # default guestimate
+	footer_height = 80 # default guestimate
 
 	max_footer_height = 200;
 	lowest_line_dist_from_bottom = page.height;

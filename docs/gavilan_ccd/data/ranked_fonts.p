@@ -1,0 +1,10 @@
+(lp0
+S'ArialMT'
+p1
+aS'TimesNewRomanPSMT'
+p2
+aS'Arial-BoldMT'
+p3
+aS'Arial-ItalicMT'
+p4
+a.
