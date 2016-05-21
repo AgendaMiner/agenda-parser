@@ -48,5 +48,12 @@
             "San Jose Evergreen Community College District - Legislative Committee",
             "San Jose Evergreen Community College Board of Trustees"
         ]
+    },
+    {
+        "agency_id": "gavilan_ccd",
+        "agency_type": "comm_college_dist",
+        "agenda_type": "pdf",
+        "boarddocs_code": null,
+        "aliases": []
     }
 ]

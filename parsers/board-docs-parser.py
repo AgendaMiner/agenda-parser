@@ -49,6 +49,7 @@ def parseAgendas(agency, agency_code):
 	writeAgendaListToDisk(agency, agenda_list)
 
 
+
 '''
 loadAgendaList
 ==================
@@ -112,6 +113,7 @@ def parseAgendaOutline(agency, agency_code, agenda_info):
 	return items_structure
 
 
+
 '''
 structureAgendaSection
 ======================
@@ -133,6 +135,7 @@ def structureAgendaSection(agency, agency_code, section):
 		json_section['items'].append(parseAgendaItem(agency, agency_code, item_id))
 
 	return json_section
+
 
 
 '''
@@ -182,6 +185,7 @@ def parseAgendaItem(agency, agency_code, item_id):
 		item_content['item_type'] = type_heading.parent.find_next_sibling('div').string
 
 	return item_content
+
 
 
 '''

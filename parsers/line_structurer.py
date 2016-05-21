@@ -29,6 +29,7 @@ def structureLines(agency, date):
 	writeJSONtoDisk(json_agenda, agency, date, "meeting")
 
 
+
 '''
 loadLines
 =========
@@ -45,6 +46,7 @@ def loadLines(agency, date):
 			lines.append(row)
 
 	return lines
+
 
 
 '''
@@ -70,6 +72,7 @@ def extractSectionNumber(line_text):
 	num_string = re.sub(r'^\s?[.)]', '', num_string) # remove dots and )
 
 	return num_string
+
 
 
 '''
@@ -104,6 +107,8 @@ def extractItemNumber(line_text):
 	num_string = re.sub(r'[.()]', '', num_string) # remove dots and )
 
 	return num_string
+
+
 
 '''
 convertLinesToJSON

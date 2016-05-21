@@ -5,6 +5,8 @@ import re
 import datetime
 import os.path
 import json
+from utils import loadExistingAgendaList, writeAgendaListToDisk, downloadAgendas
+
 
 def main():
 
@@ -15,25 +17,6 @@ def main():
 	agenda_list = getAgendasList(agency, agency_code, agenda_list)
 	writeAgendaListToDisk(agency, agenda_list)
 
-
-'''
-loadExistingAgendaList
-==================
-Check if there is a saved list of agendas for this agency.
-Return the list if it exists, otherwise return an empty list.
-'''
-def loadExistingAgendaList(agency):
-
-	agenda_list = list()
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
-	if os.path.exists(agenda_list_filepath):
-		with open(agenda_list_filepath) as data_file:
-			agenda_list = json.load(data_file)
-
-	return agenda_list
-
-
-	
 
 '''
 getAgendasList
@@ -74,6 +57,8 @@ def getAgendasList(agency, agency_code, agenda_list):
 
 	return agenda_list
 
+
+
 '''
 cleanMeetingTitle
 =================
@@ -87,20 +72,6 @@ def cleanMeetingTitle(raw_title, agency):
 		meeting_title = raw_title
 
 	return meeting_title
-
-	
-'''
-writeAgendaListToDisk
-=====================
-Given an agency and JSON-formatted agenda list,
-write out the list to disk.
-'''
-def writeAgendaListToDisk(agency, agenda_list):
-
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
-	with open(agenda_list_filepath, 'wb') as outfile:
-		json.dump(agenda_list, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
-
 
 
 
