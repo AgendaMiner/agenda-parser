@@ -5,8 +5,8 @@ import codecs
 
 def main():
 
-	agency = "east_side_uhsd"
-	date = "1-21-16"
+	agency = "gavilan_ccd"
+	date = "05-10-16"
 
 	structureLines(agency, date)
 
@@ -26,7 +26,7 @@ def structureLines(agency, date):
 
 	print(json.dumps(json_agenda, indent=4))
 
-	writeJSONtoDisk(json_agenda, agency, date, "TODO INSERT TITLE")
+	writeJSONtoDisk(json_agenda, agency, date, "meeting")
 
 
 '''
@@ -56,9 +56,12 @@ Return the number if one is found, False otherwise.
 def extractSectionNumber(line_text):
 
 	# try to find a section number
-	re_starts_num_or_letter = re.compile(r'\d+\.?\s+|[A-Za-z][.)]?\s+')
+	re_starts_num_or_letter = re.compile(r'\d+\.?\s+|[(]?[A-Za-z][.)]?\s+')
+	re_starts_roman_numeral = re.compile(r'(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})')
 	if re_starts_num_or_letter.match(line_text) is not None:
 		raw_num_string = re_starts_num_or_letter.match(line_text).group()
+	elif re_starts_roman_numeral.match(line_text) is not None:
+		raw_num_string = re_starts_roman_numeral.match(line_text).group()
 	else:
 		return False
 
@@ -77,15 +80,18 @@ Return the number if one is found, False otherwise.
 '''
 def extractItemNumber(line_text):
 
+	# initial cleaning - strip whitespace and stars
+	line_text = re.sub(r'^[*]*', '', line_text).strip()
+
 	# regex options to try
-	re_starts_num_or_letter = re.compile(r'\d+[.)]?\s+|[A-Za-z][.)]?\s+')
+	re_starts_num_or_letter = re.compile(r'\d+[.)]?\s+|[(]?[A-Za-z][.)]?\s+')
 	re_starts_sub_num = re.compile(r'\d+[\.]\d+\s+')
 	re_starts_num_letter = re.compile(r'\d+[\.][A-Za-z]\s+')
 
 	# try to find a item number
 	if re_starts_num_or_letter.match(line_text) is not None:
 		raw_num_string = re_starts_num_or_letter.match(line_text).group()
-		raw_num_string = re.sub(r'^\s?[.)]', '', raw_num_string)
+		raw_num_string = re.sub(r'^\s?[(]?[.)]', '', raw_num_string)
 	elif re_starts_sub_num.match(line_text) is not None:
 		raw_num_string = re_starts_sub_num.match(line_text).group()
 	elif re_starts_num_letter.match(line_text) is not None:
@@ -95,6 +101,7 @@ def extractItemNumber(line_text):
 
 	# clean the section number
 	num_string = raw_num_string.strip() # remove whitespace
+	num_string = re.sub(r'[.()]', '', num_string) # remove dots and )
 
 	return num_string
 
@@ -113,28 +120,16 @@ def convertLinesToJSON(agency, date, lines):
 	json_agenda = {
 		"agency": agency, \
 		"meeting_date": date, \
-		"meeting_parts": []
+		"meeting_sections": []
 	}
 
 	# loop over lines, converting to a structured format
 	for i, line in enumerate(lines):
-		# meeting part
-		if line["line_class"] == "meeting_heading":
-			
-			# add section to json
-			json_agenda["meeting_parts"].append({"meeting_part": line["text"], "agenda_sections": []})
-
-			# set flags
-			active_item = False
 
 		# section heading
-		elif line["line_class"] == "section_heading":
+		if line["line_class"] == "section_heading":
 
-			# check if there is a meeting part, add a full_meeting placeholder if not
-			if len(json_agenda["meeting_parts"]) == 0:
-				json_agenda["meeting_parts"].append({"meeting_part": "full_meeting", "agenda_sections": []})
-
-			json_agenda["meeting_parts"][-1]["agenda_sections"].append({"section_name_raw": line["text"], "section_number": "", "items": []})
+			json_agenda["meeting_sections"].append({"section_name_raw": line["text"], "section_number": "", "items": []})
 
 			# reset active item flag to false
 			active_item = False
@@ -142,7 +137,7 @@ def convertLinesToJSON(agency, date, lines):
 		# first line of an item
 		elif line["line_class"] == "item_heading":
 
-			json_agenda["meeting_parts"][-1]["agenda_sections"][-1]["items"].append({"item_text_raw": line["text"], "item_number": ""})
+			json_agenda["meeting_sections"][-1]["items"].append({"item_text_raw": line["text"], "item_number": ""})
 
 			# set active_item flag
 			active_item = True
@@ -150,7 +145,7 @@ def convertLinesToJSON(agency, date, lines):
 		# additional lines of item text
 		elif line["line_class"] == "item_text":
 			if active_item:
-				json_agenda["meeting_parts"][-1]["agenda_sections"][-1]["items"][-1]["item_text_raw"] += line["text"]
+				json_agenda["meeting_sections"][-1]["items"][-1]["item_text_raw"] += line["text"]
 
 			else:
 				# throw warning
@@ -160,8 +155,8 @@ def convertLinesToJSON(agency, date, lines):
 		elif line["line_class"] == "other_text":
 			# ignore it unless there is an open agenda item, then explore it in more detail
 			if active_item:
-				if lines[i+1] == "item_text": # if the next line is text, this is probably an empty line
-					json_agenda["meeting_parts"][-1]["agenda_sections"][-1]["items"][-1]["item_text_raw"] += "\n"
+				if (i+1 < len(lines)) and (lines[i+1] == "item_text"): # if the next line is text, this is probably an empty line
+					json_agenda["meeting_sections"][-1]["items"][-1]["item_text_raw"] += "\n"
 
 	return json_agenda
 
@@ -175,36 +170,35 @@ Returns a processed version of the JSON object.
 '''
 def cleanExtractJSON(json_agenda):
 
-	for meeting_part in json_agenda["meeting_parts"]:
-		for agenda_section in meeting_part["agenda_sections"]:
+	for agenda_section in json_agenda["meeting_sections"]:
 
-			# try to extract the section number
-			section_name = agenda_section["section_name_raw"]
-			section_number = extractSectionNumber(section_name)
-			if section_number:
-				agenda_section["section_number"] = section_number
+		# try to extract the section number
+		section_name = agenda_section["section_name_raw"]
+		section_number = extractSectionNumber(section_name)
+		if section_number:
+			agenda_section["section_number"] = section_number
 
-				# strip the section number from the section name
-				section_name = section_name.replace(section_number, "", 1)
-				section_name = re.sub(r'^\.', "", section_name) # remove any remaining dot at the start of the line
+			# strip the section number from the section name
+			section_name = section_name.replace(section_number, "", 1)
+			section_name = re.sub(r'^\.', "", section_name) # remove any remaining dot at the start of the line
 
-			section_name = section_name.strip()
-			agenda_section["section_name"] = section_name
+		section_name = section_name.strip()
+		agenda_section["section_name"] = section_name
 
-			for item in agenda_section["items"]:
+		for item in agenda_section["items"]:
 
-				# try to extract the item number
-				item_text = item["item_text_raw"]
-				item_number = extractItemNumber(item_text)
-				if item_number:
-					item["item_number"] = item_number
+			# try to extract the item number
+			item_text = re.sub(r'^[*]*', '', item["item_text_raw"]).strip()
+			item_number = extractItemNumber(item_text)
+			if item_number:
+				item["item_number"] = item_number
 
-					# strip the item number from the item text
-					item_text = item_text.replace(item_number, "", 1)
-					item_text = re.sub(r'^\.', "", item_text) # remove any remaining dot at the start of the line
+				# strip the item number from the item text
+				item_text = item_text.replace(item_number, "", 1)
+				item_text = re.sub(r'^[.()]*', "", item_text) # remove any remaining dots or parens at the start of the line
 
-				item_text = item_text.strip()
-				item["item_text"] = item_text
+			item_text = item_text.strip()
+			item["item_text"] = item_text
 
 
 	return json_agenda
@@ -221,7 +215,7 @@ def writeJSONtoDisk(json_agenda, agency, date, meeting_title):
 	filepath = "../docs/" + agency + "/structured_agendas/" + agency + "_" + date + "_" + meeting_title + "_agenda.json"
 
 	with codecs.open(filepath, 'w', encoding="utf-8") as outfile:
-		json.dump(json_agenda, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+		json.dump(json_agenda, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
 
 
 

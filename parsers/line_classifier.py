@@ -1,12 +1,14 @@
 import numpy as np
 import scipy
+import os
 import matplotlib.pyplot as plt
-from sklearn import linear_model, metrics, multiclass, cross_validation
+from sklearn import linear_model, metrics, multiclass, cross_validation, preprocessing
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import pandas as pd
 
 def main():
 
-	classifyAgendas("gavilan_ccd", ["05-10-2016"])
+	classifyAgendas("gavilan_ccd", ["04-12-16", "05-10-16"])
 
 
 '''
@@ -20,8 +22,8 @@ def classifyAgendas(agency, dates):
 	classes_list = ["meeting_heading", "section_heading", "item_heading", "item_text", "other_text"]
 
 	# build classification model
-	training_filepath = "../docs/" + agency + "/training_lines/" + agency + "_all_training_lines.csv"
-	model = trainModel(training_filepath, classes_list)
+	training_directory = "../docs/" + agency + "/training_lines/"
+	model = trainModel(training_directory, classes_list)
 
 	# loop through agendas for each date
 	for date in dates:
@@ -38,23 +40,45 @@ Use the training file to build a model that classifies each line as
 one of the inputted classes.
 Returns the fitted model.
 '''
-def trainModel(training_filepath, classes_list):
-	training_df = pd.read_csv(training_filepath, sep = ',', header = 0)
+def trainModel(training_directory, classes_list):
+	training_df = buildTrainingDataset(training_directory)
 	
 	# create datasets from the input file
 	datasets = prepDatasets(training_df, classes_list, True)
 	X_train = datasets[0]
 	y_train = datasets[1]
 
+	# create interaction features
+	interactor = preprocessing.PolynomialFeatures(interaction_only=True)
+	X_train = interactor.fit_transform(X_train)
+
 	# train classifier
 	OvR_log_cv = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
 	OvR_log_cv.fit(X_train, y_train)
 	log_pred_classes = OvR_log_cv.predict(X_train)
+	print(OvR_log_cv.coef_)
 	
 	print(metrics.classification_report(y_train, log_pred_classes))
 	print(metrics.confusion_matrix(y_train, log_pred_classes))
 
 	return OvR_log_cv
+
+
+'''
+buildTrainingDataset
+======================
+Given a directory path, load all the csv files in that directory as pandas
+dataframes, and merge them together.
+'''
+def buildTrainingDataset(directory_path):
+	df_list = list()
+	for filename in os.listdir(directory_path):
+		if filename.endswith(".csv"):
+			filepath = os.path.join(directory_path, filename)
+			df = pd.read_csv(filepath, sep = ',', header = 0)
+			df_list.append(df)
+
+	return pd.concat(df_list, ignore_index=True) 
 
 
 
@@ -72,6 +96,10 @@ def classifyLines(model, input_filepath, output_filepath, classes_list):
 	# create datasets from the input file
 	datasets = prepDatasets(input_df, classes_list, False)
 	X_predict = datasets[0]
+
+	# create interaction features
+	interactor = preprocessing.PolynomialFeatures(interaction_only=True)
+	X_predict = interactor.fit_transform(X_predict)
 
 	# predict classes
 	preds = model.predict(X_predict)
@@ -97,7 +125,7 @@ def prepDatasets(df, y_cols, know_outcomes):
 
 	# create feature array
 	x_df = df.drop(cols_to_drop, axis=1)
-	x_array = scipy.sparse.csr_matrix(x_df.values)
+	x_array = x_df.values
 
 	# create list to return x and y arrays in
 	data_arrays = [x_array]

@@ -1,0 +1,299 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "04-12-16", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CLOSED SESSION 6:30 p.m. Government Code Section 54957", 
+                    "item_text_raw": "CLOSED SESSION 6:30 p.m. Government Code Section 54957 "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:30 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:30 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting Minutes, March 8, 2016", 
+                    "item_text_raw": "(a) Regular Board Meeting Minutes, March 8, 2016  "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements  "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(f)  Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(g) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": ".  Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "      8.  Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "9.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employee of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employee of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Update on Board Goals for 2016", 
+                    "item_text_raw": "(b) Update on Board Goals for 2016 "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Update on San Benito County Education Center Development Timeline", 
+                    "item_text_raw": "(c)  Update on San Benito County Education Center Development Timeline  "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Proposed agreement with County of Santa Clara to assign a Sheriff\u2019s Deputy to the Gilroy Campus of Gavilan College", 
+                    "item_text_raw": "(d) Proposed agreement with County of Santa Clara to assign a Sheriff\u2019s Deputy to the Gilroy Campus of Gavilan College "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Administrative Services Reorganization", 
+                    "item_text_raw": "(e) Administrative Services Reorganization "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.   OPEN SESSION 7:00 p.m.     ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "() Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters", 
+                    "item_text_raw": "**   (a) Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters  "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a) Curriculum "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "California Community College Trustees (CCCT) Board Elections, 2016", 
+                    "item_text_raw": "(b) California Community College Trustees (CCCT) Board Elections, 2016 "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Confer Honorary Degree", 
+                    "item_text_raw": "(c)  Confer Honorary Degree "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Child Development Student Teaching Practicum Memorandum of Understanding (MOU)", 
+                    "item_text_raw": "(d) Child Development Student Teaching Practicum Memorandum of Understanding (MOU) "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Land Lease Agreement between County of Santa Clara, State of California, by and between Gavilan College Lessor and the Gilroy Garlic Festival Association, Inc. Lessee", 
+                    "item_text_raw": "(e) Land Lease Agreement between County of Santa Clara, State of California, by and between Gavilan College Lessor and the Gilroy Garlic Festival Association, Inc. Lessee "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Child Development Center Interior Renovations Project, Change Order #1", 
+                    "item_text_raw": "(f)  Child Development Center Interior Renovations Project, Change Order #1 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Notice of Completion for the Child Development Center Interior Renovations Project", 
+                    "item_text_raw": "(g) Notice of Completion for the Child Development Center Interior Renovations Project "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "IBI Group Architecture and Planning Project Assignment Amendment", 
+                    "item_text_raw": "(h) IBI Group Architecture and Planning Project Assignment Amendment "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Special Inspector of Record Agreement with Consolidated Engineering Laboratories", 
+                    "item_text_raw": "(i)  Special Inspector of Record Agreement with Consolidated Engineering Laboratories "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Geotechnical Service Agreement with Cornerstone Earth Group", 
+                    "item_text_raw": "(j)  Geotechnical Service Agreement with Cornerstone Earth Group "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "Project Inspector Service Agreement with Irick Inspection Services", 
+                    "item_text_raw": "(k)  Project Inspector Service Agreement with Irick Inspection Services "
+                }, 
+                {
+                    "item_number": "l", 
+                    "item_text": "Consider and Accept Bid for the Coyote Valley Low Voltage Package", 
+                    "item_text_raw": "(l)  Consider and Accept Bid for the Coyote Valley Low Voltage Package "
+                }, 
+                {
+                    "item_number": "m", 
+                    "item_text": "Library, Student Center, & Theater Fire Alarm Replacement project Change Order #1", 
+                    "item_text_raw": "(m) Library, Student Center, & Theater Fire Alarm Replacement project Change Order #1 "
+                }, 
+                {
+                    "item_number": "n", 
+                    "item_text": "Notice of Completion for the Library, Student Center, and Theater Fire Alarm Replacement Project", 
+                    "item_text_raw": "(n) Notice of Completion for the Library, Student Center, and Theater Fire Alarm Replacement Project "
+                }, 
+                {
+                    "item_number": "o", 
+                    "item_text": "Approval of an agreement with Live Oak Associates, Inc. for HCP compliance services at the Gavilan College Aviation Project at the San Martin South County Airport", 
+                    "item_text_raw": "(o) Approval of an agreement with Live Oak Associates, Inc. for HCP compliance services at the Gavilan College Aviation Project at the San Martin South County Airport "
+                }, 
+                {
+                    "item_number": "p", 
+                    "item_text": "Notice of Completion for the Water Storage Tank, Distribution and Well Improvements Project", 
+                    "item_text_raw": "(p) Notice of Completion for the Water Storage Tank, Distribution and Well Improvements Project  "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is May 10, 2016 Hollister City Council Chambers, 375 Fifth Street, Hollister.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is May 10, 2016 Hollister City Council Chambers, 375 Fifth Street, Hollister. "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

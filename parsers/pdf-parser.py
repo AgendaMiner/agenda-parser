@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 def main():
 
 	agency = "gavilan_ccd"
-	date = "05-10-2016"
+	date = "05-10-16"
 
 	parsePDFtoLines(agency, date, False)
 
@@ -248,8 +248,22 @@ def addFormattingFeatures(line):
 	else:
 		line['starts_with_subnumber'] = 0
 
+	# check if line starts with a roman numeral (ex: IV)
+	re_starts_roman_numeral = re.compile(r'(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})\.\s+')
+	if re_starts_roman_numeral.match(line['text']) is not None:
+		line['starts_with_roman_numeral'] = 1
+	else:
+		line['starts_with_roman_numeral'] = 0
+
+	# check if line starts with an enumerating letter
+	re_starts_enum_letter = re.compile(r'[(]?[A-Za-z][).]?\s+')
+	if re_starts_enum_letter.match(line['text']) is not None:
+		line['starts_with_enum_letter'] = 1
+	else:
+		line['starts_with_enum_letter'] = 0
+
 	# check if line includes a time
-	re_includes_time = re.compile(r'[aA|pP].?M.?')
+	re_includes_time = re.compile(r'[aA|pP].?[mM].?')
 	if re_includes_time.search(line['text']) is not None:
 		line['includes_time'] = 1
 	else:
