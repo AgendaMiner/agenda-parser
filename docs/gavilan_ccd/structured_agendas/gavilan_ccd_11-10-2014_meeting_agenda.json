@@ -1,0 +1,244 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "11-10-2014", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public - This is a time for the public to address the Board. "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance   "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting Minutes October 14, 2014, Special Meeting of the Board of Trustees, Board Self Evaluation, October 13, 2014", 
+                    "item_text_raw": "(a)  Regular Board Meeting Minutes October 14, 2014, Special Meeting of the Board of Trustees, Board Self Evaluation, October 13, 2014 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b)  Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(d) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Payroll Warrants Drawn on District Funds", 
+                    "item_text_raw": "(e) Payroll Warrants Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Quarterly Financial Status Report, CCFS 311Q at September 30, 2014", 
+                    "item_text_raw": "(f)  Quarterly Financial Status Report, CCFS 311Q at September 30, 2014 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Measure E Bond Quarterly Financial Status Report at September 30, 2014", 
+                    "item_text_raw": "(g) Measure E Bond Quarterly Financial Status Report at September 30, 2014 "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of September 30, 2014", 
+                    "item_text_raw": "(h) Retiree Health Benefit Trust Investment Portfolio Status as of September 30, 2014 "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(i)  Budget Adjustments "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(j)  Monthly Financial Report  "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "EOPS/CalWORKs/CARE Advisory Committee", 
+                    "item_text_raw": "(k)  EOPS/CalWORKs/CARE Advisory Committee "
+                }, 
+                {
+                    "item_number": "l", 
+                    "item_text": "Career Technical Education Advisory Boards", 
+                    "item_text_raw": "(l)  Career Technical Education Advisory Boards "
+                }, 
+                {
+                    "item_number": "m", 
+                    "item_text": "Ratification of Asset Management Upgrade of FUSION", 
+                    "item_text_raw": "(m)  Ratification of Asset Management Upgrade of FUSION "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "6.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Officers\u2019 Reports                    (A maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "8.  Officers\u2019 Reports                    (A maximum of 5 minutes will be allotted to each speaker.) "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g)  Board President "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "9.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Acceleration Report", 
+                    "item_text_raw": "(a) Acceleration Report "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Emergency Communication Manual", 
+                    "item_text_raw": "(b) Emergency Communication Manual "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "2014-2015 Budget Plan: Student Success and Support Program (SSSP)", 
+                    "item_text_raw": "(c)  2014-2015 Budget Plan: Student Success and Support Program (SSSP) "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1. Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Board Policies", 
+                    "item_text_raw": "(a) Board Policies "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business Health Benefit Program; Resolution No. 979 Liability and Property Protection; Resolution No. 980 Funded Workers\u2019 Compensation Insurance; Resolution No. 981", 
+                    "item_text_raw": "2. New Business Health Benefit Program; Resolution No. 979 Liability and Property Protection; Resolution No. 980 Funded Workers\u2019 Compensation Insurance; Resolution No. 981    "
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "III.  ACTION ITEM ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is December 9, 2014, Gilroy Campus, North/South", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is December 9, 2014, Gilroy Campus, North/South "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "The Board Athletic Ad Hoc Committee will meet directly after adjournment.", 
+                    "item_text_raw": "2.  The Board Athletic Ad Hoc Committee will meet directly after adjournment. "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "3.  Adjournment "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

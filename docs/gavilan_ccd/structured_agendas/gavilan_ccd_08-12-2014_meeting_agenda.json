@@ -1,0 +1,188 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "08-12-2014", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 this is a time for the public to address the Board", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 this is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "3.  Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker.) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Meeting of the Board of Trustees Minutes, July 8, 2014", 
+                    "item_text_raw": "(a) Regular Meeting of the Board of Trustees Minutes, July 8, 2014 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(d)  Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(e)  Budget Adjustments "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - this is a time for the public to address the Board", 
+                    "item_text_raw": "7.  Comments from the Public - this is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Recognitions               (A maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "8.  Recognitions               (A maximum of 5 minutes will be allotted to each speaker.) "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Officers' Reports", 
+                    "item_text_raw": "9.  Officers' Reports     "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "10.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "11", 
+                    "item_text": "Information/Staff Reports     (b)  Gavilan College Community Spirit Awards Calendar     (c)  New Accreditation Standards and Board Governance/Policies     (d)  Academic Senate Report", 
+                    "item_text_raw": "11.  Information/Staff Reports     (b)  Gavilan College Community Spirit Awards Calendar     (c)  New Accreditation Standards and Board Governance/Policies     (d)  Academic Senate Report  "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "1.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Compensation Agreement and Government Use Dedication Agreement with the City of      Morgan Hill    (b) Updated Instructional Services Agreement \u2013 Part B for Carpenters Training Committee   (c)  BFGC-IBI Group Architecture and Planning Project Assignment Amendment (PAA) for 2014      for Prop 39 Energy Retrofit   (d) Consider and Accept Bid for the Native Garden Project   (e) Board of Trustees Regular Meeting Schedule Revision   (f)  Revised Expenditure Plan for FY 2013-14 and FY 2012-13 Proposition 30 Education      Protection Act Funds   (g) Memorandum of Agreement (MOU) Between Gavilan College and Gilroy Unified School      District (GUSD) for the Joint Use of South Valley Middle School (SVMS)   (h) Compensation for Unrepresented Employees   (i)  Agreement with Classified School Employees Association   (j)  Revised AY 14-15 Academic Calendar", 
+                    "item_text_raw": "  (a) Compensation Agreement and Government Use Dedication Agreement with the City of      Morgan Hill    (b) Updated Instructional Services Agreement \u2013 Part B for Carpenters Training Committee   (c)  BFGC-IBI Group Architecture and Planning Project Assignment Amendment (PAA) for 2014      for Prop 39 Energy Retrofit   (d) Consider and Accept Bid for the Native Garden Project   (e) Board of Trustees Regular Meeting Schedule Revision   (f)  Revised Expenditure Plan for FY 2013-14 and FY 2012-13 Proposition 30 Education      Protection Act Funds   (g) Memorandum of Agreement (MOU) Between Gavilan College and Gilroy Unified School      District (GUSD) for the Joint Use of South Valley Middle School (SVMS)   (h) Compensation for Unrepresented Employees   (i)  Agreement with Classified School Employees Association   (j)  Revised AY 14-15 Academic Calendar     "
+                }, 
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is September 9, 2014, Gavilan College, Student Center, North/South Lounges.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is September 9, 2014, Gavilan College, Student Center, North/South Lounges. "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment PUBLIC COMMENTS \u2013 Individuals wishing to address the Board on a non-agenda item may do so during the Comments from the Public.  However, no action may be taken on an item, which is not on the agenda.  The public is welcomed to address the Board on particular agenda items and may do so at the time it is presented.  Guidelines for Comments from the Public will be as follows:", 
+                    "item_text_raw": "2.  Adjournment PUBLIC COMMENTS \u2013 Individuals wishing to address the Board on a non-agenda item may do so during the Comments from the Public.  However, no action may be taken on an item, which is not on the agenda.  The public is welcomed to address the Board on particular agenda items and may do so at the time it is presented.  Guidelines for Comments from the Public will be as follows:  "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. No disruptive conduct will be permitted at any Gavilan College Board of Trustees meeting.  AGENDA ITEMS \u2013 Individuals wishing to have an item appear on the agenda must submit the request in writing to the Superintendent/President two weeks prior to the regularly scheduled meeting.  The Board President and Superintendent/President will determine what items will be included in the agendas.  Regular meetings are held the second Tuesday of each month.  Items listed under the Consent Agenda are considered to be routine and are acted on by the Board of Trustees as one motion.  There is no discussion of these items prior to Board vote unless a member of the Board, staff, or public requests that specific items be discussed and/or removed from the Consent Agenda.  It is understood that the Administration recommends approval on all consent items.  Each item on the Consent Agenda approved by the Board of Trustees shall be deemed to have been considered in full and adopted as recommended. In compliance with the Americans with Disabilities Act, if you need special assistance to access the Board meeting room or to otherwise participate at this meeting, including auxiliary aids or services, please contact Angie Oropeza at 408-848-4711.  Notification at least 48 hours prior to the meeting will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ---------------------------------------------------------------------------------------------------------------------------------------------           Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you. http://www.gavilan.edu", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. No disruptive conduct will be permitted at any Gavilan College Board of Trustees meeting.  AGENDA ITEMS \u2013 Individuals wishing to have an item appear on the agenda must submit the request in writing to the Superintendent/President two weeks prior to the regularly scheduled meeting.  The Board President and Superintendent/President will determine what items will be included in the agendas.  Regular meetings are held the second Tuesday of each month.  Items listed under the Consent Agenda are considered to be routine and are acted on by the Board of Trustees as one motion.  There is no discussion of these items prior to Board vote unless a member of the Board, staff, or public requests that specific items be discussed and/or removed from the Consent Agenda.  It is understood that the Administration recommends approval on all consent items.  Each item on the Consent Agenda approved by the Board of Trustees shall be deemed to have been considered in full and adopted as recommended. In compliance with the Americans with Disabilities Act, if you need special assistance to access the Board meeting room or to otherwise participate at this meeting, including auxiliary aids or services, please contact Angie Oropeza at 408-848-4711.  Notification at least 48 hours prior to the meeting will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ---------------------------------------------------------------------------------------------------------------------------------------------           Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you. http://www.gavilan.edu "
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "III.  ACTION ITEM ", 
+            "section_number": "III"
+        }
+    ]
+}

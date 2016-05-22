@@ -14,7 +14,7 @@ def main():
 
 
 '''
-scraper
+gavilanScraper
 =======
 Scrapes the agendas for the given agency, 
 downloading the pdfs and creating a list of agendas.

@@ -1,0 +1,330 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "12-08-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "3.  Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker.) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 P.M.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 P.M. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Organizational Meeting   (c)  Board Committee Membership", 
+                    "item_text_raw": "4.  Organizational Meeting   (c)  Board Committee Membership "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Report of any Action Taken in Closed Session", 
+                    "item_text_raw": "5.  Report of any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "6.  Approval of Agenda  "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "7.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting Minutes, November 10, 2015, Community Education Ad Hoc Committee Minutes, November 10, 2015, Board Policy Subcommittee, November 10, 2015", 
+                    "item_text_raw": "(a) Regular Board Meeting Minutes, November 10, 2015, Community Education Ad Hoc Committee Minutes, November 10, 2015, Board Policy Subcommittee, November 10, 2015 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants Drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(f)  Budget Adjustments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(g) Monthly Financial Report  "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Santa Clara County Treasury Investment Portfolio Status as of June 30, 2015 and  September 30 2015", 
+                    "item_text_raw": "(h) Santa Clara County Treasury Investment Portfolio Status as of June 30, 2015 and  September 30 2015 "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Disability Resource Center/Workability III Advisory Committee", 
+                    "item_text_raw": "(i)  Disability Resource Center/Workability III Advisory Committee "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "9.  Comments from the Public - This is a time for the public to address the Board.         "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "                  (A maximum of 5 minutes will be allotted to each speaker.) "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "11", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "11. Board Committee Reports "
+                }, 
+                {
+                    "item_number": "12", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "12. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employees of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employees of the Month   "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Contract and Community Education 2014-2015 Annual Report", 
+                    "item_text_raw": "(b) Contract and Community Education 2014-2015 Annual Report "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Noncredit Committee Update", 
+                    "item_text_raw": "(c)  Noncredit Committee Update "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Noncredit/Gavilan Regional Adult and Career Education Services (ACES)", 
+                    "item_text_raw": "(d) Noncredit/Gavilan Regional Adult and Career Education Services (ACES) "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Associated Students of Gavilan College (ASGC) Semester End Report", 
+                    "item_text_raw": "(e) Associated Students of Gavilan College (ASGC) Semester End Report "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Policies and Administrative Procedures", 
+                    "item_text_raw": "(f)  Board Policies and Administrative Procedures "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board Policy 2350 Speakers", 
+                    "item_text_raw": "(g) Board Policy 2350 Speakers "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Draft Board Goals", 
+                    "item_text_raw": "(h) Draft Board Goals "
+                }
+            ], 
+            "section_name": "CALL TO ORDER OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  CALL TO ORDER OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "ASGC By Laws", 
+                    "item_text_raw": "(a) ASGC By Laws "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a)  Curriculum "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Student Equity Plan", 
+                    "item_text_raw": "(b)  Student Equity Plan "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Change in Retiree Health Benefits Vesting and Entitlement for Classified and Academic Administrators", 
+                    "item_text_raw": "(c)  Change in Retiree Health Benefits Vesting and Entitlement for Classified and Academic Administrators "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Second Amendment to the Donation Agreement and Joint Escrow Instructions for Coyote Valley Campus Acquisition", 
+                    "item_text_raw": "(d)  Second Amendment to the Donation Agreement and Joint Escrow Instructions for Coyote Valley Campus Acquisition "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Approve an Agreement with Live Oak Associates, Inc. for the preparation of a Participating Special Entity application for the Gavilan College Aviation Maintenance Technology Project at San Martin South County Airport", 
+                    "item_text_raw": "(e)  Approve an Agreement with Live Oak Associates, Inc. for the preparation of a Participating Special Entity application for the Gavilan College Aviation Maintenance Technology Project at San Martin South County Airport "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to provide QSP (Qualified SWPPP Practitioner) for the Coyote Valley Educational Center, Phase 1", 
+                    "item_text_raw": "(f)  Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to provide QSP (Qualified SWPPP Practitioner) for the Coyote Valley Educational Center, Phase 1 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Approve an agreement with K&D Landscaping, Inc. for construction work for the Gavilan College Water Storage Tank, Distribution, & Well Improvements Project", 
+                    "item_text_raw": "(g)  Approve an agreement with K&D Landscaping, Inc. for construction work for the Gavilan College Water Storage Tank, Distribution, & Well Improvements Project "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Approve an agreement with Arch Pac, Inc. to provide preliminary design, programming and cost estimates for retrofit of the existing pool at the Gilroy campus of Gavilan College", 
+                    "item_text_raw": "(h)  Approve an agreement with Arch Pac, Inc. to provide preliminary design, programming and cost estimates for retrofit of the existing pool at the Gilroy campus of Gavilan College "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Measure E Bond Program Budget Alignment", 
+                    "item_text_raw": "(i)  Measure E Bond Program Budget Alignment "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Change Order for 2014-15 Energy Efficiency Proposition 39 Projects", 
+                    "item_text_raw": "(j)  Change Order for 2014-15 Energy Efficiency Proposition 39 Projects "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "MOU with South Bay Regional Public Safety Training Consortium", 
+                    "item_text_raw": "(k)  MOU with South Bay Regional Public Safety Training Consortium "
+                }, 
+                {
+                    "item_number": "l", 
+                    "item_text": "Selection of Professional Personnel Leasing, Inc. to conduct executive search services for", 
+                    "item_text_raw": "(l)  Selection of Professional Personnel Leasing, Inc. to conduct executive search services for "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "new Superintendent/President", 
+                    "item_text_raw": "a new Superintendent/President "
+                }, 
+                {
+                    "item_number": "m", 
+                    "item_text": "Gilroy Unified School District Purchase of Portable Buildings 4 & 5", 
+                    "item_text_raw": "(m)  Gilroy Unified School District Purchase of Portable Buildings 4 & 5 "
+                }, 
+                {
+                    "item_number": "n", 
+                    "item_text": "Agreement with Ellucian Company L.P. to train staff and implement the Chart of Accounts, E-Requisitions, and Imagining/Document Management modules as part of the Gavilan College Banner Application Project", 
+                    "item_text_raw": "(n)  Agreement with Ellucian Company L.P. to train staff and implement the Chart of Accounts, E-Requisitions, and Imagining/Document Management modules as part of the Gavilan College Banner Application Project    "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is January 12, 2016 Gilroy Campus, North/South Lounge.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is January 12, 2016 Gilroy Campus, North/South Lounge.    "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

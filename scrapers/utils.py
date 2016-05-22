@@ -12,7 +12,7 @@ it uses, create the necessary subdirectories within the docs folder.
 def buildDirectoryStructure(agency, agenda_type):
 
 	# create base directory
-	base_dir = "../docs/%s" % agency
+	base_dir = "docs/%s" % agency
 	if not os.path.exists(base_dir):
 		os.makedirs(base_dir)
 
@@ -46,7 +46,7 @@ Return the list if it exists, otherwise return an empty list.
 def loadExistingAgendaList(agency):
 
 	agenda_list = list()
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
+	agenda_list_filepath = "docs/" + agency + "/agenda_list.json"
 	if os.path.exists(agenda_list_filepath):
 		with open(agenda_list_filepath) as data_file:
 			agenda_list = json.load(data_file)
@@ -63,7 +63,7 @@ write out the list to disk.
 '''
 def writeAgendaListToDisk(agency, agenda_list):
 
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
+	agenda_list_filepath = "docs/" + agency + "/agenda_list.json"
 	with open(agenda_list_filepath, 'wb') as outfile:
 		json.dump(agenda_list, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
@@ -81,7 +81,7 @@ def downloadAgendas(agency, agenda_list):
 		if not agenda['downloaded']:
 
 			r = requests.get(agenda['url'])
-			pdf_filepath = "../docs/" + agency + "/raw_pdfs/" + agenda['agenda_id'] + ".pdf"
+			pdf_filepath = "docs/" + agency + "/raw_pdfs/" + agenda['agenda_id'] + ".pdf"
 			with open(pdf_filepath, 'wb') as f:
 				f.write(r.content)
 

@@ -1,0 +1,295 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "11-10-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public - This is a time for the public to address the Board. "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance      "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Special Meeting of the Board of Trustees, Minutes, November 3, 2015, Regular Meeting of the Board of Trustees,  Minutes, October 13, 2015, Regular Board Meeting Minutes October 13, 2015, Board Facilities Development and Utilization Committee, October 13, 2015, Special Meeting of the Board of Trustees, Board Self Evaluation, October 12, 2015", 
+                    "item_text_raw": "(a)  Special Meeting of the Board of Trustees, Minutes, November 3, 2015, Regular Meeting of the Board of Trustees,  Minutes, October 13, 2015, Regular Board Meeting Minutes October 13, 2015, Board Facilities Development and Utilization Committee, October 13, 2015, Special Meeting of the Board of Trustees, Board Self Evaluation, October 12, 2015  "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b)  Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants Drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants Drawn on District Funds  "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Quarterly Financial Status Report, CCFS 311Q at September 30, 2015", 
+                    "item_text_raw": "(f)  Quarterly Financial Status Report, CCFS 311Q at September 30, 2015 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(g) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(h) Monthly Financial Report  "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Measure E Bond Quarterly Financial Status Report at September 30, 2015", 
+                    "item_text_raw": "(i)  Measure E Bond Quarterly Financial Status Report at September 30, 2015 "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of September 30, 2015", 
+                    "item_text_raw": "(j)  Retiree Health Benefit Trust Investment Portfolio Status as of September 30, 2015 "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Officers\u2019 Reports                    (A maximum of 5 minutes will be allotted to each speaker.)", 
+                    "item_text_raw": "8.  Officers\u2019 Reports                    (A maximum of 5 minutes will be allotted to each speaker.) "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g)  Board President "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "9.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employee of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employee of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Career Technical Education (CTE) Water Resources Management Program Update", 
+                    "item_text_raw": "(b) Career Technical Education (CTE) Water Resources Management Program Update "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "2015-2016 Student Success and Support Plan", 
+                    "item_text_raw": "(c)  2015-2016 Student Success and Support Plan "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Student Equity Plan", 
+                    "item_text_raw": "(d) Student Equity Plan  "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1. Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Public Hearing on Draft Trustee Area Election Maps", 
+                    "item_text_raw": "(a) Public Hearing on Draft Trustee Area Election Maps "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Approve Resolution No. 1000 Establishing Trustee Areas from which District Governing Board Members will be Elected and Approving the Election of such Board Members in a By-Trustee Area Election Process, and Requesting that the Board of Governors Waiver the Requirement of an Election Prior to the Change in Election Methodology", 
+                    "item_text_raw": "(b) Approve Resolution No. 1000 Establishing Trustee Areas from which District Governing Board Members will be Elected and Approving the Election of such Board Members in a By-Trustee Area Election Process, and Requesting that the Board of Governors Waiver the Requirement of an Election Prior to the Change in Election Methodology "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2. New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a) Curriculum "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Updated Instructional Services Agreement (ISA) and Memorandum of Understanding (MOU) between Gavilan College and the Carpenters Training Committee of Northern California", 
+                    "item_text_raw": "(b) Updated Instructional Services Agreement (ISA) and Memorandum of Understanding (MOU) between Gavilan College and the Carpenters Training Committee of Northern California   "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Approval of Career Technical Education Employment Outcomes Survey Agreement between Sonoma County Junior College District and Gavilan", 
+                    "item_text_raw": "(c)  Approval of Career Technical Education Employment Outcomes Survey Agreement between Sonoma County Junior College District and Gavilan  "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Citizens\u2019 Oversight Committee Appointment", 
+                    "item_text_raw": "(d) Citizens\u2019 Oversight Committee Appointment "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Budget Planning Calendar", 
+                    "item_text_raw": "(e) Budget Planning Calendar  "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Annual Financial and Budget Report, CCFS-311", 
+                    "item_text_raw": "(f)  Annual Financial and Budget Report, CCFS-311 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Approval of an agreement with Live Oak Associates, Inc. for an EIR Addendum for Coyote Valley Educational Center", 
+                    "item_text_raw": "(g) Approval of an agreement with Live Oak Associates, Inc. for an EIR Addendum for Coyote Valley Educational Center "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Laboratory of Record Service Agreement with Hp Inspections, Inc.", 
+                    "item_text_raw": "(i)  Laboratory of Record Service Agreement with Hp Inspections, Inc. "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Geotechnical Service Agreement with Cornerstone Earth Group", 
+                    "item_text_raw": "(j)  Geotechnical Service Agreement with Cornerstone Earth Group "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "Project Inspector Service Agreement with Keith Brown Inspections", 
+                    "item_text_raw": "(k)  Project Inspector Service Agreement with Keith Brown Inspections "
+                }, 
+                {
+                    "item_number": "l", 
+                    "item_text": "In-Plant Service Agreement Acrell Inspection Services, Ltd.", 
+                    "item_text_raw": "(l)  In-Plant Service Agreement Acrell Inspection Services, Ltd. "
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "III.  ACTION ITEM ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is December 8, 2015, Gilroy Campus, North/South Lounge.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is December 8, 2015, Gilroy Campus, North/South Lounge.    "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area.  in writing to the Superintendent/President two weeks prior to the regularly scheduled meeting.  The Board President and Superintendent/President will determine what items will be included in the agendas.  Regular meetings are held the second Tuesday of each month.  of the Board, staff, or public requests that specific items be discussed and/or removed from the Consent Agenda.  It is understood that the administration recommends approval on all consent items.  Each item on the Consent Agenda approved by the Board of Trustees shall be deemed to have been considered in full and adopted as recommended. In compliance with the Americans with Disabilities Act, if you need special assistance to access the Board meeting room or to otherwise participate at this meeting, including auxiliary aids or services, please contact Nancy Bailey at 408-848-4711.  Notification at least 48 hours prior to the meeting will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ------------------------------------------------------------------------------------------------ Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you.     http://www.gavilan.edu", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area.  in writing to the Superintendent/President two weeks prior to the regularly scheduled meeting.  The Board President and Superintendent/President will determine what items will be included in the agendas.  Regular meetings are held the second Tuesday of each month.  of the Board, staff, or public requests that specific items be discussed and/or removed from the Consent Agenda.  It is understood that the administration recommends approval on all consent items.  Each item on the Consent Agenda approved by the Board of Trustees shall be deemed to have been considered in full and adopted as recommended. In compliance with the Americans with Disabilities Act, if you need special assistance to access the Board meeting room or to otherwise participate at this meeting, including auxiliary aids or services, please contact Nancy Bailey at 408-848-4711.  Notification at least 48 hours prior to the meeting will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ------------------------------------------------------------------------------------------------ Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you.     http://www.gavilan.edu"
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "04-14-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session     (a maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session     (a maximum of 5 minutes will be allotted to each speaker) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Meeting of the Board of Trustees Minutes, March 10, 2015", 
+                    "item_text_raw": "(a) Regular Meeting of the Board of Trustees Minutes, March 10, 2015 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(f)  Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(g) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Mid-Year Financial Report", 
+                    "item_text_raw": "(h) Mid-Year Financial Report "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Santa Clara County Treasury Investment Portfolio Status as of December 31, 2014", 
+                    "item_text_raw": "(i)  Santa Clara County Treasury Investment Portfolio Status as of December 31, 2014 "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the board", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the board     "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10.  Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employees of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employees of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Sabbatical Leave Report", 
+                    "item_text_raw": "(b) Sabbatical Leave Report "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Child Development Contract CSPP Contract Review 2014-2015", 
+                    "item_text_raw": "(c)  Child Development Contract CSPP Contract Review 2014-2015 "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Student Success Report", 
+                    "item_text_raw": "(d) Student Success Report "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Board Policy 2100, Board Elections", 
+                    "item_text_raw": "(a)  Board Policy 2100, Board Elections "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a) Curriculum  "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Confer Honorary Degree", 
+                    "item_text_raw": "(b) Confer Honorary Degree  "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Ratify contract amendments to three firms for extension of services related to the", 
+                    "item_text_raw": "(c)  Ratify contract amendments to three firms for extension of services related to the "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Ratify a Land Lease Agreement with the Gilroy Garlic Festival Association, Inc. for", 
+                    "item_text_raw": "(d) Ratify a Land Lease Agreement with the Gilroy Garlic Festival Association, Inc. for "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "IBI Group Architecture and Planning Project Assignment Amendment", 
+                    "item_text_raw": "(e) IBI Group Architecture and Planning Project Assignment Amendment "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Consider and Accept Bid for Energy Efficiency Prop 39 Project Fiscal Year 2014-15", 
+                    "item_text_raw": "(f)  Consider and Accept Bid for Energy Efficiency Prop 39 Project Fiscal Year 2014-15 "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Authorize Capital Project Change Order #5 for the Water Tank, Distribution and", 
+                    "item_text_raw": "(g) Authorize Capital Project Change Order #5 for the Water Tank, Distribution and "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Gavilan College/Gilroy Unified School District (GUSD) Memorandum of", 
+                    "item_text_raw": "(h) Gavilan College/Gilroy Unified School District (GUSD) Memorandum of "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Gavilan College/Gilroy Unified School District MOU Extension", 
+                    "item_text_raw": "(i)  Gavilan College/Gilroy Unified School District MOU Extension "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The Next Regularly Scheduled Board Meeting is May 12, 2015, Hollister City Council", 
+                    "item_text_raw": "1.  The Next Regularly Scheduled Board Meeting is May 12, 2015, Hollister City Council "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

@@ -38,7 +38,8 @@ load the classed lines CSV into a list of dicts
 '''
 def loadLines(agency, date):
 	lines = list()
-	lines_filepath = "../docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
+	lines_filepath = "docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
+	print(lines_filepath)
 
 	with open(lines_filepath) as lines_file:
 		lines_reader = csv.DictReader(lines_file)
@@ -142,10 +143,18 @@ def convertLinesToJSON(agency, date, lines):
 		# first line of an item
 		elif line["line_class"] == "item_heading":
 
-			json_agenda["meeting_sections"][-1]["items"].append({"item_text_raw": line["text"], "item_number": ""})
+			# make sure there is an existing meeting section, otherwise probably a misclassification
+			if len(json_agenda['meeting_sections']) > 0:
 
-			# set active_item flag
-			active_item = True
+				json_agenda["meeting_sections"][-1]["items"].append({"item_text_raw": line["text"], "item_number": ""})
+
+				# set active_item flag
+				active_item = True
+
+			else:
+				print("PARSE ERROR")
+				print("Line classified as item heading (" + line["text"] + ") found outside of an agenda section")
+
 
 		# additional lines of item text
 		elif line["line_class"] == "item_text":
@@ -155,7 +164,7 @@ def convertLinesToJSON(agency, date, lines):
 			else:
 				# throw warning
 				print("PARSE ERROR")
-				print("Line classified as item text (" + line["text"] + " found outside of an agenda item")
+				print("Line classified as item text (" + line["text"] + ") found outside of an agenda item")
 
 		elif line["line_class"] == "other_text":
 			# ignore it unless there is an open agenda item, then explore it in more detail
@@ -217,7 +226,7 @@ Given a JSON-formatted agenda object, an agency name, and a date,
 writes out the object to disk as JSON
 '''
 def writeJSONtoDisk(json_agenda, agency, date, meeting_title):
-	filepath = "../docs/" + agency + "/structured_agendas/" + agency + "_" + date + "_" + meeting_title + "_agenda.json"
+	filepath = "docs/" + agency + "/structured_agendas/" + agency + "_" + date + "_" + meeting_title + "_agenda.json"
 
 	with codecs.open(filepath, 'w', encoding="utf-8") as outfile:
 		json.dump(json_agenda, outfile, sort_keys = True, indent = 4, ensure_ascii=True)

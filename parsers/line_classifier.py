@@ -8,7 +8,7 @@ import pandas as pd
 
 def main():
 
-	classifyAgendas("gavilan_ccd", ["04-12-16", "05-10-16"])
+	classifyAgendas("gavilan_ccd", ["04-12-2016", "05-10-2016"])
 
 
 '''
@@ -22,15 +22,15 @@ def classifyAgendas(agency, dates):
 	classes_list = ["meeting_heading", "section_heading", "item_heading", "item_text", "other_text"]
 
 	# build classification model
-	training_directory = "../docs/" + agency + "/training_lines/"
-	model = trainModel(training_directory, classes_list)
+	training_directory = "docs/" + agency + "/training_lines/"
+	model, vectorizer = trainModel(training_directory, classes_list)
 
 	# loop through agendas for each date
 	for date in dates:
-		predict_filepath = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
-		classed_filepath = "../docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
+		predict_filepath = "docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
+		classed_filepath = "docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
 
-		classifyLines(model, predict_filepath, classed_filepath, classes_list)
+		classifyLines(model, vectorizer, predict_filepath, classed_filepath, classes_list)
 
 
 '''
@@ -42,9 +42,12 @@ Returns the fitted model.
 '''
 def trainModel(training_directory, classes_list):
 	training_df = buildTrainingDataset(training_directory)
+
+	# create a DTM vectorizer object
+	vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=0.001, binary=True)
 	
 	# create datasets from the input file
-	datasets = prepDatasets(training_df, classes_list, True)
+	datasets = prepDatasets(vectorizer, training_df, classes_list, True)
 	X_train = datasets[0]
 	y_train = datasets[1]
 
@@ -61,7 +64,8 @@ def trainModel(training_directory, classes_list):
 	print(metrics.classification_report(y_train, log_pred_classes))
 	print(metrics.confusion_matrix(y_train, log_pred_classes))
 
-	return OvR_log_cv
+	return OvR_log_cv, vectorizer
+
 
 
 '''
@@ -89,12 +93,12 @@ Given a model, an input filepath, and an output filepath, predicts
 the classifications of each line in the input file, and writes out a version 
 of the file with the classifications.
 '''
-def classifyLines(model, input_filepath, output_filepath, classes_list):
+def classifyLines(model, vectorizer, input_filepath, output_filepath, classes_list):
 
 	input_df = pd.read_csv(input_filepath, sep = ',', header = 0)
 
 	# create datasets from the input file
-	datasets = prepDatasets(input_df, classes_list, False)
+	datasets = prepDatasets(vectorizer, input_df, classes_list, False)
 	X_predict = datasets[0]
 
 	# create interaction features
@@ -113,10 +117,10 @@ def classifyLines(model, input_filepath, output_filepath, classes_list):
 '''
 prepDatasets
 ============
-Given the path to a CSV file, convert it into an array of features, and (if y_col_name is set), to a 1-dimensional array of outcome indicators.
+Given the path to a CSV file, convert it into an array of features, and (if y_col_name is set), to a 1-dimensional array of outcome indicators. Use the given vectorizer to create a DTM from the text.
 Return the array(s).
 '''
-def prepDatasets(df, y_cols, know_outcomes):
+def prepDatasets(vectorizer, df, y_cols, know_outcomes):
 
 	# list of unwanted cols to drop
 	cols_to_drop = ['line_id', 'meeting_date', 'text', 'font_name', 'first_char', 'font_size', 'left_inset', 'agency']
@@ -126,6 +130,20 @@ def prepDatasets(df, y_cols, know_outcomes):
 	# create feature array
 	x_df = df.drop(cols_to_drop, axis=1)
 	x_array = x_df.values
+	print(x_array.shape)
+
+	## UNCOMMENT BELOW TO PLAY WITH DTM
+
+	# # create document-term matrix
+	# if know_outcomes:
+	# 	counts_matrix = vectorizer.fit_transform(df['text'])
+	# else:
+	# 	counts_matrix = vectorizer.transform(df['text'])
+
+	# print(counts_matrix.shape)
+
+	# # merge DTM with feature array
+	# x_array = np.concatenate((x_array, counts_matrix.toarray()), axis=1)
 
 	# create list to return x and y arrays in
 	data_arrays = [x_array]

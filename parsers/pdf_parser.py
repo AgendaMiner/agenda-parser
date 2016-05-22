@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 def main():
 
 	agency = "gavilan_ccd"
-	date = "05-10-16"
+	date = "04-12-2016"
 
 	parsePDFtoLines(agency, date, False)
 
@@ -27,7 +27,7 @@ Write out a CSV file with the parsed lines and features.
 '''
 def parsePDFtoLines(agency, date, manual_classify):
 
-	filepath = "../docs/" + agency + "/raw_pdfs/" + agency + "_" + date + ".pdf"
+	filepath = "docs/" + agency + "/raw_pdfs/" + agency + "_" + date + ".pdf"
 
 	# list to hold all lines in the PDF
 	lines = extractLinesFromPDF(filepath, agency, date)
@@ -36,14 +36,8 @@ def parsePDFtoLines(agency, date, manual_classify):
 		# manually classify lines to build training set
 		lines = manuallyClassifyLines(lines, agency, date)
 
-	# create a DTM from the line text
-	# dtm = buildDTM(lines, agency, manual_classify)
-
 	# convert the lines to a pandas df
 	lines_df = pd.DataFrame(lines)
-
-	# combine the lines_df with the dtm
-	# full_df = pd.concat([lines_df, dtm], axis=1)
 
 	# write out the lines to disk as csv
 	writeDFtoCSV(lines_df, agency, date, manual_classify)
@@ -84,6 +78,9 @@ def extractLinesFromPDF(filepath, agency, date):
 
 		# convert left indentation into a set of ranked dummy vars
 		lines = generalizeLeftIndentation(lines, agency)
+
+		# bucket left indentations into 5 ranked dummy vars
+		lines = bucketLeftIndentation(lines, agency)
 
 		return lines
 
@@ -302,7 +299,7 @@ Returns an updated list of line dicts
 '''
 def assignFontFrequencies(lines, agency):
 
-	ranked_fonts_filepath = "../docs/" + agency + "/data/ranked_fonts.p"
+	ranked_fonts_filepath = "docs/" + agency + "/data/ranked_fonts.p"
 	
 	if os.path.exists(ranked_fonts_filepath):
 		ranked_fonts = pickle.load(open(ranked_fonts_filepath, "rb" ))
@@ -330,7 +327,7 @@ Returns an updated list of line dicts
 '''
 def assignFontSizes(lines, agency):
 
-	ranked_font_sizes_filepath = "../docs/" + agency + "/data/ranked_font_sizes.p"
+	ranked_font_sizes_filepath = "docs/" + agency + "/data/ranked_font_sizes.p"
 	
 	if os.path.exists(ranked_font_sizes_filepath):
 		ranked_font_sizes = pickle.load(open(ranked_font_sizes_filepath, "rb" ))
@@ -376,7 +373,7 @@ Returns an updated list of lines.
 '''
 def generalizeLeftIndentation(lines, agency):
 
-	ranked_left_indents_filepath = "../docs/" + agency + "/data/ranked_left_indents.p"
+	ranked_left_indents_filepath = "docs/" + agency + "/data/ranked_left_indents.p"
 	
 	if os.path.exists(ranked_left_indents_filepath):
 		ranked_left_indents = pickle.load(open(ranked_left_indents_filepath, "rb" ))
@@ -389,6 +386,47 @@ def generalizeLeftIndentation(lines, agency):
 
 	# create left_indent features for each line
 	return assignRankedDummyVars(lines, ranked_left_indents, 'left_indent_', 'left_inset')
+
+
+
+
+'''
+bucketLeftIndentation
+=========================
+Assigns the left indentation to one of six buckets.
+Returns an updated list of lines.
+'''
+def bucketLeftIndentation(lines, agency):
+
+	# find unique line indentations
+	left_indents = list(set([line['left_inset'] for line in lines])) # intermediate conversion to a list to remove duplicates
+	ranked_left_indents = sorted(left_indents)
+
+	for line in lines:
+
+		# add columns for each bucket
+		line['indent_bucket_0'] = 0
+		line['indent_bucket_1'] = 0
+		line['indent_bucket_2'] = 0
+		line['indent_bucket_3'] = 0
+		line['indent_bucket_4'] = 0
+		line['indent_bucket_5'] = 0
+
+		if line['left_inset'] == ranked_left_indents[0]:
+			line['indent_bucket_0'] = 1
+		elif line['left_inset'] == ranked_left_indents[1]:
+			line['indent_bucket_1'] = 1
+		elif line['left_inset'] == ranked_left_indents[2]:
+			line['indent_bucket_2'] = 1
+		elif line['left_inset'] == ranked_left_indents[3]:
+			line['indent_bucket_3'] = 1
+		elif line['left_inset'] == ranked_left_indents[4]:
+			line['indent_bucket_4'] = 1
+		else:
+			line['indent_bucket_5'] = 1
+
+	return lines
+
 
 
 '''
@@ -450,32 +488,6 @@ def applyClass(line, score):
 	return line
 
 
-
-'''
-writeLinesToCSV (DEPRICATED)
-===============
-Save the lines as a CSV to the appropriate folder.
-DEPRICATED NOW THAT I'M USING PANDAS.
-'''
-def writeLinesToCSV(lines, agency, date, manual_classify):
-
-	# select storage location based on whether this was manually classified
-	if manual_classify:
-		filename = "../docs/" + agency + "/training_lines/" + agency + "_" + date + "_training_lines.csv"
-	else:
-		filename = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
-
-	with open(filename, 'w') as csvfile:
-	    fieldnames = lines[0].keys()
-
-	    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-	    writer.writeheader()
-
-	    for line in lines:
-	    	writer.writerow(dict((k, v.encode('utf-8') if type(v) is unicode else v) for k, v in line.iteritems()))
-
-
-
 '''
 writeDFtoCSV
 ===============
@@ -485,54 +497,54 @@ def writeDFtoCSV(df, agency, date, manual_classify):
 
 	# select storage location based on whether this was manually classified
 	if manual_classify:
-		filepath = "../docs/" + agency + "/training_lines/" + agency + "_" + date + "_training_lines.csv"
+		filepath = "docs/" + agency + "/training_lines/" + agency + "_" + date + "_training_lines.csv"
 	else:
-		filepath = "../docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
+		filepath = "docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
 
 	df.to_csv(filepath, encoding="utf-8")
 
 
 
 
-'''
-buildDTM
-========
-Use Scikit-learn to build a document-term matrix from the text of the lines.
-Return the dtm as a pandas df.
-'''
-def buildDTM(lines, agency, manual_classify):
-	text_lines = [line['text'] for line in lines]
+# '''
+# buildDTM
+# ========
+# Use Scikit-learn to build a document-term matrix from the text of the lines.
+# Return the dtm as a pandas df.
+# '''
+# def buildDTM(lines, agency, manual_classify):
+# 	text_lines = [line['text'] for line in lines]
 
-	# check if there's an existing vocabulary to work with
-	vocab = list()
-	vocab_filepath = "../docs/" + agency + "/data/dtm_vocab.p"
-	if os.path.exists(vocab_filepath):
+# 	# check if there's an existing vocabulary to work with
+# 	vocab = list()
+# 	vocab_filepath = "../docs/" + agency + "/data/dtm_vocab.p"
+# 	if os.path.exists(vocab_filepath):
 
-		# load the old vocab list
-		vocab = pickle.load(open(vocab_filepath, "rb" ))
+# 		# load the old vocab list
+# 		vocab = pickle.load(open(vocab_filepath, "rb" ))
 
-	# if there isn't an existing vocabulary, or if currently manually classifying documents, 
-	# expand this vocab to include terms in the new document
-	if manual_classify or not os.path.exists(vocab_filepath):
+# 	# if there isn't an existing vocabulary, or if currently manually classifying documents, 
+# 	# expand this vocab to include terms in the new document
+# 	if manual_classify or not os.path.exists(vocab_filepath):
 
-		# build a new DTM vocabulary from this document
-		vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3))
-		vectorizer.fit_transform(text_lines)
-		new_vocab_dict = vectorizer.vocabulary_
-		new_vocab_list = list(new_vocab_dict.keys())
+# 		# build a new DTM vocabulary from this document
+# 		vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3))
+# 		vectorizer.fit_transform(text_lines)
+# 		new_vocab_dict = vectorizer.vocabulary_
+# 		new_vocab_list = list(new_vocab_dict.keys())
 
-		# merge this new vocab with the old vocab
-		vocab = list(set(new_vocab_list + vocab))
+# 		# merge this new vocab with the old vocab
+# 		vocab = list(set(new_vocab_list + vocab))
 
-		# save the expanded vocabulary to disk
-		pickle.dump(vocab, open(vocab_filepath, "wb"))
+# 		# save the expanded vocabulary to disk
+# 		pickle.dump(vocab, open(vocab_filepath, "wb"))
 
-	# create a new DTM using the full vocabulary
-	vectorizer = CountVectorizer(strip_accents="ascii", vocabulary=vocab, ngram_range=(1,3))
-	counts_matrix = vectorizer.fit_transform(text_lines)
+# 	# create a new DTM using the full vocabulary
+# 	vectorizer = CountVectorizer(strip_accents="ascii", vocabulary=vocab, ngram_range=(1,3))
+# 	counts_matrix = vectorizer.fit_transform(text_lines)
 
-	# convert counts matrix to pandas df
-	return pd.DataFrame(counts_matrix.toarray(), columns=vectorizer.get_feature_names())
+# 	# convert counts matrix to pandas df
+# 	return pd.DataFrame(counts_matrix.toarray(), columns=vectorizer.get_feature_names())
 
 
 if __name__ == '__main__':

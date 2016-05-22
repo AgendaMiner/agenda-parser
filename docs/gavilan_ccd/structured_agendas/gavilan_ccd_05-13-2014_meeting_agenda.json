@@ -1,0 +1,214 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "05-13-2014", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "54957", 
+                    "item_text_raw": "54957 "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC EMPLOYEE APPOINTMENTS \u2013 Vice President of Administrative Services \u2013 Closed Session", 
+            "section_name_raw": "PUBLIC EMPLOYEE APPOINTMENTS \u2013 Vice President of Administrative Services \u2013 Closed Session ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.   Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting of the Board of Trustees Minutes, April 8, 2014", 
+                    "item_text_raw": "(a) Regular Board Meeting of the Board of Trustees Minutes, April 8, 2014 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(d) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(e) Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(f)  Budget Adjustments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Measure E Bond Quarterly Financial Status Report at March 31, 2014", 
+                    "item_text_raw": "(g) Measure E Bond Quarterly Financial Status Report at March 31, 2014 "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of March 31, 2014", 
+                    "item_text_raw": "(h) Retiree Health Benefit Trust Investment Portfolio Status as of March 31, 2014 "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board  "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "11", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "11.  Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employees of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employees of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Healthy San Benito County Initiative Report", 
+                    "item_text_raw": "(b) Healthy San Benito County Initiative Report "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Budget Update and Analysis", 
+                    "item_text_raw": "(c)  Budget Update and Analysis "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Child Development Contract #CSPP-2556, Annual Self Review", 
+                    "item_text_raw": "(d) Child Development Contract #CSPP-2556, Annual Self Review "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Summer 2014 Community Education Schedule", 
+                    "item_text_raw": "(e) Summer 2014 Community Education Schedule "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is June 10, 2014, Gavilan College,", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is June 10, 2014, Gavilan College,  "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

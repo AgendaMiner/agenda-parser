@@ -1,0 +1,279 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "02-09-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "88022", 
+                    "item_text_raw": "88022 "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting Minutes, January 12, 2016 and Ad Hoc Educational Site Committee", 
+                    "item_text_raw": "(a) Regular Board Meeting Minutes, January 12, 2016 and Ad Hoc Educational Site Committee "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants Drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements  "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(f)  Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "FY 2015-16 Mid-Year Financial Report", 
+                    "item_text_raw": "(g) FY 2015-16 Mid-Year Financial Report "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Measure E Bond Quarterly Financial Status Report as of December 31, 2015", 
+                    "item_text_raw": "(h) Measure E Bond Quarterly Financial Status Report as of December 31, 2015 "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of December 31, 2015", 
+                    "item_text_raw": "(i)  Retiree Health Benefit Trust Investment Portfolio Status as of December 31, 2015 "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "9.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Board of Trustees Professional Development Plan, Administrative Procedure 2740", 
+                    "item_text_raw": "(a) Board of Trustees Professional Development Plan, Administrative Procedure 2740 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Academic Resolution on Noncredit Instruction", 
+                    "item_text_raw": "(b) Academic Resolution on Noncredit Instruction "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Accreditation Midterm Report", 
+                    "item_text_raw": "(c)  Accreditation Midterm Report "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Sabbatical Leave Requests", 
+                    "item_text_raw": "(d) Sabbatical Leave Requests "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Success and Support Program Credit 2014-15 Year-end Expenditure Report", 
+                    "item_text_raw": "(e) Student Success and Support Program Credit 2014-15 Year-end Expenditure Report "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.   OPEN SESSION 7:00 p.m.     ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "2016 Board Goals", 
+                    "item_text_raw": "(a) 2016 Board Goals "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Faculty Contracts", 
+                    "item_text_raw": "(a) Faculty Contracts  "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Faculty Contracts - Tenure Recommendation", 
+                    "item_text_raw": "(b) Faculty Contracts - Tenure Recommendation "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Agreement with GCFA", 
+                    "item_text_raw": "(c)  Agreement with GCFA "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Compensation for Unrepresented Employees", 
+                    "item_text_raw": "(d) Compensation for Unrepresented Employees "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Quarterly Financial Status Report, CCFS 311Q at December 31, 2015", 
+                    "item_text_raw": "(e) Quarterly Financial Status Report, CCFS 311Q at December 31, 2015 "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to", 
+                    "item_text_raw": "(f)  Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Agreement with Cornerstone Earth Group for a geotechnical evaluation of the Gavilan", 
+                    "item_text_raw": "(g) Agreement with Cornerstone Earth Group for a geotechnical evaluation of the Gavilan "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Gilbane Building Company Project Assignment Amendments", 
+                    "item_text_raw": "(h) Gilbane Building Company Project Assignment Amendments "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as", 
+                    "item_text_raw": "(j)  Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "Sale of Surplus Personal Property", 
+                    "item_text_raw": "(k)  Sale of Surplus Personal Property "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 3 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area.", 
+                    "item_text_raw": "A maximum of 3 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

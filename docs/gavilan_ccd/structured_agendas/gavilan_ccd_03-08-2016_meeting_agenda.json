@@ -1,0 +1,286 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "03-08-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board.", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "72122", 
+                    "item_text_raw": "72122  "
+                }
+            ], 
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting Minutes, February 9, 2016 and Board Facilities Development and Utilization Committee Minutes, February 9, 2016", 
+                    "item_text_raw": "(a) Regular Board Meeting Minutes, February 9, 2016 and Board Facilities Development and Utilization Committee Minutes, February 9, 2016 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements  "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(f)  Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(g) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Santa Clara County Treasury Investment Portfolio Status as of December 31, 2015", 
+                    "item_text_raw": "(h) Santa Clara County Treasury Investment Portfolio Status as of December 31, 2015 "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "9.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "10. Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employees of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employees of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Gavilan College Student Equity 2014-2015 Year-end Expenditures Report", 
+                    "item_text_raw": "(b) Gavilan College Student Equity 2014-2015 Year-end Expenditures Report  "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Update on the California Work Opportunity and Responsibility to Kids (CalWORKS)", 
+                    "item_text_raw": "(c)  Update on the California Work Opportunity and Responsibility to Kids (CalWORKS) "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Update on the Extended Opportunity Program and Services (EOPS)", 
+                    "item_text_raw": "(d) Update on the Extended Opportunity Program and Services (EOPS) "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "San Benito County Education Center Site Development", 
+                    "item_text_raw": "(e) San Benito County Education Center Site Development "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Update on the timeline, committee formation and trustee participation in the presidential search process", 
+                    "item_text_raw": "(f)  Update on the timeline, committee formation and trustee participation in the presidential search process  "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.   OPEN SESSION 7:00 p.m.     ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Sabbatical Leave Requests", 
+                    "item_text_raw": "(a) Sabbatical Leave Requests "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Accreditation Midterm Report", 
+                    "item_text_raw": "(b) Accreditation Midterm Report  "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a) Curriculum "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Water Hydration Stations", 
+                    "item_text_raw": "(b) Water Hydration Stations "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Agreement with GCFA", 
+                    "item_text_raw": "(c)  Agreement with GCFA "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "GCFA/District Contract Proposal (\u201cSunshine\u201d)", 
+                    "item_text_raw": "(d) GCFA/District Contract Proposal (\u201cSunshine\u201d) "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of CSEA Tentative Agreement", 
+                    "item_text_raw": "(e) Ratification of CSEA Tentative Agreement "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Approval of an agreement with Live Oak Associates, Inc. to prepare a CEQA Categorical Exemption for Gavilan College Athletic Fields Renovations Project", 
+                    "item_text_raw": "(f)  Approval of an agreement with Live Oak Associates, Inc. to prepare a CEQA Categorical Exemption for Gavilan College Athletic Fields Renovations Project "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Approval of an agreement with Consolidated Engineering Laboratories for the Coyote Valley Educational Center, Increment #1", 
+                    "item_text_raw": "(g) Approval of an agreement with Consolidated Engineering Laboratories for the Coyote Valley Educational Center, Increment #1 "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Approval of an agreement with Live Oak Associates, Inc. to prepare an Incidental Take Permit and related analyses required for the buildout of Coyote Valley Phase II", 
+                    "item_text_raw": "(h) Approval of an agreement with Live Oak Associates, Inc. to prepare an Incidental Take Permit and related analyses required for the buildout of Coyote Valley Phase II "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Agreement with Cornerstone Earth Group for required geotechnical engineering investigation and testing services for the Gavilan College Student Center Seismic Upgrade Project", 
+                    "item_text_raw": "(i)  Agreement with Cornerstone Earth Group for required geotechnical engineering investigation and testing services for the Gavilan College Student Center Seismic Upgrade Project "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "IBI Group Architecture and Planning Project Assignment Amendments", 
+                    "item_text_raw": "(j)  IBI Group Architecture and Planning Project Assignment Amendments  "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is April 12, 2016 Gavilan College, Student Center, North/South Lounge.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is April 12, 2016 Gavilan College, Student Center, North/South Lounge. "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment  "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "07-08-2014", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 this is a time for the public to address the Board", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 this is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session      (a maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session      (a maximum of 5 minutes will be allotted to each speaker) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 5:30 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 5:30 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION 5:30 p.m.", 
+            "section_name_raw": "CLOSED SESSION 5:30 p.m. ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "", 
+                    "item_text_raw": " "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LEGAL COUNSEL \u2013 ANTICIPATED OR POTENTIAL LITIGATION \u2013 Significant", 
+                    "item_text_raw": "CONFERENCE WITH LEGAL COUNSEL \u2013 ANTICIPATED OR POTENTIAL LITIGATION \u2013 Significant "
+                }
+            ], 
+            "section_name": "Agency Negotiator(s):  Susan Cheu/Eric Ramones", 
+            "section_name_raw": "  Agency Negotiator(s):  Susan Cheu/Eric Ramones ", 
+            "section_number": ""
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.  Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board of Trustees Meeting Minutes, June 10, 2014", 
+                    "item_text_raw": "(a) Regular Board of Trustees Meeting Minutes, June 10, 2014 "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(d) Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(e) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - this is a time for the public to address the Board", 
+                    "item_text_raw": "7.  Comments from the Public - this is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Recognitions              (a maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "8.   Recognitions              (a maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "10.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "11", 
+                    "item_text": "Information/Staff Reports     (a)  Learning Council 13-14 Year-End Report", 
+                    "item_text_raw": "11.  Information/Staff Reports     (a)  Learning Council 13-14 Year-End Report "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Update on Board Goals for 2014", 
+                    "item_text_raw": "(b) Update on Board Goals for 2014 "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "New Business Certain Easement Interests for the Gilroy Campus Modernization Project and Authorizing and Directing Legal Counsel to Institute Condemnation Proceedings (APN 810-34-006). Declaration Adopted by the Board on November 13, 2012, for the Gilroy Campus Modernization Project Civil Procedures, Including but not Limited to, Sections 1240.120, 1240.125, and 1245.220, for", 
+                    "item_text_raw": "1.  New Business Certain Easement Interests for the Gilroy Campus Modernization Project and Authorizing and Directing Legal Counsel to Institute Condemnation Proceedings (APN 810-34-006). Declaration Adopted by the Board on November 13, 2012, for the Gilroy Campus Modernization Project Civil Procedures, Including but not Limited to, Sections 1240.120, 1240.125, and 1245.220, for "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Portion of The Property Described as 1065 Castro Valley Road, Gilroy, California, Assessor\u2019s Parcel Number 810-34-006, for the Gilroy Modernization Project (APN 810-34-006) Valley, The Academy Campus Program, Project Number:  43-6947-00-4 and Resolution #977 and Property Protection  Resolution #978", 
+                    "item_text_raw": "a Portion of The Property Described as 1065 Castro Valley Road, Gilroy, California, Assessor\u2019s Parcel Number 810-34-006, for the Gilroy Modernization Project (APN 810-34-006) Valley, The Academy Campus Program, Project Number:  43-6947-00-4 and Resolution #977 and Property Protection  Resolution #978   "
+                }, 
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is August 12, 2014, Gavilan College, Morgan Hill Site Rooms 10 and 11", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is August 12, 2014, Gavilan College, Morgan Hill Site Rooms 10 and 11 "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Adjournment", 
+                    "item_text_raw": "2.  Adjournment "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. No disruptive conduct will be permitted at any Gavilan College Board of Trustees meeting.  will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ------------------------------------------------------------------------------------------------ Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you. http://www.gavilan.edu", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. No disruptive conduct will be permitted at any Gavilan College Board of Trustees meeting.  will enable the District to make reasonable arrangements to ensure accessibility to the Board meeting. ------------------------------------------------------------------------------------------------ Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you. http://www.gavilan.edu "
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "III.  ACTION ITEM ", 
+            "section_number": "III"
+        }
+    ]
+}

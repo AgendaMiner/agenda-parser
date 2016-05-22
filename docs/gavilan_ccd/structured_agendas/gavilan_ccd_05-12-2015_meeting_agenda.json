@@ -1,0 +1,289 @@
+{
+    "agency": "gavilan_ccd", 
+    "meeting_date": "05-12-2015", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "1.  Roll Call "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Comments from the Public \u2013 This is a time for the public to address the Board", 
+                    "item_text_raw": "2.  Comments from the Public \u2013 This is a time for the public to address the Board "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "3.  Recess to Closed Session      (A maximum of 5 minutes will be allotted to each speaker) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Call to Order", 
+                    "item_text_raw": "1.  Call to Order "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "Roll Call", 
+                    "item_text_raw": "2.  Roll Call "
+                }, 
+                {
+                    "item_number": "3", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "3.  Pledge of Allegiance "
+                }, 
+                {
+                    "item_number": "4", 
+                    "item_text": "Report of Any Action Taken in Closed Session", 
+                    "item_text_raw": "4.  Report of Any Action Taken in Closed Session "
+                }, 
+                {
+                    "item_number": "5", 
+                    "item_text": "Approval of Agenda", 
+                    "item_text_raw": "5.   Approval of Agenda "
+                }, 
+                {
+                    "item_number": "6", 
+                    "item_text": "Consent Agenda", 
+                    "item_text_raw": "6.  Consent Agenda "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Regular Board Meeting of the Board of Trustees Minutes, April 14, 2015, Board Facilities", 
+                    "item_text_raw": "(a) Regular Board Meeting of the Board of Trustees Minutes, April 14, 2015, Board Facilities "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Personnel Actions", 
+                    "item_text_raw": "(b) Personnel Actions "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Warrants and Electronic Transfers Drawn on District Funds", 
+                    "item_text_raw": "(c)  Warrants and Electronic Transfers Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Payroll Warrants Drawn on District Funds", 
+                    "item_text_raw": "(d) Payroll Warrants Drawn on District Funds "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Ratification of Agreements", 
+                    "item_text_raw": "(e) Ratification of Agreements "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Monthly Financial Report", 
+                    "item_text_raw": "(f)  Monthly Financial Report "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Budget Adjustments", 
+                    "item_text_raw": "(g) Budget Adjustments "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Measure E Bond Quarterly Financial Status Report at March 31, 201", 
+                    "item_text_raw": "(h) Measure E Bond Quarterly Financial Status Report at March 31, 201 "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of March 31, 2015", 
+                    "item_text_raw": "(i)  Retiree Health Benefit Trust Investment Portfolio Status as of March 31, 2015 "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board  "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Vice Presidents", 
+                    "item_text_raw": "(a) Vice Presidents "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "College President", 
+                    "item_text_raw": "(b) College President "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Academic Senate", 
+                    "item_text_raw": "(c)  Academic Senate "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Professional Support Staff", 
+                    "item_text_raw": "(d) Professional Support Staff "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Student Representative", 
+                    "item_text_raw": "(e) Student Representative "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Board Member Comments", 
+                    "item_text_raw": "(f)  Board Member Comments "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Board President", 
+                    "item_text_raw": "(g) Board President "
+                }, 
+                {
+                    "item_number": "10", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "10.  Board Committee Reports "
+                }, 
+                {
+                    "item_number": "11", 
+                    "item_text": "Information/Staff Reports", 
+                    "item_text_raw": "11.  Information/Staff Reports "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recognition of the Employees of the Month", 
+                    "item_text_raw": "(a) Recognition of the Employees of the Month "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Sabbatical Leave Report", 
+                    "item_text_raw": "(b) Sabbatical Leave Report "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Sabbatical Leave Report", 
+                    "item_text_raw": "(c)  Sabbatical Leave Report "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Status Report on Educational Centers", 
+                    "item_text_raw": "(d) Status Report on Educational Centers "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Draft Strategic Plan 2015-2016 Through 2019-2020", 
+                    "item_text_raw": "(e) Draft Strategic Plan 2015-2016 Through 2019-2020 "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Child Development Contract #CSPP-4530, Annual Self Review", 
+                    "item_text_raw": "(f)  Child Development Contract #CSPP-4530, Annual Self Review "
+                }
+            ], 
+            "section_name": "OPEN SESSION 7:00 p.m.", 
+            "section_name_raw": "II.  OPEN SESSION 7:00 p.m. ", 
+            "section_number": "II"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Recommendation for Water Supplier at the Coyote Valley Educational Center site", 
+                    "item_text_raw": "(a) Recommendation for Water Supplier at the Coyote Valley Educational Center site "
+                }, 
+                {
+                    "item_number": "2", 
+                    "item_text": "New Business", 
+                    "item_text_raw": "2.  New Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Curriculum", 
+                    "item_text_raw": "(a) Curriculum  "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "Student Trustee Rights and Privileges", 
+                    "item_text_raw": "(b) Student Trustee Rights and Privileges "
+                }, 
+                {
+                    "item_number": "c", 
+                    "item_text": "Quarterly Financial Status Report, CCFS 311Q at March 31, 2015", 
+                    "item_text_raw": "(c)  Quarterly Financial Status Report, CCFS 311Q at March 31, 2015 "
+                }, 
+                {
+                    "item_number": "d", 
+                    "item_text": "Instructional Material Fees", 
+                    "item_text_raw": "(d) Instructional Material Fees "
+                }, 
+                {
+                    "item_number": "e", 
+                    "item_text": "Gavilan College/Gilroy Unified School District (GUSD) Memorandum of Understanding", 
+                    "item_text_raw": "(e) Gavilan College/Gilroy Unified School District (GUSD) Memorandum of Understanding "
+                }, 
+                {
+                    "item_number": "f", 
+                    "item_text": "Gavilan College/Gilroy Unified School District MOU Extension", 
+                    "item_text_raw": "(f)  Gavilan College/Gilroy Unified School District MOU Extension "
+                }, 
+                {
+                    "item_number": "g", 
+                    "item_text": "Lease for the Morgan Hill Community Center", 
+                    "item_text_raw": "(g) Lease for the Morgan Hill Community Center  "
+                }, 
+                {
+                    "item_number": "h", 
+                    "item_text": "Land Lease for the new home of the Aviation Maintenance Technology Program at the South", 
+                    "item_text_raw": "(h) Land Lease for the new home of the Aviation Maintenance Technology Program at the South "
+                }, 
+                {
+                    "item_number": "i", 
+                    "item_text": "Gilbane Building Company Construction Management Services Project Assignment", 
+                    "item_text_raw": "(i)  Gilbane Building Company Construction Management Services Project Assignment "
+                }, 
+                {
+                    "item_number": "j", 
+                    "item_text": "Three(3) Gilbane Building Company Project Assignment Amendments for Construction", 
+                    "item_text_raw": "(j)  Three(3) Gilbane Building Company Project Assignment Amendments for Construction "
+                }, 
+                {
+                    "item_number": "k", 
+                    "item_text": "CSEA Sunshine", 
+                    "item_text_raw": "(k)  CSEA Sunshine "
+                }, 
+                {
+                    "item_number": "l", 
+                    "item_text": "Selection of District Financial Auditor", 
+                    "item_text_raw": "(l)  Selection of District Financial Auditor "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "III.  ACTION ITEMS ", 
+            "section_number": "III"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "1", 
+                    "item_text": "The next regularly scheduled Board meeting is June 9, 2015, Gavilan College,", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is June 9, 2015, Gavilan College,  "
+                }, 
+                {
+                    "item_number": "A", 
+                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a", 
+                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes to a "
+                }
+            ], 
+            "section_name": "CLOSING ITEMS", 
+            "section_name_raw": "IV. CLOSING ITEMS ", 
+            "section_number": "IV"
+        }
+    ]
+}
