@@ -18,6 +18,22 @@ def main():
 	writeAgendaListToDisk(agency, agenda_list)
 
 
+
+'''
+scrapeBoardDocs
+===============
+Scrapes the agendas for the given agency, creating a list of agendas and their ids.
+Returns the list of agendas.
+'''
+def scrapeBoardDocs(agency, agency_code):
+	agenda_list = loadExistingAgendaList(agency)
+	agenda_list = getAgendasList(agency, agency_code, agenda_list)
+	writeAgendaListToDisk(agency, agenda_list)
+	return agenda_list
+
+
+
+
 '''
 getAgendasList
 ==============
@@ -29,10 +45,6 @@ def getAgendasList(agency, agency_code, agenda_list):
 	# get list of meetings
 	r = requests.get('http://www.boarddocs.com/ca/' + agency_code + '/Board.nsf/LT-GetMeetings')
 	meetings_soup = BeautifulSoup(r.content, "lxml")
-
-	# # write to disk to avoid hammering the server
-	# pickle.dump(meetings_soup, open( "../docs/" + agency + "/data/test_meetings_html.p", "wb" ))
-	# meetings_soup = pickle.load(open("../docs/" + agency + "/data/test_meetings_html.p", "rb" ))
 
 	# extract links to agendas
 	agenda_links = meetings_soup.find_all("a", class_="meeting")

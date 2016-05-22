@@ -2366,5 +2366,29 @@
         "meeting_title": "ESUHSD SPECIAL BOARD MEETING", 
         "meeting_title_raw": "ESUHSD SPECIAL BOARD MEETING - 7:00 P.M., DISTRICT OFFICE - BOARD ROOM, 830 N. CAPITOL AVENUE, SAN JOSE, CA 95133", 
         "parsed": true
+    }, 
+    {
+        "agency": "east_side_uhsd", 
+        "boarddocs_id": "9YFTUA7217AA", 
+        "meeting_date": "05-19-2016", 
+        "meeting_title": "ESUHSD REGULAR BOARD MEETING", 
+        "meeting_title_raw": "ESUHSD REGULAR BOARD MEETING - 4:30 P.M., DISTRICT OFFICE - BOARD ROOM, 830 N. CAPITOL AVENUE, SAN JOSE, CA 95133 -- AMENDED", 
+        "parsed": true
+    }, 
+    {
+        "agency": "east_side_uhsd", 
+        "boarddocs_id": "9YFT9K71A767", 
+        "meeting_date": "05-10-2016", 
+        "meeting_title": "ESUHSD SPECIAL BOARD MEETING", 
+        "meeting_title_raw": "ESUHSD SPECIAL BOARD MEETING - 5:30 P.M., DISTRICT OFFICE - BOARD ROOM, 830 N. CAPITOL AVENUE, SAN JOSE, CA 95133 -- AMENDED (start time)", 
+        "parsed": true
+    }, 
+    {
+        "agency": "east_side_uhsd", 
+        "boarddocs_id": "A9L8D21DBD93", 
+        "meeting_date": "05-03-2016", 
+        "meeting_title": "ESUHSD SPECIAL BOARD MEETING & STUDY SESSION", 
+        "meeting_title_raw": "ESUHSD SPECIAL BOARD MEETING & STUDY SESSION - 4:00 P.M., DISTRICT OFFICE - BOARD ROOM, 830 N. CAPITOL AVENUE, SAN JOSE, CA 95133", 
+        "parsed": true
     }
 ]

@@ -1,0 +1,57 @@
+{
+    "agency": "san_jose_evergreen_ccd", 
+    "meeting_date": "05-17-2016", 
+    "meeting_sections": [
+        {
+            "items": [
+                {
+                    "boarddocs_id": "A9WNYE61F824", 
+                    "item_details": "", 
+                    "item_number": "1", 
+                    "item_recommendation": "", 
+                    "item_text": "4:00 p.m. - The Meeting will be called to order at the District Board Room, 40 South Market Street, San Jose, CA 953", 
+                    "item_text_raw": "1. 4:00 p.m. - The Meeting will be called to order at the District Board Room, 40 South Market Street, San Jose, CA 95113", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "A9WNYL61F82E", 
+                    "item_details": "\n", 
+                    "item_number": "2", 
+                    "item_recommendation": "", 
+                    "item_text": "Pledge of Allegiance", 
+                    "item_text_raw": "2. Pledge of Allegiance", 
+                    "item_type": "Procedural"
+                }, 
+                {
+                    "boarddocs_id": "A9WNYP61F831", 
+                    "item_details": "", 
+                    "item_number": "3", 
+                    "item_recommendation": "", 
+                    "item_text": "Adoption of the Agenda", 
+                    "item_text_raw": "3. Adoption of the Agenda", 
+                    "item_type": "Action, Procedural"
+                }, 
+                {
+                    "boarddocs_id": "A9WNYT61F835", 
+                    "item_details": "\nThe Board will hold a retreat facilitated by Dr. Walter Packard, ACCT, to review the district's mission, vision and values statements, strategic plans, governance policies and principles and to determine future goals. A detailed agenda of the retreat is attached.\n", 
+                    "item_number": "4", 
+                    "item_recommendation": "", 
+                    "item_text": "Governing Board Retreat", 
+                    "item_text_raw": "4. Governing Board Retreat", 
+                    "item_type": "Discussion, Information"
+                }, 
+                {
+                    "boarddocs_id": "A9WNYX61F839", 
+                    "item_details": "", 
+                    "item_number": "5", 
+                    "item_recommendation": "", 
+                    "item_text": "9:00 p.m. - The meeting will be adjourned.", 
+                    "item_text_raw": "5. 9:00 p.m. - The meeting will be adjourned.", 
+                    "item_type": "Information"
+                }
+            ], 
+            "section_name": "CALL MEETING TO ORDER", 
+            "section_number": ""
+        }
+    ]
+}

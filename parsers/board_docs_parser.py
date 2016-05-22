@@ -48,6 +48,8 @@ def parseAgendas(agency, agency_code):
 
 	writeAgendaListToDisk(agency, agenda_list)
 
+	return agenda_list
+
 
 
 '''
@@ -57,7 +59,7 @@ Read in the list of agenda items for the given agency.
 '''
 def loadAgendaList(agency):
 
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
+	agenda_list_filepath = "docs/" + agency + "/agenda_list.json"
 	if os.path.exists(agenda_list_filepath):
 		with open(agenda_list_filepath) as data_file:
 			agenda_list = json.load(data_file)
@@ -226,7 +228,7 @@ write out the list to disk.
 '''
 def writeAgendaListToDisk(agency, agenda_list):
 
-	agenda_list_filepath = "../docs/" + agency + "/agenda_list.json"
+	agenda_list_filepath = "docs/" + agency + "/agenda_list.json"
 	with open(agenda_list_filepath, 'wb') as outfile:
 		json.dump(agenda_list, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 

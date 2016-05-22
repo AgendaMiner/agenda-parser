@@ -1206,5 +1206,29 @@
         "meeting_title": "Governing Board Meeting Agenda", 
         "meeting_title_raw": "Governing Board Meeting Agenda", 
         "parsed": true
+    }, 
+    {
+        "agency": "san_jose_evergreen_ccd", 
+        "boarddocs_id": "A9T3CP064073", 
+        "meeting_date": "05-24-2016", 
+        "meeting_title": "Governing Board Meeting Agenda", 
+        "meeting_title_raw": "Governing Board Meeting Agenda", 
+        "parsed": true
+    }, 
+    {
+        "agency": "san_jose_evergreen_ccd", 
+        "boarddocs_id": "A9WNYC61F822", 
+        "meeting_date": "05-17-2016", 
+        "meeting_title": "Special Governing Board Meeting Agenda", 
+        "meeting_title_raw": "Special Governing Board Meeting Agenda", 
+        "parsed": true
+    }, 
+    {
+        "agency": "san_jose_evergreen_ccd", 
+        "boarddocs_id": "A99RZV7033AF", 
+        "meeting_date": "05-10-2016", 
+        "meeting_title": "Governing Board Meeting Agenda", 
+        "meeting_title_raw": "Governing Board Meeting Agenda", 
+        "parsed": true
     }
 ]

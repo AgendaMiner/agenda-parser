@@ -1054,5 +1054,21 @@
         "meeting_title": "Board of Trustees Meeting Minutes", 
         "meeting_title_raw": "Board of Trustees Meeting Minutes", 
         "parsed": true
+    }, 
+    {
+        "agency": "foothill_de_anza_ccd", 
+        "boarddocs_id": "AA3S7G707DE3", 
+        "meeting_date": "05-26-2016", 
+        "meeting_title": "Audit and Finance Committee", 
+        "meeting_title_raw": "Audit and Finance Committee", 
+        "parsed": true
+    }, 
+    {
+        "agency": "foothill_de_anza_ccd", 
+        "boarddocs_id": "A8HTPZ7868F6", 
+        "meeting_date": "05-02-2016", 
+        "meeting_title": "Regular Meeting of the Board of Trustees Agenda", 
+        "meeting_title_raw": "Regular Meeting of the Board of Trustees Agenda", 
+        "parsed": true
     }
 ]

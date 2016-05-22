@@ -2,6 +2,7 @@ import json
 import os
 from scrapers.utils import buildDirectoryStructure, writeAgendaListToDisk
 from scrapers import gavilan_scraper, board_docs_scraper
+from parsers import board_docs_parser
 from parsers.pdf_parser import parsePDFtoLines
 from parsers.line_classifier import classifyAgendas
 from parsers.line_structurer import structureLines
@@ -10,11 +11,17 @@ def main():
 
 	agencies_list = getAgenciesList()
 	for agency in agencies_list:
-		print("NOW WORKING ON %s..." % agency['agency_id'])
+		print("Now working on %s..." % agency['agency_id'])
 		buildDirectoryStructure(agency['agency_id'], agency['agenda_type'])
 
 		if agency['agenda_type'] == 'pdf':
 			processPDFs(agency)
+
+		elif agency['agenda_type'] == 'boarddocs':
+			processBoardDocs(agency)
+
+		else:
+			print("That agenda type is not currently supported")
 
 
 	
@@ -52,6 +59,8 @@ def processPDFs(agency):
 	print("SCRAPING PDFS...")
 	if agency['agency_id'] == 'gavilan_ccd':
 		agendas_list = gavilan_scraper.gavilanScraper(agency['agency_id'])
+	else:
+		print("No scraper has been written for that agency")
 
 	# parse agenda lines
 	print("")
@@ -92,7 +101,25 @@ def processPDFs(agency):
 	# write out the updated agendas list
 	writeAgendaListToDisk(agency['agency_id'], agendas_list)
 
-		
+
+'''
+processBoardDocs
+===========
+Scrape and process BoardDocs agendas for a given agency.
+'''
+def processBoardDocs(agency):
+
+	# scrape agency
+	print("")
+	print("SCRAPING AGENDAS...")
+	agendas_list = board_docs_scraper.scrapeBoardDocs(agency['agency_id'], agency['boarddocs_code'])
+
+	# parse agendas
+	print("")
+	print("PARSING AGENDAS...")
+	board_docs_parser.parseAgendas(agency['agency_id'], agency['boarddocs_code'])
+
+
 
 
 
