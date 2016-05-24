@@ -1,0 +1,60 @@
+{
+    "agency": "cupertino_usd", 
+    "meeting_date": "04-28-2016", 
+    "meeting_sections": [
+        {
+            "items": [], 
+            "section_name": "CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE ", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [], 
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT ", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [], 
+            "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "3.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC COMMENTS \u2013 ITEMS NOT ON THE AGENDA", 
+            "section_name_raw": "4.      PUBLIC COMMENTS \u2013 ITEMS NOT ON THE AGENDA ", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC COMMENTS \u2013 ITEMS ON THE AGENDA", 
+            "section_name_raw": "5.      PUBLIC COMMENTS \u2013 ITEMS ON THE AGENDA ", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [], 
+            "section_name": "INFORMATION/DISCUSSION ITEM", 
+            "section_name_raw": "6.      INFORMATION/DISCUSSION ITEM ", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [], 
+            "section_name": "RESUME DISCUSSION", 
+            "section_name_raw": "7.     RESUME DISCUSSION ", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [], 
+            "section_name": "BOARD ACTIVITY", 
+            "section_name_raw": "8.     BOARD ACTIVITY ", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [], 
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "9.     ADJOURNMENT ", 
+            "section_number": "9."
+        }
+    ]
+}

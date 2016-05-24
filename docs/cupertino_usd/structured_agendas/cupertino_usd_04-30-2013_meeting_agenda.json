@@ -1,0 +1,83 @@
+{
+    "agency": "cupertino_usd", 
+    "meeting_date": "04-30-2013", 
+    "meeting_sections": [
+        {
+            "items": [], 
+            "section_name": "CALL TO ORDER / FLAG SALUTE", 
+            "section_name_raw": "1.  CALL TO ORDER / FLAG SALUTE  ", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [], 
+            "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "2.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC COMMENTS", 
+            "section_name_raw": "3.  PUBLIC COMMENTS ", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CONSENT ITEMS", 
+            "section_name_raw": "4.  CONSENT ITEMS ", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [], 
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "5.  SUPERINTENDENT\u2019S REPORT ", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "61", 
+                    "item_text": "6.1   Adoption of Resolution No. 12-13-20 \u2013 Recognition of School Nutrition Employee Week,", 
+                    "item_text_raw": "6.1   Adoption of Resolution No. 12-13-20 \u2013 Recognition of School Nutrition Employee Week,  "
+                }, 
+                {
+                    "item_number": "62", 
+                    "item_text": "6.2   Approval of Cupertino Middle School Classroom Building Orientation", 
+                    "item_text_raw": "6.2   Approval of Cupertino Middle School Classroom Building Orientation "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "6.  ACTION ITEMS ", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [], 
+            "section_name": "DISCUSSION/INFORMATION ITEMS", 
+            "section_name_raw": "7.  DISCUSSION/INFORMATION ITEMS ", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [], 
+            "section_name": "BOARD MEMBER ACTIVITIES", 
+            "section_name_raw": "8.   BOARD MEMBER ACTIVITIES ", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "9.   CLOSED SESSION ", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [], 
+            "section_name": "REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "10. REPORT FROM CLOSED SESSION ", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [], 
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "11.  ADJOURNMENT  ", 
+            "section_number": "11."
+        }
+    ]
+}

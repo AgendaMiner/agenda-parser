@@ -1,0 +1,92 @@
+{
+    "agency": "cupertino_usd", 
+    "meeting_date": "03-11-2014", 
+    "meeting_sections": [
+        {
+            "items": [], 
+            "section_name": "CALL TO ORDER/FLAG SALUTE/NIMITZ ELEMENTARY SCHOOL", 
+            "section_name_raw": "1          CALL TO ORDER/FLAG SALUTE/NIMITZ ELEMENTARY SCHOOL ", 
+            "section_number": "1"
+        }, 
+        {
+            "items": [], 
+            "section_name": "RECOGNITION", 
+            "section_name_raw": "2.         RECOGNITION ", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [], 
+            "section_name": "APPROVAL OF MINUTES", 
+            "section_name_raw": "3          APPROVAL OF MINUTES ", 
+            "section_number": "3"
+        }, 
+        {
+            "items": [], 
+            "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4         COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_number": "4"
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC COMMENTS", 
+            "section_name_raw": "5         PUBLIC COMMENTS ", 
+            "section_number": "5"
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "61", 
+                    "item_text": "6.1     Ratification of Personnel Report February 2014", 
+                    "item_text_raw": "6.1     Ratification of Personnel Report February 2014 "
+                }, 
+                {
+                    "item_number": "62", 
+                    "item_text": "6.2     Ratification of Warrant List February 2014", 
+                    "item_text_raw": "6.2     Ratification of Warrant List February 2014 "
+                }, 
+                {
+                    "item_number": "65", 
+                    "item_text": "6.5     Approval of a Contract Award to McKim Architects in the Amount of $492,872", 
+                    "item_text_raw": "      6.5     Approval of a Contract Award to McKim Architects in the Amount of $492,872  "
+                }, 
+                {
+                    "item_number": "610", 
+                    "item_text": "6.10   Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection", 
+                    "item_text_raw": "      6.10   Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection       "
+                }
+            ], 
+            "section_name": "CONSENT ITEMS", 
+            "section_name_raw": "6         CONSENT ITEMS ", 
+            "section_number": "6"
+        }, 
+        {
+            "items": [], 
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "7.          SUPERINTENDENT\u2019S REPORT ", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "81", 
+                    "item_text": "8.1    Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year 9.          INFORMATION ITEM", 
+                    "item_text_raw": "     8.1    Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year 9.          INFORMATION ITEM "
+                }, 
+                {
+                    "item_number": "91", 
+                    "item_text": "9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s  10.        BOARD ACTIVITY 11.        CLOSED SESSION", 
+                    "item_text_raw": "             9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s  10.        BOARD ACTIVITY 11.        CLOSED SESSION "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "8.          ACTION ITEMS ", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [], 
+            "section_name": "RETURN FROM CLOSED SESSION", 
+            "section_name_raw": "12.     RETURN FROM CLOSED SESSION ", 
+            "section_number": "12."
+        }
+    ]
+}

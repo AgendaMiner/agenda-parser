@@ -8,7 +8,7 @@ import pandas as pd
 
 def main():
 
-	classifyAgendas("gavilan_ccd", ["04-12-2016", "05-10-2016"], True)
+	classifyAgendas("cupertino_usd", ["04-05-2016"], True)
 
 
 '''
@@ -29,6 +29,8 @@ def classifyAgendas(agency, dates, eval_model):
 	for date in dates:
 		predict_filepath = "docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
 		classed_filepath = "docs/" + agency + "/classed_lines/" + agency + "_" + date + "_classed_lines.csv"
+
+		print(predict_filepath)
 
 		classifyLines(model, vectorizer, predict_filepath, classed_filepath, classes_list)
 
@@ -102,7 +104,7 @@ def buildTrainingDataset(directory_path):
 	for filename in os.listdir(directory_path):
 		if filename.endswith(".csv"):
 			filepath = os.path.join(directory_path, filename)
-			df = pd.read_csv(filepath, sep = ',', header = 0)
+			df = pd.read_csv(open(filepath,'rU'), sep = ',', header = 0)
 			df_list.append(df)
 
 	return pd.concat(df_list, ignore_index=True) 

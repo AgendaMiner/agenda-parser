@@ -55,5 +55,12 @@
         "agenda_type": "pdf",
         "boarddocs_code": null,
         "aliases": []
+    },
+    {
+        "agency_id": "cupertino_usd",
+        "agency_type": "school_dist",
+        "agenda_type": "pdf",
+        "boarddocs_code": null,
+        "aliases": []
     }
 ]

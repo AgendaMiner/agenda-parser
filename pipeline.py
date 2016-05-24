@@ -1,7 +1,7 @@
 import json
 import os
 from scrapers.utils import buildDirectoryStructure, writeAgendaListToDisk
-from scrapers import gavilan_scraper, board_docs_scraper
+from scrapers import gavilan_scraper, board_docs_scraper, cupertino_usd_scraper
 from parsers import board_docs_parser
 from parsers.pdf_parser import parsePDFtoLines
 from parsers.line_classifier import classifyAgendas
@@ -11,6 +11,7 @@ def main():
 
 	agencies_list = getAgenciesList()
 	for agency in agencies_list:
+		print("=======================================================================")
 		print("Now working on %s..." % agency['agency_id'])
 		buildDirectoryStructure(agency['agency_id'], agency['agenda_type'])
 
@@ -59,15 +60,18 @@ def processPDFs(agency):
 	print("SCRAPING PDFS...")
 	if agency['agency_id'] == 'gavilan_ccd':
 		agendas_list = gavilan_scraper.gavilanScraper(agency['agency_id'])
+	elif agency['agency_id'] == 'cupertino_usd':
+		agendas_list = cupertino_usd_scraper.scraper(agency['agency_id'])
 	else:
 		print("No scraper has been written for that agency")
+		return
 
 	# parse agenda lines
 	print("")
 	print("PARSING PDF LINES...")
-	for agenda in agendas_list:
-		if agenda['downloaded'] and not agenda['scanned'] and not agenda['parsed']:
-			parsePDFtoLines(agency['agency_id'], agenda['meeting_date'], False)
+	# for agenda in agendas_list:
+	# 	if agenda['downloaded'] and not agenda['scanned'] and not agenda['parsed']:
+	# 		parsePDFtoLines(agency['agency_id'], agenda['meeting_date'], False)
 
 	# train on a sample of agendas
 	training_dir = "docs/%s/training_lines/" % agency['agency_id']
@@ -87,8 +91,9 @@ def processPDFs(agency):
 	# classify the agenda lines using the training set
 	print("")
 	print("CLASSIFYING PDF LINES...")
-	agenda_dates = [agenda['meeting_date'] for agenda in agendas_list if agenda['downloaded'] and not agenda['parsed'] and not agenda['scanned']]
-	classifyAgendas(agency['agency_id'], agenda_dates, False)
+	if len([agenda for agenda in agendas_list if agenda['downloaded'] and not agenda['parsed'] and not agenda['scanned']]):
+		agenda_dates = [agenda['meeting_date'] for agenda in agendas_list if agenda['downloaded'] and not agenda['parsed'] and not agenda['scanned']]
+		classifyAgendas(agency['agency_id'], agenda_dates, False)
 
 	# structure the classed agenda lines
 	print("")

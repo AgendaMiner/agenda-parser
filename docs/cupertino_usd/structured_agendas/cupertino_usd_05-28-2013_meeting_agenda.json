@@ -1,0 +1,104 @@
+{
+    "agency": "cupertino_usd", 
+    "meeting_date": "05-28-2013", 
+    "meeting_sections": [
+        {
+            "items": [], 
+            "section_name": "CALL TO ORDER / FLAG SALUTE", 
+            "section_name_raw": "1.  CALL TO ORDER / FLAG SALUTE  ", 
+            "section_number": "1."
+        }, 
+        {
+            "items": [], 
+            "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "2.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PUBLIC COMMENTS", 
+            "section_name_raw": "3.  PUBLIC COMMENTS ", 
+            "section_number": "3."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "41", 
+                    "item_text": "4.1    Ratification of Personnel Report for May 2013", 
+                    "item_text_raw": "4.1    Ratification of Personnel Report for May 2013 "
+                }, 
+                {
+                    "item_number": "43", 
+                    "item_text": "4.3    Approval of the District\u2019s Request for Allowance of Attendance Due to Emergency Conditions", 
+                    "item_text_raw": "4.3    Approval of the District\u2019s Request for Allowance of Attendance Due to Emergency Conditions "
+                }, 
+                {
+                    "item_number": "44", 
+                    "item_text": "4.4    Adoption of Resolution 12-13-24 \u2013 Pertaining to the Education Protection Account for Fiscal  4.5    Contract Award in the Amount of $212,900 to Environmental Systems, Inc. for Replacement  4.6    Contract Award in the Amount of $77,000 to Anza Engineering Corporation for Grading and  4.7     Contract Award in the Amount of $273,000 to Bayview Painting for Exterior Painting/Staining  4.8     Contract Award in the Amount of $619,500 to Calstate Construction for Installation of Interim            Housing at Lawson Middle School 4.9     Contract Award in the Amount of $832,600 to Guerra Construction Group for Installation of            Interim Housing at Cupertino Middle School to the Superintendent or Designee", 
+                    "item_text_raw": "4.4    Adoption of Resolution 12-13-24 \u2013 Pertaining to the Education Protection Account for Fiscal  4.5    Contract Award in the Amount of $212,900 to Environmental Systems, Inc. for Replacement  4.6    Contract Award in the Amount of $77,000 to Anza Engineering Corporation for Grading and  4.7     Contract Award in the Amount of $273,000 to Bayview Painting for Exterior Painting/Staining  4.8     Contract Award in the Amount of $619,500 to Calstate Construction for Installation of Interim            Housing at Lawson Middle School 4.9     Contract Award in the Amount of $832,600 to Guerra Construction Group for Installation of            Interim Housing at Cupertino Middle School to the Superintendent or Designee "
+                }, 
+                {
+                    "item_number": "410", 
+                    "item_text": "4.10   Contract Award in the Amount of $447,000 to Anza Engineering for Demolition of the District  4.11   Delegation of Authority to Approve a Contract Award in the Amount of $1,252,600 to            Cupertino Middle School to the Superintendent Designee 4.13   Contract Award in the Amount of $571,116.00 to Ricoh USA for the Five Year Lease-", 
+                    "item_text_raw": "4.10   Contract Award in the Amount of $447,000 to Anza Engineering for Demolition of the District  4.11   Delegation of Authority to Approve a Contract Award in the Amount of $1,252,600 to            Cupertino Middle School to the Superintendent Designee 4.13   Contract Award in the Amount of $571,116.00 to Ricoh USA for the Five Year Lease- "
+                }
+            ], 
+            "section_name": "CONSENT ITEMS", 
+            "section_name_raw": "4.  CONSENT ITEMS ", 
+            "section_number": "4."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "51", 
+                    "item_text": "5.1  Approval of the Issuance of a Notice of Intent to Terminate the Open Space Agreement with", 
+                    "item_text_raw": "5.1  Approval of the Issuance of a Notice of Intent to Terminate the Open Space Agreement with  "
+                }
+            ], 
+            "section_name": "ACTION ITEMS", 
+            "section_name_raw": "5.  ACTION ITEMS ", 
+            "section_number": "5."
+        }, 
+        {
+            "items": [], 
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "6.  SUPERINTENDENT\u2019S REPORT ", 
+            "section_number": "6."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "71", 
+                    "item_text": "7.1   California State Preschool Program (CSPP) \u2013 Program Self Evaluation Annual Report \u2013", 
+                    "item_text_raw": "7.1   California State Preschool Program (CSPP) \u2013 Program Self Evaluation Annual Report \u2013  "
+                }, 
+                {
+                    "item_number": "73", 
+                    "item_text": "7.3   2013-2014 Enrollment Update Information", 
+                    "item_text_raw": "7.3   2013-2014 Enrollment Update Information "
+                }
+            ], 
+            "section_name": "DISCUSSION/INFORMATION ITEMS", 
+            "section_name_raw": "7.  DISCUSSION/INFORMATION ITEMS ", 
+            "section_number": "7."
+        }, 
+        {
+            "items": [], 
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "8.  CLOSED SESSION ", 
+            "section_number": "8."
+        }, 
+        {
+            "items": [], 
+            "section_name": "REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "9.  REPORT FROM CLOSED SESSION ", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [], 
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "10. ADJOURNMENT  ", 
+            "section_number": "10."
+        }
+    ]
+}

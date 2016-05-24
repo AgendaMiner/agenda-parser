@@ -12,8 +12,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 def main():
 
-	agency = "gavilan_ccd"
-	date = "04-08-2014"
+	agency = "cupertino_usd"
+	date = "04-05-2016"
 
 	parsePDFtoLines(agency, date, True)
 
@@ -61,14 +61,6 @@ def extractLinesFromPDF(filepath, agency, date):
 		for page_index, page in enumerate(pdf.pages):
 			# crop page
 			page = cropHeaderAndFooter(page, page_index)
-
-			# print page.pageid
-			# print page.rects
-
-			# # experiment with stripping out tables
-			# page = page.filter(test_func)
-			# print page.extract_text(x_tolerance=2, y_tolerance=2)
-
 
 			# convert to a list of lines with formatting
 			lines += getLinesWithFormatting(page, page_index, agency, date)
@@ -134,7 +126,7 @@ def cropHeaderAndFooter(page, page_index):
 	and use the line's location to set the footer height
 	'''
 
-	footer_height = 80 # default guestimate
+	footer_height = 0 # default guestimate
 
 	max_footer_height = 200;
 	lowest_line_dist_from_bottom = page.height;
@@ -224,6 +216,12 @@ addFormattingFeatures
 Given a dict with a text string, add new features depending on the properties of that string.
 '''
 def addFormattingFeatures(line):
+
+	# count how many spaces are at the start of the line
+	line['leading_spaces'] = len(line['text']) - len(line['text'].lstrip(' '))
+
+	# strip out whitespace
+	line['text'] = line['text'].strip()
 	
 	# check if line is all caps
 	if line['text'].isupper():
