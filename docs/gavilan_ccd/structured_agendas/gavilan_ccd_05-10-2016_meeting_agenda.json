@@ -58,8 +58,8 @@
                 }, 
                 {
                     "item_number": "7", 
-                    "item_text": "PUBLIC EMPLOYEE APPOINTMENT \u2013 Vice President of Student Services - Closed Session", 
-                    "item_text_raw": "7.  PUBLIC EMPLOYEE APPOINTMENT \u2013 Vice President of Student Services - Closed Session "
+                    "item_text": "PUBLIC EMPLOYEE APPOINTMENT \u2013 Vice President of Student Services - Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "7.  PUBLIC EMPLOYEE APPOINTMENT \u2013 Vice President of Student Services - Closed Session Pursuant to Government Code Section 54957 "
                 }, 
                 {
                     "item_number": "8", 
@@ -155,13 +155,8 @@
                 }, 
                 {
                     "item_number": "7", 
-                    "item_text": "Comments from the Public - This is a time for the public to address the Board. (A maximum of", 
-                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board. (A maximum of "
-                }, 
-                {
-                    "item_number": "5", 
-                    "item_text": "minutes will be allotted to each speaker)", 
-                    "item_text_raw": "5 minutes will be allotted to each speaker) "
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board. (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the Board. (A maximum of 5 minutes will be allotted to each speaker) "
                 }, 
                 {
                     "item_number": "8", 
@@ -257,8 +252,13 @@
             "items": [
                 {
                     "item_number": "1", 
-                    "item_text": "Old Business Santa Clara County Registrar of Voters", 
-                    "item_text_raw": "1.  Old Business Santa Clara County Registrar of Voters "
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters", 
+                    "item_text_raw": "**   (a) Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters "
                 }, 
                 {
                     "item_number": "b", 
@@ -308,7 +308,7 @@
                 {
                     "item_number": "h", 
                     "item_text": "Curriculum", 
-                    "item_text_raw": "(h) Curriculum  "
+                    "item_text_raw": "(h) Curriculum "
                 }
             ], 
             "section_name": "ACTION ITEMS", 
@@ -325,7 +325,7 @@
                 {
                     "item_number": "2", 
                     "item_text": "Adjournment", 
-                    "item_text_raw": "2.  Adjournment  "
+                    "item_text_raw": "2.  Adjournment "
                 }
             ], 
             "section_name": "CLOSING ITEMS", 

@@ -25,7 +25,28 @@
             "section_number": "I."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Ron Hannon   Employee Organization:  GCFA", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Ron Hannon   Employee Organization:  GCFA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Eric Ramones   Employee Organization:  CSEA", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Eric Ramones   Employee Organization:  CSEA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella   Employee Organization:  Unrepresented Significant exposure to litigation pursuant to Section 54956.9(b):", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella   Employee Organization:  Unrepresented Significant exposure to litigation pursuant to Section 54956.9(b):  "
+                }
+            ], 
             "section_name": "CLOSED SESSION 6:00 p.m.", 
             "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
             "section_number": ""
@@ -98,6 +119,16 @@
                     "item_text_raw": "(g) Monthly Financial Report "
                 }, 
                 {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "  7.  Comments from the Public - This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "      8.  Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
                     "item_number": "a", 
                     "item_text": "Vice Presidents", 
                     "item_text_raw": "(a) Vice Presidents "
@@ -160,7 +191,7 @@
                 {
                     "item_number": "d", 
                     "item_text": "Community Education Winter/Spring 2016 Classes", 
-                    "item_text_raw": "(d) Community Education Winter/Spring 2016 Classes  "
+                    "item_text_raw": "(d) Community Education Winter/Spring 2016 Classes "
                 }
             ], 
             "section_name": "OPEN SESSION 7:00 p.m.", 
@@ -211,13 +242,13 @@
                 }, 
                 {
                     "item_number": "e", 
-                    "item_text": "Approve an agreement with Arch Pac, Inc. to provide architectural design services to renovate the swimming pools at the Gilroy campus of Gavilan College ** (f) Resolution No. 1001 Election to Become Subject to the Uniform Public Construction Cost Accounting Act Procedures, and Resolution No. 1002 Enacting Informal Bidding Procedures under the Uniform Public Construction Cost Accounting Act", 
-                    "item_text_raw": "(e) Approve an agreement with Arch Pac, Inc. to provide architectural design services to renovate the swimming pools at the Gilroy campus of Gavilan College ** (f) Resolution No. 1001 Election to Become Subject to the Uniform Public Construction Cost Accounting Act Procedures, and Resolution No. 1002 Enacting Informal Bidding Procedures under the Uniform Public Construction Cost Accounting Act "
+                    "item_text": "Approve an agreement with Arch Pac, Inc. to provide architectural design services to renovate the swimming pools at the Gilroy campus of Gavilan College ** (f) Resolution No. 1001 Election to Become Subject to the Uniform Public Construction Cost Accounting Act Procedures, and Resolution No. 1002 Enacting Informal Bidding Procedures", 
+                    "item_text_raw": "(e) Approve an agreement with Arch Pac, Inc. to provide architectural design services to renovate the swimming pools at the Gilroy campus of Gavilan College ** (f) Resolution No. 1001 Election to Become Subject to the Uniform Public Construction Cost Accounting Act Procedures, and Resolution No. 1002 Enacting Informal Bidding Procedures "
                 }, 
                 {
                     "item_number": "g", 
-                    "item_text": "Memorandum of Understanding with the South Bay Regional Public Safety Training Consortium", 
-                    "item_text_raw": "(g) Memorandum of Understanding with the South Bay Regional Public Safety Training Consortium "
+                    "item_text": "Memorandum of Understanding with the South Bay Regional Public Safety Training", 
+                    "item_text_raw": "(g) Memorandum of Understanding with the South Bay Regional Public Safety Training "
                 }, 
                 {
                     "item_number": "h", 
@@ -237,7 +268,7 @@
                 {
                     "item_number": "k", 
                     "item_text": "FY 2014-2015 Foundation Audit Report", 
-                    "item_text_raw": "(k)  FY 2014-2015 Foundation Audit Report  "
+                    "item_text_raw": "(k)  FY 2014-2015 Foundation Audit Report "
                 }
             ], 
             "section_name": "ACTION ITEMS", 
@@ -254,7 +285,7 @@
                 {
                     "item_number": "2", 
                     "item_text": "Adjournment", 
-                    "item_text_raw": "2.  Adjournment  "
+                    "item_text_raw": "2.  Adjournment "
                 }
             ], 
             "section_name": "CLOSING ITEMS", 

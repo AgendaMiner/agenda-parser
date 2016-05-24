@@ -13,9 +13,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 def main():
 
 	agency = "gavilan_ccd"
-	date = "04-12-2016"
+	date = "04-08-2014"
 
-	parsePDFtoLines(agency, date, False)
+	parsePDFtoLines(agency, date, True)
 
 
 '''
@@ -503,48 +503,6 @@ def writeDFtoCSV(df, agency, date, manual_classify):
 
 	df.to_csv(filepath, encoding="utf-8")
 
-
-
-
-# '''
-# buildDTM
-# ========
-# Use Scikit-learn to build a document-term matrix from the text of the lines.
-# Return the dtm as a pandas df.
-# '''
-# def buildDTM(lines, agency, manual_classify):
-# 	text_lines = [line['text'] for line in lines]
-
-# 	# check if there's an existing vocabulary to work with
-# 	vocab = list()
-# 	vocab_filepath = "../docs/" + agency + "/data/dtm_vocab.p"
-# 	if os.path.exists(vocab_filepath):
-
-# 		# load the old vocab list
-# 		vocab = pickle.load(open(vocab_filepath, "rb" ))
-
-# 	# if there isn't an existing vocabulary, or if currently manually classifying documents, 
-# 	# expand this vocab to include terms in the new document
-# 	if manual_classify or not os.path.exists(vocab_filepath):
-
-# 		# build a new DTM vocabulary from this document
-# 		vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3))
-# 		vectorizer.fit_transform(text_lines)
-# 		new_vocab_dict = vectorizer.vocabulary_
-# 		new_vocab_list = list(new_vocab_dict.keys())
-
-# 		# merge this new vocab with the old vocab
-# 		vocab = list(set(new_vocab_list + vocab))
-
-# 		# save the expanded vocabulary to disk
-# 		pickle.dump(vocab, open(vocab_filepath, "wb"))
-
-# 	# create a new DTM using the full vocabulary
-# 	vectorizer = CountVectorizer(strip_accents="ascii", vocabulary=vocab, ngram_range=(1,3))
-# 	counts_matrix = vectorizer.fit_transform(text_lines)
-
-# 	# convert counts matrix to pandas df
-# 	return pd.DataFrame(counts_matrix.toarray(), columns=vectorizer.get_feature_names())
 
 
 if __name__ == '__main__':

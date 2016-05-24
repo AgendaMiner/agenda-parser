@@ -25,7 +25,13 @@
             "section_number": "I."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }
+            ], 
             "section_name": "CLOSED SESSION 6:30 p.m.", 
             "section_name_raw": "CLOSED SESSION 6:30 p.m. ", 
             "section_number": ""
@@ -98,6 +104,16 @@
                     "item_text_raw": "(g) Budget Adjustments "
                 }, 
                 {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "  7.  Comments from the Public - This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "      8.  Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
                     "item_number": "a", 
                     "item_text": "Vice Presidents", 
                     "item_text_raw": "(a) Vice Presidents "
@@ -125,7 +141,7 @@
                 {
                     "item_number": "f", 
                     "item_text": "Board Member Comments", 
-                    "item_text_raw": "(f)  Board Member Comments    "
+                    "item_text_raw": "(f)  Board Member Comments "
                 }, 
                 {
                     "item_number": "g", 
@@ -176,8 +192,13 @@
             "items": [
                 {
                     "item_number": "1", 
-                    "item_text": "Old Business Santa Clara County Registrar of Voters", 
-                    "item_text_raw": "1.  Old Business Santa Clara County Registrar of Voters  "
+                    "item_text": "Old Business", 
+                    "item_text_raw": "1.  Old Business "
+                }, 
+                {
+                    "item_number": "a", 
+                    "item_text": "Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters", 
+                    "item_text_raw": "**   (a) Resolution No.1004 Approving Minor Modifications to Trustee Areas Requested by the Santa Clara County Registrar of Voters "
                 }, 
                 {
                     "item_number": "2", 
@@ -262,7 +283,7 @@
                 {
                     "item_number": "p", 
                     "item_text": "Notice of Completion for the Water Storage Tank, Distribution and Well Improvements Project", 
-                    "item_text_raw": "(p) Notice of Completion for the Water Storage Tank, Distribution and Well Improvements Project  "
+                    "item_text_raw": "(p) Notice of Completion for the Water Storage Tank, Distribution and Well Improvements Project "
                 }
             ], 
             "section_name": "ACTION ITEMS", 

@@ -88,7 +88,7 @@ def processPDFs(agency):
 	print("")
 	print("CLASSIFYING PDF LINES...")
 	agenda_dates = [agenda['meeting_date'] for agenda in agendas_list if agenda['downloaded'] and not agenda['parsed'] and not agenda['scanned']]
-	classifyAgendas(agency['agency_id'], agenda_dates)
+	classifyAgendas(agency['agency_id'], agenda_dates, False)
 
 	# structure the classed agenda lines
 	print("")
@@ -100,6 +100,7 @@ def processPDFs(agency):
 
 	# write out the updated agendas list
 	writeAgendaListToDisk(agency['agency_id'], agendas_list)
+
 
 
 '''

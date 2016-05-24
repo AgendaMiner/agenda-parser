@@ -18,6 +18,31 @@
                     "item_number": "3", 
                     "item_text": "Recess to Closed Session     (a maximum of 5 minutes will be allotted to each speaker)", 
                     "item_text_raw": "3.  Recess to Closed Session     (a maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code     Section 54957.6     Agency Negotiator(s):  Susan Cheu/Eduardo Cervantes/Eric Ramones     Employee Organization:  CSEA", 
+                    "item_text_raw": "  CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code     Section 54957.6     Agency Negotiator(s):  Susan Cheu/Eduardo Cervantes/Eric Ramones     Employee Organization:  CSEA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code     Section 54957.6     Agency Negotiator(s):  Sherrean Carr/Rachel Perez/Eric Ramones/Dr. Kathleen Rose     Employee Organization:  GCFA   CONFER HONORARY DEGREE \u2013 Closed Session Pursuant to Education Code Section 72122 President of Student Services \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "  CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code     Section 54957.6     Agency Negotiator(s):  Sherrean Carr/Rachel Perez/Eric Ramones/Dr. Kathleen Rose     Employee Organization:  GCFA   CONFER HONORARY DEGREE \u2013 Closed Session Pursuant to Education Code Section 72122 President of Student Services \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "PUBLIC EMPLOYEE PERFORMANCE EVALUATION \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH REAL PROPERTY NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54956.8   Agency Negotiator:  Dr. Steven M. Kinsella", 
+                    "item_text_raw": "CONFERENCE WITH REAL PROPERTY NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54956.8   Agency Negotiator:  Dr. Steven M. Kinsella "
                 }
             ], 
             "section_name": "CALL TO ORDER 5:30 p.m.", 
@@ -92,6 +117,11 @@
                     "item_text_raw": "7.  Comments from the Public - This is a time for the public to address the board     "
                 }, 
                 {
+                    "item_number": "8", 
+                    "item_text": "Officers\u2019 Reports                   (a maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "      8.   Officers\u2019 Reports                   (a maximum of 5 minutes will be allotted to each speaker) "
+                }, 
+                {
                     "item_number": "a", 
                     "item_text": "Vice Presidents", 
                     "item_text_raw": "(a) Vice Presidents "
@@ -142,6 +172,11 @@
                     "item_text_raw": "(b) Academic Senate Resolution:  Recommendation on Proposed Space Utilization of "
                 }, 
                 {
+                    "item_number": "", 
+                    "item_text": "Child Development Building", 
+                    "item_text_raw": "Child Development Building  "
+                }, 
+                {
                     "item_number": "c", 
                     "item_text": "Child Development Center", 
                     "item_text_raw": "(c)  Child Development Center  "
@@ -167,6 +202,11 @@
                     "item_number": "a", 
                     "item_text": "Directors and Confidentials Council Bylaws", 
                     "item_text_raw": "(a)  Directors and Confidentials Council Bylaws "
+                }, 
+                {
+                    "item_number": "b", 
+                    "item_text": "*  () Request for and Consent to Consolidation of Elections, Resolution #970     (d)  Consider and Accept Bid for the Parking Lot C Expansion Project", 
+                    "item_text_raw": "  *  (b) Request for and Consent to Consolidation of Elections, Resolution #970     (d)  Consider and Accept Bid for the Parking Lot C Expansion Project "
                 }
             ], 
             "section_name": "ACTION ITEMS", 
@@ -182,13 +222,8 @@
                 }, 
                 {
                     "item_number": "2", 
-                    "item_text": "Adjournment", 
-                    "item_text_raw": "2.  Adjournment "
-                }, 
-                {
-                    "item_number": "A", 
-                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes", 
-                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes "
+                    "item_text": "Adjournment Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you.", 
+                    "item_text_raw": "2.  Adjournment Please help keep Gavilan College a litter-free campus and preserve its park-like setting.  Thank you. "
                 }
             ], 
             "section_name": "CLOSING ITEMS", 

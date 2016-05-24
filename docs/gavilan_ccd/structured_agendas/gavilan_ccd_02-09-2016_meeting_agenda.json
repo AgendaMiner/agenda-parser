@@ -18,6 +18,33 @@
                     "item_number": "3", 
                     "item_text": "Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker)", 
                     "item_text_raw": "3.  Recess to Closed Session    (A maximum of 3 minutes will be allotted to each speaker) "
+                }
+            ], 
+            "section_name": "CALL TO ORDER 6:00 p.m.", 
+            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
+            "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957", 
+                    "item_text_raw": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to Government Code Section 54957 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Ron Hannon   Employee Organization:  GCFA", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Ron Hannon   Employee Organization:  GCFA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Eric Ramones   Employee Organization:  CSEA", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella/Eric Ramones   Employee Organization:  CSEA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella   Employee Organization:  Unrepresented PUBLIC EMPLOYMENT \u2013 Closed Session Pursuant to Government Code Section 54957(b) to Consider Appointment of Public Employee Determination under Education Code Section", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Dr. Steven Kinsella   Employee Organization:  Unrepresented PUBLIC EMPLOYMENT \u2013 Closed Session Pursuant to Government Code Section 54957(b) to Consider Appointment of Public Employee Determination under Education Code Section "
                 }, 
                 {
                     "item_number": "", 
@@ -25,9 +52,9 @@
                     "item_text_raw": "88022 "
                 }
             ], 
-            "section_name": "CALL TO ORDER 6:00 p.m.", 
-            "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
-            "section_number": "I."
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
         }, 
         {
             "items": [
@@ -105,6 +132,16 @@
                     "item_number": "i", 
                     "item_text": "Retiree Health Benefit Trust Investment Portfolio Status as of December 31, 2015", 
                     "item_text_raw": "(i)  Retiree Health Benefit Trust Investment Portfolio Status as of December 31, 2015 "
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "Comments from the Public - This is a time for the public to address the Board.", 
+                    "item_text_raw": "  7.  Comments from the Public - This is a time for the public to address the Board. "
+                }, 
+                {
+                    "item_number": "8", 
+                    "item_text": "Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker)", 
+                    "item_text_raw": "      8.  Officers' Reports  (A maximum of 5 minutes will be allotted to each speaker) "
                 }, 
                 {
                     "item_number": "a", 
@@ -225,8 +262,8 @@
                 }, 
                 {
                     "item_number": "f", 
-                    "item_text": "Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to", 
-                    "item_text_raw": "(f)  Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to "
+                    "item_text": "Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to San Martin Airport Aviation Maintenance Technology Project", 
+                    "item_text_raw": "(f)  Approval of an agreement with Storm Water Inspection and Maintenance Services, Inc. to San Martin Airport Aviation Maintenance Technology Project "
                 }, 
                 {
                     "item_number": "g", 
@@ -235,13 +272,13 @@
                 }, 
                 {
                     "item_number": "h", 
-                    "item_text": "Gilbane Building Company Project Assignment Amendments", 
-                    "item_text_raw": "(h) Gilbane Building Company Project Assignment Amendments "
+                    "item_text": "Gilbane Building Company Project Assignment Amendments Educational Center site.  Also approve Resolution No. 1003 to authorize execution and", 
+                    "item_text_raw": "(h) Gilbane Building Company Project Assignment Amendments Educational Center site.  Also approve Resolution No. 1003 to authorize execution and "
                 }, 
                 {
                     "item_number": "j", 
-                    "item_text": "Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as", 
-                    "item_text_raw": "(j)  Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as "
+                    "item_text": "Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as Mitigation for the Coyote Valley Educational Center Project", 
+                    "item_text_raw": "(j)  Approve a Conservation Easement Purchase Agreement with Mariposa Peak, LLC, as Mitigation for the Coyote Valley Educational Center Project "
                 }, 
                 {
                     "item_number": "k", 
@@ -257,18 +294,13 @@
             "items": [
                 {
                     "item_number": "1", 
-                    "item_text": "The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student", 
-                    "item_text_raw": "1.  The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student "
+                    "item_text": "The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student Center, North/South Lounge.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is March 8, 2016 Gavilan College, Student Center, North/South Lounge. "
                 }, 
                 {
                     "item_number": "2", 
                     "item_text": "Adjournment", 
                     "item_text_raw": "2.  Adjournment "
-                }, 
-                {
-                    "item_number": "A", 
-                    "item_text": "maximum of 3 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area.", 
-                    "item_text_raw": "A maximum of 3 minutes will be allotted to each speaker with a maximum of 20 minutes to a subject area. "
                 }
             ], 
             "section_name": "CLOSING ITEMS", 

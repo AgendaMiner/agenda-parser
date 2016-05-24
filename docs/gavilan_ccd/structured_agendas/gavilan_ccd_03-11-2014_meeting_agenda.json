@@ -18,16 +18,43 @@
                     "item_number": "3", 
                     "item_text": "Recess to closed session      (A maximum of 5 minutes will be allotted to each speaker)", 
                     "item_text_raw": "3.  Recess to closed session      (A maximum of 5 minutes will be allotted to each speaker) "
-                }, 
-                {
-                    "item_number": "", 
-                    "item_text": "72122", 
-                    "item_text_raw": "72122 "
                 }
             ], 
             "section_name": "CALL TO ORDER 6:00 p.m.", 
             "section_name_raw": "I.  CALL TO ORDER 6:00 p.m. ", 
             "section_number": "I."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to    Government code Section 54957   CONFER HONORARY DEGREE \u2013 Closed Session Pursuant to Education Code Section", 
+                    "item_text_raw": "PUBLIC EMPLOYEE DISCIPLINE/DISMISSAL/RELEASE \u2013 Closed Session Pursuant to    Government code Section 54957   CONFER HONORARY DEGREE \u2013 Closed Session Pursuant to Education Code Section "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "72122", 
+                    "item_text_raw": "72122 "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS -- Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Susan Cheu/Eric Ramones   Employee Organization:  CSEA", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS -- Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Susan Cheu/Eric Ramones   Employee Organization:  CSEA "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Sherrean Carr/Rachel Perez/Eric Ramones, Dr. Kathleen Rose", 
+                    "item_text_raw": "CONFERENCE WITH LABOR NEGOTIATORS \u2013 Closed Session Pursuant to Government Code Section 54957.6   Agency Negotiator(s):  Sherrean Carr/Rachel Perez/Eric Ramones, Dr. Kathleen Rose "
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "CONFEENCE WITH LEGAL COUNSEL \u2013 ANTICIPATED LITIGATION \u2013 Initiation of Litigation Pursuant to Government Code subdivision (c) of Section 54956.9; 1 potential case", 
+                    "item_text_raw": "CONFEENCE WITH LEGAL COUNSEL \u2013 ANTICIPATED LITIGATION \u2013 Initiation of Litigation Pursuant to Government Code subdivision (c) of Section 54956.9; 1 potential case "
+                }
+            ], 
+            "section_name": "CLOSED SESSION 6:00 p.m.", 
+            "section_name_raw": "CLOSED SESSION 6:00 p.m. ", 
+            "section_number": ""
         }, 
         {
             "items": [
@@ -142,9 +169,14 @@
                     "item_text_raw": "(g) Board President "
                 }, 
                 {
+                    "item_number": "9", 
+                    "item_text": "Board Committee Reports", 
+                    "item_text_raw": "  9.  Board Committee Reports "
+                }, 
+                {
                     "item_number": "10", 
-                    "item_text": "Information/Staff Reports", 
-                    "item_text_raw": "10.  Information/Staff Reports "
+                    "item_text": "Information/Staff Reports Domain to Certain Easement Interests for the Gilroy Campus Modernization Project", 
+                    "item_text_raw": "10.  Information/Staff Reports Domain to Certain Easement Interests for the Gilroy Campus Modernization Project "
                 }
             ], 
             "section_name": "OPEN SESSION 7:00 p.m.", 
@@ -155,13 +187,13 @@
             "items": [
                 {
                     "item_number": "c", 
-                    "item_text": "Consider and Approve the Addendum to the Mitigated Negative Declaration", 
-                    "item_text_raw": "(c)  Consider and Approve the Addendum to the Mitigated Negative Declaration "
+                    "item_text": "Consider and Approve the Addendum to the Mitigated Negative Declaration adopted by the Board on November 13, 2012, for the Gilroy Campus Modernization Project      (d)  Consider and Approve Resolution #968 Determining that the Public Interest Authorizing Proceedings in Eminent Domain for the Gilroy Modernization Project", 
+                    "item_text_raw": "(c)  Consider and Approve the Addendum to the Mitigated Negative Declaration adopted by the Board on November 13, 2012, for the Gilroy Campus Modernization Project      (d)  Consider and Approve Resolution #968 Determining that the Public Interest Authorizing Proceedings in Eminent Domain for the Gilroy Modernization Project "
                 }, 
                 {
                     "item_number": "e", 
-                    "item_text": "Consider and Approve Resolution #969 to Accept Bid for Replacement of Water", 
-                    "item_text_raw": "(e) Consider and Approve Resolution #969 to Accept Bid for Replacement of Water "
+                    "item_text": "Consider and Approve Resolution #969 to Accept Bid for Replacement of Water Supply System Project", 
+                    "item_text_raw": "(e) Consider and Approve Resolution #969 to Accept Bid for Replacement of Water Supply System Project "
                 }
             ], 
             "section_name": "ACTION ITEM", 
@@ -172,18 +204,13 @@
             "items": [
                 {
                     "item_number": "1", 
-                    "item_text": "The next regularly scheduled Board meeting is April 8, 2014 Gavilan College, Student", 
-                    "item_text_raw": "1.  The next regularly scheduled Board meeting is April 8, 2014 Gavilan College, Student "
+                    "item_text": "The next regularly scheduled Board meeting is April 8, 2014 Gavilan College, Student Center, North/South Lounge.", 
+                    "item_text_raw": "1.  The next regularly scheduled Board meeting is April 8, 2014 Gavilan College, Student Center, North/South Lounge. "
                 }, 
                 {
                     "item_number": "2", 
                     "item_text": "Adjournment", 
                     "item_text_raw": "2.  Adjournment "
-                }, 
-                {
-                    "item_number": "A", 
-                    "item_text": "maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes", 
-                    "item_text_raw": "A maximum of 5 minutes will be allotted to each speaker with a maximum of 20 minutes "
                 }
             ], 
             "section_name": "CLOSING ITEMS", 
