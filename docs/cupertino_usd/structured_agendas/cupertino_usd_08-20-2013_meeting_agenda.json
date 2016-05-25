@@ -5,145 +5,171 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE  ", 
+            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "2.  APPROVAL OF MINUTES ", 
+            "section_name_raw": "2.  APPROVAL OF MINUTES", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "3.  PUBLIC COMMENTS ", 
+            "section_name_raw": "3.  PUBLIC COMMENTS", 
             "section_number": "3."
         }, 
         {
             "items": [
                 {
-                    "item_number": "41", 
-                    "item_text": "4.1   Ratification of the Personnel Report for August 2013", 
-                    "item_text_raw": "4.1   Ratification of the Personnel Report for August 2013 "
+                    "item_number": "4.1", 
+                    "item_text": "Ratification of the Personnel Report for August 2013", 
+                    "item_text_raw": "4.1   Ratification of the Personnel Report for August 2013"
                 }, 
                 {
-                    "item_number": "42", 
-                    "item_text": "4.2   Ratification of Warrant List for June and July 2013", 
-                    "item_text_raw": "4.2   Ratification of Warrant List for June and July 2013 "
+                    "item_number": "4.2", 
+                    "item_text": "Ratification of Warrant List for June and July 2013", 
+                    "item_text_raw": "4.2   Ratification of Warrant List for June and July 2013"
                 }, 
                 {
-                    "item_number": "43", 
-                    "item_text": "4.3   Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to", 
-                    "item_text_raw": "4.3   Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to   "
+                    "item_number": "4.3", 
+                    "item_text": "Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to", 
+                    "item_text_raw": "4.3   Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to"
                 }, 
                 {
-                    "item_number": "44", 
-                    "item_text": "4.4   Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,", 
-                    "item_text_raw": "4.4   Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,   "
+                    "item_number": "4.4", 
+                    "item_text": "Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,", 
+                    "item_text_raw": "4.4   Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,"
                 }, 
                 {
-                    "item_number": "45", 
-                    "item_text": "4.5    Adoption of Amended 2013-2014 Salary Schedules", 
-                    "item_text_raw": "4.5    Adoption of Amended 2013-2014 Salary Schedules "
+                    "item_number": "4.5", 
+                    "item_text": "Adoption of Amended 2013-2014 Salary Schedules", 
+                    "item_text_raw": "4.5    Adoption of Amended 2013-2014 Salary Schedules"
                 }, 
                 {
-                    "item_number": "47", 
-                    "item_text": "4.7    Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations", 
-                    "item_text_raw": "4.7    Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations   "
+                    "item_number": "4.6", 
+                    "item_text": "Approve the Reimbursement to Swinerton Management and Consulting in the Amount of", 
+                    "item_text_raw": "4.6    Approve the Reimbursement to Swinerton Management and Consulting in the Amount of"
                 }, 
                 {
-                    "item_number": "48", 
-                    "item_text": "4.8    Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of", 
-                    "item_text_raw": "4.8    Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of  "
+                    "item_number": "4.7", 
+                    "item_text": "Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations", 
+                    "item_text_raw": "4.7    Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations"
                 }, 
                 {
-                    "item_number": "410", 
-                    "item_text": "4.10  Approval of the School Site Grants \u2013 PTA/PTO/Foundation Grants", 
-                    "item_text_raw": "4.10  Approval of the School Site Grants \u2013 PTA/PTO/Foundation Grants "
+                    "item_number": "4.8", 
+                    "item_text": "Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of", 
+                    "item_text_raw": "4.8    Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of"
                 }, 
                 {
-                    "item_number": "411", 
-                    "item_text": "4.11  Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for            State Preschool for 2013-2014 School Year", 
-                    "item_text_raw": "4.11  Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for            State Preschool for 2013-2014 School Year "
+                    "item_number": "4.9", 
+                    "item_text": "Declaration of Surplus Property", 
+                    "item_text_raw": "4.9    Declaration of Surplus Property"
                 }, 
                 {
-                    "item_number": "412", 
-                    "item_text": "4.12  Approval of the School and Library Improvement Plans, 2013-2014", 
-                    "item_text_raw": "4.12  Approval of the School and Library Improvement Plans, 2013-2014 "
+                    "item_number": "4.10", 
+                    "item_text": "Approval of the School Site Grants \u2013 PTA/PTO/Foundation Grants", 
+                    "item_text_raw": "4.10  Approval of the School Site Grants \u2013 PTA/PTO/Foundation Grants"
                 }, 
                 {
-                    "item_number": "413", 
-                    "item_text": "4.13  Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an", 
-                    "item_text_raw": "4.13  Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an  "
+                    "item_number": "4.11", 
+                    "item_text": "Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for", 
+                    "item_text_raw": "4.11  Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for"
+                }, 
+                {
+                    "item_number": "4.12", 
+                    "item_text": "Approval of the School and Library Improvement Plans, 2013-2014", 
+                    "item_text_raw": "4.12  Approval of the School and Library Improvement Plans, 2013-2014"
+                }, 
+                {
+                    "item_number": "4.13", 
+                    "item_text": "Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an", 
+                    "item_text_raw": "4.13  Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "4.  CONSENT ITEMS ", 
+            "section_name_raw": "4.  CONSENT ITEMS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "5.   SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "5.   SUPERINTENDENT\u2019S REPORT", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
-                    "item_number": "61", 
-                    "item_text": "6.1   Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code", 
-                    "item_text_raw": " 6.1   Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code   "
+                    "item_number": "6.1", 
+                    "item_text": "Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code", 
+                    "item_text_raw": "6.1   Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code"
                 }, 
                 {
-                    "item_number": "62", 
-                    "item_text": "6.2   Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services", 
-                    "item_text_raw": " 6.2   Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services  "
+                    "item_number": "6.2", 
+                    "item_text": "Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services", 
+                    "item_text_raw": "6.2   Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services"
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "6.   ACTION ITEMS ", 
+            "section_name_raw": "6.   ACTION ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
-                    "item_number": "72", 
-                    "item_text": "7.2    Receive for Information an Update on the Progress of the Measure H Bond Program", 
-                    "item_text_raw": "7.2    Receive for Information an Update on the Progress of the Measure H Bond Program "
+                    "item_number": "7.1", 
+                    "item_text": "Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget", 
+                    "item_text_raw": "7.1    Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget"
                 }, 
                 {
-                    "item_number": "73", 
-                    "item_text": "7.3    Accept for Information the Quarterly Report on Williams Uniform Complaints", 
-                    "item_text_raw": "7.3    Accept for Information the Quarterly Report on Williams Uniform Complaints "
+                    "item_number": "7.2", 
+                    "item_text": "Receive for Information an Update on the Progress of the Measure H Bond Program", 
+                    "item_text_raw": "7.2    Receive for Information an Update on the Progress of the Measure H Bond Program"
+                }, 
+                {
+                    "item_number": "7.3", 
+                    "item_text": "Accept for Information the Quarterly Report on Williams Uniform Complaints", 
+                    "item_text_raw": "7.3    Accept for Information the Quarterly Report on Williams Uniform Complaints"
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "7.  DISCUSSION/INFORMATION ITEMS ", 
+            "section_name_raw": "7.  DISCUSSION/INFORMATION ITEMS", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "8.1", 
+                    "item_text": "Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of", 
+                    "item_text_raw": "8.1   Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of"
+                }, 
+                {
+                    "item_number": "8.2", 
+                    "item_text": "Personnel Action- Discipline/Dismissal/Release (Gov. Code, \u00a7 54957)", 
+                    "item_text_raw": "8.2   Personnel Action- Discipline/Dismissal/Release (Gov. Code, \u00a7 54957)"
+                }
+            ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "8.  CLOSED SESSION ", 
+            "section_name_raw": "8.  CLOSED SESSION", 
             "section_number": "8."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "9.   REPORT FROM CLOSED SESSION ", 
+            "section_name_raw": "9.   REPORT FROM CLOSED SESSION", 
             "section_number": "9."
         }, 
         {
             "items": [], 
             "section_name": "BOARD ACTIVITY", 
-            "section_name_raw": "10.  BOARD ACTIVITY ", 
+            "section_name_raw": "10.  BOARD ACTIVITY", 
             "section_number": "10."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "11.  ADJOURNMENT  ", 
+            "section_name_raw": "11.  ADJOURNMENT", 
             "section_number": "11."
         }
     ]

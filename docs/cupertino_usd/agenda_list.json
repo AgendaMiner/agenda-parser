@@ -4,7 +4,7 @@
         "agenda_id": "cupertino_usd_01-13-2015", 
         "downloaded": true, 
         "meeting_date": "01-13-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20011315.pdf"
     }, 
@@ -13,7 +13,7 @@
         "agenda_id": "cupertino_usd_01-27-2015", 
         "downloaded": true, 
         "meeting_date": "01-27-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20012715.pdf"
     }, 
@@ -22,7 +22,7 @@
         "agenda_id": "cupertino_usd_02-10-2015", 
         "downloaded": true, 
         "meeting_date": "02-10-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20021015.pdf"
     }, 
@@ -31,7 +31,7 @@
         "agenda_id": "cupertino_usd_02-24-2015", 
         "downloaded": true, 
         "meeting_date": "02-24-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20022415.pdf"
     }, 
@@ -40,7 +40,7 @@
         "agenda_id": "cupertino_usd_03-10-2015", 
         "downloaded": true, 
         "meeting_date": "03-10-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20031015.pdf"
     }, 
@@ -49,7 +49,7 @@
         "agenda_id": "cupertino_usd_03-24-2015", 
         "downloaded": true, 
         "meeting_date": "03-24-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20032415.pdf"
     }, 
@@ -58,7 +58,7 @@
         "agenda_id": "cupertino_usd_04-21-2015", 
         "downloaded": true, 
         "meeting_date": "04-21-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20042115.pdf"
     }, 
@@ -67,7 +67,7 @@
         "agenda_id": "cupertino_usd_05-05-2015", 
         "downloaded": true, 
         "meeting_date": "05-05-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20050515.pdf"
     }, 
@@ -76,7 +76,7 @@
         "agenda_id": "cupertino_usd_05-26-2015", 
         "downloaded": true, 
         "meeting_date": "05-26-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20052615.pdf"
     }, 
@@ -85,7 +85,7 @@
         "agenda_id": "cupertino_usd_06-16-2015", 
         "downloaded": true, 
         "meeting_date": "06-16-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20061615.pdf"
     }, 
@@ -94,7 +94,7 @@
         "agenda_id": "cupertino_usd_08-18-2015", 
         "downloaded": true, 
         "meeting_date": "08-18-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20081815.pdf"
     }, 
@@ -103,7 +103,7 @@
         "agenda_id": "cupertino_usd_09-08-2015", 
         "downloaded": true, 
         "meeting_date": "09-08-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20090815.pdf"
     }, 
@@ -112,7 +112,7 @@
         "agenda_id": "cupertino_usd_09-15-2015", 
         "downloaded": true, 
         "meeting_date": "09-15-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20091515.pdf"
     }, 
@@ -121,7 +121,7 @@
         "agenda_id": "cupertino_usd_09-16-2015", 
         "downloaded": true, 
         "meeting_date": "09-16-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20091615.pdf"
     }, 
@@ -130,7 +130,7 @@
         "agenda_id": "cupertino_usd_09-22-2015", 
         "downloaded": true, 
         "meeting_date": "09-22-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20092215.pdf"
     }, 
@@ -139,7 +139,7 @@
         "agenda_id": "cupertino_usd_10-13-2015", 
         "downloaded": true, 
         "meeting_date": "10-13-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20101315.pdf"
     }, 
@@ -148,7 +148,7 @@
         "agenda_id": "cupertino_usd_10-27-2015", 
         "downloaded": true, 
         "meeting_date": "10-27-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20102715.pdf"
     }, 
@@ -157,7 +157,7 @@
         "agenda_id": "cupertino_usd_12-15-2015", 
         "downloaded": true, 
         "meeting_date": "12-15-2015", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20121515.pdf"
     }, 
@@ -166,7 +166,7 @@
         "agenda_id": "cupertino_usd_01-12-2016", 
         "downloaded": true, 
         "meeting_date": "01-12-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20011216.pdf"
     }, 
@@ -175,7 +175,7 @@
         "agenda_id": "cupertino_usd_01-21-2016", 
         "downloaded": true, 
         "meeting_date": "01-21-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20012116.pdf"
     }, 
@@ -184,7 +184,7 @@
         "agenda_id": "cupertino_usd_02-09-2016", 
         "downloaded": true, 
         "meeting_date": "02-09-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20020916.pdf"
     }, 
@@ -193,7 +193,7 @@
         "agenda_id": "cupertino_usd_02-23-2016", 
         "downloaded": true, 
         "meeting_date": "02-23-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20022316.pdf"
     }, 
@@ -202,7 +202,7 @@
         "agenda_id": "cupertino_usd_03-08-2016", 
         "downloaded": true, 
         "meeting_date": "03-08-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20030816.pdf"
     }, 
@@ -211,7 +211,7 @@
         "agenda_id": "cupertino_usd_03-22-2016", 
         "downloaded": true, 
         "meeting_date": "03-22-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20032216.pdf"
     }, 
@@ -220,7 +220,7 @@
         "agenda_id": "cupertino_usd_04-05-2016", 
         "downloaded": true, 
         "meeting_date": "04-05-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20040516.pdf"
     }, 
@@ -229,7 +229,7 @@
         "agenda_id": "cupertino_usd_04-19-2016", 
         "downloaded": true, 
         "meeting_date": "04-19-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20041916.pdf"
     }, 
@@ -238,7 +238,7 @@
         "agenda_id": "cupertino_usd_04-28-2016", 
         "downloaded": true, 
         "meeting_date": "04-28-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20042816.pdf"
     }, 
@@ -247,7 +247,7 @@
         "agenda_id": "cupertino_usd_05-10-2016", 
         "downloaded": true, 
         "meeting_date": "05-10-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20051016.pdf"
     }, 
@@ -256,7 +256,7 @@
         "agenda_id": "cupertino_usd_01-22-2013", 
         "downloaded": true, 
         "meeting_date": "01-22-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20012213.pdf"
     }, 
@@ -265,7 +265,7 @@
         "agenda_id": "cupertino_usd_02-12-2013", 
         "downloaded": true, 
         "meeting_date": "02-12-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20021213.pdf"
     }, 
@@ -274,7 +274,7 @@
         "agenda_id": "cupertino_usd_02-26-2013", 
         "downloaded": true, 
         "meeting_date": "02-26-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20022613.pdf"
     }, 
@@ -283,7 +283,7 @@
         "agenda_id": "cupertino_usd_03-12-2013", 
         "downloaded": true, 
         "meeting_date": "03-12-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20031213.pdf"
     }, 
@@ -292,7 +292,7 @@
         "agenda_id": "cupertino_usd_03-26-2013", 
         "downloaded": true, 
         "meeting_date": "03-26-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20032613.pdf"
     }, 
@@ -301,7 +301,7 @@
         "agenda_id": "cupertino_usd_04-09-2013", 
         "downloaded": true, 
         "meeting_date": "04-09-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20040913.pdf"
     }, 
@@ -310,7 +310,7 @@
         "agenda_id": "cupertino_usd_04-30-2013", 
         "downloaded": true, 
         "meeting_date": "04-30-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20043013.pdf"
     }, 
@@ -319,7 +319,7 @@
         "agenda_id": "cupertino_usd_05-14-2013", 
         "downloaded": true, 
         "meeting_date": "05-14-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20051413.pdf"
     }, 
@@ -328,7 +328,7 @@
         "agenda_id": "cupertino_usd_05-28-2013", 
         "downloaded": true, 
         "meeting_date": "05-28-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20052813.pdf"
     }, 
@@ -337,7 +337,7 @@
         "agenda_id": "cupertino_usd_06-18-2013", 
         "downloaded": true, 
         "meeting_date": "06-18-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1213/Board%20Agenda%20-%20Public%20061813.pdf"
     }, 
@@ -346,7 +346,7 @@
         "agenda_id": "cupertino_usd_08-20-2013", 
         "downloaded": true, 
         "meeting_date": "08-20-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20082013.pdf"
     }, 
@@ -355,7 +355,7 @@
         "agenda_id": "cupertino_usd_09-10-2013", 
         "downloaded": true, 
         "meeting_date": "09-10-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20091013.pdf"
     }, 
@@ -364,7 +364,7 @@
         "agenda_id": "cupertino_usd_09-24-2013", 
         "downloaded": true, 
         "meeting_date": "09-24-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20092413.pdf"
     }, 
@@ -373,7 +373,7 @@
         "agenda_id": "cupertino_usd_10-08-2013", 
         "downloaded": true, 
         "meeting_date": "10-08-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20100813.pdf"
     }, 
@@ -382,7 +382,7 @@
         "agenda_id": "cupertino_usd_10-22-2013", 
         "downloaded": true, 
         "meeting_date": "10-22-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20102213.pdf"
     }, 
@@ -391,7 +391,7 @@
         "agenda_id": "cupertino_usd_11-19-2013", 
         "downloaded": true, 
         "meeting_date": "11-19-2013", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20111913.pdf"
     }, 
@@ -400,7 +400,7 @@
         "agenda_id": "cupertino_usd_02-11-2014", 
         "downloaded": true, 
         "meeting_date": "02-11-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20021114.pdf"
     }, 
@@ -409,7 +409,7 @@
         "agenda_id": "cupertino_usd_03-11-2014", 
         "downloaded": true, 
         "meeting_date": "03-11-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1314/Board%20Agenda%20-%20Public%20031114.pdf"
     }, 
@@ -418,7 +418,7 @@
         "agenda_id": "cupertino_usd_08-19-2014", 
         "downloaded": true, 
         "meeting_date": "08-19-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20081914.pdf"
     }, 
@@ -427,7 +427,7 @@
         "agenda_id": "cupertino_usd_09-09-2014", 
         "downloaded": true, 
         "meeting_date": "09-09-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20090914.pdf"
     }, 
@@ -436,7 +436,7 @@
         "agenda_id": "cupertino_usd_09-23-2014", 
         "downloaded": true, 
         "meeting_date": "09-23-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20092314.pdf"
     }, 
@@ -445,7 +445,7 @@
         "agenda_id": "cupertino_usd_10-14-2014", 
         "downloaded": true, 
         "meeting_date": "10-14-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20101414.pdf"
     }, 
@@ -454,7 +454,7 @@
         "agenda_id": "cupertino_usd_10-28-2014", 
         "downloaded": true, 
         "meeting_date": "10-28-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20102814.pdf"
     }, 
@@ -463,7 +463,7 @@
         "agenda_id": "cupertino_usd_11-18-2014", 
         "downloaded": true, 
         "meeting_date": "11-18-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20111814.pdf"
     }, 
@@ -472,7 +472,7 @@
         "agenda_id": "cupertino_usd_12-09-2014", 
         "downloaded": true, 
         "meeting_date": "12-09-2014", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1415/Board%20Agenda%20-%20Public%20120914.pdf"
     }, 
@@ -481,7 +481,7 @@
         "agenda_id": "cupertino_usd_05-24-2016", 
         "downloaded": true, 
         "meeting_date": "05-24-2016", 
-        "parsed": false, 
+        "parsed": true, 
         "scanned": false, 
         "url": "http://www.cusdk8.org/edline/about/board/agendas/1516/Board%20Agenda%20-%20Public%20052416.pdf"
     }

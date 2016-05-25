@@ -5,43 +5,48 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "3.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "3.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "4.      PUBLIC COMMENTS ", 
+            "section_name_raw": "4.      PUBLIC COMMENTS", 
             "section_number": "4."
         }, 
         {
             "items": [
                 {
-                    "item_number": "", 
-                    "item_text": "Recess:  10:45 a.m. for Lunch          Reconvene:  12:15 p.m.", 
-                    "item_text_raw": "         Recess:  10:45 a.m. for Lunch          Reconvene:  12:15 p.m.  "
+                    "item_number": "5.1", 
+                    "item_text": "Review of District Enrollment and Potential Impacts", 
+                    "item_text_raw": "5.1    Review of District Enrollment and Potential Impacts "
+                }, 
+                {
+                    "item_number": "5.2", 
+                    "item_text": "Presentation and Discussion regarding Learner Focused Classrooms", 
+                    "item_text_raw": "5.2    Presentation and Discussion regarding Learner Focused Classrooms"
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEM", 
-            "section_name_raw": "5.      DISCUSSION/INFORMATION ITEM ", 
+            "section_name_raw": "5.      DISCUSSION/INFORMATION ITEM", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "6.      ADJOURNMENT       ", 
+            "section_name_raw": "6.      ADJOURNMENT", 
             "section_number": "6."
         }
     ]

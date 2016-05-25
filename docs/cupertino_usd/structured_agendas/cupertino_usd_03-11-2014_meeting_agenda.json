@@ -5,88 +5,159 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/NIMITZ ELEMENTARY SCHOOL", 
-            "section_name_raw": "1          CALL TO ORDER/FLAG SALUTE/NIMITZ ELEMENTARY SCHOOL ", 
+            "section_name_raw": "1          CALL TO ORDER/FLAG SALUTE/NIMITZ ELEMENTARY SCHOOL", 
             "section_number": "1"
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION", 
-            "section_name_raw": "2.         RECOGNITION ", 
+            "section_name_raw": "2.         RECOGNITION", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3          APPROVAL OF MINUTES ", 
+            "section_name_raw": "3          APPROVAL OF MINUTES", 
             "section_number": "3"
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4         COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "4         COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4"
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5         PUBLIC COMMENTS ", 
+            "section_name_raw": "5         PUBLIC COMMENTS", 
             "section_number": "5"
         }, 
         {
             "items": [
                 {
-                    "item_number": "61", 
-                    "item_text": "6.1     Ratification of Personnel Report February 2014", 
-                    "item_text_raw": "6.1     Ratification of Personnel Report February 2014 "
+                    "item_number": "6.1", 
+                    "item_text": "Ratification of Personnel Report February 2014", 
+                    "item_text_raw": "6.1     Ratification of Personnel Report February 2014"
                 }, 
                 {
-                    "item_number": "62", 
-                    "item_text": "6.2     Ratification of Warrant List February 2014", 
-                    "item_text_raw": "6.2     Ratification of Warrant List February 2014 "
+                    "item_number": "6.2", 
+                    "item_text": "Ratification of Warrant List February 2014", 
+                    "item_text_raw": "6.2     Ratification of Warrant List February 2014"
                 }, 
                 {
-                    "item_number": "65", 
-                    "item_text": "6.5     Approval of a Contract Award to McKim Architects in the Amount of $492,872", 
-                    "item_text_raw": "      6.5     Approval of a Contract Award to McKim Architects in the Amount of $492,872  "
+                    "item_number": "6.3", 
+                    "item_text": "Approval of a Contract in the Amount of $9,900 to Cassandra Erkens", 
+                    "item_text_raw": "6.3     Approval of a Contract in the Amount of $9,900 to Cassandra Erkens"
                 }, 
                 {
-                    "item_number": "610", 
-                    "item_text": "6.10   Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection", 
-                    "item_text_raw": "      6.10   Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection       "
+                    "item_number": "6.4", 
+                    "item_text": "Approval of 2013-2014 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report", 
+                    "item_text_raw": "6.4     Approval of 2013-2014 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report"
+                }, 
+                {
+                    "item_number": "6.5", 
+                    "item_text": "Approval of a Contract Award to McKim Architects in the Amount of $492,872 for Design and Construction Administration Services", 
+                    "item_text_raw": "6.5     Approval of a Contract Award to McKim Architects in the Amount of $492,872 for Design and Construction Administration Services"
+                }, 
+                {
+                    "item_number": "6.6", 
+                    "item_text": "Approval of Contract Award to Guerra Construction Group in the Amount of $282,150 for Construction of Modular Building Site Utilities \u2013 Increment Two at Lawson Middle School (Bid No. 14-B1-24)", 
+                    "item_text_raw": "6.6     Approval of Contract Award to Guerra Construction Group in the Amount of $282,150 for Construction of Modular Building Site Utilities \u2013 Increment Two at Lawson Middle School (Bid No. 14-B1-24)"
+                }, 
+                {
+                    "item_number": "6.7", 
+                    "item_text": "Approval of a Memorandum of Understanding between the Cupertino Union School District and the Silicon Valley Education Foundation", 
+                    "item_text_raw": "6.7     Approval of a Memorandum of Understanding between the Cupertino Union School District and the Silicon Valley Education Foundation"
+                }, 
+                {
+                    "item_number": "6.8", 
+                    "item_text": "Ratification of Reclassification of Staff Secretary I, Student Assignment", 
+                    "item_text_raw": "6.8     Ratification of Reclassification of Staff Secretary I, Student Assignment"
+                }, 
+                {
+                    "item_number": "6.9", 
+                    "item_text": "Approval of Contract Award in the Amount of $43,500 to Construction Inspection Services (CIS) for DSA Inspection Services", 
+                    "item_text_raw": "6.9     Approval of Contract Award in the Amount of $43,500 to Construction Inspection Services (CIS) for DSA Inspection Services"
+                }, 
+                {
+                    "item_number": "6.10", 
+                    "item_text": "Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection Service for DSA Inspection Services", 
+                    "item_text_raw": "6.10   Approval of Contract Award in the Amount of $56,280 to Dan Butler Inspection Service for DSA Inspection Services"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "6         CONSENT ITEMS ", 
+            "section_name_raw": "6         CONSENT ITEMS", 
             "section_number": "6"
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.          SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "7.          SUPERINTENDENT\u2019S REPORT", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
-                    "item_number": "81", 
-                    "item_text": "8.1    Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year 9.          INFORMATION ITEM", 
-                    "item_text_raw": "     8.1    Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year 9.          INFORMATION ITEM "
-                }, 
-                {
-                    "item_number": "91", 
-                    "item_text": "9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s  10.        BOARD ACTIVITY 11.        CLOSED SESSION", 
-                    "item_text_raw": "             9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s  10.        BOARD ACTIVITY 11.        CLOSED SESSION "
+                    "item_number": "8.1", 
+                    "item_text": "Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year", 
+                    "item_text_raw": "8.1    Approval of the Second Interim Financial Report for the 2013-2014 Fiscal Year "
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "8.          ACTION ITEMS ", 
+            "section_name_raw": "8.          ACTION ITEMS", 
             "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "9.1", 
+                    "item_text": "Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA", 
+                    "item_text_raw": "9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA"
+                }
+            ], 
+            "section_name": "INFORMATION ITEM", 
+            "section_name_raw": "9.          INFORMATION ITEM", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [], 
+            "section_name": "BOARD ACTIVITY", 
+            "section_name_raw": "10.        BOARD ACTIVITY", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "11.1", 
+                    "item_text": "Release of Certificated Temporary Employees", 
+                    "item_text_raw": "11.1   Release of Certificated Temporary Employees"
+                }, 
+                {
+                    "item_number": "11.2", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release", 
+                    "item_text_raw": "11.2   Public Employee Discipline/Dismissal/Release"
+                }, 
+                {
+                    "item_number": "11.3", 
+                    "item_text": "Conference with Labor Negotiator District Representative Nancy Johnson", 
+                    "item_text_raw": "11.3   Conference with Labor Negotiator District Representative Nancy Johnson"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "11.        CLOSED SESSION", 
+            "section_number": "11."
         }, 
         {
             "items": [], 
             "section_name": "RETURN FROM CLOSED SESSION", 
-            "section_name_raw": "12.     RETURN FROM CLOSED SESSION ", 
+            "section_name_raw": "12.     RETURN FROM CLOSED SESSION", 
             "section_number": "12."
+        }, 
+        {
+            "items": [], 
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "13.     ADJOURNMENT", 
+            "section_number": "13."
         }
     ]
 }

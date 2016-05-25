@@ -5,165 +5,170 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 RETIRING BOARD MEMBERS", 
-            "section_name_raw": "2.     RECOGNITION \u2013 RETIRING BOARD MEMBERS ", 
+            "section_name_raw": "2.     RECOGNITION \u2013 RETIRING BOARD MEMBERS", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "3.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH ", 
+            "section_name_raw": "3.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "4.     APPROVAL OF MINUTES ", 
+            "section_name_raw": "4.     APPROVAL OF MINUTES", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "5.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "5.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "6.     PUBLIC COMMENTS ", 
+            "section_name_raw": "6.     PUBLIC COMMENTS", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
-                    "item_number": "71", 
-                    "item_text": "7.1      Ratification of Contracts with Cupertino Union School District", 
-                    "item_text_raw": "               7.1      Ratification of Contracts with Cupertino Union School District "
+                    "item_number": "7.1", 
+                    "item_text": "Ratification of Contracts with Cupertino Union School District", 
+                    "item_text_raw": "7.1      Ratification of Contracts with Cupertino Union School District"
                 }, 
                 {
-                    "item_number": "72", 
-                    "item_text": "7.2      Ratification of Personnel Report for October 2014", 
-                    "item_text_raw": "               7.2      Ratification of Personnel Report for October 2014 "
+                    "item_number": "7.2", 
+                    "item_text": "Ratification of Personnel Report for October 2014", 
+                    "item_text_raw": "7.2      Ratification of Personnel Report for October 2014"
                 }, 
                 {
-                    "item_number": "73", 
-                    "item_text": "7.3      Ratification of Warrant List for October 2014", 
-                    "item_text_raw": "         7.3      Ratification of Warrant List for October 2014 "
+                    "item_number": "7.3", 
+                    "item_text": "Ratification of Warrant List for October 2014", 
+                    "item_text_raw": "7.3      Ratification of Warrant List for October 2014"
                 }, 
                 {
-                    "item_number": "74", 
-                    "item_text": "7.4      Approval of Resolution No. 14-15-10, Conflict of Interest Filers for the Cupertino", 
-                    "item_text_raw": "         7.4      Approval of Resolution No. 14-15-10, Conflict of Interest Filers for the Cupertino  "
+                    "item_number": "7.4", 
+                    "item_text": "Approval of Resolution No. 14-15-10, Conflict of Interest Filers for the Cupertino Union School District", 
+                    "item_text_raw": "7.4      Approval of Resolution No. 14-15-10, Conflict of Interest Filers for the Cupertino Union School District"
                 }, 
                 {
-                    "item_number": "75", 
-                    "item_text": "7.5      Approval of November 14, 2014 Revision to the Measure H Bond Program Project", 
-                    "item_text_raw": "         7.5      Approval of November 14, 2014 Revision to the Measure H Bond Program Project  "
+                    "item_number": "7.5", 
+                    "item_text": "Approval of November 14, 2014 Revision to the Measure H Bond Program Project List", 
+                    "item_text_raw": "7.5      Approval of November 14, 2014 Revision to the Measure H Bond Program Project List"
                 }, 
                 {
-                    "item_number": "76", 
-                    "item_text": "7.6      Approval of Proposed Substitute Teacher and On-Call Instructional Assistants \u2013", 
-                    "item_text_raw": "         7.6      Approval of Proposed Substitute Teacher and On-Call Instructional Assistants \u2013  "
+                    "item_number": "7.6", 
+                    "item_text": "Approval of Proposed Substitute Teacher and On-Call Instructional Assistants \u2013 Specialized Rate Increases", 
+                    "item_text_raw": "7.6      Approval of Proposed Substitute Teacher and On-Call Instructional Assistants \u2013 Specialized Rate Increases"
                 }, 
                 {
-                    "item_number": "77", 
-                    "item_text": "7.7     Approval of Construction Contract Award to Dan Electric for Interim Housing Site            Preparations at Miller Middle School", 
-                    "item_text_raw": "7.7     Approval of Construction Contract Award to Dan Electric for Interim Housing Site            Preparations at Miller Middle School "
+                    "item_number": "7.7", 
+                    "item_text": "Approval of Construction Contract Award to Dan Electric for Interim Housing Site", 
+                    "item_text_raw": "7.7     Approval of Construction Contract Award to Dan Electric for Interim Housing Site"
                 }, 
                 {
-                    "item_number": "78", 
-                    "item_text": "7.8     Approval of Amended Contract with Kitchell CEM for Construction Management Services at Cupertino Middle School", 
-                    "item_text_raw": "7.8     Approval of Amended Contract with Kitchell CEM for Construction Management Services at Cupertino Middle School "
+                    "item_number": "7.8", 
+                    "item_text": "Approval of Amended Contract with Kitchell CEM for Construction Management", 
+                    "item_text_raw": "7.8     Approval of Amended Contract with Kitchell CEM for Construction Management"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "7.      CONSENT ITEMS ", 
+            "section_name_raw": "7.      CONSENT ITEMS", 
             "section_number": "7."
         }, 
         {
             "items": [], 
-            "section_name": "8.      SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "       8.      SUPERINTENDENT\u2019S REPORT ", 
-            "section_number": ""
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "8.      SUPERINTENDENT\u2019S REPORT", 
+            "section_number": "8."
         }, 
         {
             "items": [
                 {
-                    "item_number": "91", 
-                    "item_text": "9.1    DeVargas Elementary School STEM Program", 
-                    "item_text_raw": "          9.1    DeVargas Elementary School STEM Program "
+                    "item_number": "9.1", 
+                    "item_text": "DeVargas Elementary School STEM Program", 
+                    "item_text_raw": "9.1    DeVargas Elementary School STEM Program"
                 }
             ], 
-            "section_name": "9.      DISCUSSION/INFORMATION ITEM", 
-            "section_name_raw": " 9.      DISCUSSION/INFORMATION ITEM  ", 
-            "section_number": ""
+            "section_name": "DISCUSSION/INFORMATION ITEM", 
+            "section_name_raw": "9.      DISCUSSION/INFORMATION ITEM", 
+            "section_number": "9."
         }, 
         {
             "items": [
                 {
-                    "item_number": "101", 
-                    "item_text": "10.1  Approval of the Revised Common Core State Standards Budget Expenditure Plan", 
-                    "item_text_raw": "          10.1  Approval of the Revised Common Core State Standards Budget Expenditure Plan  "
+                    "item_number": "10.1", 
+                    "item_text": "Approval of the Revised Common Core State Standards Budget Expenditure Plan for 2013-2015", 
+                    "item_text_raw": "10.1  Approval of the Revised Common Core State Standards Budget Expenditure Plan for 2013-2015"
                 }, 
                 {
-                    "item_number": "102", 
-                    "item_text": "10.2  Second Reading and Adoption of Board Policies \u2013 Updates and Additions", 
-                    "item_text_raw": "          10.2  Second Reading and Adoption of Board Policies \u2013 Updates and Additions "
+                    "item_number": "10.2", 
+                    "item_text": "Second Reading and Adoption of Board Policies \u2013 Updates and Additions", 
+                    "item_text_raw": "10.2  Second Reading and Adoption of Board Policies \u2013 Updates and Additions"
                 }, 
                 {
-                    "item_number": "103", 
-                    "item_text": "10.3  Approval of Full Day Transitional Kindergarten and Kindergarten at Elementary", 
-                    "item_text_raw": "          10.3  Approval of Full Day Transitional Kindergarten and Kindergarten at Elementary  "
+                    "item_number": "10.3", 
+                    "item_text": "Approval of Full Day Transitional Kindergarten and Kindergarten at Elementary Schools Across the District", 
+                    "item_text_raw": "10.3  Approval of Full Day Transitional Kindergarten and Kindergarten at Elementary Schools Across the District"
+                }, 
+                {
+                    "item_number": "10.4", 
+                    "item_text": "Nomination for CSBA Delegate Assembly Region 20", 
+                    "item_text_raw": "10.4  Nomination for CSBA Delegate Assembly Region 20"
                 }
             ], 
-            "section_name": "10.    ACTION ITEM", 
-            "section_name_raw": " 10.    ACTION ITEM ", 
-            "section_number": ""
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "10.    ACTION ITEM", 
+            "section_number": "10."
         }, 
         {
             "items": [
                 {
-                    "item_number": "111", 
-                    "item_text": "11.1   Approval of Settlement Agreement Student 11-18-14A", 
-                    "item_text_raw": "   11.1   Approval of Settlement Agreement Student 11-18-14A "
+                    "item_number": "11.1", 
+                    "item_text": "Approval of Settlement Agreement Student 11-18-14A", 
+                    "item_text_raw": "11.1   Approval of Settlement Agreement Student 11-18-14A"
                 }, 
                 {
-                    "item_number": "112", 
-                    "item_text": "11.2   Approval of Settlement Agreement Student 11-18-14B", 
-                    "item_text_raw": "   11.2   Approval of Settlement Agreement Student 11-18-14B "
+                    "item_number": "11.2", 
+                    "item_text": "Approval of Settlement Agreement Student 11-18-14B", 
+                    "item_text_raw": "11.2   Approval of Settlement Agreement Student 11-18-14B"
                 }, 
                 {
-                    "item_number": "113", 
-                    "item_text": "11.3   Approval of Settlement Agreement Student 11-18-14C", 
-                    "item_text_raw": "   11.3   Approval of Settlement Agreement Student 11-18-14C   "
+                    "item_number": "11.3", 
+                    "item_text": "Approval of Settlement Agreement Student 11-18-14C", 
+                    "item_text_raw": "11.3   Approval of Settlement Agreement Student 11-18-14C"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "11.    CLOSED SESSION ", 
+            "section_name_raw": "11.    CLOSED SESSION", 
             "section_number": "11."
         }, 
         {
             "items": [], 
-            "section_name": "12.    REPORT FROM CLOSED SESSION", 
-            "section_name_raw": " 12.    REPORT FROM CLOSED SESSION ", 
-            "section_number": ""
+            "section_name": "REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "12.    REPORT FROM CLOSED SESSION", 
+            "section_number": "12."
         }, 
         {
             "items": [], 
-            "section_name": "13.    BOARD ACTIVITY", 
-            "section_name_raw": " 13.    BOARD ACTIVITY ", 
-            "section_number": ""
+            "section_name": "BOARD ACTIVITY", 
+            "section_name_raw": "13.    BOARD ACTIVITY", 
+            "section_number": "13."
         }, 
         {
             "items": [], 
-            "section_name": "14.    ADJOURNMENT", 
-            "section_name_raw": " 14.    ADJOURNMENT ", 
-            "section_number": ""
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "14.    ADJOURNMENT", 
+            "section_number": "14."
         }
     ]
 }

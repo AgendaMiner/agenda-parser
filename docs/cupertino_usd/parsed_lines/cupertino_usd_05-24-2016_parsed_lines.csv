@@ -1,146 +1,146 @@
-,agency,first_char,font_freq_0,font_freq_1,font_freq_2,font_name,font_size,font_size_0,font_size_1,font_size_2,font_size_3,font_size_4,font_size_5,font_size_6,font_size_7,font_size_8,font_size_9,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_indent_0,left_indent_1,left_indent_10,left_indent_11,left_indent_12,left_indent_13,left_indent_14,left_indent_15,left_indent_16,left_indent_2,left_indent_3,left_indent_4,left_indent_5,left_indent_6,left_indent_7,left_indent_8,left_indent_9,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
-0,cupertino_usd,C,0,0,0,KCJEIT+Arial-BoldMT,16.728,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,195.300,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
-1,cupertino_usd,B,0,0,0,KCJEIT+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,243.755,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,Board of Education,0
-2,cupertino_usd,R,0,0,0,KCJEIT+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,253.855,cupertino_usd_05-24-2016_2,05-24-2016,0,0,0,0,Regular Meeting,0
-3,cupertino_usd,A,0,0,0,KCJEIT+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,277.969,cupertino_usd_05-24-2016_3,05-24-2016,0,0,0,0,AGENDA,1
-4,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,15.972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_4,05-24-2016,0,0,0,0,,0
-5,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,,0
-6,cupertino_usd,N,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,"Nimitz Elementary School  May 24, 2016",0
-7,cupertino_usd,G,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,GLC  6:00 p.m.,0
-8,cupertino_usd,5,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_8,05-24-2016,0,1,0,0,545 E. Cheyenne Drive,0
-9,cupertino_usd,S,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,"Sunnyvale, CA  94087",0
-10,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,,0
-11,cupertino_usd,W,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
-12,cupertino_usd,d,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
-13,cupertino_usd,h,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
-14,cupertino_usd,l,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_14,05-24-2016,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
-15,cupertino_usd,C,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
-16,cupertino_usd,m,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
-17,cupertino_usd,c,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
-18,cupertino_usd,d,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
-19,cupertino_usd,d,0,0,0,EOHBLX+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
-20,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,5.111,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,,0
-21,cupertino_usd,I,0,0,0,NXJMND+Arial-ItalicMT,10.470,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99.980,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 61200",0
-22,cupertino_usd,a,0,0,0,NXJMND+Arial-ItalicMT,10.470,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222.860,cupertino_usd_05-24-2016_22,05-24-2016,0,0,0,0,at least two business days before the meeting date.,0
-23,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,5.111,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,0,,0
-24,cupertino_usd,A,0,0,0,KCJEIT+Arial-BoldMT,11.040,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156.620,cupertino_usd_05-24-2016_24,05-24-2016,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
-25,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,94.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,0,,0
-26,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1
-27,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,0,,0
-28,cupertino_usd,2,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_28,05-24-2016,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1
-29,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_29,05-24-2016,0,0,0,0,,0
-30,cupertino_usd,3,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_30,05-24-2016,0,1,0,0,3.     PRESENTATION,1
-31,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_31,05-24-2016,0,0,0,1,3.1  Recognition of Lucretia Van Horn Memorial Art Award Recipients,0
-32,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,18.360,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_32,05-24-2016,0,0,0,0,,0
-33,cupertino_usd,4,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_33,05-24-2016,0,1,0,0,4.     APPROVAL OF MINUTES,1
-34,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_34,05-24-2016,0,0,0,0,"Approval of minutes of the Regular Board Meetings of April 5 and April 19, 2016 and the",0
-35,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_35,05-24-2016,0,0,0,0,"Board Advance of April 28, 2016 and the Special Meeting of April 6, 2016",0
-36,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,94.560,cupertino_usd_05-24-2016_36,05-24-2016,0,0,0,0,,0
-37,cupertino_usd,5,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_37,05-24-2016,0,1,0,0,5.     PUBLIC HEARING,1
-38,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_38,05-24-2016,0,0,0,1,5.1   The Board of Education will hold a Public Hearing regarding the Adoption of the,0
-39,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_39,05-24-2016,0,0,0,0,Budget for Fiscal Year 2016-2017.,0
-40,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_40,05-24-2016,0,0,0,1,5.2   The Board of Education will hold a Public Hearing regarding the Approval of Local,0
-41,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_41,05-24-2016,0,0,0,0,Control accountability Plan (LCAP) for Fiscal Year 2016-2017.,0
-42,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_42,05-24-2016,0,0,0,0,,0
-43,cupertino_usd,6,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_43,05-24-2016,0,1,0,0,6.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
-44,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_44,05-24-2016,0,0,0,0,,0
-45,cupertino_usd,7,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_45,05-24-2016,0,1,0,0,7.      PUBLIC COMMENTS – ITEMS NOT ON THE AGENDA,1
-46,cupertino_usd,T,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_46,05-24-2016,0,0,0,0,The public may address the Board on agenda items not appearing on the agenda.  Only those who have filled,0
-47,cupertino_usd,o,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_47,05-24-2016,0,0,0,0,out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be,0
-48,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_48,05-24-2016,0,0,0,0,allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three,0
-49,cupertino_usd,m,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_49,05-24-2016,0,0,0,0,minute  allotment  will  be  adjusted  accordingly.   The  Board  will  not  respond  nor  take  action  on  any non-,0
-50,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_50,05-24-2016,0,0,0,0,"agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code",0
-51,cupertino_usd,3,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_51,05-24-2016,0,0,0,0,35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public,0
-52,cupertino_usd,c,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_52,05-24-2016,0,0,0,0,comments to 30 minutes. Please refrain from any response to the speaker including negative and positive,0
-53,cupertino_usd,r,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_53,05-24-2016,0,0,0,0,reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions,0
-54,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,15.096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160.096,cupertino_usd_05-24-2016_54,05-24-2016,0,0,0,0,,0
-55,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_55,05-24-2016,0,0,0,0,and concerns.,0
-56,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_56,05-24-2016,0,0,0,0,,0
-57,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_57,05-24-2016,0,0,0,0,,0
-58,cupertino_usd,B,0,0,0,EOHBLX+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,"Board Meeting Agenda  May 24, 2016  Page 2",0
-59,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,15.972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,,0
-60,cupertino_usd,8,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_2,05-24-2016,0,1,0,0,8.     PUBLIC COMMENTS – ITEMS ON THE AGENDA,1
-61,cupertino_usd,T,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_3,05-24-2016,0,0,0,0,The public may address the Board on agenda items appearing on the agenda.  Only those who have filled out,0
-62,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_4,05-24-2016,1,0,0,0,a comment card before the meeting is called to order will be called upon to speak. Each speaker will be,0
-63,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three,0
-64,cupertino_usd,m,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,minute  allotment  will  be  adjusted  accordingly.   The  Board  will  not  respond  nor  take  action  on  any non-,0
-65,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,"agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code",0
-66,cupertino_usd,3,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_8,05-24-2016,0,0,0,0,35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public,0
-67,cupertino_usd,c,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,comments to 30 minutes. Please refrain from any response to the speaker including negative and positive,0
-68,cupertino_usd,r,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions,0
-69,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,15.096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,160.096,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,,0
-70,cupertino_usd,a,0,0,0,EOHBLX+ArialMT,11.819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103.560,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,and concerns.,0
-71,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,0,,0
-72,cupertino_usd,9,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_14,05-24-2016,0,1,0,0,9.     CONSENT,1
-73,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,1,9.1    Approval to Declare Obsolete Equipment Surplus,0
-74,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,1,9.2    Adoption of Resolution No. 15-16-18 - Resolution of the Board of Education of the,0
-75,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,Cupertino Union School District Approving Amended and Restated Bylaws for the,0
-76,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,Cupertino Union School District Independent Citizens’ Bond Oversight Committee,0
-77,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,1,9.3    Ratification of Contract Award for Modernization – Stevens Creek Elementary,0
-78,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,School,0
-79,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,1,"9.4    Approval of Agreement with Orbach, Huff & Suarez, LLP for Legal Representation",0
-80,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_22,05-24-2016,0,0,0,0,and Consulting Services,0
-81,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,1,9.5    Approval of Contract with kW Engineering to Provide Services to Develop,0
-82,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_24,05-24-2016,0,0,0,0,Proposition 39 Energy Efficiency Plans,0
-83,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,1,9.6    Approval of Contract with Guerra Construction for Construction of a Kindergarten,0
-84,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,0,0,0,Play Yard at Blue Hills Elementary School,0
-85,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,1,9.7    Approval of the Purchase of Three (3) New Modular Classrooms,0
-86,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_28,05-24-2016,0,0,0,1,9.8    Approval of the Professional Development Contract with Momentum in Teaching for,0
-87,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_29,05-24-2016,0,0,0,0,Middle Schools – Momentum in Teaching,0
-88,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_30,05-24-2016,0,0,0,1,9.9    Approval of the Professional Development Contract with Momentum in Teaching,0
-89,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_31,05-24-2016,0,0,0,1,9.10  Approval of a Contract to Just Think Literacy to Provide Seminars in Critical Literacy,0
-90,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_32,05-24-2016,0,0,0,0,- 2016-2017,0
-91,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_33,05-24-2016,0,0,0,1,9.11  Approval of Contract Agreements with NatureBridge Program at Yosemite for Five,0
-92,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_34,05-24-2016,0,0,0,0,Middle Schools for the 2016-2017 School Year,0
-93,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_35,05-24-2016,0,0,0,1,9.12  Approval of Resolution No. 15-16-22 Regarding Specifications of the Election Order,0
-94,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_36,05-24-2016,0,0,0,0,"for the November 8, 2016 Election, Governing Board Member Election",0
-95,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_37,05-24-2016,0,0,0,1,9.13  Approval of Resolution No. 15-16- 20 to Request for and Consent to Consolidation,0
-96,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_38,05-24-2016,0,0,0,0,of Elections,0
-97,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82.672,cupertino_usd_05-24-2016_39,05-24-2016,0,0,0,0,,0
-98,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_40,05-24-2016,0,1,0,0,10.   DISCUSSION/INFORMATION ITEM,1
-99,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_41,05-24-2016,0,0,0,1,10.1   May Revise and 2016-2017 Budget Presentation,0
-100,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_42,05-24-2016,0,0,0,0,,0
-101,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_43,05-24-2016,0,1,0,0,11.    ACTION,1
-102,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_44,05-24-2016,0,0,0,1,11.1  Adoption of Resolution No. 15-16-19 – Delegation of Authority to Approve the,0
-103,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_45,05-24-2016,0,0,0,0,Contract for Construction and Installation of Three Modular Classrooms at,0
-104,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_46,05-24-2016,0,0,0,0,Stevens Creek Elementary School,0
-105,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_47,05-24-2016,0,0,0,1,11.2  Adoption of Resolution No. 15-16-21 – Expenditure Plan for the Education,0
-106,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_48,05-24-2016,0,0,0,0,Protection Account for Fiscal Year 2016-2017,0
-107,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_49,05-24-2016,0,0,0,1,11.3  Approval to Increase the School Lunch Price,0
-108,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_50,05-24-2016,0,0,0,1,11.4  Approval to Direct Staff to Discontinue Exploration of Employee Housing at the,0
-109,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_51,05-24-2016,0,0,0,0,Luther Site,0
-110,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_52,05-24-2016,0,0,0,0,,0
-111,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_53,05-24-2016,0,0,0,0,,0
-112,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_54,05-24-2016,0,0,0,0,,0
-113,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_55,05-24-2016,0,0,0,0,,0
-114,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_56,05-24-2016,0,0,0,0,,0
-115,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_57,05-24-2016,0,0,0,0,,0
-116,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540.060,cupertino_usd_05-24-2016_58,05-24-2016,0,0,0,0,,0
-117,cupertino_usd,B,0,0,0,EOHBLX+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,"Board Meeting Agenda  May 24, 2016  Page 3",0
-118,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,15.972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,,0
-119,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_2,05-24-2016,0,0,0,0,,0
-120,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_3,05-24-2016,0,1,0,0,12.    CLOSED SESSION,1
-121,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_4,05-24-2016,0,0,0,1,12.1   Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS,0
-122,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,"Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino,",0
-123,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,California APN: 375-40-067,0
-124,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,"Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff",0
-125,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_8,05-24-2016,0,0,0,0,"Suarez & Henderson, LLP",0
-126,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,"Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee",0
-127,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,53,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,of the Bart X.Pestarino Trust,0
-128,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,Under Negotiation:     Price and terms of payment,0
-129,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,,0
-130,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,1,12.2  Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS,0
-131,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_14,05-24-2016,0,0,0,0,"Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039)",0
-132,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,0,"and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA",0
-133,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,0,95014,0
-134,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,"Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai,",0
-135,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,"Dannis, Woliver & Kelley",0
-136,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,0,"Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC",0
-137,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,Under Negotiation:     Price and terms of payment,0
-138,cupertino_usd, ,0,0,0,EOHBLX+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,0,,0
-139,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_22,05-24-2016,0,1,0,0,13.    REPORT FROM CLOSED SESSION,1
-140,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,0,,0
-141,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_24,05-24-2016,0,1,0,0,14.    BOARD ACTIVITY,1
-142,cupertino_usd, ,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,0,,0
-143,cupertino_usd,1,0,0,0,KCJEIT+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,1,0,0,15.    ADJOURNMENT,1
-144,cupertino_usd, ,0,0,0,OOSMFR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540.060,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,0,,0
+,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
+0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.300,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
+1,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,Board of Education,0
+2,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_05-24-2016_2,05-24-2016,0,0,0,0,Regular Meeting,0
+3,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_05-24-2016_3,05-24-2016,0,0,0,0,AGENDA,1
+4,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_4,05-24-2016,0,0,0,0,,0
+5,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,5,77.280,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,,0
+6,cupertino_usd,N,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,"Nimitz Elementary School  May 24, 2016",0
+7,cupertino_usd,G,0,0,Arial,14.375,1,0,1,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,GLC  6:00 p.m.,0
+8,cupertino_usd,5,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_8,05-24-2016,0,1,0,0,545 E. Cheyenne Drive,0
+9,cupertino_usd,S,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.280,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,"Sunnyvale, CA  94087",0
+10,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,,0
+11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
+12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
+13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
+14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_14,05-24-2016,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
+15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
+16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
+17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
+18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
+19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
+20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.820,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,,0
+21,cupertino_usd,I,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,99.980,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 61200",0
+22,cupertino_usd,a,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,222.860,cupertino_usd_05-24-2016_22,05-24-2016,0,0,0,0,at least two business days before the meeting date.,0
+23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.820,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,0,,0
+24,cupertino_usd,A,1,0,Arial-Bold,11.040,0,0,0,0,0,0,1,0,156.620,cupertino_usd_05-24-2016_24,05-24-2016,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
+25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,0,,0
+26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1
+27,cupertino_usd, ,0,0,Times-Roman,20.400,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,0,,0
+28,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_28,05-24-2016,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1
+29,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_29,05-24-2016,0,0,0,0,,0
+30,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_30,05-24-2016,0,1,0,0,3.     PRESENTATION,1
+31,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_31,05-24-2016,0,0,0,1,3.1  Recognition of Lucretia Van Horn Memorial Art Award Recipients,0
+32,cupertino_usd, ,0,0,Times-Roman,18.360,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_32,05-24-2016,0,0,0,0,,0
+33,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_33,05-24-2016,0,1,0,0,4.     APPROVAL OF MINUTES,1
+34,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_34,05-24-2016,0,0,0,0,"Approval of minutes of the Regular Board Meetings of April 5 and April 19, 2016 and the",0
+35,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_35,05-24-2016,0,0,0,0,"Board Advance of April 28, 2016 and the Special Meeting of April 6, 2016",0
+36,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.560,cupertino_usd_05-24-2016_36,05-24-2016,0,0,0,0,,0
+37,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_37,05-24-2016,0,1,0,0,5.     PUBLIC HEARING,1
+38,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_38,05-24-2016,0,0,0,1,5.1   The Board of Education will hold a Public Hearing regarding the Adoption of the,0
+39,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_39,05-24-2016,0,0,0,0,Budget for Fiscal Year 2016-2017.,0
+40,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_40,05-24-2016,0,0,0,1,5.2   The Board of Education will hold a Public Hearing regarding the Approval of Local,0
+41,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_41,05-24-2016,0,0,0,0,Control accountability Plan (LCAP) for Fiscal Year 2016-2017.,0
+42,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_42,05-24-2016,0,0,0,0,,0
+43,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_43,05-24-2016,0,1,0,0,6.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
+44,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_44,05-24-2016,0,0,0,0,,0
+45,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_45,05-24-2016,0,1,0,0,7.      PUBLIC COMMENTS – ITEMS NOT ON THE AGENDA,1
+46,cupertino_usd,T,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_46,05-24-2016,0,0,0,0,The public may address the Board on agenda items not appearing on the agenda.  Only those who have filled,0
+47,cupertino_usd,o,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_47,05-24-2016,0,0,0,0,out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be,0
+48,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_48,05-24-2016,0,0,0,0,allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three,0
+49,cupertino_usd,m,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_49,05-24-2016,0,0,0,0,minute  allotment  will  be  adjusted  accordingly.   The  Board  will  not  respond  nor  take  action  on  any non-,0
+50,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_50,05-24-2016,0,0,0,0,"agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code",0
+51,cupertino_usd,3,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_51,05-24-2016,0,0,0,0,35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public,0
+52,cupertino_usd,c,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_52,05-24-2016,0,0,0,0,comments to 30 minutes. Please refrain from any response to the speaker including negative and positive,0
+53,cupertino_usd,r,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_53,05-24-2016,0,0,0,0,reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions,0
+54,cupertino_usd, ,0,0,Times-Roman,15.096,0,0,0,0,0,0,1,1,160.096,cupertino_usd_05-24-2016_54,05-24-2016,0,0,0,0,,0
+55,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_55,05-24-2016,0,0,0,0,and concerns.,0
+56,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_56,05-24-2016,0,0,0,0,,0
+57,cupertino_usd, ,0,0,Times-Roman,20.400,0,1,0,0,0,0,0,3,76.560,cupertino_usd_05-24-2016_57,05-24-2016,0,0,0,0,,0
+58,cupertino_usd,B,0,0,Arial,13.097,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,"Board Meeting Agenda  May 24, 2016  Page 2",0
+59,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,33,76.560,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,,0
+60,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_2,05-24-2016,0,1,0,0,8.     PUBLIC COMMENTS – ITEMS ON THE AGENDA,1
+61,cupertino_usd,T,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_3,05-24-2016,0,0,0,0,The public may address the Board on agenda items appearing on the agenda.  Only those who have filled out,0
+62,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_4,05-24-2016,1,0,0,0,a comment card before the meeting is called to order will be called upon to speak. Each speaker will be,0
+63,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three,0
+64,cupertino_usd,m,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,minute  allotment  will  be  adjusted  accordingly.   The  Board  will  not  respond  nor  take  action  on  any non-,0
+65,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,"agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code",0
+66,cupertino_usd,3,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_8,05-24-2016,0,0,0,0,35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public,0
+67,cupertino_usd,c,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,comments to 30 minutes. Please refrain from any response to the speaker including negative and positive,0
+68,cupertino_usd,r,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions,0
+69,cupertino_usd, ,0,0,Times-Roman,15.096,0,0,0,0,0,0,1,1,160.096,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,,0
+70,cupertino_usd,a,0,0,Arial,11.819,0,0,0,0,0,0,1,0,103.560,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,and concerns.,0
+71,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,0,,0
+72,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_14,05-24-2016,0,1,0,0,9.     CONSENT,1
+73,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,1,9.1    Approval to Declare Obsolete Equipment Surplus,0
+74,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,1,9.2    Adoption of Resolution No. 15-16-18 - Resolution of the Board of Education of the,0
+75,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,Cupertino Union School District Approving Amended and Restated Bylaws for the,0
+76,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,Cupertino Union School District Independent Citizens’ Bond Oversight Committee,0
+77,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,1,9.3    Ratification of Contract Award for Modernization – Stevens Creek Elementary,0
+78,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,School,0
+79,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,1,"9.4    Approval of Agreement with Orbach, Huff & Suarez, LLP for Legal Representation",0
+80,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_22,05-24-2016,0,0,0,0,and Consulting Services,0
+81,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,1,9.5    Approval of Contract with kW Engineering to Provide Services to Develop,0
+82,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_24,05-24-2016,0,0,0,0,Proposition 39 Energy Efficiency Plans,0
+83,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,1,9.6    Approval of Contract with Guerra Construction for Construction of a Kindergarten,0
+84,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,0,0,0,Play Yard at Blue Hills Elementary School,0
+85,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,1,9.7    Approval of the Purchase of Three (3) New Modular Classrooms,0
+86,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_28,05-24-2016,0,0,0,1,9.8    Approval of the Professional Development Contract with Momentum in Teaching for,0
+87,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_29,05-24-2016,0,0,0,0,Middle Schools – Momentum in Teaching,0
+88,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_30,05-24-2016,0,0,0,1,9.9    Approval of the Professional Development Contract with Momentum in Teaching,0
+89,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_31,05-24-2016,0,0,0,1,9.10  Approval of a Contract to Just Think Literacy to Provide Seminars in Critical Literacy,0
+90,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_32,05-24-2016,0,0,0,0,- 2016-2017,0
+91,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_33,05-24-2016,0,0,0,1,9.11  Approval of Contract Agreements with NatureBridge Program at Yosemite for Five,0
+92,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_34,05-24-2016,0,0,0,0,Middle Schools for the 2016-2017 School Year,0
+93,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_35,05-24-2016,0,0,0,1,9.12  Approval of Resolution No. 15-16-22 Regarding Specifications of the Election Order,0
+94,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_36,05-24-2016,0,0,0,0,"for the November 8, 2016 Election, Governing Board Member Election",0
+95,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_37,05-24-2016,0,0,0,1,9.13  Approval of Resolution No. 15-16- 20 to Request for and Consent to Consolidation,0
+96,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.560,cupertino_usd_05-24-2016_38,05-24-2016,0,0,0,0,of Elections,0
+97,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,3,82.672,cupertino_usd_05-24-2016_39,05-24-2016,0,0,0,0,,0
+98,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_40,05-24-2016,0,1,0,0,10.   DISCUSSION/INFORMATION ITEM,1
+99,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_41,05-24-2016,0,0,0,1,10.1   May Revise and 2016-2017 Budget Presentation,0
+100,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_42,05-24-2016,0,0,0,0,,0
+101,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_43,05-24-2016,0,1,0,0,11.    ACTION,1
+102,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_44,05-24-2016,0,0,0,1,11.1  Adoption of Resolution No. 15-16-19 – Delegation of Authority to Approve the,0
+103,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_45,05-24-2016,0,0,0,0,Contract for Construction and Installation of Three Modular Classrooms at,0
+104,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_46,05-24-2016,0,0,0,0,Stevens Creek Elementary School,0
+105,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_47,05-24-2016,0,0,0,1,11.2  Adoption of Resolution No. 15-16-21 – Expenditure Plan for the Education,0
+106,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_48,05-24-2016,0,0,0,0,Protection Account for Fiscal Year 2016-2017,0
+107,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_49,05-24-2016,0,0,0,1,11.3  Approval to Increase the School Lunch Price,0
+108,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_50,05-24-2016,0,0,0,1,11.4  Approval to Direct Staff to Discontinue Exploration of Employee Housing at the,0
+109,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_51,05-24-2016,0,0,0,0,Luther Site,0
+110,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_52,05-24-2016,0,0,0,0,,0
+111,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_53,05-24-2016,0,0,0,0,,0
+112,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_54,05-24-2016,0,0,0,0,,0
+113,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_55,05-24-2016,0,0,0,0,,0
+114,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_56,05-24-2016,0,0,0,0,,0
+115,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_57,05-24-2016,0,0,0,0,,0
+116,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,1,540.060,cupertino_usd_05-24-2016_58,05-24-2016,0,0,0,0,,0
+117,cupertino_usd,B,0,0,Arial,13.097,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_0,05-24-2016,0,0,0,0,"Board Meeting Agenda  May 24, 2016  Page 3",0
+118,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,33,76.560,cupertino_usd_05-24-2016_1,05-24-2016,0,0,0,0,,0
+119,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_2,05-24-2016,0,0,0,0,,0
+120,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_3,05-24-2016,0,1,0,0,12.    CLOSED SESSION,1
+121,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,8,76.560,cupertino_usd_05-24-2016_4,05-24-2016,0,0,0,1,12.1   Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS,0
+122,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_5,05-24-2016,0,0,0,0,"Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino,",0
+123,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,34,76.560,cupertino_usd_05-24-2016_6,05-24-2016,0,0,0,0,California APN: 375-40-067,0
+124,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_7,05-24-2016,0,0,0,0,"Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff",0
+125,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,53,76.560,cupertino_usd_05-24-2016_8,05-24-2016,0,0,0,0,"Suarez & Henderson, LLP",0
+126,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_9,05-24-2016,0,0,0,0,"Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee",0
+127,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,53,76.560,cupertino_usd_05-24-2016_10,05-24-2016,0,0,0,0,of the Bart X.Pestarino Trust,0
+128,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,18,76.560,cupertino_usd_05-24-2016_11,05-24-2016,0,0,0,0,Under Negotiation:     Price and terms of payment,0
+129,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_12,05-24-2016,0,0,0,0,,0
+130,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_13,05-24-2016,0,0,0,1,12.2  Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS,0
+131,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,19,76.560,cupertino_usd_05-24-2016_14,05-24-2016,0,0,0,0,"Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039)",0
+132,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,36,76.560,cupertino_usd_05-24-2016_15,05-24-2016,0,0,0,0,"and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA",0
+133,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,36,76.560,cupertino_usd_05-24-2016_16,05-24-2016,0,0,0,0,95014,0
+134,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,19,76.560,cupertino_usd_05-24-2016_17,05-24-2016,0,0,0,0,"Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai,",0
+135,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,54,76.560,cupertino_usd_05-24-2016_18,05-24-2016,0,0,0,0,"Dannis, Woliver & Kelley",0
+136,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,19,76.560,cupertino_usd_05-24-2016_19,05-24-2016,0,0,0,0,"Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC",0
+137,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,19,76.560,cupertino_usd_05-24-2016_20,05-24-2016,0,0,0,0,Under Negotiation:     Price and terms of payment,0
+138,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_05-24-2016_21,05-24-2016,0,0,0,0,,0
+139,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_22,05-24-2016,0,1,0,0,13.    REPORT FROM CLOSED SESSION,1
+140,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_23,05-24-2016,0,0,0,0,,0
+141,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_24,05-24-2016,0,1,0,0,14.    BOARD ACTIVITY,1
+142,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_05-24-2016_25,05-24-2016,0,0,0,0,,0
+143,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_05-24-2016_26,05-24-2016,0,1,0,0,15.    ADJOURNMENT,1
+144,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,1,540.060,cupertino_usd_05-24-2016_27,05-24-2016,0,0,0,0,,0

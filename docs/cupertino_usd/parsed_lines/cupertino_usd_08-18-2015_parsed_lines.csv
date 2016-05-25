@@ -1,113 +1,113 @@
-,agency,first_char,font_freq_0,font_freq_1,font_freq_2,font_name,font_size,font_size_0,font_size_1,font_size_2,font_size_3,font_size_4,font_size_5,font_size_6,font_size_7,font_size_8,font_size_9,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_indent_0,left_indent_1,left_indent_10,left_indent_11,left_indent_12,left_indent_13,left_indent_14,left_indent_15,left_indent_16,left_indent_2,left_indent_3,left_indent_4,left_indent_5,left_indent_6,left_indent_7,left_indent_8,left_indent_9,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
-0,cupertino_usd,C,0,0,0,YULHBV+Arial-BoldMT,16.728,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,195.300,cupertino_usd_08-18-2015_0,08-18-2015,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
-1,cupertino_usd,B,0,0,0,YULHBV+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,243.755,cupertino_usd_08-18-2015_1,08-18-2015,0,0,0,0,Board of Education,0
-2,cupertino_usd,R,0,0,0,YULHBV+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,253.855,cupertino_usd_08-18-2015_2,08-18-2015,0,0,0,0,Regular Meeting,0
-3,cupertino_usd,A,0,0,0,YULHBV+Arial-BoldMT,19.404,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,277.969,cupertino_usd_08-18-2015_3,08-18-2015,0,0,0,0,AGENDA,1
-4,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,15.972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_4,08-18-2015,0,0,0,0,,0
-5,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_5,08-18-2015,0,0,0,0,,0
-6,cupertino_usd,C,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_6,08-18-2015,0,0,0,0,"Cupertino Union School District  August 18, 2015",0
-7,cupertino_usd,1,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_7,08-18-2015,0,1,0,0,1309 S. Mary Avenue  6:00 p.m.,0
-8,cupertino_usd,S,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_8,08-18-2015,0,0,0,0,"Sunnyvale, CA 94087",0
-9,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_9,08-18-2015,0,0,0,0,,0
-10,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_10,08-18-2015,0,0,0,0,,0
-11,cupertino_usd,W,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_11,08-18-2015,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
-12,cupertino_usd,d,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_12,08-18-2015,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
-13,cupertino_usd,h,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_13,08-18-2015,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
-14,cupertino_usd,l,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_14,08-18-2015,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
-15,cupertino_usd,C,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_15,08-18-2015,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
-16,cupertino_usd,m,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_16,08-18-2015,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
-17,cupertino_usd,c,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_17,08-18-2015,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
-18,cupertino_usd,d,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_18,08-18-2015,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
-19,cupertino_usd,d,0,0,0,ILCTZE+ArialMT,10.542,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_19,08-18-2015,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
-20,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,5.111,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_20,08-18-2015,0,0,0,0,,0
-21,cupertino_usd,I,0,0,0,LVHBZQ+Arial-ItalicMT,10.470,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104.540,cupertino_usd_08-18-2015_21,08-18-2015,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0
-22,cupertino_usd,a,0,0,0,LVHBZQ+Arial-ItalicMT,10.470,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222.860,cupertino_usd_08-18-2015_22,08-18-2015,0,0,0,0,at least two business days before the meeting date.,0
-23,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,5.111,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85.820,cupertino_usd_08-18-2015_23,08-18-2015,0,0,0,0,,0
-24,cupertino_usd,A,0,0,0,YULHBV+Arial-BoldMT,11.040,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156.620,cupertino_usd_08-18-2015_24,08-18-2015,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
-25,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,94.560,cupertino_usd_08-18-2015_25,08-18-2015,0,0,0,0,,0
-26,cupertino_usd,1,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_26,08-18-2015,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1
-27,cupertino_usd, ,0,0,0,FBLFOR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_27,08-18-2015,0,0,0,0,,0
-28,cupertino_usd,2,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_28,08-18-2015,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1
-29,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_29,08-18-2015,0,0,0,0,,0
-30,cupertino_usd,3,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_30,08-18-2015,0,1,0,0,3.     APPROVAL OF MINUTES,1
-31,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,94.560,cupertino_usd_08-18-2015_31,08-18-2015,0,0,0,0,"Approval of minutes of the Regular Meeting of June 18, 2015",0
-32,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,94.560,cupertino_usd_08-18-2015_32,08-18-2015,0,0,0,0,,0
-33,cupertino_usd,4,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_33,08-18-2015,0,1,0,0,4.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
-34,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_34,08-18-2015,0,0,0,0,,0
-35,cupertino_usd,5,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_35,08-18-2015,0,1,0,0,5.      PUBLIC COMMENTS,1
-36,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_36,08-18-2015,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0
-37,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_37,08-18-2015,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0
-38,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_38,08-18-2015,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0
-39,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_39,08-18-2015,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0
-40,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_40,08-18-2015,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0
-41,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_41,08-18-2015,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0
-42,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_42,08-18-2015,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0
-43,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_43,08-18-2015,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0
-44,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_44,08-18-2015,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0
-45,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_45,08-18-2015,0,0,0,0,,0
-46,cupertino_usd,6,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_46,08-18-2015,0,1,0,0,6.      CONSENT,1
-47,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_47,08-18-2015,0,0,0,1,6.1       Contracts for Board Ratification,0
-48,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_48,08-18-2015,0,0,0,1,6.2       Ratification of Personnel Report – July 2015,0
-49,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_49,08-18-2015,0,0,0,1,6.3       Ratification of Warrant List – July 2015,0
-50,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_50,08-18-2015,0,0,0,1,6.4       Approval of Job Description and Salary Range – Facility Modernization Manager,0
-51,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_51,08-18-2015,0,0,0,1,"6.5       Amendment of the 2015-2016 Certificated – Psychologist, Speech and Language",0
-52,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_52,08-18-2015,0,0,0,0,Pathologist Salary Schedule,0
-53,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_53,08-18-2015,0,0,0,1,6.6       Amendment of the 2015-2016 Classified – Supervisory Salary Schedule,0
-54,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_54,08-18-2015,0,0,0,1,6.7      Approval of Intern Agreement with San Jose State University,0
-55,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_55,08-18-2015,0,0,0,1,6.8      Approval of Student Teaching Agreement with San Jose State University,0
-56,cupertino_usd, ,0,0,0,FBLFOR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_56,08-18-2015,0,0,0,0,,0
-57,cupertino_usd,B,0,0,0,ILCTZE+ArialMT,13.097,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_0,08-18-2015,0,0,0,0,"Board Meeting Agenda  August 18, 2015  Page 2",0
-58,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,15.972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_1,08-18-2015,0,0,0,0,,0
-59,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_2,08-18-2015,0,0,0,1,6.9      Approval of Intern Teaching Agreement with Notre Dame De Namur University,0
-60,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_3,08-18-2015,0,0,0,1,6.10    Approval of Student Teaching Agreement with Notre Dame De Namur University,0
-61,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_4,08-18-2015,0,0,0,1,6.11    Approval of Field Placement Agreement with the University of Arizona,0
-62,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_5,08-18-2015,0,0,0,1,6.12    Approval of Affiliation Agreement between Maricope County Community College,0
-63,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_6,08-18-2015,0,0,0,0,District for Rio Salado College,0
-64,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_7,08-18-2015,0,0,0,1,6.13    Approval of Clinical Field Placement Agreement with Goddard College,0
-65,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_8,08-18-2015,0,0,0,1,"6.14    Approval of Individual Service Agreements for Nonsectarian, Nonpublic",0
-66,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_9,08-18-2015,0,0,0,0,School/Agency Services – AchieveKids,0
-67,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_10,08-18-2015,0,0,0,1,"6.15    Approve Professional Development Contract with Enid Lee Consultants, Inc.",0
-68,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_11,08-18-2015,0,0,0,1,6.16    Adoption of Resolution No. 15-16-01 – Local Agreement for Child Development,0
-69,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_12,08-18-2015,0,0,0,0,Services for State Preschool for 2015-2016 School Year,0
-70,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_13,08-18-2015,0,0,0,1,6.17    Approval of the School Site Grants – PTA/PTO/Foundation Grants,0
-71,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_14,08-18-2015,0,0,0,1,6.18    Approval to Submit Block Grant Reimbursement for Mandated Cost,0
-72,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193.349,cupertino_usd_08-18-2015_15,08-18-2015,0,0,0,1,"6.19    Approval of Contract Award to Jet Mulch, Inc. for Engineered Wood Fiber Mulch",0
-73,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_16,08-18-2015,0,0,0,0,Material Placement at Various CUSD School Sites,0
-74,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_17,08-18-2015,0,0,0,1,6.20    Approval of Change Order #1 to BHM Construction for the West Valley,0
-75,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_18,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
-76,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_19,08-18-2015,0,0,0,1,6.21    Approval of Change Order #1 to Calstate Construction for the Garden Gate,0
-77,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_20,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
-78,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_21,08-18-2015,0,0,0,1,6.22    Approval of Change Order #1 to Zolman Construction for the Miller Middle School,0
-79,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_22,08-18-2015,0,0,0,0,Modernization Project,0
-80,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_23,08-18-2015,0,0,0,1,6.23    Approval of Change Orders #1 & #2 to Strawn Construction for the Muir,0
-81,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_24,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
-82,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_25,08-18-2015,0,0,0,1,6.24    Approval of Contract with Corovan for Move Services at Hyde and Miller Middle,0
-83,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_26,08-18-2015,0,0,0,0,Schools,0
-84,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_27,08-18-2015,0,0,0,1,"6.25    Approval of Agreement with Fagen, Friedman & Fulfrost, LLP for Professional",0
-85,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_28,08-18-2015,0,0,0,0,Services,0
-86,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_29,08-18-2015,0,0,0,1,6.26    Approval of Independent Contract with Human Systems Dynamic for Professional,0
-87,cupertino_usd,D,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139.560,cupertino_usd_08-18-2015_30,08-18-2015,0,0,0,0,Development,0
-88,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_31,08-18-2015,0,0,0,1,6.27    Approval of  Contract with Elizabeth Davies,0
-89,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_32,08-18-2015,0,0,0,1,"6.28    Approval of Master Contracts for Nonsectarian, Nonpublic",0
-90,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_33,08-18-2015,0,0,0,0,School/Agency,0
-91,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_34,08-18-2015,0,0,0,0,Services,0
-92,cupertino_usd,7,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_35,08-18-2015,0,0,0,0,,0
-93,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_36,08-18-2015,0,0,0,0,,0
-94,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_37,08-18-2015,0,1,0,0,7.      DISCUSSION/INFORMATION ITEM,1
-95,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_38,08-18-2015,0,0,0,1,7.1       Accept for Information the Quarterly Report on Williams Uniform Complaints,0
-96,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_39,08-18-2015,0,0,0,1,7.2       Update on the 2015-2016 Adopted State Budget and the Impact on the District’s,0
-97,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_40,08-18-2015,0,0,0,0,Budget Projections,0
-98,cupertino_usd,8,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_41,08-18-2015,0,0,0,1,7.3       Update on West Valley Elementary School,0
-99,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_42,08-18-2015,0,0,0,0,,0
-100,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_43,08-18-2015,0,1,0,0,8.     CLOSED SESSION,1
-101,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_44,08-18-2015,0,0,0,1,"8.1       Conference with Associate Superintendent Nancy Johnson – Pending Litigation,",0
-102,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124.560,cupertino_usd_08-18-2015_45,08-18-2015,0,0,0,0,Pursuant to Government Code Section 54956.9(b):  Employee #0333,0
-103,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_46,08-18-2015,0,0,0,1,8.2       Conference with Real Property Negotiators,0
-104,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_47,08-18-2015,0,0,0,0,"Property:  Luther School, 220 Blake Avenue, Santa Clara, CA 95051",0
-105,cupertino_usd, ,0,0,0,ILCTZE+ArialMT,14.375,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_48,08-18-2015,0,0,0,0,,0
-106,cupertino_usd,9,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_49,08-18-2015,0,0,0,0,"Agency Negotiator:  Chris Jew, Chief Business Officer",0
-107,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_50,08-18-2015,0,0,0,0,Cupertino Union School District,0
-108,cupertino_usd,1,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_51,08-18-2015,0,0,0,0,,0
-109,cupertino_usd, ,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_52,08-18-2015,0,1,0,0,9       REPORT FROM CLOSED SESSION,1
-110,cupertino_usd,1,0,0,0,YULHBV+Arial-BoldMT,15.055,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_53,08-18-2015,0,0,0,0,,0
-111,cupertino_usd, ,0,0,0,FBLFOR+Times-Roman,20.400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540.060,cupertino_usd_08-18-2015_54,08-18-2015,0,1,0,0,10.    BOARD ACTIVITY,1
+,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
+0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.300,cupertino_usd_08-18-2015_0,08-18-2015,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
+1,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_08-18-2015_1,08-18-2015,0,0,0,0,Board of Education,0
+2,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_08-18-2015_2,08-18-2015,0,0,0,0,Regular Meeting,0
+3,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_08-18-2015_3,08-18-2015,0,0,0,0,AGENDA,1
+4,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_4,08-18-2015,0,0,0,0,,0
+5,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,5,77.280,cupertino_usd_08-18-2015_5,08-18-2015,0,0,0,0,,0
+6,cupertino_usd,C,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_6,08-18-2015,0,0,0,0,"Cupertino Union School District  August 18, 2015",0
+7,cupertino_usd,1,0,0,Arial,14.375,1,0,1,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_7,08-18-2015,0,1,0,0,1309 S. Mary Avenue  6:00 p.m.,0
+8,cupertino_usd,S,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.280,cupertino_usd_08-18-2015_8,08-18-2015,0,0,0,0,"Sunnyvale, CA 94087",0
+9,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,77.280,cupertino_usd_08-18-2015_9,08-18-2015,0,0,0,0,,0
+10,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_10,08-18-2015,0,0,0,0,,0
+11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_11,08-18-2015,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
+12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_12,08-18-2015,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
+13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_13,08-18-2015,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
+14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_14,08-18-2015,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
+15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_15,08-18-2015,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
+16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_16,08-18-2015,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
+17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_17,08-18-2015,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
+18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_18,08-18-2015,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
+19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.820,cupertino_usd_08-18-2015_19,08-18-2015,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
+20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,1,0,0,0,1,85.820,cupertino_usd_08-18-2015_20,08-18-2015,0,0,0,0,,0
+21,cupertino_usd,I,0,1,Arial-Italic,10.470,0,0,0,0,0,1,0,0,104.540,cupertino_usd_08-18-2015_21,08-18-2015,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0
+22,cupertino_usd,a,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,222.860,cupertino_usd_08-18-2015_22,08-18-2015,0,0,0,0,at least two business days before the meeting date.,0
+23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,1,0,0,0,1,85.820,cupertino_usd_08-18-2015_23,08-18-2015,0,0,0,0,,0
+24,cupertino_usd,A,1,0,Arial-Bold,11.040,0,0,0,0,0,0,1,0,156.620,cupertino_usd_08-18-2015_24,08-18-2015,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
+25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,94.560,cupertino_usd_08-18-2015_25,08-18-2015,0,0,0,0,,0
+26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_26,08-18-2015,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1
+27,cupertino_usd, ,0,0,Times-Roman,20.400,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_27,08-18-2015,0,0,0,0,,0
+28,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_28,08-18-2015,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1
+29,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_29,08-18-2015,0,0,0,0,,0
+30,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_30,08-18-2015,0,1,0,0,3.     APPROVAL OF MINUTES,1
+31,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,3,94.560,cupertino_usd_08-18-2015_31,08-18-2015,0,0,0,0,"Approval of minutes of the Regular Meeting of June 18, 2015",0
+32,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,94.560,cupertino_usd_08-18-2015_32,08-18-2015,0,0,0,0,,0
+33,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_33,08-18-2015,0,1,0,0,4.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
+34,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_34,08-18-2015,0,0,0,0,,0
+35,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_35,08-18-2015,0,1,0,0,5.      PUBLIC COMMENTS,1
+36,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_36,08-18-2015,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0
+37,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_37,08-18-2015,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0
+38,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_38,08-18-2015,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0
+39,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_39,08-18-2015,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0
+40,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_40,08-18-2015,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0
+41,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_41,08-18-2015,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0
+42,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_42,08-18-2015,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0
+43,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_43,08-18-2015,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0
+44,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_44,08-18-2015,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0
+45,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_45,08-18-2015,0,0,0,0,,0
+46,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_46,08-18-2015,0,1,0,0,6.      CONSENT,1
+47,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_47,08-18-2015,0,0,0,1,6.1       Contracts for Board Ratification,0
+48,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_48,08-18-2015,0,0,0,1,6.2       Ratification of Personnel Report – July 2015,0
+49,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_49,08-18-2015,0,0,0,1,6.3       Ratification of Warrant List – July 2015,0
+50,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_50,08-18-2015,0,0,0,1,6.4       Approval of Job Description and Salary Range – Facility Modernization Manager,0
+51,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_51,08-18-2015,0,0,0,1,"6.5       Amendment of the 2015-2016 Certificated – Psychologist, Speech and Language",0
+52,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,21,76.560,cupertino_usd_08-18-2015_52,08-18-2015,0,0,0,0,Pathologist Salary Schedule,0
+53,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_53,08-18-2015,0,0,0,1,6.6       Amendment of the 2015-2016 Classified – Supervisory Salary Schedule,0
+54,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_54,08-18-2015,0,0,0,1,6.7      Approval of Intern Agreement with San Jose State University,0
+55,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_55,08-18-2015,0,0,0,1,6.8      Approval of Student Teaching Agreement with San Jose State University,0
+56,cupertino_usd, ,0,0,Times-Roman,20.400,0,1,0,0,0,0,0,3,76.560,cupertino_usd_08-18-2015_56,08-18-2015,0,0,0,0,,0
+57,cupertino_usd,B,0,0,Arial,13.097,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_0,08-18-2015,0,0,0,0,"Board Meeting Agenda  August 18, 2015  Page 2",0
+58,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,33,76.560,cupertino_usd_08-18-2015_1,08-18-2015,0,0,0,0,,0
+59,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_2,08-18-2015,0,0,0,1,6.9      Approval of Intern Teaching Agreement with Notre Dame De Namur University,0
+60,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_3,08-18-2015,0,0,0,1,6.10    Approval of Student Teaching Agreement with Notre Dame De Namur University,0
+61,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_4,08-18-2015,0,0,0,1,6.11    Approval of Field Placement Agreement with the University of Arizona,0
+62,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_5,08-18-2015,0,0,0,1,6.12    Approval of Affiliation Agreement between Maricope County Community College,0
+63,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_6,08-18-2015,0,0,0,0,District for Rio Salado College,0
+64,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_7,08-18-2015,0,0,0,1,6.13    Approval of Clinical Field Placement Agreement with Goddard College,0
+65,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_8,08-18-2015,0,0,0,1,"6.14    Approval of Individual Service Agreements for Nonsectarian, Nonpublic",0
+66,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_9,08-18-2015,0,0,0,0,School/Agency Services – AchieveKids,0
+67,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_10,08-18-2015,0,0,0,1,"6.15    Approve Professional Development Contract with Enid Lee Consultants, Inc.",0
+68,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_11,08-18-2015,0,0,0,1,6.16    Adoption of Resolution No. 15-16-01 – Local Agreement for Child Development,0
+69,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_12,08-18-2015,0,0,0,0,Services for State Preschool for 2015-2016 School Year,0
+70,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_13,08-18-2015,0,0,0,1,6.17    Approval of the School Site Grants – PTA/PTO/Foundation Grants,0
+71,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_14,08-18-2015,0,0,0,1,6.18    Approval to Submit Block Grant Reimbursement for Mandated Cost,0
+72,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,9,193.349,cupertino_usd_08-18-2015_15,08-18-2015,0,0,0,1,"6.19    Approval of Contract Award to Jet Mulch, Inc. for Engineered Wood Fiber Mulch",0
+73,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_16,08-18-2015,0,0,0,0,Material Placement at Various CUSD School Sites,0
+74,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_17,08-18-2015,0,0,0,1,6.20    Approval of Change Order #1 to BHM Construction for the West Valley,0
+75,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_18,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
+76,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_19,08-18-2015,0,0,0,1,6.21    Approval of Change Order #1 to Calstate Construction for the Garden Gate,0
+77,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_20,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
+78,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_21,08-18-2015,0,0,0,1,6.22    Approval of Change Order #1 to Zolman Construction for the Miller Middle School,0
+79,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_22,08-18-2015,0,0,0,0,Modernization Project,0
+80,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_23,08-18-2015,0,0,0,1,6.23    Approval of Change Orders #1 & #2 to Strawn Construction for the Muir,0
+81,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_24,08-18-2015,0,0,0,0,Elementary School Modernization Project,0
+82,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_25,08-18-2015,0,0,0,1,6.24    Approval of Contract with Corovan for Move Services at Hyde and Miller Middle,0
+83,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_26,08-18-2015,0,0,0,0,Schools,0
+84,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_27,08-18-2015,0,0,0,1,"6.25    Approval of Agreement with Fagen, Friedman & Fulfrost, LLP for Professional",0
+85,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_28,08-18-2015,0,0,0,0,Services,0
+86,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_29,08-18-2015,0,0,0,1,6.26    Approval of Independent Contract with Human Systems Dynamic for Professional,0
+87,cupertino_usd,D,0,0,Arial,14.375,1,0,0,0,0,0,1,0,139.560,cupertino_usd_08-18-2015_30,08-18-2015,0,0,0,0,Development,0
+88,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_31,08-18-2015,0,0,0,1,6.27    Approval of  Contract with Elizabeth Davies,0
+89,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_32,08-18-2015,0,0,0,1,"6.28    Approval of Master Contracts for Nonsectarian, Nonpublic",0
+90,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_33,08-18-2015,0,0,0,0,School/Agency,0
+91,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,76.560,cupertino_usd_08-18-2015_34,08-18-2015,0,0,0,0,Services,0
+92,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_35,08-18-2015,0,0,0,0,,0
+93,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_36,08-18-2015,0,0,0,0,,0
+94,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_37,08-18-2015,0,1,0,0,7.      DISCUSSION/INFORMATION ITEM,1
+95,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_38,08-18-2015,0,0,0,1,7.1       Accept for Information the Quarterly Report on Williams Uniform Complaints,0
+96,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_39,08-18-2015,0,0,0,1,7.2       Update on the 2015-2016 Adopted State Budget and the Impact on the District’s,0
+97,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,21,76.560,cupertino_usd_08-18-2015_40,08-18-2015,0,0,0,0,Budget Projections,0
+98,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_41,08-18-2015,0,0,0,1,7.3       Update on West Valley Elementary School,0
+99,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,5,76.560,cupertino_usd_08-18-2015_42,08-18-2015,0,0,0,0,,0
+100,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_43,08-18-2015,0,1,0,0,8.     CLOSED SESSION,1
+101,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_44,08-18-2015,0,0,0,1,"8.1       Conference with Associate Superintendent Nancy Johnson – Pending Litigation,",0
+102,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,21,124.560,cupertino_usd_08-18-2015_45,08-18-2015,0,0,0,0,Pursuant to Government Code Section 54956.9(b):  Employee #0333,0
+103,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.560,cupertino_usd_08-18-2015_46,08-18-2015,0,0,0,1,8.2       Conference with Real Property Negotiators,0
+104,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,5,76.560,cupertino_usd_08-18-2015_47,08-18-2015,0,0,0,0,"Property:  Luther School, 220 Blake Avenue, Santa Clara, CA 95051",0
+105,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_48,08-18-2015,0,0,0,0,,0
+106,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,21,76.560,cupertino_usd_08-18-2015_49,08-18-2015,0,0,0,0,"Agency Negotiator:  Chris Jew, Chief Business Officer",0
+107,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,54,76.560,cupertino_usd_08-18-2015_50,08-18-2015,0,0,0,0,Cupertino Union School District,0
+108,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,10,76.560,cupertino_usd_08-18-2015_51,08-18-2015,0,0,0,0,,0
+109,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.560,cupertino_usd_08-18-2015_52,08-18-2015,0,1,0,0,9       REPORT FROM CLOSED SESSION,1
+110,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.560,cupertino_usd_08-18-2015_53,08-18-2015,0,0,0,0,,0
+111,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,0,540.060,cupertino_usd_08-18-2015_54,08-18-2015,0,1,0,0,10.    BOARD ACTIVITY,1

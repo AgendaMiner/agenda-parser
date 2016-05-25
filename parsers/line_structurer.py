@@ -24,7 +24,7 @@ def structureLines(agency, date):
 	json_agenda = convertLinesToJSON(agency, date, lines)
 	json_agenda = cleanExtractJSON(json_agenda)
 
-	print(json.dumps(json_agenda, indent=4))
+	# print(json.dumps(json_agenda, indent=4))
 
 	writeJSONtoDisk(json_agenda, agency, date, "meeting")
 
@@ -105,7 +105,6 @@ def extractItemNumber(line_text):
 
 	# clean the section number
 	num_string = raw_num_string.strip() # remove whitespace
-	num_string = re.sub(r'[.()]', '', num_string) # remove dots and )
 
 	return num_string
 
@@ -159,7 +158,7 @@ def convertLinesToJSON(agency, date, lines):
 		# additional lines of item text
 		elif line["line_class"] == "item_text":
 			if active_item:
-				json_agenda["meeting_sections"][-1]["items"][-1]["item_text_raw"] += line["text"]
+				json_agenda["meeting_sections"][-1]["items"][-1]["item_text_raw"] += (" " + line["text"])
 
 			else:
 				# throw warning

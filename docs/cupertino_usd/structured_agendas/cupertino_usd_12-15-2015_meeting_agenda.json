@@ -5,173 +5,220 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/GARDEN GATE PRESENTING", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/GARDEN GATE PRESENTING ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/GARDEN GATE PRESENTING", 
             "section_number": "1."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "2.1", 
+                    "item_text": "Apple Presentation", 
+                    "item_text_raw": "2.1  Apple Presentation"
+                }
+            ], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "3.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH ", 
+            "section_name_raw": "3.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "4.     APPROVAL OF MINUTES ", 
+            "section_name_raw": "4.     APPROVAL OF MINUTES", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "5.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "5.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "6.      PUBLIC COMMENTS ", 
+            "section_name_raw": "6.      PUBLIC COMMENTS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "7.      PUBLIC HEARING ", 
+            "section_name_raw": "7.      PUBLIC HEARING", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
-                    "item_number": "81", 
-                    "item_text": "8.1    Ratification of Contracts with Cupertino Union School District", 
-                    "item_text_raw": "         8.1    Ratification of Contracts with Cupertino Union School District "
+                    "item_number": "8.1", 
+                    "item_text": "Ratification of Contracts with Cupertino Union School District", 
+                    "item_text_raw": "8.1    Ratification of Contracts with Cupertino Union School District"
                 }, 
                 {
-                    "item_number": "82", 
-                    "item_text": "8.2    Ratification of Personnel Report for November 2015", 
-                    "item_text_raw": "         8.2    Ratification of Personnel Report for November 2015 "
+                    "item_number": "8.2", 
+                    "item_text": "Ratification of Personnel Report for November 2015", 
+                    "item_text_raw": "8.2    Ratification of Personnel Report for November 2015"
                 }, 
                 {
-                    "item_number": "83", 
-                    "item_text": "8.3    Ratification of Warrant List for November 2015", 
-                    "item_text_raw": "         8.3    Ratification of Warrant List for November 2015 "
+                    "item_number": "8.3", 
+                    "item_text": "Ratification of Warrant List for November 2015", 
+                    "item_text_raw": "8.3    Ratification of Warrant List for November 2015"
                 }, 
                 {
-                    "item_number": "84", 
-                    "item_text": "8.4    Approval of the 2016-2017 Budget Development Calendar", 
-                    "item_text_raw": "         8.4    Approval of the 2016-2017 Budget Development Calendar\t"
+                    "item_number": "8.4", 
+                    "item_text": "Approval of the 2016-2017 Budget Development Calendar", 
+                    "item_text_raw": "8.4    Approval of the 2016-2017 Budget Development Calendar"
                 }, 
                 {
-                    "item_number": "85", 
-                    "item_text": "8.5    Accept the 2014-2015 Public Self-Insurer\u2019s Workers\u2019 Compensation Program", 
-                    "item_text_raw": "         8.5    Accept the 2014-2015 Public Self-Insurer\u2019s Workers\u2019 Compensation Program  "
+                    "item_number": "8.5", 
+                    "item_text": "Accept the 2014-2015 Public Self-Insurer\u2019s Workers\u2019 Compensation Program Annual Report", 
+                    "item_text_raw": "8.5    Accept the 2014-2015 Public Self-Insurer\u2019s Workers\u2019 Compensation Program Annual Report"
                 }, 
                 {
-                    "item_number": "", 
-                    "item_text": "Annual Report", 
-                    "item_text_raw": "                  Annual Report "
+                    "item_number": "8.6", 
+                    "item_text": "Approval of Amendment #1 to SIM Architects, Inc. for the Blue Hills Elementary School Modernization Project", 
+                    "item_text_raw": "8.6    Approval of Amendment #1 to SIM Architects, Inc. for the Blue Hills Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "86", 
-                    "item_text": "8.6    Approval of Amendment #1 to SIM Architects, Inc. for the Blue Hills Elementary                    School Modernization Project", 
-                    "item_text_raw": "         8.6    Approval of Amendment #1 to SIM Architects, Inc. for the Blue Hills Elementary                    School Modernization Project "
+                    "item_number": "8.7", 
+                    "item_text": "Approval of Amendment #1 to SIM Architects, Inc. for the Montclaire Elementary School Modernization Project", 
+                    "item_text_raw": "8.7    Approval of Amendment #1 to SIM Architects, Inc. for the Montclaire Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "87", 
-                    "item_text": "8.7    Approval of Amendment #1 to SIM Architects, Inc. for the Montclaire Elementary                    School Modernization Project", 
-                    "item_text_raw": "         8.7    Approval of Amendment #1 to SIM Architects, Inc. for the Montclaire Elementary                    School Modernization Project "
+                    "item_number": "8.8", 
+                    "item_text": "Approval of Amendment #1 to Swinerton Management & Consulting for the Muir and McAuliffe Elementary School Modernization Projects", 
+                    "item_text_raw": "8.8    Approval of Amendment #1 to Swinerton Management & Consulting for the Muir and McAuliffe Elementary School Modernization Projects"
                 }, 
                 {
-                    "item_number": "88", 
-                    "item_text": "8.8    Approval of Amendment #1 to Swinerton Management & Consulting for the Muir                    and McAuliffe Elementary School Modernization Projects", 
-                    "item_text_raw": "         8.8    Approval of Amendment #1 to Swinerton Management & Consulting for the Muir                    and McAuliffe Elementary School Modernization Projects "
+                    "item_number": "8.9", 
+                    "item_text": "Approval of Change Order #2 to Calstate Construction for the Garden Gate Elementary School Modernization Project", 
+                    "item_text_raw": "8.9    Approval of Change Order #2 to Calstate Construction for the Garden Gate Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "89", 
-                    "item_text": "8.9    Approval of Change Order #2 to Calstate Construction for the Garden Gate                    Elementary School Modernization Project", 
-                    "item_text_raw": "         8.9    Approval of Change Order #2 to Calstate Construction for the Garden Gate                    Elementary School Modernization Project "
+                    "item_number": "8.10", 
+                    "item_text": "Approval of Change Order #3 to Calstate Construction for the Garden Gate Elementary School Modernization Project", 
+                    "item_text_raw": "8.10  Approval of Change Order #3 to Calstate Construction for the Garden Gate Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "810", 
-                    "item_text": "8.10  Approval of Change Order #3 to Calstate Construction for the Garden Gate                    Elementary School Modernization Project", 
-                    "item_text_raw": "         8.10  Approval of Change Order #3 to Calstate Construction for the Garden Gate                    Elementary School Modernization Project "
+                    "item_number": "8.11", 
+                    "item_text": "Approval of Change Order #3 to Strawn Construction for the Muir Elementary School Modernization Project", 
+                    "item_text_raw": "8.11  Approval of Change Order #3 to Strawn Construction for the Muir Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "811", 
-                    "item_text": "8.11  Approval of Change Order #3 to Strawn Construction for the Muir Elementary                    School Modernization Project", 
-                    "item_text_raw": "         8.11  Approval of Change Order #3 to Strawn Construction for the Muir Elementary                    School Modernization Project "
+                    "item_number": "8.12", 
+                    "item_text": "Approval of Contract Award to Vistronix, Inc. to Upgrade IBM Maximo Work Order System and Maintenance Work Order Procedures", 
+                    "item_text_raw": "8.12  Approval of Contract Award to Vistronix, Inc. to Upgrade IBM Maximo Work Order System and Maintenance Work Order Procedures"
                 }, 
                 {
-                    "item_number": "812", 
-                    "item_text": "8.12  Approval of Contract Award to Vistronix, Inc. to Upgrade IBM Maximo Work Order", 
-                    "item_text_raw": "         8.12  Approval of Contract Award to Vistronix, Inc. to Upgrade IBM Maximo Work Order  "
+                    "item_number": "8.13", 
+                    "item_text": "Approval of Contract Award to West Coast Consulting Group, Inc. for Emergency Preparedness Improvements", 
+                    "item_text_raw": "8.13  Approval of Contract Award to West Coast Consulting Group, Inc. for Emergency Preparedness Improvements"
                 }, 
                 {
-                    "item_number": "813", 
-                    "item_text": "8.13  Approval of Contract Award to West Coast Consulting Group, Inc. for Emergency            8.14  Rejection of Claim for Personal Injuries \u2013 Claim #507371 9.      DISCUSSION/INFORMATION ITEM", 
-                    "item_text_raw": "         8.13  Approval of Contract Award to West Coast Consulting Group, Inc. for Emergency            8.14  Rejection of Claim for Personal Injuries \u2013 Claim #507371 9.      DISCUSSION/INFORMATION ITEM "
-                }, 
-                {
-                    "item_number": "91", 
-                    "item_text": "9.1    Parcel Tax Oversight Committee Report", 
-                    "item_text_raw": "         9.1    Parcel Tax Oversight Committee Report "
-                }, 
-                {
-                    "item_number": "92", 
-                    "item_text": "9.2    English Language Development Master Plan Update Presentation", 
-                    "item_text_raw": "         9.2    English Language Development Master Plan Update Presentation "
-                }, 
-                {
-                    "item_number": "93", 
-                    "item_text": "9.3    Independent Audit Report Covering the 2014-2015 Fiscal Year", 
-                    "item_text_raw": "         9.3    Independent Audit Report Covering the 2014-2015 Fiscal Year\t"
-                }, 
-                {
-                    "item_number": "94", 
-                    "item_text": "9.4    Measure H Bond Program Financial and Performance Audits for the 2014/2015                    Fiscal Year as Prepared by Vavrinek, Trine, Day & Co., LLP. 10.     ACTION ITEM          10.1  Second Reading and Adoptions of Board Policies \u2013 Additions/Revisions", 
-                    "item_text_raw": "         9.4    Measure H Bond Program Financial and Performance Audits for the 2014/2015                    Fiscal Year as Prepared by Vavrinek, Trine, Day & Co., LLP. 10.     ACTION ITEM          10.1  Second Reading and Adoptions of Board Policies \u2013 Additions/Revisions "
-                }, 
-                {
-                    "item_number": "102", 
-                    "item_text": "10.2  Approval of the First Interim Financial Report for the 2015-2016 Fiscal Year", 
-                    "item_text_raw": "         10.2  Approval of the First Interim Financial Report for the 2015-2016 Fiscal Year "
-                }, 
-                {
-                    "item_number": "103", 
-                    "item_text": "10.3  Adoption of Resolution No. 15-16-09 -- Contractor Prequalification Process", 
-                    "item_text_raw": "         10.3  Adoption of Resolution No. 15-16-09 -- Contractor Prequalification Process "
-                }, 
-                {
-                    "item_number": "104", 
-                    "item_text": "10.4  Adoption of Resolution No. 15-16-10 -- A Resolution Of The Board Of Education Of                     The Cupertino Union School District, Santa Clara County, California, Authorizing                    The Issuance Of Cupertino Union School District (Santa Clara County, California)                    2016 General Obligation Refunding Bonds And Actions Related Thereto 11.    CLOSED SESSION          11.1   GOV. CODE 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS\t                   Property: 1.48 acres of real property located at 80 Finch Avenue, Cupertino,                                     California APN: 375-40-067                    Under Negotiation:   Price and terms of payment          11.2   GOV. CODE 54958 CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
-                    "item_text_raw": "         10.4  Adoption of Resolution No. 15-16-10 -- A Resolution Of The Board Of Education Of                     The Cupertino Union School District, Santa Clara County, California, Authorizing                    The Issuance Of Cupertino Union School District (Santa Clara County, California)                    2016 General Obligation Refunding Bonds And Actions Related Thereto 11.    CLOSED SESSION          11.1   GOV. CODE 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS\t                   Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino,                                     California APN: 375-40-067                    Under Negotiation:   Price and terms of payment          11.2   GOV. CODE 54958 CONFERENCE WITH REAL PROPERTY NEGOTIATORS "
+                    "item_number": "8.14", 
+                    "item_text": "Rejection of Claim for Personal Injuries \u2013 Claim #507371", 
+                    "item_text_raw": "8.14  Rejection of Claim for Personal Injuries \u2013 Claim #507371"
                 }
             ], 
             "section_name": "CONSENT", 
-            "section_name_raw": "8.     CONSENT ", 
+            "section_name_raw": "8.     CONSENT", 
             "section_number": "8."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "9.1", 
+                    "item_text": "Parcel Tax Oversight Committee Report", 
+                    "item_text_raw": "9.1    Parcel Tax Oversight Committee Report"
+                }, 
+                {
+                    "item_number": "9.2", 
+                    "item_text": "English Language Development Master Plan Update Presentation", 
+                    "item_text_raw": "9.2    English Language Development Master Plan Update Presentation"
+                }, 
+                {
+                    "item_number": "9.3", 
+                    "item_text": "Independent Audit Report Covering the 2014-2015 Fiscal Year", 
+                    "item_text_raw": "9.3    Independent Audit Report Covering the 2014-2015 Fiscal Year"
+                }, 
+                {
+                    "item_number": "9.4", 
+                    "item_text": "Measure H Bond Program Financial and Performance Audits for the 2014/2015 Fiscal Year as Prepared by Vavrinek, Trine, Day & Co., LLP.", 
+                    "item_text_raw": "9.4    Measure H Bond Program Financial and Performance Audits for the 2014/2015 Fiscal Year as Prepared by Vavrinek, Trine, Day & Co., LLP."
+                }
+            ], 
+            "section_name": "DISCUSSION/INFORMATION ITEM", 
+            "section_name_raw": "9.      DISCUSSION/INFORMATION ITEM", 
+            "section_number": "9."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "10.1", 
+                    "item_text": "Second Reading and Adoptions of Board Policies \u2013 Additions/Revisions", 
+                    "item_text_raw": "10.1  Second Reading and Adoptions of Board Policies \u2013 Additions/Revisions"
+                }, 
+                {
+                    "item_number": "10.2", 
+                    "item_text": "Approval of the First Interim Financial Report for the 2015-2016 Fiscal Year", 
+                    "item_text_raw": "10.2  Approval of the First Interim Financial Report for the 2015-2016 Fiscal Year"
+                }, 
+                {
+                    "item_number": "10.3", 
+                    "item_text": "Adoption of Resolution No. 15-16-09 -- Contractor Prequalification Process", 
+                    "item_text_raw": "10.3  Adoption of Resolution No. 15-16-09 -- Contractor Prequalification Process"
+                }, 
+                {
+                    "item_number": "10.4", 
+                    "item_text": "Adoption of Resolution No. 15-16-10 -- A Resolution Of The Board Of Education Of The Cupertino Union School District, Santa Clara County, California, Authorizing The Issuance Of Cupertino Union School District (Santa Clara County, California) 2016 General Obligation Refunding Bonds And Actions Related Thereto", 
+                    "item_text_raw": "10.4  Adoption of Resolution No. 15-16-10 -- A Resolution Of The Board Of Education Of The Cupertino Union School District, Santa Clara County, California, Authorizing The Issuance Of Cupertino Union School District (Santa Clara County, California) 2016 General Obligation Refunding Bonds And Actions Related Thereto"
+                }, 
+                {
+                    "item_number": "10.5", 
+                    "item_text": "Organizational Meeting \u2013 Nomination and Election of New Officers and County Committee Representative", 
+                    "item_text_raw": "10.5  Organizational Meeting \u2013 Nomination and Election of New Officers and County Committee Representative"
+                }
+            ], 
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "10.     ACTION ITEM", 
+            "section_number": "10."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "11.1", 
+                    "item_text": "GOV. CODE 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiator:  Chris Jew, Chief Business Officer; Mary Morris, HMC; Jerry Suich, Oxbridge Development, Inc.; Nancy Taylor, Orbach Huff  Suarez & Henderson, LLP Under Negotiation:   Price and terms of payment", 
+                    "item_text_raw": "11.1   GOV. CODE 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiator:  Chris Jew, Chief Business Officer; Mary Morris, HMC; Jerry Suich, Oxbridge Development, Inc.; Nancy Taylor, Orbach Huff  Suarez & Henderson, LLP Under Negotiation:   Price and terms of payment"
+                }, 
+                {
+                    "item_number": "11.2", 
+                    "item_text": "GOV. CODE 54958 CONFERENCE WITH REAL PROPERTY NEGOTIATORS", 
+                    "item_text_raw": "11.2   GOV. CODE 54958 CONFERENCE WITH REAL PROPERTY NEGOTIATORS"
+                }
+            ], 
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "11.    CLOSED SESSION", 
+            "section_number": "11."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "12.    REPORT FROM CLOSED SESSION ", 
+            "section_name_raw": "12.    REPORT FROM CLOSED SESSION", 
             "section_number": "12."
         }, 
         {
             "items": [], 
             "section_name": "BOARD ACTIVITY", 
-            "section_name_raw": "13.    BOARD ACTIVITY ", 
+            "section_name_raw": "13.    BOARD ACTIVITY", 
             "section_number": "13."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "14.    ADJOURNMENT ", 
+            "section_name_raw": "14.    ADJOURNMENT", 
             "section_number": "14."
         }
     ]

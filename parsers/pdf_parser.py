@@ -1,5 +1,6 @@
 import re
 import csv
+import pprint
 import os.path
 import pickle
 import pandas as pd
@@ -8,14 +9,14 @@ from operator import itemgetter
 from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
 
-
+pp = pprint.PrettyPrinter(indent=4)
 
 def main():
 
 	agency = "cupertino_usd"
 	date = "04-05-2016"
 
-	parsePDFtoLines(agency, date, True)
+	parsePDFtoLines(agency, date, False)
 
 
 '''
@@ -66,10 +67,8 @@ def extractLinesFromPDF(filepath, agency, date):
 			lines += getLinesWithFormatting(page, page_index, agency, date)
 
 		# convert font information into a set of ranked dummy vars
-		lines = generalizeFontInfo(lines, agency)
-
-		# convert left indentation into a set of ranked dummy vars
-		lines = generalizeLeftIndentation(lines, agency)
+		lines = cleanFontNames(lines)
+		lines = assignFontStyles(lines)
 
 		# bucket left indentations into 5 ranked dummy vars
 		lines = bucketLeftIndentation(lines, agency)
@@ -148,6 +147,7 @@ def cropHeaderAndFooter(page, page_index):
 	return page.crop(crop_margins)
 
 
+
 '''
 getLinesWithFormatting
 ======================
@@ -156,16 +156,15 @@ Each dict contains the text of that line, along with features about the formatti
 '''
 def getLinesWithFormatting(page, page_index, agency, date):
 
-	### convert the page into a list of lines of text
+	### vertical tolerance in pixels to separate lines
 	y_tol = 2
-	all_text = page.extract_text(x_tolerance=2, y_tolerance=y_tol)
-	text_lines = all_text.splitlines()
 
 	### build a list of line dicts with each line of text and important formatting
 	lines = list()
 
 	# sort list of char dicts by distance from page top
-	sorted_chars = sorted(page.chars, key=itemgetter('top', 'x0')) 
+	sorted_chars = sorted(page.chars, key=itemgetter('top', 'x0'))
+	# pp.pprint(sorted_chars)
 
 	# position indicators
 	current_y_pos = 0
@@ -180,11 +179,13 @@ def getLinesWithFormatting(page, page_index, agency, date):
 
 		if cur_y_min >= char['top'] or char['top'] >= cur_y_max:
 
-			# sanity check that the first character is the same as the first character in the text_lines string, warn if not (SEEMS TO HAVE A BUG WITH NUMBERS)
-			if char['text'] != text_lines[line_index][:1]:
-				print( "MISMATCH ON PAGE " + str(page_index) + ", LINE " + str(line_index))
-				print("--FIRST CHAR: " + char['text'] + ", TEXT: " + text_lines[line_index])
-				
+			# get all characters on that line
+			lines_char_objs = [c for c in sorted_chars if c['top'] <= (char['top']+y_tol) and c['top'] >= (char['top']-y_tol)]
+			lines_chars = [c['text'] for c in lines_char_objs]
+			line_string = ''.join(lines_chars)
+
+			print(line_string)
+
 			# add line formatting to the lines_formatting list
 			# assumes that all text on that line have the same formatting
 			line_dict = {'agency': agency, \
@@ -193,8 +194,16 @@ def getLinesWithFormatting(page, page_index, agency, date):
 				'font_name': char['fontname'], \
 				'font_size': char['size'], \
 				'first_char': char['text'], \
-				'left_inset': char['x0'], \
-				'text': text_lines[line_index]}
+				'left_inset': round(char['x0']), \
+				'text': line_string}
+
+			# if the line begins with spaces, the left_inset is thrown off.
+			# to handle this, use the inset of the first non-space character.
+			if lines_chars[0] == ' ':
+				for c in lines_char_objs:
+					if c['text'] != ' ':
+						line_dict['left_inset'] = round(c['x0'])
+						break
 
 			# add additional format-based features
 			line_dict = addFormattingFeatures(line_dict)
@@ -217,9 +226,6 @@ Given a dict with a text string, add new features depending on the properties of
 '''
 def addFormattingFeatures(line):
 
-	# count how many spaces are at the start of the line
-	line['leading_spaces'] = len(line['text']) - len(line['text'].lstrip(' '))
-
 	# strip out whitespace
 	line['text'] = line['text'].strip()
 	
@@ -230,7 +236,7 @@ def addFormattingFeatures(line):
 		line['uppercase'] = 0
 
 	# check if line starts with a number
-	re_starts_num = re.compile(r'\d+\.?\s+')
+	re_starts_num = re.compile(r'\d{1,3}\.?\s+')
 	if re_starts_num.match(line['text']) is not None:
 		line['starts_with_number'] = 1
 	else:
@@ -270,121 +276,41 @@ def addFormattingFeatures(line):
 
 
 '''
-generalizeFontInfo
-==================
-Converts the raw font and font-size information from PDFPlumber into a set of relative categories.
-Returns an updated list of line dicts.
+cleanFontNames
+==============
+Strips prefixes and foundary info from font names.
 '''
-def generalizeFontInfo(lines, agency):
-
-	### font-face frequencies
-	lines = assignFontFrequencies(lines, agency)
-
-	### font sizes
-	lines = assignFontSizes(lines, agency)
-
-	return lines
-
-
-
-'''
-assignFontFrequencies
-=====================
-Checks to see if a list of ranked fonts has already been created, 
-otherwise orders the unique font-faces by frequency, then creates a set of dummy variables
-for each frequency (set to 1 if the font-face for that line, 0 otherwise)
-Returns an updated list of line dicts
-'''
-def assignFontFrequencies(lines, agency):
-
-	ranked_fonts_filepath = "docs/" + agency + "/data/ranked_fonts.p"
-	
-	if os.path.exists(ranked_fonts_filepath):
-		ranked_fonts = pickle.load(open(ranked_fonts_filepath, "rb" ))
-
-	else:
-		# find unique fonts
-		all_fonts = [line['font_name'] for line in lines]
-		font_counter = Counter(all_fonts)
-		ranked_font_tuples = font_counter.most_common()
-		ranked_fonts = [font_tuple[0] for font_tuple in ranked_font_tuples]
-		pickle.dump(ranked_fonts, open(ranked_fonts_filepath, "wb"))
-
-	# create font_freq features for each line
-	return assignRankedDummyVars(lines, ranked_fonts, 'font_freq_', 'font_name')
-
-
-
-'''
-assignFontSizes
-=====================
-Checks if a set of unique font-sizes already exists, 
-otherwise orders the unique font-sizes in descending order, 
-then creates a set of ranked dummy variables (set to 1 if the font-size for that line, 0 otherwise).
-Returns an updated list of line dicts
-'''
-def assignFontSizes(lines, agency):
-
-	ranked_font_sizes_filepath = "docs/" + agency + "/data/ranked_font_sizes.p"
-	
-	if os.path.exists(ranked_font_sizes_filepath):
-		ranked_font_sizes = pickle.load(open(ranked_font_sizes_filepath, "rb" ))
-
-	else:
-		# find unique font sizes
-		font_sizes = list(set([line['font_size'] for line in lines])) # intermediate conversion to a set to remove duplicates
-		ranked_font_sizes = sorted(font_sizes, reverse=True)
-		pickle.dump(ranked_font_sizes, open(ranked_font_sizes_filepath, "wb"))
-
-	# create font_size features for each line
-	return assignRankedDummyVars(lines, ranked_font_sizes, 'font_size_', 'font_size')
-
-
-
-'''
-assignRankedDummyVars
-=====================
-Creates a set of dummy variables by checking which option in a list of ranked options matches the attribute of each line (1 if match, 0 otherwise).
-Returns an updated list of lines.
-'''
-def assignRankedDummyVars(lines, ranked_vars, dummy_basename, line_attribute):
+def cleanFontNames(lines):
 	for line in lines:
-		for i, ranked_attr in enumerate(ranked_vars):
-			key = dummy_basename + str(i)
-
-			# check if the line attribute matches the active ranked attr
-			if line[line_attribute] == ranked_attr:
-				line[key] = 1
-			else:
-				line[key] = 0
+		font = line['font_name']
+		if '+' in font:
+			font_parts = font.split('+')
+			font = font_parts[-1]
+		font = re.sub(r'MT', '', font)
+		line['font_name'] = font
 
 	return lines
 
 
 
 '''
-generalizeLeftIndentation
-=========================
-Checks if a list of indentations from the left side of the page already exists,
-otherwise creates a set of dummy variables ranking how indented the left side of the line is.
-Returns an updated list of lines.
+assignFontStyles
+================
+Creates variables indicating if a line is set in either bold or italic type.
 '''
-def generalizeLeftIndentation(lines, agency):
+def assignFontStyles(lines):
+	for line in lines:
+		if 'bold' in line['font_name'].lower():
+			line['font_bold'] = 1
+		else:
+			line['font_bold'] = 0
 
-	ranked_left_indents_filepath = "docs/" + agency + "/data/ranked_left_indents.p"
-	
-	if os.path.exists(ranked_left_indents_filepath):
-		ranked_left_indents = pickle.load(open(ranked_left_indents_filepath, "rb" ))
+		if 'italic' in line['font_name'].lower():
+			line['font_italic'] = 1
+		else:
+			line['font_italic'] = 0
 
-	else:
-		# find unique line indentations
-		left_indents = list(set([line['left_inset'] for line in lines])) # intermediate conversion to a list to remove duplicates
-		ranked_left_indents = sorted(left_indents)
-		pickle.dump(ranked_left_indents, open(ranked_left_indents_filepath, "wb"))
-
-	# create left_indent features for each line
-	return assignRankedDummyVars(lines, ranked_left_indents, 'left_indent_', 'left_inset')
-
+	return lines
 
 
 

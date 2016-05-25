@@ -5,178 +5,211 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.     APPROVAL OF MINUTES  ", 
+            "section_name_raw": "3.     APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.      COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "4.      COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.      PUBLIC COMMENTS ", 
+            "section_name_raw": "5.      PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "6.1", 
+                    "item_text": "Classified Employee of the Month \u2013 May 2015 Mike Oxford, Bus Driver, Transportation", 
+                    "item_text_raw": "6.1      Classified Employee of the Month \u2013 May 2015 Mike Oxford, Bus Driver, Transportation"
+                }
+            ], 
             "section_name": "RECOGNITION", 
-            "section_name_raw": "6.      RECOGNITION ", 
+            "section_name_raw": "6.      RECOGNITION", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
-                    "item_number": "71", 
-                    "item_text": "7.1     Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and                     Announcement of District Teacher of the Year                                  Union School District\u2019s Teacher of the year and reconvene following the", 
-                    "item_text_raw": "        7.1     Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and                     Announcement of District Teacher of the Year                                  Union School District\u2019s Teacher of the year and reconvene following the  "
+                    "item_number": "7.1", 
+                    "item_text": "Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Union School District\u2019s Teacher of the year and reconvene following the", 
+                    "item_text_raw": "7.1     Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Union School District\u2019s Teacher of the year and reconvene following the"
                 }
             ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "7.     PRESENTATION ", 
+            "section_name_raw": "7.     PRESENTATION", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
-                    "item_number": "81", 
-                    "item_text": "8.1     Contracts for Board Ratification", 
-                    "item_text_raw": "        8.1     Contracts for Board Ratification "
+                    "item_number": "8.1", 
+                    "item_text": "Contracts for Board Ratification", 
+                    "item_text_raw": "8.1     Contracts for Board Ratification"
                 }, 
                 {
-                    "item_number": "82", 
-                    "item_text": "8.2     Ratification of Personnel Report for April 2015", 
-                    "item_text_raw": "        8.2     Ratification of Personnel Report for April 2015 "
+                    "item_number": "8.2", 
+                    "item_text": "Ratification of Personnel Report for April 2015", 
+                    "item_text_raw": "8.2     Ratification of Personnel Report for April 2015"
                 }, 
                 {
-                    "item_number": "83", 
-                    "item_text": "8.3     Ratification of Warrant List for April 2015", 
-                    "item_text_raw": "        8.3     Ratification of Warrant List for April 2015 "
+                    "item_number": "8.3", 
+                    "item_text": "Ratification of Warrant List for April 2015", 
+                    "item_text_raw": "8.3     Ratification of Warrant List for April 2015"
                 }, 
                 {
-                    "item_number": "84", 
-                    "item_text": "8.4     Approval of Lease Agreements with Sierra School, Happy Days, Tican                    Institute, Harmony Dance Center, Waha Montessori, and French American School", 
-                    "item_text_raw": "        8.4     Approval of Lease Agreements with Sierra School, Happy Days, Tican                    Institute, Harmony Dance Center, Waha Montessori, and French American School  "
+                    "item_number": "8.4", 
+                    "item_text": "Approval of Lease Agreements with Sierra School, Happy Days, Tican", 
+                    "item_text_raw": "8.4     Approval of Lease Agreements with Sierra School, Happy Days, Tican"
                 }, 
                 {
-                    "item_number": "85", 
-                    "item_text": "8.5     Approval of Contract Award to Anza Engineering Corp. for the Construction of", 
-                    "item_text_raw": "        8.5     Approval of Contract Award to Anza Engineering Corp. for the Construction of        "
+                    "item_number": "8.5", 
+                    "item_text": "Approval of Contract Award to Anza Engineering Corp. for the Construction of", 
+                    "item_text_raw": "8.5     Approval of Contract Award to Anza Engineering Corp. for the Construction of"
                 }, 
                 {
-                    "item_number": "86", 
-                    "item_text": "8.6    Approval of Contract Agreements with NatureBridge Program at Yosemite for Five                    Middle Schools for the 2015-2016 School Year", 
-                    "item_text_raw": "         8.6    Approval of Contract Agreements with NatureBridge Program at Yosemite for Five                    Middle Schools for the 2015-2016 School Year   "
+                    "item_number": "8.6", 
+                    "item_text": "Approval of Contract Agreements with NatureBridge Program at Yosemite for Five Middle Schools for the 2015-2016 School Year", 
+                    "item_text_raw": "8.6    Approval of Contract Agreements with NatureBridge Program at Yosemite for Five Middle Schools for the 2015-2016 School Year"
                 }, 
                 {
-                    "item_number": "87", 
-                    "item_text": "8.7    Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year", 
-                    "item_text_raw": "         8.7    Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year  "
+                    "item_number": "8.7", 
+                    "item_text": "Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year", 
+                    "item_text_raw": "8.7    Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year"
                 }, 
                 {
-                    "item_number": "88", 
-                    "item_text": "8.8    Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School", 
-                    "item_text_raw": "         8.8    Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School  "
+                    "item_number": "8.8", 
+                    "item_text": "Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School", 
+                    "item_text_raw": "8.8    Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School"
                 }, 
                 {
-                    "item_number": "89", 
-                    "item_text": "8.9    Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee", 
-                    "item_text_raw": "         8.9    Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee  "
+                    "item_number": "8.9", 
+                    "item_text": "Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee", 
+                    "item_text_raw": "8.9    Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee"
                 }, 
                 {
-                    "item_number": "810", 
-                    "item_text": "8.10  Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,", 
-                    "item_text_raw": "         8.10  Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,  "
+                    "item_number": "8.10", 
+                    "item_text": "Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,", 
+                    "item_text_raw": "8.10  Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,"
                 }
             ], 
             "section_name": "CONSENT", 
-            "section_name_raw": "8.     CONSENT ", 
+            "section_name_raw": "8.     CONSENT", 
             "section_number": "8."
         }, 
         {
             "items": [
                 {
-                    "item_number": "91", 
-                    "item_text": "9.1     Second Reading and Adoption of Board Policies \u2013 Additions/Revisions", 
-                    "item_text_raw": "         9.1     Second Reading and Adoption of Board Policies \u2013 Additions/Revisions "
+                    "item_number": "9.1", 
+                    "item_text": "Second Reading and Adoption of Board Policies \u2013 Additions/Revisions", 
+                    "item_text_raw": "9.1     Second Reading and Adoption of Board Policies \u2013 Additions/Revisions"
                 }, 
                 {
-                    "item_number": "92", 
-                    "item_text": "9.2     Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the", 
-                    "item_text_raw": "         9.2     Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the  "
+                    "item_number": "9.2", 
+                    "item_text": "Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the", 
+                    "item_text_raw": "9.2     Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the"
                 }, 
                 {
-                    "item_number": "93", 
-                    "item_text": "9.3     Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the", 
-                    "item_text_raw": "         9.3     Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the  "
+                    "item_number": "9.3", 
+                    "item_text": "Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the", 
+                    "item_text_raw": "9.3     Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the"
                 }, 
                 {
-                    "item_number": "94", 
-                    "item_text": "9.4     Adoption of Resolution No. 14-15-24 \u2014 Delegation of Authority to Approve the                     Construction Contract for the Roofing Work at Cupertino Middle School", 
-                    "item_text_raw": "         9.4     Adoption of Resolution No. 14-15-24 \u2014 Delegation of Authority to Approve the                     Construction Contract for the Roofing Work at Cupertino Middle School       "
+                    "item_number": "9.4", 
+                    "item_text": "Adoption of Resolution No. 14-15-24 \u2014 Delegation of Authority to Approve the Construction Contract for the Roofing Work at Cupertino Middle School", 
+                    "item_text_raw": "9.4     Adoption of Resolution No. 14-15-24 \u2014 Delegation of Authority to Approve the Construction Contract for the Roofing Work at Cupertino Middle School"
                 }, 
                 {
-                    "item_number": "95", 
-                    "item_text": "9.5     Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a", 
-                    "item_text_raw": "         9.5     Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a  "
+                    "item_number": "9.5", 
+                    "item_text": "Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a", 
+                    "item_text_raw": "9.5     Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a"
                 }, 
                 {
-                    "item_number": "96", 
-                    "item_text": "9.6      Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District", 
-                    "item_text_raw": "        9.6      Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District  "
+                    "item_number": "9.6", 
+                    "item_text": "Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Campbell Union High School District to Cupertino Union School District and", 
+                    "item_text_raw": "9.6      Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Campbell Union High School District to Cupertino Union School District and"
                 }, 
                 {
-                    "item_number": "97", 
-                    "item_text": "9.7     Adoption of Resolution No. 14-15-23 \u2014 Delegation of Authority to Approve the", 
-                    "item_text_raw": "         9.7     Adoption of Resolution No. 14-15-23 \u2014 Delegation of Authority to Approve the  "
+                    "item_number": "9.7", 
+                    "item_text": "Adoption of Resolution No. 14-15-23 \u2014 Delegation of Authority to Approve the Construction Contract for Field Restoration at West Valley Elementary School", 
+                    "item_text_raw": "9.7     Adoption of Resolution No. 14-15-23 \u2014 Delegation of Authority to Approve the Construction Contract for Field Restoration at West Valley Elementary School"
                 }
             ], 
             "section_name": "ACTION", 
-            "section_name_raw": "9.      ACTION ", 
+            "section_name_raw": "9.      ACTION", 
             "section_number": "9."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "10.1", 
+                    "item_text": "Cupertino Union School District 2015-16 Local Control Accountability Plan", 
+                    "item_text_raw": "10.1   Cupertino Union School District 2015-16 Local Control Accountability Plan"
+                }
+            ], 
             "section_name": "DISCUSSION/INFORMATION ITEM", 
-            "section_name_raw": "10.    DISCUSSION/INFORMATION ITEM ", 
+            "section_name_raw": "10.    DISCUSSION/INFORMATION ITEM", 
             "section_number": "10."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "11.1", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release", 
+                    "item_text_raw": "11.1   Public Employee Discipline/Dismissal/Release"
+                }, 
+                {
+                    "item_number": "11.2", 
+                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section Employee Associations:  Cupertino Education Association (CEA), California School", 
+                    "item_text_raw": "11.2   Conference with Labor Negotiators Pursuant to Government Code Section Employee Associations:  Cupertino Education Association (CEA), California School"
+                }, 
+                {
+                    "item_number": "11.3", 
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending", 
+                    "item_text_raw": "11.3   Conference with Associate Superintendent Nancy Johnson \u2013 Pending"
+                }, 
+                {
+                    "item_number": "11.4", 
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,", 
+                    "item_text_raw": "11.4   Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,"
+                }
+            ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "11.    CLOSED SESSION ", 
+            "section_name_raw": "11.    CLOSED SESSION", 
             "section_number": "11."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "12.    REPORT FROM CLOSED SESSION ", 
+            "section_name_raw": "12.    REPORT FROM CLOSED SESSION", 
             "section_number": "12."
         }, 
         {
             "items": [], 
             "section_name": "BOARD ACTIVITY", 
-            "section_name_raw": "13.    BOARD ACTIVITY ", 
+            "section_name_raw": "13.    BOARD ACTIVITY", 
             "section_number": "13."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "14.    ADJOURNMENT       ", 
+            "section_name_raw": "14.    ADJOURNMENT", 
             "section_number": "14."
         }
     ]

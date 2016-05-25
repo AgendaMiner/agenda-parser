@@ -1,8 +1,12 @@
 (lp0
-S'RBVDCK+ArialMT'
+S'Arial'
 p1
-aS'YVGAHU+Arial-BoldMT'
+aS'Arial-Bold'
 p2
-aS'SCKQTB+Arial-ItalicMT'
+aS'Times-Roman'
 p3
+aS'Verdana'
+p4
+aS'Arial-Italic'
+p5
 a.

@@ -5,117 +5,249 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/JOHN MUIR ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/JOHN MUIR ELEMENTARY SCHOOL         ", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/JOHN MUIR ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
-            "section_name": "PRESENTATION", 
-            "section_name_raw": "      PRESENTATION ", 
-            "section_number": ""
-        }, 
-        {
-            "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.        RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH ", 
+            "section_name_raw": "2.        RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.        APPROVAL OF MINUTES ", 
+            "section_name_raw": "3.        APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.        COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "4.        COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.        PUBLIC COMMENTS ", 
+            "section_name_raw": "5.        PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
-                    "item_number": "61", 
-                    "item_text": "6.1     Ratification of October 2013 Personnel Report", 
-                    "item_text_raw": "6.1     Ratification of October 2013 Personnel Report "
+                    "item_number": "6.1", 
+                    "item_text": "Ratification of October 2013 Personnel Report", 
+                    "item_text_raw": "6.1     Ratification of October 2013 Personnel Report"
                 }, 
                 {
-                    "item_number": "62", 
-                    "item_text": "6.2     Ratification of October 2013 Warrant List", 
-                    "item_text_raw": "6.2     Ratification of October 2013 Warrant List "
+                    "item_number": "6.2", 
+                    "item_text": "Ratification of October 2013 Warrant List", 
+                    "item_text_raw": "6.2     Ratification of October 2013 Warrant List"
                 }, 
                 {
-                    "item_number": "63", 
-                    "item_text": "6.3     Approval of the Precondition Report for the Cupertino Union School District\u2019s", 
-                    "item_text_raw": "6.3     Approval of the Precondition Report for the Cupertino Union School District\u2019s    "
+                    "item_number": "6.3", 
+                    "item_text": "Approval of the Precondition Report for the Cupertino Union School District\u2019s", 
+                    "item_text_raw": "6.3     Approval of the Precondition Report for the Cupertino Union School District\u2019s"
                 }, 
                 {
-                    "item_number": "64", 
-                    "item_text": "6.4     Approval of November 1, 2013 Revisions to the Measure H Bond Program", 
-                    "item_text_raw": "      6.4     Approval of November 1, 2013 Revisions to the Measure H Bond Program  "
+                    "item_number": "6.4", 
+                    "item_text": "Approval of November 1, 2013 Revisions to the Measure H Bond Program Project List", 
+                    "item_text_raw": "6.4     Approval of November 1, 2013 Revisions to the Measure H Bond Program Project List"
                 }, 
                 {
-                    "item_number": "628", 
-                    "item_text": "6.28   Approval of Contract Award in the Amount of $325,000 to Anza Engineering", 
-                    "item_text_raw": "            6.28   Approval of Contract Award in the Amount of $325,000 to Anza Engineering  "
+                    "item_number": "6.5", 
+                    "item_text": "Approval of Contract Augmentation in the Amount of $69,300 to WLC Architects For Additional Design and Construction Administration Services Associated with Modernization of the Meyerholz Elementary School Campus", 
+                    "item_text_raw": "6.5     Approval of Contract Augmentation in the Amount of $69,300 to WLC Architects For Additional Design and Construction Administration Services Associated with Modernization of the Meyerholz Elementary School Campus"
+                }, 
+                {
+                    "item_number": "6.6", 
+                    "item_text": "Approval of  Contract Augmentation to SIM Architects in the amount of $27,230 for Design and Construction Administration Services Associated With Modernization of the West Valley Elementary School Campus", 
+                    "item_text_raw": "6.6     Approval of  Contract Augmentation to SIM Architects in the amount of $27,230 for Design and Construction Administration Services Associated With Modernization of the West Valley Elementary School Campus"
+                }, 
+                {
+                    "item_number": "6.7", 
+                    "item_text": "Approval of Contract Award in the Amount of $1,532,554 to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with Modernization Projects at Garden Gate, McAuliffe and John Muir Elementary Schools and Design Management Services at De Vargas, Dilworth, Nimitz and Stevens Creek Elementary Schools", 
+                    "item_text_raw": "6.7     Approval of Contract Award in the Amount of $1,532,554 to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with Modernization Projects at Garden Gate, McAuliffe and John Muir Elementary Schools and Design Management Services at De Vargas, Dilworth, Nimitz and Stevens Creek Elementary Schools"
+                }, 
+                {
+                    "item_number": "6.8", 
+                    "item_text": "Approval of Contract Award in the Amount of $115,560 to Dan Butler Inspection Service DSA Inspection Services for the New Multipurpose Building at Cupertino Middle School", 
+                    "item_text_raw": "6.8     Approval of Contract Award in the Amount of $115,560 to Dan Butler Inspection Service DSA Inspection Services for the New Multipurpose Building at Cupertino Middle School"
+                }, 
+                {
+                    "item_number": "6.9", 
+                    "item_text": "Approval of Contract Award in the Amount of $27,500 to Nyberg Architects for Design  Services Related to Installation of Interim Student Housing at West Valley Elementary School", 
+                    "item_text_raw": "6.9     Approval of Contract Award in the Amount of $27,500 to Nyberg Architects for Design  Services Related to Installation of Interim Student Housing at West Valley Elementary School"
+                }, 
+                {
+                    "item_number": "6.10", 
+                    "item_text": "Approval to Declare Obsolete Equipment Surplus", 
+                    "item_text_raw": "6.10   Approval to Declare Obsolete Equipment Surplus"
+                }, 
+                {
+                    "item_number": "6.11", 
+                    "item_text": "Approval of Contract Award in the Amount of $51,795 to Acrell Inspection Services for In-Plant DSA Special Inspection Services for the New Modular Classroom Building at Cupertino Middle School", 
+                    "item_text_raw": "6.11   Approval of Contract Award in the Amount of $51,795 to Acrell Inspection Services for In-Plant DSA Special Inspection Services for the New Modular Classroom Building at Cupertino Middle School"
+                }, 
+                {
+                    "item_number": "6.12", 
+                    "item_text": "Approval of Contract Award in the Amount of $64,030 to Acrell Inspection Services for In-Plant DSA Special Inspection Services for the New Modular Classroom and Music Buildings at Lawson Middle School", 
+                    "item_text_raw": "6.12   Approval of Contract Award in the Amount of $64,030 to Acrell Inspection Services for In-Plant DSA Special Inspection Services for the New Modular Classroom and Music Buildings at Lawson Middle School"
+                }, 
+                {
+                    "item_number": "6.13", 
+                    "item_text": "Approval of Contract Award in the Amount of $142,570.49 to Innovative Construction Solution for Soil Remediation & Off-Haul for the District Administration Building (Bid No. 14-B02-24)", 
+                    "item_text_raw": "6.13   Approval of Contract Award in the Amount of $142,570.49 to Innovative Construction Solution for Soil Remediation & Off-Haul for the District Administration Building (Bid No. 14-B02-24)"
+                }, 
+                {
+                    "item_number": "6.14", 
+                    "item_text": "Approval of Contract Award in the Amount of $221,867 to HMC Architects for Design and Construction Administration Services Associated with Modernization of the McAuliffe Elementary School Campus", 
+                    "item_text_raw": "6.14   Approval of Contract Award in the Amount of $221,867 to HMC Architects for Design and Construction Administration Services Associated with Modernization of the McAuliffe Elementary School Campus"
+                }, 
+                {
+                    "item_number": "6.15", 
+                    "item_text": "Approval of Contract Award in the Amount of $330,520 to IBI Group for Design and Construction Administration Services Associated with Modernization of the Muir Elementary School Campus", 
+                    "item_text_raw": "6.15   Approval of Contract Award in the Amount of $330,520 to IBI Group for Design and Construction Administration Services Associated with Modernization of the Muir Elementary School Campus"
+                }, 
+                {
+                    "item_number": "6.16", 
+                    "item_text": "Approval of Contract Award in the Amount of $392,453 to WLC Architects for Design and Construction Administration Services Associated with Modernization of the Garden Gate Elementary School Campus", 
+                    "item_text_raw": "6.16   Approval of Contract Award in the Amount of $392,453 to WLC Architects for Design and Construction Administration Services Associated with Modernization of the Garden Gate Elementary School Campus"
+                }, 
+                {
+                    "item_number": "6.17", 
+                    "item_text": "Delegation of Authority to Award a Contract for Geotechnical Services at Cupertino Middle School in the Not-to-Exceed Amount of $80,000 to the District Superintendent or Her designee", 
+                    "item_text_raw": "6.17   Delegation of Authority to Award a Contract for Geotechnical Services at Cupertino Middle School in the Not-to-Exceed Amount of $80,000 to the District Superintendent or Her designee"
+                }, 
+                {
+                    "item_number": "6.18", 
+                    "item_text": "Delegation of Authority to Award a Contract for Geotechnical Services at Lawson Middle School in the Not-to-Exceed Amount of $60,000 to the District Superintendent or Her Designee", 
+                    "item_text_raw": "6.18   Delegation of Authority to Award a Contract for Geotechnical Services at Lawson Middle School in the Not-to-Exceed Amount of $60,000 to the District Superintendent or Her Designee"
+                }, 
+                {
+                    "item_number": "6.19", 
+                    "item_text": "Delegation of Authority to Award a Contract for Special Inspection and Testing Services at Cupertino Middle School in the Not-to-Exceed Amount of $250,000 to the District Superintendent or Her Designee", 
+                    "item_text_raw": "6.19   Delegation of Authority to Award a Contract for Special Inspection and Testing Services at Cupertino Middle School in the Not-to-Exceed Amount of $250,000 to the District Superintendent or Her Designee"
+                }, 
+                {
+                    "item_number": "6.20", 
+                    "item_text": "Delegation of Authority to Award a Contract for Special Inspection and Testing Services at Lawson Middle School in the Not-to-Exceed Amount of $200,000 to the District Superintendent or Her Designee", 
+                    "item_text_raw": "6.20   Delegation of Authority to Award a Contract for Special Inspection and Testing Services at Lawson Middle School in the Not-to-Exceed Amount of $200,000 to the District Superintendent or Her Designee"
+                }, 
+                {
+                    "item_number": "6.21", 
+                    "item_text": "Ratification of Change Order #1 in the Amount of $101,959.79 to IT Management Corporation for the District-wide Network Infrastructure Upgrade (Bid No. 13-B06-24)", 
+                    "item_text_raw": "6.21   Ratification of Change Order #1 in the Amount of $101,959.79 to IT Management Corporation for the District-wide Network Infrastructure Upgrade (Bid No. 13-B06-24)"
+                }, 
+                {
+                    "item_number": "6.22", 
+                    "item_text": "Ratification of Change Order #2 in the Amount of $6,405.00 to Anza Engineering for the Grading and Site Utilities for the New Corporation Yard Storage Building Project", 
+                    "item_text_raw": "6.22   Ratification of Change Order #2 in the Amount of $6,405.00 to Anza Engineering for the Grading and Site Utilities for the New Corporation Yard Storage Building Project"
+                }, 
+                {
+                    "item_number": "6.23", 
+                    "item_text": "Ratification of Change Order #2 in the Amount of $6,952.26 to Anza Engineering for the Installation of Site Utilities to Support New Buildings at Lawson Middle School", 
+                    "item_text_raw": "6.23   Ratification of Change Order #2 in the Amount of $6,952.26 to Anza Engineering for the Installation of Site Utilities to Support New Buildings at Lawson Middle School"
+                }, 
+                {
+                    "item_number": "6.24", 
+                    "item_text": "Ratification of Change Orders #1 and #2 in the Total Amount of $2,722 to Smith & Sons Electric for Procurement and Installation of New Site Lighting Fixtures at the DeVargas, Dilworth, Lincoln, McAuliffe, Meyerholz and Regnart Elementary School Campuses", 
+                    "item_text_raw": "6.24   Ratification of Change Orders #1 and #2 in the Total Amount of $2,722 to Smith & Sons Electric for Procurement and Installation of New Site Lighting Fixtures at the DeVargas, Dilworth, Lincoln, McAuliffe, Meyerholz and Regnart Elementary School Campuses"
+                }, 
+                {
+                    "item_number": "6.25", 
+                    "item_text": "Ratification of Change Order #4 in the Amount of $15,953.46 to Anza Engineering for the Demolition of the District Office Administrative Office Buildings", 
+                    "item_text_raw": "6.25   Ratification of Change Order #4 in the Amount of $15,953.46 to Anza Engineering for the Demolition of the District Office Administrative Office Buildings"
+                }, 
+                {
+                    "item_number": "6.26", 
+                    "item_text": "Approval of Contract Awards in a Total Combined Amount of $9,200,000 for Construction of the New Multipurpose Building at Cupertino Middle School to the Following Contractors:  Calstate Construction, Inc. in the Amount of $6,985,000 as General Prime Contractor; Environmental Systems, Inc. in the Amount of $1,042,000 as Mechanical Prime Contractor; and Delgado Electric, Inc. in the Amount of $1,173,000 as Electrical Prime Contractor", 
+                    "item_text_raw": "6.26   Approval of Contract Awards in a Total Combined Amount of $9,200,000 for Construction of the New Multipurpose Building at Cupertino Middle School to the Following Contractors:  Calstate Construction, Inc. in the Amount of $6,985,000 as General Prime Contractor; Environmental Systems, Inc. in the Amount of $1,042,000 as Mechanical Prime Contractor; and Delgado Electric, Inc. in the Amount of $1,173,000 as Electrical Prime Contractor"
+                }, 
+                {
+                    "item_number": "6.27", 
+                    "item_text": "Rejection of Claim for Personal Injuries \u2013 Claim # 486696", 
+                    "item_text_raw": "6.27   Rejection of Claim for Personal Injuries \u2013 Claim # 486696"
+                }, 
+                {
+                    "item_number": "6.28", 
+                    "item_text": "Approval of Contract Award in the Amount of $325,000 to Anza Engineering Corp. for the Construction of a 240\u2019 x 255\u2019 Baseball Field at Collins Elementary School", 
+                    "item_text_raw": "6.28   Approval of Contract Award in the Amount of $325,000 to Anza Engineering Corp. for the Construction of a 240\u2019 x 255\u2019 Baseball Field at Collins Elementary School"
                 }
             ], 
             "section_name": "CONSENT ITEM", 
-            "section_name_raw": "6.        CONSENT ITEM ", 
+            "section_name_raw": "6.        CONSENT ITEM", 
             "section_number": "6."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "7.1", 
+                    "item_text": "2013\u20132015 Administrative Intern Appointments", 
+                    "item_text_raw": "7.1       2013\u20132015 Administrative Intern Appointments"
+                }
+            ], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.      SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "7.      SUPERINTENDENT\u2019S REPORT", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "8.1", 
+                    "item_text": "Approval of Candidates for the Santa Clara County Committee on School District Organization", 
+                    "item_text_raw": "8.1       Approval of Candidates for the Santa Clara County Committee on School District Organization"
+                }
+            ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "8.       ACTION ITEMS ", 
+            "section_name_raw": "8.       ACTION ITEMS", 
             "section_number": "8."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "9.1", 
+                    "item_text": "Accept for Information the Presentation of the Common Core State Standards", 
+                    "item_text_raw": "9.1       Accept for Information the Presentation of the Common Core State Standards"
+                }
+            ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "9.       DISCUSSION/INFORMATION ITEMS ", 
+            "section_name_raw": "9.       DISCUSSION/INFORMATION ITEMS", 
             "section_number": "9."
         }, 
         {
             "items": [
                 {
-                    "item_number": "101", 
-                    "item_text": "10.1    Ratification and Approval of a Non-Public School Placement, Board of Education", 
-                    "item_text_raw": "           10.1    Ratification and Approval of a Non-Public School Placement, Board of Education  "
+                    "item_number": "10.1", 
+                    "item_text": "Ratification and Approval of a Non-Public School Placement, Board of Education Cost Review for Student Number 11-19-13A", 
+                    "item_text_raw": "10.1    Ratification and Approval of a Non-Public School Placement, Board of Education Cost Review for Student Number 11-19-13A"
+                }, 
+                {
+                    "item_number": "10.2", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release", 
+                    "item_text_raw": "10.2    Public Employee Discipline/Dismissal/Release"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "10.     CLOSED SESSION ", 
+            "section_name_raw": "10.     CLOSED SESSION", 
             "section_number": "10."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "11.      REPORT FROM CLOSED SESSION ", 
+            "section_name_raw": "11.      REPORT FROM CLOSED SESSION", 
             "section_number": "11."
         }, 
         {
             "items": [], 
             "section_name": "BOARD ACTIVITY", 
-            "section_name_raw": "12.      BOARD ACTIVITY ", 
+            "section_name_raw": "12.      BOARD ACTIVITY", 
             "section_number": "12."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "13.      ADJOURNMENT ", 
+            "section_name_raw": "13.      ADJOURNMENT", 
             "section_number": "13."
         }
     ]

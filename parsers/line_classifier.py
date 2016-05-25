@@ -1,10 +1,13 @@
 import numpy as np
+import pprint
 import scipy
 import os
 import matplotlib.pyplot as plt
-from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search
+from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search, feature_extraction
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import pandas as pd
+
+pp = pprint.PrettyPrinter(indent=4)
 
 def main():
 
@@ -23,7 +26,7 @@ def classifyAgendas(agency, dates, eval_model):
 
 	# build classification model
 	training_directory = "docs/" + agency + "/training_lines/"
-	model, vectorizer = trainModel(training_directory, classes_list, eval_model)
+	model_pieces = trainModel(training_directory, classes_list, eval_model)
 
 	# loop through agendas for each date
 	for date in dates:
@@ -32,7 +35,7 @@ def classifyAgendas(agency, dates, eval_model):
 
 		print(predict_filepath)
 
-		classifyLines(model, vectorizer, predict_filepath, classed_filepath, classes_list)
+		classifyLines(model_pieces, predict_filepath, classed_filepath, classes_list)
 
 
 '''
@@ -45,13 +48,19 @@ Returns the fitted model.
 def trainModel(training_directory, classes_list, eval_model):
 	training_df = buildTrainingDataset(training_directory)
 
-	# create a DTM vectorizer object
-	vectorizer = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=2, binary=True)
+	# create a DTM vectorizer and dummy encoder object for use later
+	model_pieces = dict()
+	model_pieces['vect'] = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=2, binary=True)
+	model_pieces['encoder'] = feature_extraction.DictVectorizer(sparse=False)
 	
 	# create datasets from the input file
-	datasets = prepDatasets(vectorizer, training_df, classes_list, True)
+	datasets, model_pieces = prepDatasets(model_pieces, training_df, classes_list, True)
 	X = datasets[0]
 	y = datasets[1]
+
+	# create interaction features
+	# interactor = preprocessing.PolynomialFeatures(interaction_only=True)
+	# x = interactor.fit_transform(x)
 
 	# split into training and validation sets if eval_model is True
 	if eval_model:
@@ -63,12 +72,12 @@ def trainModel(training_directory, classes_list, eval_model):
 	## LOG REGRESSION
 
 	# train classifier
-	OvR_log_cv = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
-	OvR_log_cv.fit(X_train, y_train)
+	model_pieces['model'] = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
+	model_pieces['model'].fit(X_train, y_train)
 
 	if eval_model:
-		log_pred_classes = OvR_log_cv.predict(X_test)
-		print(OvR_log_cv.coef_)
+		log_pred_classes = model_pieces['model'].predict(X_test)
+		print(model_pieces['model'].coef_)
 	
 		print(metrics.classification_report(y_test, log_pred_classes))
 		print(metrics.confusion_matrix(y_test, log_pred_classes))
@@ -89,7 +98,7 @@ def trainModel(training_directory, classes_list, eval_model):
 	# 	print(metrics.classification_report(y_test, pred_classes))
 	# 	print(metrics.confusion_matrix(y_test, pred_classes))
 
-	return OvR_log_cv, vectorizer
+	return model_pieces
 
 
 
@@ -118,16 +127,16 @@ Given a model, an input filepath, and an output filepath, predicts
 the classifications of each line in the input file, and writes out a version 
 of the file with the classifications.
 '''
-def classifyLines(model, vectorizer, input_filepath, output_filepath, classes_list):
+def classifyLines(model_pieces, input_filepath, output_filepath, classes_list):
 
 	input_df = pd.read_csv(input_filepath, sep = ',', header = 0)
 
 	# create datasets from the input file
-	datasets = prepDatasets(vectorizer, input_df, classes_list, False)
+	datasets, model_pieces = prepDatasets(model_pieces, input_df, classes_list, False)
 	X_predict = datasets[0]
 
 	# predict classes
-	preds = model.predict(X_predict)
+	preds = model_pieces['model'].predict(X_predict)
 	input_df['line_class'] = preds
 
 	# write out predicted df to csv
@@ -141,7 +150,7 @@ prepDatasets
 Given the path to a CSV file, convert it into an array of features, and (if y_col_name is set), to a 1-dimensional array of outcome indicators. Use the given vectorizer to create a DTM from the text.
 Return the array(s).
 '''
-def prepDatasets(vectorizer, df, y_cols, know_outcomes):
+def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 
 	# list of unwanted cols to drop
 	cols_to_drop = ['line_id', 'meeting_date', 'text', 'font_name', 'first_char', 'font_size', 'left_inset', 'agency']
@@ -152,15 +161,16 @@ def prepDatasets(vectorizer, df, y_cols, know_outcomes):
 	x_df = df.drop(cols_to_drop, axis=1)
 	x_array = x_df.values
 
-	# create interaction features
-	interactor = preprocessing.PolynomialFeatures(interaction_only=True)
-	x_array = interactor.fit_transform(x_array)
+	# create dummy variables for categorical features
+	feature_dummies, model_pieces = convertFeaturesToDummyVariables(df, model_pieces, know_outcomes)
+	x_array = np.concatenate((x_array, feature_dummies), axis=1)
 
 	# create document-term matrix
+	df['text'].fillna('', inplace=True)
 	if know_outcomes:
-		counts_matrix = vectorizer.fit_transform(df['text'])
+		counts_matrix = model_pieces['vect'].fit_transform(df['text'])
 	else:
-		counts_matrix = vectorizer.transform(df['text'])
+		counts_matrix = model_pieces['vect'].transform(df['text'])
 
 	# merge DTM with feature array
 	x_array = np.concatenate((x_array, counts_matrix.toarray()), axis=1)
@@ -177,8 +187,32 @@ def prepDatasets(vectorizer, df, y_cols, know_outcomes):
 
 		data_arrays.append(df['line_class'])
 
-	return data_arrays
+	return [data_arrays, model_pieces]
 
+
+
+'''
+convertFeaturesToDummyVariables
+===============================
+Converts categorical features to dummy variables.
+'''
+def convertFeaturesToDummyVariables(df, model_pieces, know_outcomes):
+
+	# convert numeric (but really categorical) variables to strings
+	df['font_size'] = df['font_size'].astype(str)
+	df['left_inset'] = df['left_inset'].astype(str)
+
+	# create dict from categorical columns
+	cols_to_create_dummies = ['font_name', 'font_size', 'left_inset']
+	to_dummies_dict = df[cols_to_create_dummies].to_dict(orient='records')
+
+	# encode variables
+	if know_outcomes:
+		dummies_array = model_pieces['encoder'].fit_transform(to_dummies_dict)
+	else:
+		dummies_array = model_pieces['encoder'].transform(to_dummies_dict)
+
+	return [dummies_array, model_pieces]
 
 
 

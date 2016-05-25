@@ -5,166 +5,189 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL ", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "2.        APPROVAL OF MINUTES ", 
+            "section_name_raw": "2.        APPROVAL OF MINUTES", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "3.        COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "3.        COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "4.        PUBLIC COMMENTS ", 
+            "section_name_raw": "4.        PUBLIC COMMENTS", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "5.1", 
+                    "item_text": "Classified Employee of the Month \u2013 February 2014 Cathy Walsh, Secretary, Hyde Middle School", 
+                    "item_text_raw": "5.1     Classified Employee of the Month \u2013 February 2014 Cathy Walsh, Secretary, Hyde Middle School"
+                }
+            ], 
             "section_name": "RECOGNITION", 
-            "section_name_raw": "5.        RECOGNITION ", 
+            "section_name_raw": "5.        RECOGNITION", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "6.1", 
+                    "item_text": "Certificates of Recognition for the Classified Employees Who Earned Permanent Employee Status in 2013 School District\u2019s Classified Employees Who Earned Permanent Employee", 
+                    "item_text_raw": "6.1      Certificates of Recognition for the Classified Employees Who Earned Permanent Employee Status in 2013 School District\u2019s Classified Employees Who Earned Permanent Employee"
+                }
+            ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "6.        PRESENTATION ", 
+            "section_name_raw": "6.        PRESENTATION", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
-                    "item_number": "71", 
-                    "item_text": "7.1     Ratification of Personnel Report January 2014", 
-                    "item_text_raw": " 7.1     Ratification of Personnel Report January 2014 "
+                    "item_number": "7.1", 
+                    "item_text": "Ratification of Personnel Report January 2014", 
+                    "item_text_raw": "7.1     Ratification of Personnel Report January 2014"
                 }, 
                 {
-                    "item_number": "72", 
-                    "item_text": "7.2     Ratification of Warrant List January 2014", 
-                    "item_text_raw": " 7.2     Ratification of Warrant List January 2014 "
+                    "item_number": "7.2", 
+                    "item_text": "Ratification of Warrant List January 2014", 
+                    "item_text_raw": "7.2     Ratification of Warrant List January 2014"
                 }, 
                 {
-                    "item_number": "73", 
-                    "item_text": "7.3     Adoption of Resolution No. 13-14-19 - 2014\u20132015 School Calendar for", 
-                    "item_text_raw": "             7.3     Adoption of Resolution No. 13-14-19 - 2014\u20132015 School Calendar for  "
+                    "item_number": "7.3", 
+                    "item_text": "Adoption of Resolution No. 13-14-19 - 2014\u20132015 School Calendar for Observance of Lincoln Day and Washington Day", 
+                    "item_text_raw": "7.3     Adoption of Resolution No. 13-14-19 - 2014\u20132015 School Calendar for Observance of Lincoln Day and Washington Day"
                 }, 
                 {
-                    "item_number": "74", 
-                    "item_text": "7.4     Approval of the Certification of a Retired District Administrator as an Employee                         Evaluator for the 2013-2014 School Year", 
-                    "item_text_raw": "             7.4     Approval of the Certification of a Retired District Administrator as an Employee                         Evaluator for the 2013-2014 School Year "
+                    "item_number": "7.4", 
+                    "item_text": "Approval of the Certification of a Retired District Administrator as an Employee Evaluator for the 2013-2014 School Year", 
+                    "item_text_raw": "7.4     Approval of the Certification of a Retired District Administrator as an Employee Evaluator for the 2013-2014 School Year"
                 }, 
                 {
-                    "item_number": "75", 
-                    "item_text": "7.5     Approval of a Memorandum of Understanding Between the Cupertino Union                         School District and the Silicon Valley Education Foundation", 
-                    "item_text_raw": "             7.5     Approval of a Memorandum of Understanding Between the Cupertino Union                         School District and the Silicon Valley Education Foundation "
+                    "item_number": "7.5", 
+                    "item_text": "Approval of a Memorandum of Understanding Between the Cupertino Union School District and the Silicon Valley Education Foundation", 
+                    "item_text_raw": "7.5     Approval of a Memorandum of Understanding Between the Cupertino Union School District and the Silicon Valley Education Foundation"
                 }, 
                 {
-                    "item_number": "76", 
-                    "item_text": "7.6     Approval of Testing and Professional Development Contract with Northwest", 
-                    "item_text_raw": "             7.6     Approval of Testing and Professional Development Contract with Northwest  "
+                    "item_number": "7.6", 
+                    "item_text": "Approval of Testing and Professional Development Contract with Northwest Evaluation Association (NWEA)", 
+                    "item_text_raw": "7.6     Approval of Testing and Professional Development Contract with Northwest Evaluation Association (NWEA)"
                 }, 
                 {
-                    "item_number": "77", 
-                    "item_text": "7.7     Approval of the Portal School Community Organization Grant", 
-                    "item_text_raw": "             7.7     Approval of the Portal School Community Organization Grant "
+                    "item_number": "7.7", 
+                    "item_text": "Approval of the Portal School Community Organization Grant", 
+                    "item_text_raw": "7.7     Approval of the Portal School Community Organization Grant"
                 }, 
                 {
-                    "item_number": "78", 
-                    "item_text": "7.8     Ratification of a Contract Agreement not to Exceed $35,000 with Ardor Health", 
-                    "item_text_raw": "             7.8     Ratification of a Contract Agreement not to Exceed $35,000 with Ardor Health  "
+                    "item_number": "7.8", 
+                    "item_text": "Ratification of a Contract Agreement not to Exceed $35,000 with Ardor Health Solutions to Provide Speech Therapy from January \u2013 March 2014", 
+                    "item_text_raw": "7.8     Ratification of a Contract Agreement not to Exceed $35,000 with Ardor Health Solutions to Provide Speech Therapy from January \u2013 March 2014"
                 }, 
                 {
-                    "item_number": "79", 
-                    "item_text": "7.9     Approval of Mobile Modular Management Corporation Lease Agreements in a                         Total Combined Amount of $185,137 for Interim Housing at the following School                         Sites: West Valley Elementary School in the Amount of $166,263 and                         Meyerholz Elementary School in the Amount of $18,874", 
-                    "item_text_raw": "             7.9     Approval of Mobile Modular Management Corporation Lease Agreements in a                         Total Combined Amount of $185,137 for Interim Housing at the following School                         Sites: West Valley Elementary School in the Amount of $166,263 and                         Meyerholz Elementary School in the Amount of $18,874 "
+                    "item_number": "7.9", 
+                    "item_text": "Approval of Mobile Modular Management Corporation Lease Agreements in a Total Combined Amount of $185,137 for Interim Housing at the following School Sites: West Valley Elementary School in the Amount of $166,263 and Meyerholz Elementary School in the Amount of $18,874", 
+                    "item_text_raw": "7.9     Approval of Mobile Modular Management Corporation Lease Agreements in a Total Combined Amount of $185,137 for Interim Housing at the following School Sites: West Valley Elementary School in the Amount of $166,263 and Meyerholz Elementary School in the Amount of $18,874"
                 }, 
                 {
-                    "item_number": "710", 
-                    "item_text": "7.10     Ratification of Change Order #2 in the Credit Amount of $157,771.00 to Guerra                         Construction for the Installation of Interim Housing at Cupertino Middle School", 
-                    "item_text_raw": "           7.10     Ratification of Change Order #2 in the Credit Amount of $157,771.00 to Guerra                         Construction for the Installation of Interim Housing at Cupertino Middle School "
+                    "item_number": "7.10", 
+                    "item_text": "Ratification of Change Order #2 in the Credit Amount of $157,771.00 to Guerra Construction for the Installation of Interim Housing at Cupertino Middle School", 
+                    "item_text_raw": "7.10     Ratification of Change Order #2 in the Credit Amount of $157,771.00 to Guerra Construction for the Installation of Interim Housing at Cupertino Middle School"
                 }, 
                 {
-                    "item_number": "711", 
-                    "item_text": "7.11     Approval of Contract Award in the Amount of $82,350 to Keith Brown                         Inspections for DSA Inspection Services Associated with Seismic Upgrades and                         Modernization of the Meyerholz Elementary School Campus", 
-                    "item_text_raw": "           7.11     Approval of Contract Award in the Amount of $82,350 to Keith Brown                         Inspections for DSA Inspection Services Associated with Seismic Upgrades and                         Modernization of the Meyerholz Elementary School Campus "
+                    "item_number": "7.11", 
+                    "item_text": "Approval of Contract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus", 
+                    "item_text_raw": "7.11     Approval of Contract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus"
                 }, 
                 {
-                    "item_number": "712", 
-                    "item_text": "7.12     Approval of Contract Award to SIM Architects, Inc. in the Amount of $53,500 for                         Architectural Services to Create Plans and Biddable Specifications for the", 
-                    "item_text_raw": "           7.12     Approval of Contract Award to SIM Architects, Inc. in the Amount of $53,500 for                         Architectural Services to Create Plans and Biddable Specifications for the  "
+                    "item_number": "7.12", 
+                    "item_text": "Approval of Contract Award to SIM Architects, Inc. in the Amount of $53,500 for Architectural Services to Create Plans and Biddable Specifications for the Replacement of a 15-Ton HVAC Package Unit at the JFK University Counseling Center", 
+                    "item_text_raw": "7.12     Approval of Contract Award to SIM Architects, Inc. in the Amount of $53,500 for Architectural Services to Create Plans and Biddable Specifications for the Replacement of a 15-Ton HVAC Package Unit at the JFK University Counseling Center"
                 }, 
                 {
-                    "item_number": "713", 
-                    "item_text": "7.13     Approval to Declare Obsolete Equipment Surplus", 
-                    "item_text_raw": "           7.13     Approval to Declare Obsolete Equipment Surplus "
+                    "item_number": "7.13", 
+                    "item_text": "Approval to Declare Obsolete Equipment Surplus", 
+                    "item_text_raw": "7.13     Approval to Declare Obsolete Equipment Surplus"
                 }, 
                 {
-                    "item_number": "714", 
-                    "item_text": "7.14     Ratification of a Three-Year Volume Licensing Agreement from Microsoft", 
-                    "item_text_raw": "           7.14     Ratification of a Three-Year Volume Licensing Agreement from Microsoft  "
+                    "item_number": "7.14", 
+                    "item_text": "Ratification of a Three-Year Volume Licensing Agreement from Microsoft Corporation", 
+                    "item_text_raw": "7.14     Ratification of a Three-Year Volume Licensing Agreement from Microsoft Corporation"
                 }, 
                 {
-                    "item_number": "715", 
-                    "item_text": "7.15     Adoption of Resolution No. 13-14-18 \u2013 Recognition of School Administrator", 
-                    "item_text_raw": "     7.15     Adoption of Resolution No. 13-14-18 \u2013 Recognition of School Administrator  "
+                    "item_number": "7.15", 
+                    "item_text": "Adoption of Resolution No. 13-14-18 \u2013 Recognition of School Administrator Week March 2-8, 2014", 
+                    "item_text_raw": "7.15     Adoption of Resolution No. 13-14-18 \u2013 Recognition of School Administrator Week March 2-8, 2014"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "7.        CONSENT ITEMS ", 
+            "section_name_raw": "7.        CONSENT ITEMS", 
             "section_number": "7."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "8.        SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "8.        SUPERINTENDENT\u2019S REPORT", 
             "section_number": "8."
         }, 
         {
             "items": [
                 {
-                    "item_number": "92", 
-                    "item_text": "9.2       Approval of Middle School Pathway Course Sequence Change", 
-                    "item_text_raw": "           9.2       Approval of Middle School Pathway Course Sequence Change  "
+                    "item_number": "9.1", 
+                    "item_text": "Approval of Resolution No. 13-14-17 \u2013 Authorizing the Issuance of Cupertino Union School District, Santa Clara County, California, Election of 2012 General Obligation Bonds, Series B, and Actions Related Thereto", 
+                    "item_text_raw": "9.1       Approval of Resolution No. 13-14-17 \u2013 Authorizing the Issuance of Cupertino Union School District, Santa Clara County, California, Election of 2012 General Obligation Bonds, Series B, and Actions Related Thereto "
                 }, 
                 {
-                    "item_number": "93", 
-                    "item_text": "9.3       Approval of Full-day Kindergarten at Nimitz and DeVargas Elementary Schools", 
-                    "item_text_raw": "           9.3       Approval of Full-day Kindergarten at Nimitz and DeVargas Elementary Schools "
+                    "item_number": "9.2", 
+                    "item_text": "Approval of Middle School Pathway Course Sequence Change", 
+                    "item_text_raw": "9.2       Approval of Middle School Pathway Course Sequence Change"
+                }, 
+                {
+                    "item_number": "9.3", 
+                    "item_text": "Approval of Full-day Kindergarten at Nimitz and DeVargas Elementary Schools", 
+                    "item_text_raw": "9.3       Approval of Full-day Kindergarten at Nimitz and DeVargas Elementary Schools"
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "9.        ACTION ITEMS ", 
+            "section_name_raw": "9.        ACTION ITEMS", 
             "section_number": "9."
         }, 
         {
             "items": [
                 {
-                    "item_number": "101", 
-                    "item_text": "10.1      English Language Development (ELD) Program Interim Plan", 
-                    "item_text_raw": "          10.1      English Language Development (ELD) Program Interim Plan "
+                    "item_number": "10.1", 
+                    "item_text": "English Language Development (ELD) Program Interim Plan", 
+                    "item_text_raw": "10.1      English Language Development (ELD) Program Interim Plan"
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "10.     DISCUSSION/INFORMATION ITEMS ", 
+            "section_name_raw": "10.     DISCUSSION/INFORMATION ITEMS", 
             "section_number": "10."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "11.1", 
+                    "item_text": "Discuss Board meeting dates for 2014-2015", 
+                    "item_text_raw": "11.1      Discuss Board meeting dates for 2014-2015"
+                }
+            ], 
             "section_name": "BOARD ACTIVITY", 
-            "section_name_raw": "11.     BOARD ACTIVITY ", 
+            "section_name_raw": "11.     BOARD ACTIVITY", 
             "section_number": "11."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "12.     ADJOURNMENT ", 
+            "section_name_raw": "12.     ADJOURNMENT", 
             "section_number": "12."
         }
     ]

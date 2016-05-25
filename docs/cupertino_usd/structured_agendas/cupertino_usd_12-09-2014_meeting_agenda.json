@@ -5,175 +5,185 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL  ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
-            "items": [], 
-            "section_name": "PRESENTING", 
-            "section_name_raw": "         PRESENTING ", 
-            "section_number": ""
-        }, 
-        {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "2.1", 
+                    "item_text": "Swearing in of New Board Members", 
+                    "item_text_raw": "2.1   Swearing in of New Board Members"
+                }, 
+                {
+                    "item_number": "2.2", 
+                    "item_text": "Nomination and Election of New Officers", 
+                    "item_text_raw": "2.2   Nomination and Election of New Officers"
+                }
+            ], 
             "section_name": "ORGANIZATIONAL MEETING", 
-            "section_name_raw": "2.     ORGANIZATIONAL MEETING ", 
+            "section_name_raw": "2.     ORGANIZATIONAL MEETING", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "3.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH ", 
+            "section_name_raw": "3.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.     PUBLIC COMMENTS ", 
+            "section_name_raw": "5.     PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
-                    "item_number": "61", 
-                    "item_text": "6.1     Ratification of Contracts with Cupertino Union School District", 
-                    "item_text_raw": "               6.1     Ratification of Contracts with Cupertino Union School District "
+                    "item_number": "6.1", 
+                    "item_text": "Ratification of Contracts with Cupertino Union School District", 
+                    "item_text_raw": "6.1     Ratification of Contracts with Cupertino Union School District"
                 }, 
                 {
-                    "item_number": "62", 
-                    "item_text": "6.2     Ratification of Personnel Report for November 2014", 
-                    "item_text_raw": "               6.2     Ratification of Personnel Report for November 2014 "
+                    "item_number": "6.2", 
+                    "item_text": "Ratification of Personnel Report for November 2014", 
+                    "item_text_raw": "6.2     Ratification of Personnel Report for November 2014"
                 }, 
                 {
-                    "item_number": "63", 
-                    "item_text": "6.3     Ratification of Warrant List for November 2014", 
-                    "item_text_raw": "         6.3     Ratification of Warrant List for November 2014 "
+                    "item_number": "6.3", 
+                    "item_text": "Ratification of Warrant List for November 2014", 
+                    "item_text_raw": "6.3     Ratification of Warrant List for November 2014"
                 }, 
                 {
-                    "item_number": "64", 
-                    "item_text": "6.4     Approval of the 2015-16 District Calendars", 
-                    "item_text_raw": "         6.4     Approval of the 2015-16 District Calendars  "
+                    "item_number": "6.4", 
+                    "item_text": "Approval of the 2015-16 District Calendars", 
+                    "item_text_raw": "6.4     Approval of the 2015-16 District Calendars"
                 }, 
                 {
-                    "item_number": "65", 
-                    "item_text": "6.5     Approval of Intern Agreements with San Jose State University", 
-                    "item_text_raw": "         6.5     Approval of Intern Agreements with San Jose State University "
+                    "item_number": "6.5", 
+                    "item_text": "Approval of Intern Agreements with San Jose State University", 
+                    "item_text_raw": "6.5     Approval of Intern Agreements with San Jose State University"
                 }, 
                 {
-                    "item_number": "66", 
-                    "item_text": "6.6     Approval of Agreement with Sam Merritt University", 
-                    "item_text_raw": "         6.6     Approval of Agreement with Sam Merritt University "
+                    "item_number": "6.6", 
+                    "item_text": "Approval of Agreement with Sam Merritt University", 
+                    "item_text_raw": "6.6     Approval of Agreement with Sam Merritt University"
                 }, 
                 {
-                    "item_number": "67", 
-                    "item_text": "6.7     Approval of Amendment #3 to HMC Architects for the McAuliffe Elementary                     School Modernization Project", 
-                    "item_text_raw": "         6.7     Approval of Amendment #3 to HMC Architects for the McAuliffe Elementary                     School Modernization Project "
+                    "item_number": "6.7", 
+                    "item_text": "Approval of Amendment #3 to HMC Architects for the McAuliffe Elementary School Modernization Project", 
+                    "item_text_raw": "6.7     Approval of Amendment #3 to HMC Architects for the McAuliffe Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "68", 
-                    "item_text": "6.8     Approval of Change Order #2 with BHM Construction for the Regnart Elementary", 
-                    "item_text_raw": "         6.8     Approval of Change Order #2 with BHM Construction for the Regnart Elementary  "
+                    "item_number": "6.8", 
+                    "item_text": "Approval of Change Order #2 with BHM Construction for the Regnart Elementary School Modernization Project", 
+                    "item_text_raw": "6.8     Approval of Change Order #2 with BHM Construction for the Regnart Elementary School Modernization Project"
                 }, 
                 {
-                    "item_number": "69", 
-                    "item_text": "6.9     Ratification of Contract Award with Anza Engineering Corp. for West Valley", 
-                    "item_text_raw": "         6.9     Ratification of Contract Award with Anza Engineering Corp. for West Valley  "
+                    "item_number": "6.9", 
+                    "item_text": "Ratification of Contract Award with Anza Engineering Corp. for West Valley Elementary School", 
+                    "item_text_raw": "6.9     Ratification of Contract Award with Anza Engineering Corp. for West Valley Elementary School"
                 }, 
                 {
-                    "item_number": "610", 
-                    "item_text": "6.10   Approval of Contract Award with Corovan", 
-                    "item_text_raw": "         6.10   Approval of Contract Award with Corovan "
+                    "item_number": "6.10", 
+                    "item_text": "Approval of Contract Award with Corovan", 
+                    "item_text_raw": "6.10   Approval of Contract Award with Corovan"
                 }, 
                 {
-                    "item_number": "611", 
-                    "item_text": "6.11   Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle", 
-                    "item_text_raw": "         6.11   Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle  "
+                    "item_number": "6.11", 
+                    "item_text": "Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle School", 
+                    "item_text_raw": "6.11   Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle School"
                 }, 
                 {
-                    "item_number": "612", 
-                    "item_text": "6.12   Approval of a Contract Agreement with Family and Children\u2019s Services", 
-                    "item_text_raw": "         6.12   Approval of a Contract Agreement with Family and Children\u2019s Services "
+                    "item_number": "6.12", 
+                    "item_text": "Approval of a Contract Agreement with Family and Children\u2019s Services", 
+                    "item_text_raw": "6.12   Approval of a Contract Agreement with Family and Children\u2019s Services"
                 }, 
                 {
-                    "item_number": "613", 
-                    "item_text": "6.13   Ratification of Medi-Cal Administrative Claiming Agreement", 
-                    "item_text_raw": "         6.13   Ratification of Medi-Cal Administrative Claiming Agreement "
+                    "item_number": "6.13", 
+                    "item_text": "Ratification of Medi-Cal Administrative Claiming Agreement", 
+                    "item_text_raw": "6.13   Ratification of Medi-Cal Administrative Claiming Agreement"
                 }, 
                 {
-                    "item_number": "614", 
-                    "item_text": "6.14   Approval of the 2015-16 Budget Development Calendar", 
-                    "item_text_raw": "         6.14   Approval of the 2015-16 Budget Development Calendar "
+                    "item_number": "6.14", 
+                    "item_text": "Approval of the 2015-16 Budget Development Calendar", 
+                    "item_text_raw": "6.14   Approval of the 2015-16 Budget Development Calendar"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "6.      CONSENT ITEMS ", 
+            "section_name_raw": "6.      CONSENT ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
-            "section_name": "7.      SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "       7.      SUPERINTENDENT\u2019S REPORT ", 
-            "section_number": ""
+            "section_name": "SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "7.      SUPERINTENDENT\u2019S REPORT", 
+            "section_number": "7."
         }, 
         {
             "items": [
                 {
-                    "item_number": "82", 
-                    "item_text": "8.2    Parcel Tax Oversight Committee Report", 
-                    "item_text_raw": "          8.2    Parcel Tax Oversight Committee Report "
+                    "item_number": "8.1", 
+                    "item_text": "First Reading of Board Policies \u2013 Additions", 
+                    "item_text_raw": "8.1    First Reading of Board Policies \u2013 Additions"
+                }, 
+                {
+                    "item_number": "8.2", 
+                    "item_text": "Parcel Tax Oversight Committee Report", 
+                    "item_text_raw": "8.2    Parcel Tax Oversight Committee Report"
                 }
             ], 
-            "section_name": "8.      DISCUSSION/INFORMATION ITEM", 
-            "section_name_raw": " 8.      DISCUSSION/INFORMATION ITEM  ", 
-            "section_number": ""
+            "section_name": "DISCUSSION/INFORMATION ITEM", 
+            "section_name_raw": "8.      DISCUSSION/INFORMATION ITEM", 
+            "section_number": "8."
         }, 
         {
             "items": [
                 {
-                    "item_number": "91", 
-                    "item_text": "9.1   Approval of the First Interim Financial Report for the 2014-2015 Fiscal Year", 
-                    "item_text_raw": "          9.1   Approval of the First Interim Financial Report for the 2014-2015 Fiscal Year "
+                    "item_number": "9.1", 
+                    "item_text": "Approval of the First Interim Financial Report for the 2014-2015 Fiscal Year", 
+                    "item_text_raw": "9.1   Approval of the First Interim Financial Report for the 2014-2015 Fiscal Year"
                 }
             ], 
-            "section_name": "9.      ACTION ITEM", 
-            "section_name_raw": " 9.      ACTION ITEM ", 
-            "section_number": ""
+            "section_name": "ACTION ITEM", 
+            "section_name_raw": "9.      ACTION ITEM", 
+            "section_number": "9."
         }, 
         {
             "items": [
                 {
-                    "item_number": "101", 
-                    "item_text": "10.1  Public Employee Discipline/Dismissal/Release", 
-                    "item_text_raw": "          10.1  Public Employee Discipline/Dismissal/Release "
+                    "item_number": "10.1", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release", 
+                    "item_text_raw": "10.1  Public Employee Discipline/Dismissal/Release"
                 }
             ], 
-            "section_name": "10.    CLOSED SESSION", 
-            "section_name_raw": " 10.    CLOSED SESSION ", 
-            "section_number": ""
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "10.    CLOSED SESSION", 
+            "section_number": "10."
         }, 
         {
             "items": [], 
-            "section_name": "11.    RETURN FROM CLOSED SESSION", 
-            "section_name_raw": " 11.    RETURN FROM CLOSED SESSION         ", 
-            "section_number": ""
+            "section_name": "RETURN FROM CLOSED SESSION", 
+            "section_name_raw": "11.    RETURN FROM CLOSED SESSION", 
+            "section_number": "11."
         }, 
         {
             "items": [], 
-            "section_name": "12.    BOARD ACTIVITY", 
-            "section_name_raw": " 12.    BOARD ACTIVITY ", 
-            "section_number": ""
+            "section_name": "BOARD ACTIVITY", 
+            "section_name_raw": "12.    BOARD ACTIVITY", 
+            "section_number": "12."
         }, 
         {
             "items": [], 
-            "section_name": "13.    ADJOURNMENT", 
-            "section_name_raw": " 13.    ADJOURNMENT ", 
-            "section_number": ""
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "13.    ADJOURNMENT", 
+            "section_number": "13."
         }
     ]
 }

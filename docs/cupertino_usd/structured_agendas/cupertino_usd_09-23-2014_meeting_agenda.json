@@ -5,133 +5,142 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE ", 
+            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "2.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS ", 
+            "section_name_raw": "2.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "3.     PRESENTATION ", 
+            "section_name_raw": "3.     PRESENTATION", 
             "section_number": "3."
         }, 
         {
-            "items": [
-                {
-                    "item_number": "", 
-                    "item_text": "The Board of Education will hold a Public Hearing regarding the Adoption of Resolution      No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year", 
-                    "item_text_raw": "   The Board of Education will hold a Public Hearing regarding the Adoption of Resolution      No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year "
-                }
-            ], 
+            "items": [], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "4.     PUBLIC HEARING ", 
+            "section_name_raw": "4.     PUBLIC HEARING", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.      PUBLIC COMMENTS ", 
+            "section_name_raw": "5.      PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
-                    "item_number": "61", 
-                    "item_text": "6.1     Ratification of Contracts with Cupertino Union School District", 
-                    "item_text_raw": "                6.1     Ratification of Contracts with Cupertino Union School District   "
+                    "item_number": "6.1", 
+                    "item_text": "Ratification of Contracts with Cupertino Union School District", 
+                    "item_text_raw": "6.1     Ratification of Contracts with Cupertino Union School District"
                 }, 
                 {
-                    "item_number": "62", 
-                    "item_text": "6.2     Approval of Change Orders #1 - #7 with Calstate Construction Contract for", 
-                    "item_text_raw": "            6.2     Approval of Change Orders #1 - #7 with Calstate Construction Contract for  "
+                    "item_number": "6.2", 
+                    "item_text": "Approval of Change Orders #1 - #7 with Calstate Construction Contract for Faria and Meyerholz Elementary Schools", 
+                    "item_text_raw": "6.2     Approval of Change Orders #1 - #7 with Calstate Construction Contract for Faria and Meyerholz Elementary Schools"
                 }, 
                 {
-                    "item_number": "63", 
-                    "item_text": "6.3     Approval of Change Order #6 for Muir with Guerra Construction Group Contract", 
-                    "item_text_raw": "                6.3     Approval of Change Order #6 for Muir with Guerra Construction Group Contract  "
+                    "item_number": "6.3", 
+                    "item_text": "Approval of Change Order #6 for Muir with Guerra Construction Group Contract for Muir Elementary School", 
+                    "item_text_raw": "6.3     Approval of Change Order #6 for Muir with Guerra Construction Group Contract for Muir Elementary School"
                 }, 
                 {
-                    "item_number": "64", 
-                    "item_text": "6.4     Approval of Change Orders #1 and #2 for Stocklmeir with Foothill Air Conditioning", 
-                    "item_text_raw": "                6.4     Approval of Change Orders #1 and #2 for Stocklmeir with Foothill Air Conditioning  "
+                    "item_number": "6.4", 
+                    "item_text": "Approval of Change Orders #1 and #2 for Stocklmeir with Foothill Air Conditioning & Heating, Inc. for Stocklmeir Elementary School", 
+                    "item_text_raw": "6.4     Approval of Change Orders #1 and #2 for Stocklmeir with Foothill Air Conditioning & Heating, Inc. for Stocklmeir Elementary School"
                 }, 
                 {
-                    "item_number": "65", 
-                    "item_text": "6.5     Approval of Change Order #1 with BHM Construction for Sedgwick", 
-                    "item_text_raw": "                6.5     Approval of Change Order #1 with BHM Construction for Sedgwick    "
+                    "item_number": "6.5", 
+                    "item_text": "Approval of Change Order #1 with BHM Construction for Sedgwick Elementary School", 
+                    "item_text_raw": "6.5     Approval of Change Order #1 with BHM Construction for Sedgwick Elementary School"
                 }, 
                 {
-                    "item_number": "66", 
-                    "item_text": "6.6     Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the                            2014 \u2013 2015 School Year", 
-                    "item_text_raw": "                6.6     Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the                            2014 \u2013 2015 School Year "
+                    "item_number": "6.6", 
+                    "item_text": "Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year", 
+                    "item_text_raw": "6.6     Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year"
                 }, 
                 {
-                    "item_number": "68", 
-                    "item_text": "6.8     Approval of Annual Report of Developer Fees for the 2013 - 2014 School Year", 
-                    "item_text_raw": "          6.8     Approval of Annual Report of Developer Fees for the 2013 - 2014 School Year "
+                    "item_number": "6.7", 
+                    "item_text": "Approval of Change Order #1 with Bobo Construction for Meyerholz", 
+                    "item_text_raw": "6.7     Approval of Change Order #1 with Bobo Construction for Meyerholz"
+                }, 
+                {
+                    "item_number": "6.8", 
+                    "item_text": "Approval of Annual Report of Developer Fees for the 2013 - 2014 School Year", 
+                    "item_text_raw": "6.8     Approval of Annual Report of Developer Fees for the 2013 - 2014 School Year"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "6.       CONSENT ITEMS ", 
+            "section_name_raw": "6.       CONSENT ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.      SUPERINTENDENT\u2019S REPORT ", 
+            "section_name_raw": "7.      SUPERINTENDENT\u2019S REPORT", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
-                    "item_number": "81", 
-                    "item_text": "8.1    Update on Progress of Measure H Bond Program", 
-                    "item_text_raw": "          8.1    Update on Progress of Measure H Bond Program "
+                    "item_number": "8.1", 
+                    "item_text": "Update on Progress of Measure H Bond Program", 
+                    "item_text_raw": "8.1    Update on Progress of Measure H Bond Program"
+                }, 
+                {
+                    "item_number": "8.2", 
+                    "item_text": "First Reading of Board Policies \u2013 Updates and Additions", 
+                    "item_text_raw": "8.2    First Reading of Board Policies \u2013 Updates and Additions"
                 }
             ], 
-            "section_name": "8.      DISCUSSION/INFORMATION ITEM", 
-            "section_name_raw": " 8.      DISCUSSION/INFORMATION ITEM ", 
-            "section_number": ""
+            "section_name": "DISCUSSION/INFORMATION ITEM", 
+            "section_name_raw": "8.      DISCUSSION/INFORMATION ITEM", 
+            "section_number": "8."
         }, 
         {
             "items": [
                 {
-                    "item_number": "91", 
-                    "item_text": "9.1    Approval of Expulsion for Student A1415", 
-                    "item_text_raw": "   9.1    Approval of Expulsion for Student A1415 "
+                    "item_number": "9.1", 
+                    "item_text": "Approval of Expulsion for Student A1415", 
+                    "item_text_raw": "9.1    Approval of Expulsion for Student A1415"
                 }, 
                 {
-                    "item_number": "92", 
-                    "item_text": "9.2    Approval of Settlement Agreement for Student 9-23-14A", 
-                    "item_text_raw": "          9.2    Approval of Settlement Agreement for Student 9-23-14A  "
+                    "item_number": "9.2", 
+                    "item_text": "Approval of Settlement Agreement for Student 9-23-14A", 
+                    "item_text_raw": "9.2    Approval of Settlement Agreement for Student 9-23-14A"
+                }, 
+                {
+                    "item_number": "9.3", 
+                    "item_text": "Public Employee Discipline/Dismissal/Release", 
+                    "item_text_raw": "9.3    Public Employee Discipline/Dismissal/Release"
                 }
             ], 
-            "section_name": "9.     CLOSED SESSION", 
-            "section_name_raw": " 9.     CLOSED SESSION ", 
-            "section_number": ""
+            "section_name": "CLOSED SESSION", 
+            "section_name_raw": "9.     CLOSED SESSION", 
+            "section_number": "9."
         }, 
         {
             "items": [], 
-            "section_name": "10.    REPORT FROM CLOSED SESSION", 
-            "section_name_raw": " 10.    REPORT FROM CLOSED SESSION ", 
-            "section_number": ""
+            "section_name": "REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "10.    REPORT FROM CLOSED SESSION", 
+            "section_number": "10."
         }, 
         {
             "items": [], 
-            "section_name": "11.    BOARD ACTIVITY", 
-            "section_name_raw": " 11.    BOARD ACTIVITY ", 
-            "section_number": ""
+            "section_name": "BOARD ACTIVITY", 
+            "section_name_raw": "11.    BOARD ACTIVITY", 
+            "section_number": "11."
         }, 
         {
             "items": [], 
-            "section_name": "12.    ADJOURNMENT", 
-            "section_name_raw": " 12.    ADJOURNMENT ", 
-            "section_number": ""
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "12.    ADJOURNMENT", 
+            "section_number": "12."
         }
     ]
 }
