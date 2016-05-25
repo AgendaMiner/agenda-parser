@@ -5,35 +5,58 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/EATON ELEMENTARY SCHOOL PRESENTING", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/EATON ELEMENTARY SCHOOL PRESENTING", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/EATON ELEMENTARY SCHOOL PRESENTING", 
             "section_number": "1."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Paul Chartraw Programmer Analyst from the Information Technology Department", 
+                    "item_text_raw": "Paul Chartraw Programmer Analyst from the Information Technology Department"
+                }
+            ], 
             "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "2.    RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Meeting of November 18, 2014, December 9, 2014 and the Special Meeting of December 19, 2014", 
+                    "item_text_raw": "Approval of minutes of the Regular Meeting of November 18, 2014, December 9, 2014 and the Special Meeting of December 19, 2014"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.     APPROVAL OF MINUTES", 
+            "section_name_raw": "3.    APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.     PUBLIC COMMENTS", 
+            "section_name_raw": "5.    PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately.", 
+                    "item_text_raw": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately."
+                }, 
                 {
                     "item_number": "6.1", 
                     "item_text": "Ratification of Contracts with Cupertino Union School District", 

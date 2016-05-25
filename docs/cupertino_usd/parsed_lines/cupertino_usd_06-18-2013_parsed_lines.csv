@@ -1,155 +1,130 @@
-,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
-0,cupertino_usd,C,1,0,"Arial,Bold",11.256,0,0,0,0,0,0,1,0,195.290,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
-1,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,0,0,1,1,308.330,cupertino_usd_06-18-2013_1,06-18-2013,0,0,0,0,,0
-2,cupertino_usd,B,1,0,"Arial,Bold",13.170,0,0,0,0,0,0,1,0,243.770,cupertino_usd_06-18-2013_2,06-18-2013,0,0,0,0,Board of Education,0
-3,cupertino_usd,R,1,0,"Arial,Bold",13.170,0,0,0,0,0,0,1,0,253.850,cupertino_usd_06-18-2013_3,06-18-2013,0,0,0,0,Regular Meeting,0
-4,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_4,06-18-2013,0,0,0,0,,0
-5,cupertino_usd,A,1,0,"Arial,Bold",13.170,0,0,0,0,0,0,1,0,277.970,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,AGENDA,1
-6,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,,0
-7,cupertino_usd, ,0,0,Arial,9.342,0,0,0,0,0,0,1,0,248.450,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,0,"Cupertino Union School District    Tuesday, June 18, 2013",0
-8,cupertino_usd,1,0,0,Arial,10.356,1,0,0,0,0,1,0,0,77.424,cupertino_usd_06-18-2013_8,06-18-2013,0,1,0,0,1309 S. Mary Avenue  6:00 p.m.,0
-9,cupertino_usd,S,0,0,Arial,10.356,0,0,0,0,0,1,0,0,77.424,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,0,"Sunnyvale, CA  94087",0
-10,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,,0
-11,cupertino_usd,W,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
-12,cupertino_usd,d,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
-13,cupertino_usd,h,0,0,Arial,7.542,1,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_13,06-18-2013,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
-14,cupertino_usd,l,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
-15,cupertino_usd,C,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
-16,cupertino_usd,m,0,0,Arial,7.542,1,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
-17,cupertino_usd,c,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_17,06-18-2013,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
-18,cupertino_usd,d,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_18,06-18-2013,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
-19,cupertino_usd,d,0,0,Arial,7.542,0,0,0,0,0,0,1,0,85.824,cupertino_usd_06-18-2013_19,06-18-2013,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
-20,cupertino_usd, ,0,0,Arial,3.714,0,0,0,0,0,0,1,1,85.824,cupertino_usd_06-18-2013_20,06-18-2013,0,0,0,0,,0
-21,cupertino_usd,I,0,1,"Arial,Italic",7.525,0,0,0,0,0,0,1,0,104.420,cupertino_usd_06-18-2013_21,06-18-2013,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0
-22,cupertino_usd,a,0,1,"Arial,Italic",7.525,0,0,0,0,0,0,1,0,222.770,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,0,at least two business days before the meeting date.,0
-23,cupertino_usd, ,0,0,Arial,3.714,0,0,0,0,0,0,1,1,85.824,cupertino_usd_06-18-2013_23,06-18-2013,0,0,0,0,,0
-24,cupertino_usd,A,1,0,"Arial,Bold",7.542,0,0,0,0,0,0,1,0,156.620,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
-25,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,1,40.560,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,0,,0
-26,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_26,06-18-2013,0,1,0,0,1.  CALL TO ORDER/FLAG SALUTE,1
-27,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,0,,0
-28,cupertino_usd,2,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_28,06-18-2013,0,1,0,0,2.  CLOSED SESSION,1
-29,cupertino_usd,B,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_29,06-18-2013,0,0,0,0,"By law, closed sessions are not open to the public.  Anyone wishing to address the Board of",0
-30,cupertino_usd,E,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_30,06-18-2013,0,0,0,0,Education on closed session matters may do so during Agenda Item 4 – Public Comments.,0
-31,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_31,06-18-2013,0,0,0,0,,0
-32,cupertino_usd,2,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_32,06-18-2013,0,0,0,1,2.1  Approval of Request to Readmit Student A1213,0
-33,cupertino_usd,2,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_33,06-18-2013,0,0,0,1,2.2  Approval of Request to Readmit Student B1213,0
-34,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_34,06-18-2013,0,0,0,1,2.3  Conference with Labor Negotiator,0
-35,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,7,58.560,cupertino_usd_06-18-2013_35,06-18-2013,0,0,0,0,District Representative Nancy Johnson,0
-36,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,7,58.560,cupertino_usd_06-18-2013_36,06-18-2013,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0
-37,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,7,58.560,cupertino_usd_06-18-2013_37,06-18-2013,0,0,0,0,"Employees Association (CSEA), Chapter 13, Service Employees International Union (SEIU),",0
-38,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,7,58.560,cupertino_usd_06-18-2013_38,06-18-2013,0,0,0,0,Local 521,0
-39,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_39,06-18-2013,0,0,0,1,2.4  Certificated/Classified Employee Discipline/Dismissal/Release,0
-40,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_40,06-18-2013,0,0,0,1,2.5  Assistant Superintendent’s Contract,0
-41,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_41,06-18-2013,0,0,0,0,,0
-42,cupertino_usd,3,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_42,06-18-2013,0,1,0,0,3.  REPORT FROM CLOSED SESSION,1
-43,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_43,06-18-2013,0,0,0,0,,0
-44,cupertino_usd,4,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_44,06-18-2013,0,1,0,0,4.  EMPLOYEE OF THE MONTH,1
-45,cupertino_usd,4,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_45,06-18-2013,0,0,0,1,4.1 Recognition of Classified Employee of the Month – June 2013,0
-46,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,2,58.560,cupertino_usd_06-18-2013_46,06-18-2013,0,0,0,0,Christine Shepherd/Technology Media Clerk/John Muir Elementary School,0
-47,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_47,06-18-2013,0,0,0,0,,0
-48,cupertino_usd,5,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_48,06-18-2013,0,1,0,0,5.  APPROVAL OF MINUTES,1
-49,cupertino_usd,A,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_49,06-18-2013,0,0,0,0,"Approval of Minutes of the Special Meeting of May 3, 2013, and Regular Meetings of May 14, 2013",0
-50,cupertino_usd,a,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_50,06-18-2013,0,0,0,0,"and May 28, 2013",0
-51,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_51,06-18-2013,0,0,0,0,,0
-52,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,1,76.584,cupertino_usd_06-18-2013_52,06-18-2013,0,0,0,0,,0
-53,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,1,0,0,3,76.584,cupertino_usd_06-18-2013_53,06-18-2013,0,0,0,0,,0
-54,cupertino_usd,B,0,0,Arial,9.342,0,0,0,0,1,0,0,0,76.584,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,"Board Meeting Agenda  June 18, 2013  Page 2",0
-55,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,33,76.584,cupertino_usd_06-18-2013_1,06-18-2013,0,0,0,0,,0
-56,cupertino_usd,6,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_2,06-18-2013,0,1,0,0,6.  COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
-57,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_3,06-18-2013,0,0,0,0,,0
-58,cupertino_usd,7,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_4,06-18-2013,0,1,0,0,7.  PUBLIC COMMENTS,1
-59,cupertino_usd,T,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,The  public  may  address  the  Board  on  any  agenda  item  and  any  item  not  on  the  agenda.    The  Board,0
-60,cupertino_usd,p,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,"president will only call on those who have filled out comment cards before the meeting, and each speaker",0
-61,cupertino_usd,w,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,0,will  be  allotted  three  (3)  minutes.    The  Board  will  not  respond  or  take  action  on  any  non-agenda  item,0
-62,cupertino_usd,c,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_8,06-18-2013,0,0,0,0,"comments  at  this  time,  although  the  item  may  be  agendized  at  a  later  date  (Ed.  Code  35145.5).    The",0
-63,cupertino_usd,c,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,0,comments shall be made from the podium.  In accordance with Government Code 54954.2 – No action or,0
-64,cupertino_usd,d,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the,0
-65,cupertino_usd,t,0,0,Arial,9.342,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,0,total time to 30 minutes.,0
-66,cupertino_usd, ,0,0,Arial,9.342,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,,0
-67,cupertino_usd,8,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_13,06-18-2013,0,1,0,0,8.  PUBLIC HEARING,1
-68,cupertino_usd,8,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,1,8.1 The Board of Education will hold a Public Hearing regarding the Adoption of Resolution No. 12-,0
-69,cupertino_usd,1,0,0,Arial,10.356,1,0,0,0,1,0,0,0,76.584,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,0,13-26 – Approval of the Receipt of Funds from Tier III Categorical Programs in the District’s,0
-70,cupertino_usd,U,0,0,Arial,10.356,0,0,0,0,1,0,0,0,76.584,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,Unrestricted General Fund in Fiscal Year 2013-2014,0
-71,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_17,06-18-2013,0,0,0,0,,0
-72,cupertino_usd,8,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_18,06-18-2013,0,0,0,1,8.2 The Board of Education will hold a Public Hearing regarding the Approval of the Adoption,0
-73,cupertino_usd,B,0,0,Arial,10.356,0,0,0,0,1,0,0,0,76.584,cupertino_usd_06-18-2013_19,06-18-2013,0,0,0,0,Budget for Fiscal year 2013-2014,0
-74,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_20,06-18-2013,0,0,0,0,,0
-75,cupertino_usd,9,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_21,06-18-2013,0,1,0,0,9.  CONSENT ITEMS,1
-76,cupertino_usd,C,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be enacted in one,0
-77,cupertino_usd,m,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_23,06-18-2013,0,0,0,0,"motion.  If discussion of any of the items is required, they may be removed from Consent and",0
-78,cupertino_usd,c,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,0,considered separately.,0
-79,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,0,,0
-80,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_26,06-18-2013,0,0,0,1,9.1   Ratification of the Personnel Report for May 2013,0
-81,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,1,9.2   Ratification of Warrant List for May 2013,0
-82,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_28,06-18-2013,0,0,0,1,9.3   Adoption of Resolution No. 12-13-29 - Agreement to Report Directly to California State,0
-83,cupertino_usd,T,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_29,06-18-2013,0,0,0,0,Teachers’ Retirement System (CalSTRS),0
-84,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_30,06-18-2013,0,0,0,1,9.4   Approval of Agreement with Dannis Woliver Kelley for Professional Services,0
-85,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_31,06-18-2013,0,0,0,1,9.5   Approval of the Purchase of One (1) New 12’ x 40’ Modular Restroom Building in the Amount,0
-86,cupertino_usd,o,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_32,06-18-2013,0,0,0,0,"of $76,680 Through the Biggs Unified School District Piggyback Contract with American",0
-87,cupertino_usd,M,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_33,06-18-2013,0,0,0,0,"Modular Systems, Inc.",0
-88,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_34,06-18-2013,0,0,0,1,9.6   Declaration of Surplus Property,0
-89,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_35,06-18-2013,0,0,0,1,9.7   Delegation of Authority to Award Construction Inspection Service Contracts Not-to-Exceed,0
-90,cupertino_usd,$,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_36,06-18-2013,0,0,0,0,"$150,000 to the District Superintendent or their Designee",0
-91,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_37,06-18-2013,0,0,0,1,9.8   Approve Contract for Human Systems Dynamics Institute to Provide Professional,0
-92,cupertino_usd,D,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_38,06-18-2013,0,0,0,0,Development Training,0
-93,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_39,06-18-2013,0,0,0,1,9.9   Approval of the 2013-2014 Transportation Fee Schedule,0
-94,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_40,06-18-2013,0,0,0,1,9.10 Approval of the 2013-2014 Civic Center Rates,0
-95,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_41,06-18-2013,0,0,0,1,"9.11 Contract Award in the Amount of $661,196 to Cannon Business Solutions for the Five Year",0
-96,cupertino_usd,L,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_42,06-18-2013,0,0,0,0,"Lease-Purchase, Installation and Maintenance off 22 New Monochrome Multifunction Digital",0
-97,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_43,06-18-2013,0,0,0,0,Copiers,0
-98,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_44,06-18-2013,0,0,0,1,9.12 Approve the Purchase of 430 Meraki Wireless Access Points with one year maintenance from,0
-99,cupertino_usd,B,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_45,06-18-2013,0,0,0,0,"Bear Data Solutions in the Amount of $298,702.01 through the Milpitas Unified School District",0
-100,cupertino_usd,P,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_46,06-18-2013,0,0,0,0,Piggyback Contract,0
-101,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_47,06-18-2013,0,0,0,1,9.13 Approval of Northern California Relief (NCR) Liability and Property Insurance Annual,0
-102,cupertino_usd,P,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_48,06-18-2013,0,0,0,0,"Premium for Fiscal Year 2013-2014 in an Amount of $682,441",0
-103,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_49,06-18-2013,0,0,0,1,"9.14 Approval of the Purchase of Four Mini School Buses from A-Z Bus Sales, Inc. in the Amount",0
-104,cupertino_usd,o,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_50,06-18-2013,0,0,0,0,"of $295,274.08",0
-105,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_51,06-18-2013,0,0,0,1,9.15 Rejection of Claim for Personal Injuries – Claim # 481453,0
-106,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_52,06-18-2013,0,0,0,1,"9.16 Contract Award in the Amount of $1,295,000 to Casey Construction for Site Utility Repairs",0
-107,cupertino_usd,a,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_53,06-18-2013,0,0,0,0,"and Upgrades at the Blue Hills, DeVargas, Dilworth, Eisenhower, Faria, Lincoln, Garden Gate,",0
-108,cupertino_usd,M,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_54,06-18-2013,0,0,0,0,"McAuliffe, Muir, Regnart and Stevens Creek Elementary School Campuses",0
-109,cupertino_usd,(,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_55,06-18-2013,0,0,0,0,(Bid No. 13-B27-24),0
-110,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,0,0,1,1,540.220,cupertino_usd_06-18-2013_56,06-18-2013,0,0,0,0,,0
-111,cupertino_usd,B,0,0,Arial,9.342,0,0,0,0,1,0,0,0,76.584,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,"Board Meeting Agenda  June 18, 2013  Page 3",0
-112,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,33,76.584,cupertino_usd_06-18-2013_1,06-18-2013,0,0,0,0,,0
-113,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_2,06-18-2013,0,0,0,1,"9.17 Contract Award to Anza Engineering Corp. in the Amount of $279,000 for Installation of Site",0
-114,cupertino_usd,U,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_3,06-18-2013,0,0,0,0,Utilities to Support New Buildings at Lawson Middle School (Bid No. 13-B26-24),0
-115,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_4,06-18-2013,0,0,0,1,"9.18 Contract Award in the Amount of $374,775 to Swinerton Management & Consulting for Bond",0
-116,cupertino_usd,P,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,Program and Construction Management Services Associated with the Modernization Project,0
-117,cupertino_usd,a,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,at Regnart Elementary School,0
-118,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,1,9.19 Adoption of Resolution No. 12-13-26 – Approval of the Receipt of Funds from Tier III,0
-119,cupertino_usd,C,0,0,Arial,10.356,1,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_8,06-18-2013,0,0,0,0,Categorical Programs in the District’s Unrestricted General Fund in Fiscal Year 2013-2014,0
-120,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,1,9.20 Adoption of Resolution No. 12-13-27 – Authorizing the Construction and Use of the New,0
-121,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,Corporation Yard Storage Building for “Non-School” Purposes,0
-122,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,1,9.21 Adoption of Resolution No. 12-13-28 – Authorizing the Construction and Use of the New,0
-123,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,Corporation Yard Modular Office Addition for “Non-School” Purposes,0
-124,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_13,06-18-2013,0,0,0,1,9.22 Adoption of Resolution 12-13-25 – Pertaining to the Education Protection Account for Fiscal,0
-125,cupertino_usd,Y,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,0,Year 2013-2014,0
-126,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,1,"9.23 Contract Award to Southern Hemisphere Shades, Inc. for the Purchase and Installation of a",0
-127,cupertino_usd,2,0,0,Arial,10.356,0,0,0,0,0,0,1,0,81.144,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,"20’x30’x10’h Fabric Shade Structure at McAuliffe Elementary School for $11,075",0
-128,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_17,06-18-2013,0,0,0,0,,0
-129,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_18,06-18-2013,0,1,0,0,10. SUPERINTENDENT’S REPORT,1
-130,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_19,06-18-2013,0,0,0,0,,0
-131,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_20,06-18-2013,0,1,0,0,11. ACTION ITEMS,1
-132,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_21,06-18-2013,0,0,0,1,11.1 Approval of the Declaration of Need for Fully Qualified Educators for the 2013-2014 School Year,0
-133,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,1,11.2 Approval of 2013 Spring Data Collection – Consolidated Application Reporting System (CARS),0
-134,cupertino_usd,R,0,0,Arial,10.356,0,0,0,1,0,0,0,0,63.000,cupertino_usd_06-18-2013_23,06-18-2013,0,0,0,0,Report,0
-135,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,1,11.3 Approval of the Adoption Budget for Fiscal Year 2013-2014,0
-136,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,1,11.4 Adoption of the 2013-2014 Salary Schedules,0
-137,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_26,06-18-2013,0,0,0,1,11.5 Ratification of the Cupertino Union School District Successor Agreement with the Cupertino,0
-138,cupertino_usd,E,0,0,Arial,10.356,0,0,0,1,0,0,0,0,63.000,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,0,Education Association for Three Years 2012-2015,0
-139,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_28,06-18-2013,0,0,0,1,11.6 Ratification of the Cupertino Union School District Successor Agreement with the Service,0
-140,cupertino_usd,E,0,0,Arial,10.356,0,0,0,1,0,0,0,0,63.000,cupertino_usd_06-18-2013_29,06-18-2013,0,0,0,0,Employees International Union Local 521 (SEIU) for 2012-2015,0
-141,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_30,06-18-2013,0,0,0,1,11.7 Ratification of the Cupertino Union School District (District) Tentative Agreement with the,0
-142,cupertino_usd,C,0,0,Arial,10.356,0,0,0,1,0,0,0,0,63.000,cupertino_usd_06-18-2013_31,06-18-2013,0,0,0,0,California School Employees Association Cupertino Chapter 13 (CSEA) Regarding Articles,0
-143,cupertino_usd,P,0,0,Arial,10.356,0,0,0,1,0,0,0,0,63.000,cupertino_usd_06-18-2013_32,06-18-2013,0,0,0,0,Providing for Compensation and “Annualization of Pay”,0
-144,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_33,06-18-2013,0,0,0,0,,0
-145,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_34,06-18-2013,0,1,0,0,12. ACKNOWLEDGEMENT OF DONATIONS,1
-146,cupertino_usd,T,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_35,06-18-2013,0,0,0,0,"The Board acknowledges and thanks the anonymous donor for the donation of $125,000 to Nimitz",0
-147,cupertino_usd,E,0,0,Arial,10.356,0,0,1,0,0,0,0,0,58.560,cupertino_usd_06-18-2013_36,06-18-2013,0,0,0,0,Elementary School.,0
-148,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_37,06-18-2013,0,0,0,0,,0
-149,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_38,06-18-2013,0,1,0,0,13. BOARD ACTIVITIES,1
-150,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,1,58.560,cupertino_usd_06-18-2013_39,06-18-2013,0,0,0,0,,0
-151,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,0,40.560,cupertino_usd_06-18-2013_40,06-18-2013,0,1,0,0,14. ADJOURNMENT,1
-152,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,2,40.560,cupertino_usd_06-18-2013_41,06-18-2013,0,0,0,0,,0
-153,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,0,0,1,1,540.220,cupertino_usd_06-18-2013_42,06-18-2013,0,0,0,0,,0
+,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
+0,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,,0
+1,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_1,06-18-2013,0,1,0,0,1. CALL TO ORDER/FLAG SALUTE,1
+2,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_2,06-18-2013,0,0,0,0,,0
+3,cupertino_usd,2,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_3,06-18-2013,0,1,0,0,2. CLOSED SESSION,1
+4,cupertino_usd,B,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_4,06-18-2013,0,0,0,0,"By law, closed sessions are not open to the public.  Anyone wishing to address the Board of",0
+5,cupertino_usd,E,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,Education on closed session matters may do so during Agenda Item 4 – Public Comments.,0
+6,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,,0
+7,cupertino_usd,2,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,1,2.1  Approval of Request to Readmit Student A1213,0
+8,cupertino_usd,2,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_8,06-18-2013,0,0,0,1,2.2  Approval of Request to Readmit Student B1213,0
+9,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,1,2.3  Conference with Labor Negotiator,0
+10,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,0,1,0,80.0,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,District Representative Nancy Johnson,0
+11,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,0,1,0,80.0,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0
+12,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,0,1,0,80.0,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,"Employees Association (CSEA), Chapter 13, Service Employees International Union (SEIU),",0
+13,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,0,1,0,80.0,cupertino_usd_06-18-2013_13,06-18-2013,0,0,0,0,Local 521,0
+14,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,1,2.4  Certificated/Classified Employee Discipline/Dismissal/Release,0
+15,cupertino_usd,2,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,1,2.5  Assistant Superintendent’s Contract,0
+16,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,,0
+17,cupertino_usd,3,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_17,06-18-2013,0,1,0,0,3. REPORT FROM CLOSED SESSION,1
+18,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_18,06-18-2013,0,0,0,0,,0
+19,cupertino_usd,4,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_19,06-18-2013,0,1,0,0,4. EMPLOYEE OF THE MONTH,1
+20,cupertino_usd,4,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_20,06-18-2013,0,0,0,1,4.1 Recognition of Classified Employee of the Month – June 2013,0
+21,cupertino_usd, ,0,0,Arial,10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_21,06-18-2013,0,0,0,0,Christine Shepherd/Technology Media Clerk/John Muir Elementary School,0
+22,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,0,,0
+23,cupertino_usd,5,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_23,06-18-2013,0,1,0,0,5. APPROVAL OF MINUTES,1
+24,cupertino_usd,A,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,0,"Approval of Minutes of the Special Meeting of May 3, 2013, and Regular Meetings of May 14, 2013",0
+25,cupertino_usd,a,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,0,"and May 28, 2013",0
+26,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_26,06-18-2013,0,0,0,0,,0
+27,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,0,,0
+28,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_28,06-18-2013,0,0,0,0,,0
+29,cupertino_usd,B,0,0,Arial,9.342,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,"Board Meeting Agenda June 18, 2013 Page 2",0
+30,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_1,06-18-2013,0,0,0,0,,0
+31,cupertino_usd,6,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_2,06-18-2013,0,1,0,0,6. COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
+32,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_3,06-18-2013,0,0,0,0,,0
+33,cupertino_usd,7,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_4,06-18-2013,0,1,0,0,7. PUBLIC COMMENTS,1
+34,cupertino_usd,T,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The Board,0
+35,cupertino_usd,p,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,"president will only call on those who have filled out comment cards before the meeting, and each speaker",0
+36,cupertino_usd,w,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,0,will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item,0
+37,cupertino_usd,c,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_8,06-18-2013,0,0,0,0,"comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The",0
+38,cupertino_usd,c,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,0,comments shall be made from the podium.  In accordance with Government Code 54954.2 – No action or,0
+39,cupertino_usd,d,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the,0
+40,cupertino_usd,t,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,0,total time to 30 minutes.,0
+41,cupertino_usd, ,0,0,Arial,9.342,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,,0
+42,cupertino_usd,8,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_13,06-18-2013,0,1,0,0,8. PUBLIC HEARING,1
+43,cupertino_usd,8,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,1,8.1 The Board of Education will hold a Public Hearing regarding the Adoption of Resolution No. 12-,0
+44,cupertino_usd,1,0,0,Arial,10.356,1,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,0,13-26 – Approval of the Receipt of Funds from Tier III Categorical Programs in the District’s,0
+45,cupertino_usd,U,0,0,Arial,10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,Unrestricted General Fund in Fiscal Year 2013-2014,0
+46,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_17,06-18-2013,0,0,0,0,,0
+47,cupertino_usd,8,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_18,06-18-2013,0,0,0,1,8.2 The Board of Education will hold a Public Hearing regarding the Approval of the Adoption,0
+48,cupertino_usd,B,0,0,Arial,10.356,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_19,06-18-2013,0,0,0,0,Budget for Fiscal year 2013-2014,0
+49,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_20,06-18-2013,0,0,0,0,,0
+50,cupertino_usd,9,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_21,06-18-2013,0,1,0,0,9. CONSENT ITEMS,1
+51,cupertino_usd,C,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be enacted in one,0
+52,cupertino_usd,m,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_23,06-18-2013,0,0,0,0,"motion.  If discussion of any of the items is required, they may be removed from Consent and",0
+53,cupertino_usd,c,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,0,considered separately.,0
+54,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,0,,0
+55,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_26,06-18-2013,0,0,0,1,9.1   Ratification of the Personnel Report for May 2013,0
+56,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,1,9.2   Ratification of Warrant List for May 2013,0
+57,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_28,06-18-2013,0,0,0,1,9.3  Adoption of Resolution No. 12-13-29 - Agreement to Report Directly to California State,0
+58,cupertino_usd,T,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_29,06-18-2013,0,0,0,0,Teachers’ Retirement System (CalSTRS),0
+59,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_30,06-18-2013,0,0,0,1,9.4   Approval of Agreement with Dannis Woliver Kelley for Professional Services,0
+60,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_31,06-18-2013,0,0,0,1,9.5   Approval of the Purchase of One (1) New 12’ x 40’ Modular Restroom Building in the Amount,0
+61,cupertino_usd,o,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_32,06-18-2013,0,0,0,0,"of $76,680 Through the Biggs Unified School District Piggyback Contract with American",0
+62,cupertino_usd,M,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_33,06-18-2013,0,0,0,0,"Modular Systems, Inc.",0
+63,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_34,06-18-2013,0,0,0,1,9.6   Declaration of Surplus Property,0
+64,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_35,06-18-2013,0,0,0,1,9.7   Delegation of Authority to Award Construction Inspection Service Contracts Not-to-Exceed,0
+65,cupertino_usd,$,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_36,06-18-2013,0,0,0,0,"$150,000 to the District Superintendent or their Designee",0
+66,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_37,06-18-2013,0,0,0,1,9.8   Approve Contract for Human Systems Dynamics Institute to Provide Professional,0
+67,cupertino_usd,D,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_38,06-18-2013,0,0,0,0,Development Training,0
+68,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_39,06-18-2013,0,0,0,1,9.9   Approval of the 2013-2014 Transportation Fee Schedule,0
+69,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_40,06-18-2013,0,0,0,1,9.10 Approval of the 2013-2014 Civic Center Rates,0
+70,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_41,06-18-2013,0,0,0,1,"9.11 Contract Award in the Amount of $661,196 to Cannon Business Solutions for the Five Year",0
+71,cupertino_usd,L,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_42,06-18-2013,0,0,0,0,"Lease-Purchase, Installation and Maintenance off 22 New Monochrome Multifunction Digital",0
+72,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_43,06-18-2013,0,0,0,0,Copiers,0
+73,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_44,06-18-2013,0,0,0,1,9.12 Approve the Purchase of 430 Meraki Wireless Access Points with one year maintenance from,0
+74,cupertino_usd,B,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_45,06-18-2013,0,0,0,0,"Bear Data Solutions in the Amount of $298,702.01 through the Milpitas Unified School District",0
+75,cupertino_usd,P,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_46,06-18-2013,0,0,0,0,Piggyback Contract,0
+76,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_47,06-18-2013,0,0,0,1,9.13 Approval of Northern California Relief (NCR) Liability and Property Insurance Annual,0
+77,cupertino_usd,P,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_48,06-18-2013,0,0,0,0,"Premium for Fiscal Year 2013-2014 in an Amount of $682,441",0
+78,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_49,06-18-2013,0,0,0,1,"9.14 Approval of the Purchase of Four Mini School Buses from A-Z Bus Sales, Inc. in the Amount",0
+79,cupertino_usd,o,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_50,06-18-2013,0,0,0,0,"of $295,274.08",0
+80,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_51,06-18-2013,0,0,0,1,9.15 Rejection of Claim for Personal Injuries – Claim # 481453,0
+81,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_52,06-18-2013,0,0,0,1,"9.16 Contract Award in the Amount of $1,295,000 to Casey Construction for Site Utility Repairs",0
+82,cupertino_usd,a,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_53,06-18-2013,0,0,0,0,"and Upgrades at the Blue Hills, DeVargas, Dilworth, Eisenhower, Faria, Lincoln, Garden Gate,",0
+83,cupertino_usd,M,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_54,06-18-2013,0,0,0,0,"McAuliffe, Muir, Regnart and Stevens Creek Elementary School Campuses",0
+84,cupertino_usd,(,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_55,06-18-2013,0,0,0,0,(Bid No. 13-B27-24),0
+85,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,0,0,1,540.0,cupertino_usd_06-18-2013_56,06-18-2013,0,0,0,0,,0
+86,cupertino_usd,B,0,0,Arial,9.342,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_0,06-18-2013,0,0,0,0,"Board Meeting Agenda June 18, 2013 Page 3",0
+87,cupertino_usd, ,0,0,Arial,11.256,0,0,0,0,1,0,0,77.0,cupertino_usd_06-18-2013_1,06-18-2013,0,0,0,0,,0
+88,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_2,06-18-2013,0,0,0,1,"9.17 Contract Award to Anza Engineering Corp. in the Amount of $279,000 for Installation of Site",0
+89,cupertino_usd,U,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_3,06-18-2013,0,0,0,0,Utilities to Support New Buildings at Lawson Middle School (Bid No. 13-B26-24),0
+90,cupertino_usd,9,0,0,Arial,10.356,1,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_4,06-18-2013,0,0,0,1,"9.18 Contract Award in the Amount of $374,775 to Swinerton Management & Consulting for Bond",0
+91,cupertino_usd,P,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_5,06-18-2013,0,0,0,0,Program and Construction Management Services Associated with the Modernization Project,0
+92,cupertino_usd,a,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_6,06-18-2013,0,0,0,0,at Regnart Elementary School,0
+93,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_7,06-18-2013,0,0,0,1,9.19 Adoption of Resolution No. 12-13-26 – Approval of the Receipt of Funds from Tier III,0
+94,cupertino_usd,C,0,0,Arial,10.356,1,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_8,06-18-2013,0,0,0,0,Categorical Programs in the District’s Unrestricted General Fund in Fiscal Year 2013-2014,0
+95,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_9,06-18-2013,0,0,0,1,9.20 Adoption of Resolution No. 12-13-27 – Authorizing the Construction and Use of the New,0
+96,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_10,06-18-2013,0,0,0,0,Corporation Yard Storage Building for “Non-School” Purposes,0
+97,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_11,06-18-2013,0,0,0,1,9.21 Adoption of Resolution No. 12-13-28 – Authorizing the Construction and Use of the New,0
+98,cupertino_usd,C,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_12,06-18-2013,0,0,0,0,Corporation Yard Modular Office Addition for “Non-School” Purposes,0
+99,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_13,06-18-2013,0,0,0,1,9.22 Adoption of Resolution 12-13-25 – Pertaining to the Education Protection Account for Fiscal,0
+100,cupertino_usd,Y,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_14,06-18-2013,0,0,0,0,Year 2013-2014,0
+101,cupertino_usd,9,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_15,06-18-2013,0,0,0,1,"9.23 Contract Award to Southern Hemisphere Shades, Inc. for the Purchase and Installation of a",0
+102,cupertino_usd,2,0,0,Arial,10.356,0,0,0,0,0,0,1,81.0,cupertino_usd_06-18-2013_16,06-18-2013,0,0,0,0,"20’x30’x10’h Fabric Shade Structure at McAuliffe Elementary School for $11,075",0
+103,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_17,06-18-2013,0,0,0,0,,0
+104,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_18,06-18-2013,0,1,0,0,10. SUPERINTENDENT’S REPORT,1
+105,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_19,06-18-2013,0,0,0,0,,0
+106,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_20,06-18-2013,0,1,0,0,11. ACTION ITEMS,1
+107,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_21,06-18-2013,0,0,0,1,11.1 Approval of the Declaration of Need for Fully Qualified Educators for the 2013-2014 School Year,0
+108,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_22,06-18-2013,0,0,0,1,11.2 Approval of 2013 Spring Data Collection – Consolidated Application Reporting System (CARS),0
+109,cupertino_usd,R,0,0,Arial,10.356,0,0,0,1,0,0,0,63.0,cupertino_usd_06-18-2013_23,06-18-2013,0,0,0,0,Report,0
+110,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_24,06-18-2013,0,0,0,1,11.3 Approval of the Adoption Budget for Fiscal Year 2013-2014,0
+111,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_25,06-18-2013,0,0,0,1,11.4 Adoption of the 2013-2014 Salary Schedules,0
+112,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_26,06-18-2013,0,0,0,1,11.5 Ratification of the Cupertino Union School District Successor Agreement with the Cupertino,0
+113,cupertino_usd,E,0,0,Arial,10.356,0,0,0,1,0,0,0,63.0,cupertino_usd_06-18-2013_27,06-18-2013,0,0,0,0,Education Association for Three Years 2012-2015,0
+114,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_28,06-18-2013,0,0,0,1,11.6 Ratification of the Cupertino Union School District Successor Agreement with the Service,0
+115,cupertino_usd,E,0,0,Arial,10.356,0,0,0,1,0,0,0,63.0,cupertino_usd_06-18-2013_29,06-18-2013,0,0,0,0,Employees International Union Local 521 (SEIU) for 2012-2015,0
+116,cupertino_usd,1,0,0,Arial,10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_30,06-18-2013,0,0,0,1,11.7 Ratification of the Cupertino Union School District (District) Tentative Agreement with the,0
+117,cupertino_usd,C,0,0,Arial,10.356,0,0,0,1,0,0,0,63.0,cupertino_usd_06-18-2013_31,06-18-2013,0,0,0,0,California School Employees Association Cupertino Chapter 13 (CSEA) Regarding Articles,0
+118,cupertino_usd,P,0,0,Arial,10.356,0,0,0,1,0,0,0,63.0,cupertino_usd_06-18-2013_32,06-18-2013,0,0,0,0,Providing for Compensation and “Annualization of Pay”,0
+119,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_33,06-18-2013,0,0,0,0,,0
+120,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_34,06-18-2013,0,1,0,0,12. ACKNOWLEDGEMENT OF DONATIONS,1
+121,cupertino_usd,T,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_35,06-18-2013,0,0,0,0,"The Board acknowledges and thanks the anonymous donor for the donation of $125,000 to Nimitz",0
+122,cupertino_usd,E,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_36,06-18-2013,0,0,0,0,Elementary School.,0
+123,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_37,06-18-2013,0,0,0,0,,0
+124,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_38,06-18-2013,0,1,0,0,13. BOARD ACTIVITIES,1
+125,cupertino_usd, ,0,0,Arial,10.356,0,0,1,0,0,0,0,59.0,cupertino_usd_06-18-2013_39,06-18-2013,0,0,0,0,,0
+126,cupertino_usd,1,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_40,06-18-2013,0,1,0,0,14. ADJOURNMENT,1
+127,cupertino_usd, ,1,0,"Arial,Bold",10.356,0,1,0,0,0,0,0,41.0,cupertino_usd_06-18-2013_41,06-18-2013,0,0,0,0,,0
+128,cupertino_usd, ,0,0,Times,10.908,0,0,0,0,0,0,1,540.0,cupertino_usd_06-18-2013_42,06-18-2013,0,0,0,0,,0

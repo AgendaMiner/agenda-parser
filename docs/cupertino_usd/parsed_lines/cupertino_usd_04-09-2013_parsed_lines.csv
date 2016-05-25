@@ -1,121 +1,96 @@
-,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.300,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
-1,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,0,0,1,1,308.310,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
-2,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_04-09-2013_2,04-09-2013,0,0,0,0,Board of Education,0
-3,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_04-09-2013_3,04-09-2013,0,0,0,0,Regular Meeting,0
-4,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_4,04-09-2013,0,0,0,0,,0
-5,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,0,AGENDA,1
-6,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,,0
-7,cupertino_usd,C,0,0,Arial,14.375,0,0,0,0,0,1,0,0,77.280,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,"Cupertino Union School District    Tuesday, April 9, 2013",0
-8,cupertino_usd,1,0,0,Arial,14.375,1,0,0,0,0,1,0,0,77.280,cupertino_usd_04-09-2013_8,04-09-2013,0,1,0,0,10301 Vista Drive   6:30 p.m.,0
-9,cupertino_usd,C,0,0,Arial,14.375,0,0,0,0,0,1,0,0,77.280,cupertino_usd_04-09-2013_9,04-09-2013,0,0,0,0,"Cupertino, CA  95014",0
-10,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_10,04-09-2013,0,0,0,0,,0
-11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_11,04-09-2013,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
-12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_12,04-09-2013,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
-13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_13,04-09-2013,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
-14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_14,04-09-2013,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
-15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_15,04-09-2013,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
-16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_16,04-09-2013,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
-17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_17,04-09-2013,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_18,04-09-2013,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
-19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.920,cupertino_usd_04-09-2013_19,04-09-2013,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
-20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,0,0,1,1,85.920,cupertino_usd_04-09-2013_20,04-09-2013,0,0,0,0,,0
-21,cupertino_usd,I,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,104.649,cupertino_usd_04-09-2013_21,04-09-2013,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0
-22,cupertino_usd,a,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,222.946,cupertino_usd_04-09-2013_22,04-09-2013,0,0,0,0,at least two business days before the meeting date.,0
-23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,0,0,1,1,85.920,cupertino_usd_04-09-2013_23,04-09-2013,0,0,0,0,,0
-24,cupertino_usd,A,1,0,Arial-Bold,11.040,0,0,0,0,0,0,1,0,156.759,cupertino_usd_04-09-2013_24,04-09-2013,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
-25,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_25,04-09-2013,0,0,0,0,,0
-26,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.560,cupertino_usd_04-09-2013_26,04-09-2013,0,0,0,0,,0
-27,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_27,04-09-2013,0,1,0,0,1.  CALL TO ORDER / FLAG SALUTE / MCAULIFFE SCHOOL PRESENTATION,1
-28,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.560,cupertino_usd_04-09-2013_28,04-09-2013,0,0,0,0,,0
-29,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_29,04-09-2013,0,1,0,0,2.  RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1
-30,cupertino_usd,C,0,0,Arial,14.375,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_30,04-09-2013,0,0,0,0,Classified Employee of the Month – April 2013,0
-31,cupertino_usd,N,0,0,Arial,14.375,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_31,04-09-2013,0,0,0,0,"Nancy Mendonca, Instructional Assistant-Special Education, Meyerholz Elementary School",0
-32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_32,04-09-2013,0,0,0,0,,0
-33,cupertino_usd,A,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_33,04-09-2013,0,1,0,0,"3.  APPROVAL OF REGULAR MEETING MINUTES OF MARCH 12, 2013 AND SPECIAL",1
-34,cupertino_usd,M,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_34,04-09-2013,0,0,0,0,"MEETING MINUTES OF MARCH 20, 2013 AND REGULAR MEETING MINUTES OF",1
-35,cupertino_usd,M,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_35,04-09-2013,0,0,0,0,"MARCH 26, 2013",1
-36,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_36,04-09-2013,0,0,0,0,,0
-37,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_37,04-09-2013,0,1,0,0,4.  COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
-38,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_38,04-09-2013,0,0,0,0,,0
-39,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_39,04-09-2013,0,1,0,0,5.  PUBLIC COMMENTS,1
-40,cupertino_usd,T,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_40,04-09-2013,0,0,0,0,The  public  may  address  the  Board  on  any  agenda  item  and  any  item  not  on  the  agenda.    The  Board,0
-41,cupertino_usd,p,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_41,04-09-2013,0,0,0,0,"president will only call on those who have filled out comment cards before the meeting, and each speaker",0
-42,cupertino_usd,w,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_42,04-09-2013,0,0,0,0,will  be  allotted  three  (3)  minutes.    The  Board  will  not  respond  or  take  action  on  any  non-agenda  item,0
-43,cupertino_usd,c,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_43,04-09-2013,0,0,0,0,"comments  at  this  time,  although  the  item  may  be  agendized  at  a  later  date  (Ed.  Code  35145.5).    The",0
-44,cupertino_usd,c,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_44,04-09-2013,0,0,0,0,comments shall be made from the podium.  In accordance with Government Code 54954.2 – No action or,0
-45,cupertino_usd,d,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_45,04-09-2013,0,0,0,0,discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the,0
-46,cupertino_usd,t,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_46,04-09-2013,0,0,0,0,total time to 30 minutes.,0
-47,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_47,04-09-2013,0,0,0,0,,0
-48,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_48,04-09-2013,0,1,0,0,6.  CONSENT ITEMS,1
-49,cupertino_usd,C,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_49,04-09-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If,0
-50,cupertino_usd,d,0,0,Arial,13.097,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_50,04-09-2013,0,0,0,0,"discussion of any of the items is required, they may be removed from Consent and considered separately.",0
-51,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_51,04-09-2013,0,0,0,0,,0
-52,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_52,04-09-2013,0,0,0,1,6.1    Ratification of the March 2013 Warrant List,0
-53,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_53,04-09-2013,0,0,0,1,6.2    Ratification of the March 2013 Personnel Report,0
-54,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,1,0,0,3,76.560,cupertino_usd_04-09-2013_54,04-09-2013,0,0,0,0,,0
-55,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,0,76.560,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,"Board Meeting Agenda  April 9, 2013  Page 2",0
-56,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,33,76.560,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
-57,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_2,04-09-2013,0,0,0,0,,0
-58,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_3,04-09-2013,0,0,0,1,"6.3    Contract Award to Calstate Construction, Inc. in the Amount of $214,777 for Construction of",0
-59,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_4,04-09-2013,1,0,0,0,a new District Yard Storage Building,0
-60,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,1,"6.4    Contract Award to InterMountain Electric Company in the Amount of $811,800 for",0
-61,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,"Construction of Data Infrastructure Upgrades at Regnart, Stevens Creek and Garden Gate",0
-62,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,Elementary Schools,0
-63,cupertino_usd, ,1,0,Arial-Bold,15.055,1,1,0,0,0,0,0,6,40.560,cupertino_usd_04-09-2013_8,04-09-2013,0,0,0,1,"6.5    Contract Award to InterMountain Electric Company in the Amount of $566,500 for",0
-64,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_9,04-09-2013,0,0,0,0,"Construction of Data Infrastructure Upgrades at Dilworth, McAuliffe and Meyerholz",0
-65,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,15,184.237,cupertino_usd_04-09-2013_10,04-09-2013,0,0,0,0,Elementary Schools,0
-66,cupertino_usd, ,1,0,Arial-Bold,15.055,1,1,0,0,0,0,0,6,40.560,cupertino_usd_04-09-2013_11,04-09-2013,0,0,0,1,"6.6    Award of Design and Construction Administration Services in the Amount of $451,542",0
-67,cupertino_usd, ,1,0,Arial-Bold,15.055,1,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_12,04-09-2013,0,0,0,0,to McKim Design Group for Modernization of the Sedgwick Elementary School Campus,0
-68,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,0,1,0,0,0,6,58.897,cupertino_usd_04-09-2013_13,04-09-2013,0,0,0,1,"6.7    Award of Design and Construction Administration Services in the Amount of $421,967",0
-69,cupertino_usd, ,1,0,Arial-Bold,15.055,1,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_14,04-09-2013,0,0,0,0,to McKim Design Group for Modernization of the Regnart Elementary School Campus,0
-70,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,0,1,0,0,0,6,58.897,cupertino_usd_04-09-2013_15,04-09-2013,0,0,0,1,"6.8    Award of Design and Construction Administration Services in the Amount of $533,203",0
-71,cupertino_usd, ,1,0,Arial-Bold,15.055,1,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_16,04-09-2013,0,0,0,0,to SIM Architects for Modernization of the West Valley Elementary School Campus,0
-72,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_17,04-09-2013,0,0,0,1,"6.9    Award of Design and Construction Administration Services in the Amount of $586,305 to",0
-73,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_18,04-09-2013,0,0,0,0,WLC Architects for Modernization of the Meyerholz Elementary School Campus,0
-74,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_19,04-09-2013,0,0,0,1,"6.10  Approval of Contract Award in the Amount of $30,000 to IBI Group for Production of",0
-75,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_20,04-09-2013,0,0,0,0,Architectural Design Standards,0
-76,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_21,04-09-2013,0,0,0,1,"6.11  Approve the purchase of six new 24’ X 40’ Modular Classrooms in the amount of $376,353",0
-77,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,8,58.560,cupertino_usd_04-09-2013_22,04-09-2013,0,0,0,0,"Through the Biggs Unified School District Piggyback Contract with America Modular Systems,",0
-78,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,9,103.795,cupertino_usd_04-09-2013_23,04-09-2013,0,0,0,0,Inc.,0
-79,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_24,04-09-2013,0,0,0,1,"6.12  McAuliffe School – Travel Plans for the Seventh/Eighth Grade Field Trip to Ashland, Oregon",0
-80,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_25,04-09-2013,0,0,0,0,"on May 13-17, 2013",0
-81,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_26,04-09-2013,0,0,0,0,,0
-82,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_27,04-09-2013,0,1,0,0,7.  SUPERINTENDENT’S REPORT,1
-83,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_28,04-09-2013,0,0,0,0,,0
-84,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_29,04-09-2013,0,1,0,0,8.  ACTION ITEMS,1
-85,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_30,04-09-2013,0,0,0,0,,0
-86,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_31,04-09-2013,0,0,0,1,8.1    Adoption of Resolution No. 12-13-18 – Reduction of Classified Staff Due to Lack of Work,0
-87,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_32,04-09-2013,0,0,0,0,and/or Lack of Funds,0
-88,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,58.560,cupertino_usd_04-09-2013_33,04-09-2013,0,0,0,1,8.2    Adoption of Resolution No. 12-13-19 – Authorizing the Issuance of Cupertino Union,0
-89,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_34,04-09-2013,0,0,0,0,"School District (Santa Clara County, California) 2013 General Obligation Refunding",0
-90,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_35,04-09-2013,0,0,0,0,Bonds,0
-91,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_36,04-09-2013,0,0,0,0,,0
-92,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_37,04-09-2013,0,1,0,0,9.  DISCUSSION/INFORMATION ITEMS,1
-93,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_38,04-09-2013,0,0,0,0,,0
-94,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_39,04-09-2013,0,0,0,1,9.1   2013-2014 Budget Assumptions,0
-95,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_40,04-09-2013,0,0,0,1,9.2   Review of New Classroom Building Location and Quad Layout at Cupertino Middle,0
-96,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_41,04-09-2013,0,0,0,0,School,0
-97,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_42,04-09-2013,0,0,0,1,9.3   Accept for Information Quarterly Report on Williams Uniform Complaints for the Period,0
-98,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_43,04-09-2013,0,0,0,0,"of January 1 through March 31, 2013",0
-99,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_44,04-09-2013,0,0,0,0,,0
-100,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_45,04-09-2013,0,1,0,0,10.  BOARD MEMBER ACTIVITIES,1
-101,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_46,04-09-2013,0,0,0,0,,0
-102,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_47,04-09-2013,0,1,0,0,11.  CLOSED SESSION,1
-103,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.560,cupertino_usd_04-09-2013_48,04-09-2013,0,0,0,0,,0
-104,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_49,04-09-2013,0,0,0,1,11.1 Conference with Labor Negotiators,0
-105,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_50,04-09-2013,0,0,0,0,District Representative Nancy Johnson,0
-106,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,15,40.560,cupertino_usd_04-09-2013_51,04-09-2013,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0
-107,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_52,04-09-2013,0,0,0,0,"Employees Association (CSEA), Chapter 13, Service Employees International Union",0
-108,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,58.560,cupertino_usd_04-09-2013_53,04-09-2013,0,0,0,0,"(SEIU), Local 521",0
-109,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_54,04-09-2013,0,0,0,0,,0
-110,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_55,04-09-2013,0,1,0,0,12.   REPORT FROM CLOSED SESSION,1
-111,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,1,540.060,cupertino_usd_04-09-2013_56,04-09-2013,0,0,0,0,,0
-112,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,0,76.560,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,"Board Meeting Agenda  April 9, 2013  Page 3",0
-113,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,33,76.560,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
-114,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_2,04-09-2013,0,0,0,0,,0
-115,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,40.560,cupertino_usd_04-09-2013_3,04-09-2013,0,1,0,0,13.   ADJOURNMENT,1
-116,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_4,04-09-2013,0,0,0,0,,0
-117,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,2,40.560,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,0,,0
-118,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,58.560,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,,0
-119,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,1,540.060,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,,0
+,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
+0,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,,0
+1,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
+2,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_2,04-09-2013,0,1,0,0,1. CALL TO ORDER / FLAG SALUTE / MCAULIFFE SCHOOL PRESENTATION,1
+3,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_3,04-09-2013,0,0,0,0,,0
+4,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_4,04-09-2013,0,1,0,0,2. RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1
+5,cupertino_usd,C,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,0,Classified Employee of the Month – April 2013,0
+6,cupertino_usd,N,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,"Nancy Mendonca, Instructional Assistant-Special Education, Meyerholz Elementary School",0
+7,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,,0
+8,cupertino_usd,A,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_8,04-09-2013,0,0,0,0,"APPROVAL OF REGULAR MEETING MINUTES OF MARCH 12, 2013 AND SPECIAL 3.",1
+9,cupertino_usd,M,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_9,04-09-2013,0,0,0,0,"MEETING MINUTES OF MARCH 20, 2013 AND REGULAR MEETING MINUTES OF",1
+10,cupertino_usd,M,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_10,04-09-2013,0,0,0,0,"MARCH 26, 2013",1
+11,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_11,04-09-2013,0,0,0,0,,0
+12,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_12,04-09-2013,0,1,0,0,4. COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
+13,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_13,04-09-2013,0,0,0,0,,0
+14,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_14,04-09-2013,0,1,0,0,5. PUBLIC COMMENTS,1
+15,cupertino_usd,T,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_15,04-09-2013,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The Board,0
+16,cupertino_usd,p,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_16,04-09-2013,0,0,0,0,"president will only call on those who have filled out comment cards before the meeting, and each speaker",0
+17,cupertino_usd,w,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_17,04-09-2013,0,0,0,0,will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item,0
+18,cupertino_usd,c,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_18,04-09-2013,0,0,0,0,"comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The",0
+19,cupertino_usd,c,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_19,04-09-2013,0,0,0,0,comments shall be made from the podium.  In accordance with Government Code 54954.2 – No action or,0
+20,cupertino_usd,d,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_20,04-09-2013,0,0,0,0,discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the,0
+21,cupertino_usd,t,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_21,04-09-2013,0,0,0,0,total time to 30 minutes.,0
+22,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_22,04-09-2013,0,0,0,0,,0
+23,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_23,04-09-2013,0,1,0,0,6. CONSENT ITEMS,1
+24,cupertino_usd,C,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_24,04-09-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If,0
+25,cupertino_usd,d,0,0,Arial,13.097,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_25,04-09-2013,0,0,0,0,"discussion of any of the items is required, they may be removed from Consent and considered separately.",0
+26,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_26,04-09-2013,0,0,0,0,,0
+27,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_27,04-09-2013,0,0,0,1,6.1    Ratification of the March 2013 Warrant List,0
+28,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_28,04-09-2013,0,0,0,1,6.2     Ratification of the March 2013 Personnel Report,0
+29,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_29,04-09-2013,0,0,0,0,,0
+30,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,"Board Meeting Agenda April 9, 2013 Page 2",0
+31,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
+32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_2,04-09-2013,0,0,0,0,,0
+33,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_3,04-09-2013,0,0,0,1,"6.3    Contract Award to Calstate Construction, Inc. in the Amount of $214,777 for Construction of",0
+34,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_4,04-09-2013,1,0,0,0,a new District Yard Storage Building,0
+35,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,1,"6.4    Contract Award to InterMountain Electric Company in the Amount of $811,800 for",0
+36,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,"Construction of Data Infrastructure Upgrades at Regnart, Stevens Creek and Garden Gate",0
+37,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,Elementary Schools,0
+38,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_8,04-09-2013,0,0,0,1,"6.5    Contract Award to InterMountain Electric Company in the Amount of $566,500 for",0
+39,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_9,04-09-2013,0,0,0,0,"Construction of Data Infrastructure Upgrades at Dilworth, McAuliffe and Meyerholz",0
+40,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_10,04-09-2013,0,0,0,0,Elementary Schools,0
+41,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_11,04-09-2013,0,0,0,1,"6.6    Award of Design and Construction Administration Services in the Amount of $451,542",0
+42,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_12,04-09-2013,0,0,0,0,to McKim Design Group for Modernization of the Sedgwick Elementary School Campus,0
+43,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_13,04-09-2013,0,0,0,1,"6.7          Award of Design and Construction Administration Services in the Amount of $421,967",0
+44,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_14,04-09-2013,0,0,0,0,to McKim Design Group for Modernization of the Regnart Elementary School Campus,0
+45,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_15,04-09-2013,0,0,0,1,"6.8          Award of Design and Construction Administration Services in the Amount of $533,203",0
+46,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_16,04-09-2013,0,0,0,0,to SIM Architects for Modernization of the West Valley Elementary School Campus,0
+47,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_17,04-09-2013,0,0,0,1,"6.9    Award of Design and Construction Administration Services in the Amount of $586,305 to",0
+48,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_18,04-09-2013,0,0,0,0,WLC Architects for Modernization of the Meyerholz Elementary School Campus,0
+49,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_19,04-09-2013,0,0,0,1,"6.10  Approval of Contract Award in the Amount of $30,000 to IBI Group for Production of",0
+50,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_20,04-09-2013,0,0,0,0,Architectural Design Standards,0
+51,cupertino_usd,6,1,0,Arial-Bold,15.055,1,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_21,04-09-2013,0,0,0,1,"6.11  Approve the purchase of six new 24’ X 40’ Modular Classrooms in the amount of $376,353",0
+52,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,1,0,83.0,cupertino_usd_04-09-2013_22,04-09-2013,0,0,0,0,"Through the Biggs Unified School District Piggyback Contract with America Modular Systems,",0
+53,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_23,04-09-2013,0,0,0,0,Inc.,0
+54,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_24,04-09-2013,0,0,0,1,"6.12  McAuliffe School – Travel Plans for the Seventh/Eighth Grade Field Trip to Ashland, Oregon",0
+55,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_25,04-09-2013,0,0,0,0,"on May 13-17, 2013",0
+56,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_26,04-09-2013,0,0,0,0,,0
+57,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_27,04-09-2013,0,1,0,0,7. SUPERINTENDENT’S REPORT,1
+58,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_28,04-09-2013,0,0,0,0,,0
+59,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_29,04-09-2013,0,1,0,0,8. ACTION ITEMS,1
+60,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_30,04-09-2013,0,0,0,0,,0
+61,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_31,04-09-2013,0,0,0,1,8.1    Adoption of Resolution No. 12-13-18 – Reduction of Classified Staff Due to Lack of Work,0
+62,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_32,04-09-2013,0,0,0,0,and/or Lack of Funds,0
+63,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_33,04-09-2013,0,0,0,1,8.2    Adoption of Resolution No. 12-13-19 – Authorizing the Issuance of Cupertino Union,0
+64,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_34,04-09-2013,0,0,0,0,"School District (Santa Clara County, California) 2013 General Obligation Refunding",0
+65,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_35,04-09-2013,0,0,0,0,Bonds,0
+66,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_36,04-09-2013,0,0,0,0,,0
+67,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_37,04-09-2013,0,1,0,0,9. DISCUSSION/INFORMATION ITEMS,1
+68,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_38,04-09-2013,0,0,0,0,,0
+69,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,62.0,cupertino_usd_04-09-2013_39,04-09-2013,0,0,0,1,9.1    2013-2014Budget Assumptions,0
+70,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,62.0,cupertino_usd_04-09-2013_40,04-09-2013,0,0,0,1,9.2   Review of New Classroom Building Location and Quad Layout at Cupertino Middle,0
+71,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_41,04-09-2013,0,0,0,0,School,0
+72,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,1,0,0,0,62.0,cupertino_usd_04-09-2013_42,04-09-2013,0,0,0,1,9.3   Accept for Information Quarterly Report on Williams Uniform Complaints for the Period,0
+73,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_43,04-09-2013,0,0,0,0,"of January 1 through March 31, 2013",0
+74,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_44,04-09-2013,0,0,0,0,,0
+75,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_45,04-09-2013,0,1,0,0,10.  BOARD MEMBER ACTIVITIES,1
+76,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_46,04-09-2013,0,0,0,0,,0
+77,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_47,04-09-2013,0,1,0,0,11.  CLOSED SESSION,1
+78,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_48,04-09-2013,0,0,0,0,,0
+79,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,62.0,cupertino_usd_04-09-2013_49,04-09-2013,0,0,0,1,11.1 Conference with Labor Negotiators,0
+80,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_50,04-09-2013,0,0,0,0,District Representative Nancy Johnson,0
+81,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_51,04-09-2013,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0
+82,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_52,04-09-2013,0,0,0,0,"Employees Association (CSEA), Chapter 13, Service Employees International Union",0
+83,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,86.0,cupertino_usd_04-09-2013_53,04-09-2013,0,0,0,0,"(SEIU), Local 521",0
+84,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_54,04-09-2013,0,0,0,0,,0
+85,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_55,04-09-2013,0,1,0,0,12.   REPORT FROM CLOSED SESSION,1
+86,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,540.0,cupertino_usd_04-09-2013_56,04-09-2013,0,0,0,0,,0
+87,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_0,04-09-2013,0,0,0,0,"Board Meeting Agenda April 9, 2013 Page 3",0
+88,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,77.0,cupertino_usd_04-09-2013_1,04-09-2013,0,0,0,0,,0
+89,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_2,04-09-2013,0,0,0,0,,0
+90,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_3,04-09-2013,0,1,0,0,13.   ADJOURNMENT,1
+91,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_4,04-09-2013,0,0,0,0,,0
+92,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_04-09-2013_5,04-09-2013,0,0,0,0,,0
+93,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_04-09-2013_6,04-09-2013,0,0,0,0,,0
+94,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,540.0,cupertino_usd_04-09-2013_7,04-09-2013,0,0,0,0,,0

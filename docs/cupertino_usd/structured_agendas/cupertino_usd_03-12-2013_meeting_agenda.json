@@ -5,75 +5,86 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER / FLAG SALUTE / GARDEN GATE ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.  CALL TO ORDER / FLAG SALUTE / GARDEN GATE ELEMENTARY SCHOOL", 
+            "section_name_raw": "1. CALL TO ORDER / FLAG SALUTE / GARDEN GATE ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
-            "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.  RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_number": "2."
+            "section_name": "PRESENTATION", 
+            "section_name_raw": "PRESENTATION", 
+            "section_number": ""
         }, 
         {
             "items": [], 
+            "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "2. RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of Minutes of the Regular Meetings of February 12, 2013 and February 26, 2013.", 
+                    "item_text_raw": "Approval of Minutes of the Regular Meetings of February 12, 2013 and February 26, 2013."
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.  APPROVAL OF MINUTES", 
+            "section_name_raw": "3. APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
-            "items": [
-                {
-                    "item_number": "54954.2", 
-                    "item_text": "\u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall", 
-                    "item_text_raw": "54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall"
-                }
-            ], 
+            "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.  PUBLIC COMMENTS", 
+            "section_name_raw": "5. PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
-                    "item_number": "6.1", 
-                    "item_text": "Ratification of February, 2013 Warrant List", 
-                    "item_text_raw": "6.1  Ratification of February, 2013 Warrant List"
+                    "item_number": "", 
+                    "item_text": "Consent items are considered to be routine by the Board of Education and will be enacted", 
+                    "item_text_raw": "Consent items are considered to be routine by the Board of Education and will be enacted"
                 }, 
                 {
-                    "item_number": "6.2", 
-                    "item_text": "Ratification of February, 2013 Personnel Report", 
-                    "item_text_raw": "6.2  Ratification of February, 2013 Personnel Report"
+                    "item_number": "", 
+                    "item_text": "Consent and considered separately.", 
+                    "item_text_raw": "Consent and considered separately. "
+                }, 
+                {
+                    "item_number": "6.1", 
+                    "item_text": "Ratification of February, 2013 Warrant List", 
+                    "item_text_raw": "6.1 Ratification of February, 2013 Warrant List"
                 }, 
                 {
                     "item_number": "6.3", 
-                    "item_text": "Award of Architectural Services in the Amount of $65,000 to Nyberg Architects for", 
-                    "item_text_raw": "6.3  Award of Architectural Services in the Amount of $65,000 to Nyberg Architects for"
+                    "item_text": "Award of Architectural Services in the Amount of $65,000 to Nyberg Architects for Plans and Biddable Specifications for Six Purchased Modulars to be Located at Faria Elementary, Muir Elementary, Kennedy Middle, and Miller Middle", 
+                    "item_text_raw": "6.3 Award of Architectural Services in the Amount of $65,000 to Nyberg Architects for Plans and Biddable Specifications for Six Purchased Modulars to be Located at Faria Elementary, Muir Elementary, Kennedy Middle, and Miller Middle"
                 }, 
                 {
                     "item_number": "6.4", 
                     "item_text": "Award of Security Design Consultant Services to Marquis Systems, Inc. in the", 
-                    "item_text_raw": "6.4  Award of Security Design Consultant Services to Marquis Systems, Inc. in the"
+                    "item_text_raw": "6.4 Award of Security Design Consultant Services to Marquis Systems, Inc. in the"
                 }, 
                 {
                     "item_number": "6.5", 
                     "item_text": "Ratification of Reclassification of School Technology Media Clerks", 
-                    "item_text_raw": "6.5  Ratification of Reclassification of School Technology Media Clerks"
+                    "item_text_raw": "6.5 Ratification of Reclassification of School Technology Media Clerks"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "6.  CONSENT ITEMS", 
+            "section_name_raw": "6. CONSENT ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.  SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "7. SUPERINTENDENT\u2019S REPORT", 
             "section_number": "7."
         }, 
         {
@@ -81,11 +92,11 @@
                 {
                     "item_number": "8.1", 
                     "item_text": "Approval of Second Interim Financial Report for the 2012-2013 Fiscal Year", 
-                    "item_text_raw": "8.1  Approval of Second Interim Financial Report for the 2012-2013 Fiscal Year"
+                    "item_text_raw": "8.1 Approval of Second Interim Financial Report for the 2012-2013 Fiscal Year"
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "8.  ACTION ITEMS", 
+            "section_name_raw": "8. ACTION ITEMS", 
             "section_number": "8."
         }, 
         {
@@ -102,8 +113,8 @@
                 }, 
                 {
                     "item_number": "9.3", 
-                    "item_text": "Conference with Labor Negotiators", 
-                    "item_text_raw": "9.3   Conference with Labor Negotiators"
+                    "item_text": "Conference with Labor Negotiators District Representative Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association (CSEA), Chapter 13, Service Employees International Union (SEIU), Local 521", 
+                    "item_text_raw": "9.3   Conference with Labor Negotiators District Representative Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association (CSEA), Chapter 13, Service Employees International Union (SEIU), Local 521"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
@@ -112,20 +123,20 @@
         }, 
         {
             "items": [], 
-            "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "11.  REPORT FROM CLOSED SESSION", 
-            "section_number": "11."
+            "section_name": "11.REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "11.REPORT FROM CLOSED SESSION", 
+            "section_number": ""
         }, 
         {
             "items": [], 
             "section_name": "BOARD MEMBER ACTIVITIES", 
-            "section_name_raw": "12.  BOARD MEMBER ACTIVITIES", 
+            "section_name_raw": "12. BOARD MEMBER ACTIVITIES", 
             "section_number": "12."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "13.  ADJOURNMENT", 
+            "section_name_raw": "13. ADJOURNMENT", 
             "section_number": "13."
         }
     ]

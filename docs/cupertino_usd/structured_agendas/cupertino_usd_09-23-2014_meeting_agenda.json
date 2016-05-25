@@ -5,35 +5,58 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "2.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "2.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Monta Vista High School Students", 
+                    "item_text_raw": "Monta Vista High School Students"
+                }
+            ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "3.     PRESENTATION", 
+            "section_name_raw": "3.    PRESENTATION", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The Board of Education will hold a Public Hearing regarding the Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year Public Hearing was opened at:   _____________________ Public Hearing was closed at:     _____________________", 
+                    "item_text_raw": "The Board of Education will hold a Public Hearing regarding the Adoption of Resolution No. 14-15-09 Sufficiency of Instructional Materials for the 2014 \u2013 2015 School Year Public Hearing was opened at:   _____________________ Public Hearing was closed at:     _____________________"
+                }
+            ], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "4.     PUBLIC HEARING", 
+            "section_name_raw": "4.    PUBLIC HEARING", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.      PUBLIC COMMENTS", 
+            "section_name_raw": "5.     PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately.", 
+                    "item_text_raw": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately."
+                }, 
                 {
                     "item_number": "6.1", 
                     "item_text": "Ratification of Contracts with Cupertino Union School District", 
@@ -66,8 +89,8 @@
                 }, 
                 {
                     "item_number": "6.7", 
-                    "item_text": "Approval of Change Order #1 with Bobo Construction for Meyerholz", 
-                    "item_text_raw": "6.7     Approval of Change Order #1 with Bobo Construction for Meyerholz"
+                    "item_text": "Approval of Change Order #1 with Bobo Construction for Meyerholz Elementary School", 
+                    "item_text_raw": "6.7     Approval of Change Order #1 with Bobo Construction for Meyerholz Elementary School"
                 }, 
                 {
                     "item_number": "6.8", 
@@ -117,7 +140,7 @@
                 {
                     "item_number": "9.3", 
                     "item_text": "Public Employee Discipline/Dismissal/Release", 
-                    "item_text_raw": "9.3    Public Employee Discipline/Dismissal/Release"
+                    "item_text_raw": "9.3    Public Employee Discipline/Dismissal/Release "
                 }
             ], 
             "section_name": "CLOSED SESSION", 

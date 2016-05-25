@@ -1,166 +1,141 @@
-Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.3,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1,other_text
-1,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,0,0,1,1,308.31,cupertino_usd_11-19-2013_1,11-19-2013,0,0,0,0,,0,other_text
-2,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,0,Board of Education,0,other_text
-3,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,0,Regular Meeting,0,other_text
-4,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_4,11-19-2013,0,0,0,0,,0,other_text
-5,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,0,AGENDA,1,other_text
-6,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,,0,other_text
-7,cupertino_usd,C,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.28,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,0,"Cupertino Union School District    Tuesday, November 19, 2013",0,other_text
-8,cupertino_usd,1,0,0,Arial,14.375,1,0,0,1,0,0,0,0,77.28,cupertino_usd_11-19-2013_8,11-19-2013,0,1,0,0,1309 S. Mary Avenue  6:30 p.m.,0,other_text
-9,cupertino_usd,S,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.28,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,"Sunnyvale, CA  94087",0,other_text
-10,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,0,,0,other_text
-11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0,other_text
-12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_12,11-19-2013,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0,other_text
-13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0,other_text
-14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_14,11-19-2013,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0,other_text
-15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0,other_text
-16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0,other_text
-17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0,other_text
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0,other_text
-19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0,other_text
-20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.92,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,,0,other_text
-21,cupertino_usd,I,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,104.649,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0,other_text
-22,cupertino_usd,a,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,222.946,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,at least two business days before the meeting date.,0,other_text
-23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.92,cupertino_usd_11-19-2013_23,11-19-2013,0,0,0,0,,0,other_text
-24,cupertino_usd,A,1,0,Arial-Bold,11.04,0,0,0,0,0,0,1,0,156.759,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0,other_text
-25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.56,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,0,,0,other_text
-26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_26,11-19-2013,0,1,0,0,1.    CALL TO ORDER/FLAG SALUTE/JOHN MUIR ELEMENTARY SCHOOL,1,section_heading
-27,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,PRESENTATION,1,other_text
-28,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,0,,0,other_text
-29,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_29,11-19-2013,0,1,0,0,2.        RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1,section_heading
-30,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_30,11-19-2013,0,0,0,0,Classified Employee of the Month – November 2013,0,other_text
-31,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_31,11-19-2013,0,0,0,0,"Tracy Solchenberger, School Secretary, Sedgwick Elementary School",0,other_text
-32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_32,11-19-2013,0,0,0,0,,0,other_text
-33,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_33,11-19-2013,0,1,0,0,3.        APPROVAL OF MINUTES,1,section_heading
-34,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_34,11-19-2013,0,0,0,0,"Approval of minutes of the Regular Meeting of October 8, 2013, Special Meeting of",0,other_text
-35,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_35,11-19-2013,0,0,0,0,"October 21, 2013 and the Regular Meeting of October 22, 2013",0,other_text
-36,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_36,11-19-2013,0,0,0,0,,0,other_text
-37,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_37,11-19-2013,0,1,0,0,4.        COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
-38,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_38,11-19-2013,0,0,0,0,,0,other_text
-39,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_39,11-19-2013,0,1,0,0,5.        PUBLIC COMMENTS,1,section_heading
-40,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_40,11-19-2013,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,other_text
-41,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_41,11-19-2013,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting,",0,other_text
-42,cupertino_usd,a,0,0,Arial,13.097,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_42,11-19-2013,0,0,0,0,and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on,0,other_text
-43,cupertino_usd,a,0,0,Arial,13.097,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_43,11-19-2013,0,0,0,0,"any non-agenda item comments at this time, although the item may be agendized at a later date",0,other_text
-44,cupertino_usd,(,0,0,Arial,13.097,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_44,11-19-2013,0,0,0,0,(Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with,0,other_text
-45,cupertino_usd,G,0,0,Arial,13.097,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_45,11-19-2013,0,0,0,0,Government Code 54954.2 – No action or discussion shall be undertaken on any item not,0,other_text
-46,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,13,76.56,cupertino_usd_11-19-2013_46,11-19-2013,0,0,0,0,appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.,0,other_text
-47,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_47,11-19-2013,0,0,0,0,,0,other_text
-48,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_48,11-19-2013,0,1,0,0,6.        CONSENT ITEM,1,section_heading
-49,cupertino_usd,C,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_49,11-19-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be,0,other_text
-50,cupertino_usd,e,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_50,11-19-2013,0,0,0,0,"enacted in one motion.  If discussion of any of the items is required, they may be",0,other_text
-51,cupertino_usd,r,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_51,11-19-2013,0,0,0,0,removed from Consent and considered separately.,0,other_text
-52,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_52,11-19-2013,0,0,0,0,,0,other_text
-53,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_53,11-19-2013,0,0,0,1,6.1     Ratification of October 2013 Personnel Report,0,item_heading
-54,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,3,76.56,cupertino_usd_11-19-2013_54,11-19-2013,0,0,0,0,,0,other_text
-55,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,"Board Meeting Agenda  November 19, 2013  Page 2",0,other_text
-56,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,33,76.56,cupertino_usd_11-19-2013_1,11-19-2013,0,0,0,0,,0,other_text
-57,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,1,6.2     Ratification of October 2013 Warrant List,0,item_heading
-58,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,0,112.56,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,1,6.3     Approval of the Precondition Report for the Cupertino Union School District’s,0,item_heading
-59,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,10,112.56,cupertino_usd_11-19-2013_4,11-19-2013,0,0,0,0,BTSA Plan,0,other_text
-60,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,1,"6.4     Approval of November 1, 2013 Revisions to the Measure H Bond Program",0,item_heading
-61,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,Project List,0,item_text
-62,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,1,"6.5     Approval of Contract Augmentation in the Amount of $69,300 to WLC Architects",0,item_heading
-63,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_8,11-19-2013,0,0,0,0,For Additional Design and Construction Administration Services Associated with,0,item_text
-64,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,Modernization of the Meyerholz Elementary School Campus,0,item_text
-65,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,1,"6.6     Approval of  Contract Augmentation to SIM Architects in the amount of $27,230",0,item_heading
-66,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,0,for Design and Construction Administration Services Associated With,0,item_text
-67,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_12,11-19-2013,0,0,0,0,Modernization of the West Valley Elementary School Campus,0,item_text
-68,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,1,"6.7     Approval of Contract Award in the Amount of $1,532,554 to Swinerton",0,item_heading
-69,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_14,11-19-2013,0,0,0,0,Management & Consulting for Bond Program and Construction Management,0,item_text
-70,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,0,"Services Associated with Modernization Projects at Garden Gate, McAuliffe and",0,item_text
-71,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,"John Muir Elementary Schools and Design Management Services at De Vargas,",0,item_text
-72,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,"Dilworth, Nimitz and Stevens Creek Elementary Schools",0,item_text
-73,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,1,"6.8     Approval of Contract Award in the Amount of $115,560 to Dan Butler Inspection",0,item_heading
-74,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,Service DSA Inspection Services for the New Multipurpose Building at Cupertino,0,item_text
-75,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,Middle School,0,item_text
-76,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,1,"6.9     Approval of Contract Award in the Amount of $27,500 to Nyberg Architects for",0,item_heading
-77,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,Design  Services Related to Installation of Interim Student Housing at West,0,item_text
-78,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_23,11-19-2013,0,0,0,0,Valley Elementary School,0,item_text
-79,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,1,6.10   Approval to Declare Obsolete Equipment Surplus,0,item_heading
-80,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,1,"6.11   Approval of Contract Award in the Amount of $51,795 to Acrell Inspection",0,item_heading
-81,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_26,11-19-2013,0,0,0,0,Services for In-Plant DSA Special Inspection Services for the New Modular,0,item_text
-82,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,Classroom Building at Cupertino Middle School,0,item_text
-83,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,1,"6.12   Approval of Contract Award in the Amount of $64,030 to Acrell Inspection",0,item_heading
-84,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_29,11-19-2013,0,0,0,0,Services for In-Plant DSA Special Inspection Services for the New Modular,0,item_text
-85,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_30,11-19-2013,0,0,0,0,Classroom and Music Buildings at Lawson Middle School,0,item_text
-86,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_31,11-19-2013,0,0,0,1,"6.13   Approval of Contract Award in the Amount of $142,570.49 to Innovative",0,item_heading
-87,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_32,11-19-2013,0,0,0,0,Construction Solution for Soil Remediation & Off-Haul for the District,0,item_text
-88,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_33,11-19-2013,0,0,0,0,Administration Building (Bid No. 14-B02-24),0,item_text
-89,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_34,11-19-2013,0,0,0,1,"6.14   Approval of Contract Award in the Amount of $221,867 to HMC Architects for",0,item_heading
-90,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_35,11-19-2013,0,0,0,0,Design and Construction Administration Services Associated with Modernization,0,item_text
-91,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_36,11-19-2013,0,0,0,0,of the McAuliffe Elementary School Campus,0,item_text
-92,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_37,11-19-2013,0,0,0,1,"6.15   Approval of Contract Award in the Amount of $330,520 to IBI Group for Design",0,item_heading
-93,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_38,11-19-2013,0,0,0,0,and Construction Administration Services Associated with Modernization of the,0,item_text
-94,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_39,11-19-2013,0,0,0,0,Muir Elementary School Campus,0,item_text
-95,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_40,11-19-2013,0,0,0,1,"6.16   Approval of Contract Award in the Amount of $392,453 to WLC Architects for",0,item_heading
-96,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_41,11-19-2013,0,0,0,0,Design and Construction Administration Services Associated with Modernization,0,item_text
-97,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_42,11-19-2013,0,0,0,0,of the Garden Gate Elementary School Campus,0,item_text
-98,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_43,11-19-2013,0,0,0,1,6.17   Delegation of Authority to Award a Contract for Geotechnical Services at,0,item_heading
-99,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_44,11-19-2013,0,0,0,0,"Cupertino Middle School in the Not-to-Exceed Amount of $80,000 to the District",0,item_text
-100,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_45,11-19-2013,0,0,0,0,Superintendent or Her designee,0,item_text
-101,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_46,11-19-2013,0,0,0,1,6.18   Delegation of Authority to Award a Contract for Geotechnical Services at,0,item_heading
-102,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_47,11-19-2013,0,0,0,0,"Lawson Middle School in the Not-to-Exceed Amount of $60,000 to the District",0,item_text
-103,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_48,11-19-2013,0,0,0,0,Superintendent or Her Designee,0,item_text
-104,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_49,11-19-2013,0,0,0,1,6.19   Delegation of Authority to Award a Contract for Special Inspection and Testing,0,item_heading
-105,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_50,11-19-2013,0,0,0,0,"Services at Cupertino Middle School in the Not-to-Exceed Amount of $250,000 to",0,item_text
-106,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_51,11-19-2013,0,0,0,0,the District Superintendent or Her Designee,0,item_text
-107,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_52,11-19-2013,0,0,0,1,6.20   Delegation of Authority to Award a Contract for Special Inspection and Testing,0,item_heading
-108,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_53,11-19-2013,0,0,0,0,"Services at Lawson Middle School in the Not-to-Exceed Amount of $200,000 to",0,item_text
-109,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_54,11-19-2013,0,0,0,0,the District Superintendent or Her Designee,0,item_text
-110,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,7,94.56,cupertino_usd_11-19-2013_55,11-19-2013,0,0,0,0,,0,other_text
-111,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,540.06,cupertino_usd_11-19-2013_56,11-19-2013,0,0,0,0,,0,other_text
-112,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,"Board Meeting Agenda  November 19, 2013  Page 3",0,other_text
-113,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,33,76.56,cupertino_usd_11-19-2013_1,11-19-2013,0,0,0,0,,0,other_text
-114,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,1,"6.21   Ratification of Change Order #1 in the Amount of $101,959.79 to IT Management",0,item_heading
-115,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,0,Corporation for the District-wide Network Infrastructure Upgrade,0,item_text
-116,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_4,11-19-2013,0,0,0,0,(Bid No. 13-B06-24),0,item_text
-117,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,1,"6.22   Ratification of Change Order #2 in the Amount of $6,405.00 to Anza Engineering",0,item_heading
-118,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,for the Grading and Site Utilities for the New Corporation Yard Storage Building,0,item_text
-119,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,0,Project,0,item_text
-120,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_8,11-19-2013,0,0,0,1,"6.23   Ratification of Change Order #2 in the Amount of $6,952.26 to Anza Engineering",0,item_heading
-121,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,for the Installation of Site Utilities to Support New Buildings at Lawson Middle,0,item_text
-122,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,0,School,0,item_text
-123,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,1,"6.24   Ratification of Change Orders #1 and #2 in the Total Amount of $2,722 to",0,item_heading
-124,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_12,11-19-2013,0,0,0,0,Smith & Sons Electric for Procurement and Installation of New Site Lighting,0,item_text
-125,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,0,"Fixtures at the DeVargas, Dilworth, Lincoln, McAuliffe, Meyerholz and Regnart",0,item_text
-126,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_14,11-19-2013,0,0,0,0,Elementary School Campuses,0,item_text
-127,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,1,"6.25   Ratification of Change Order #4 in the Amount of $15,953.46 to Anza",0,item_heading
-128,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,Engineering for the Demolition of the District Office Administrative Office,0,item_text
-129,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,Buildings,0,item_text
-130,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,1,"6.26   Approval of Contract Awards in a Total Combined Amount of $9,200,000 for",0,item_heading
-131,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,Construction of the New Multipurpose Building at Cupertino Middle School to the,0,item_text
-132,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,"Following Contractors:  Calstate Construction, Inc. in the Amount of $6,985,000",0,item_text
-133,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,0,"as General Prime Contractor; Environmental Systems, Inc. in the Amount of",0,item_text
-134,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,"$1,042,000 as Mechanical Prime Contractor; and Delgado Electric, Inc. in the",0,item_text
-135,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,16,94.56,cupertino_usd_11-19-2013_23,11-19-2013,0,0,0,0,"Amount of $1,173,000 as Electrical Prime Contractor",0,item_text
-136,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,6,94.56,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,1,6.27   Rejection of Claim for Personal Injuries – Claim # 486696,0,item_heading
-137,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,12,76.56,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,1,"6.28   Approval of Contract Award in the Amount of $325,000 to Anza Engineering",0,item_heading
-138,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,22,76.56,cupertino_usd_11-19-2013_26,11-19-2013,0,0,0,0,Corp. for the Construction of a 240’ x 255’ Baseball Field at Collins Elementary,0,item_text
-139,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,177.429,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,,0,other_text
-140,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,22,76.56,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,0,School,0,item_text
-141,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_29,11-19-2013,0,0,0,0,,0,other_text
-142,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_30,11-19-2013,0,1,0,0,7.      SUPERINTENDENT’S REPORT,1,section_heading
-143,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,0,1,0,4,94.56,cupertino_usd_11-19-2013_31,11-19-2013,0,0,0,1,7.1       2013–2015 Administrative Intern Appointments,0,item_heading
-144,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_32,11-19-2013,0,0,0,0,,0,other_text
-145,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_33,11-19-2013,0,1,0,0,8.       ACTION ITEMS,1,section_heading
-146,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,10,76.56,cupertino_usd_11-19-2013_34,11-19-2013,0,0,0,1,8.1       Approval of Candidates for the Santa Clara County Committee on School District,0,item_heading
-147,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,22,206.165,cupertino_usd_11-19-2013_35,11-19-2013,0,0,0,0,Organization,0,item_text
-148,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_36,11-19-2013,0,0,0,0,,0,other_text
-149,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_37,11-19-2013,0,1,0,0,9.       DISCUSSION/INFORMATION ITEMS,1,section_heading
-150,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,10,76.56,cupertino_usd_11-19-2013_38,11-19-2013,0,0,0,1,9.1       Accept for Information the Presentation of the Common Core State Standards,0,item_heading
-151,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,10,112.56,cupertino_usd_11-19-2013_39,11-19-2013,0,0,0,0,Expenditure Plan for 2013-2015,0,other_text
-152,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_11-19-2013_40,11-19-2013,0,0,0,0,,0,other_text
-153,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_41,11-19-2013,0,1,0,0,10.     CLOSED SESSION,1,section_heading
-154,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,11,76.56,cupertino_usd_11-19-2013_42,11-19-2013,0,0,0,1,"10.1    Ratification and Approval of a Non-Public School Placement, Board of Education",0,item_heading
-155,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,22,76.56,cupertino_usd_11-19-2013_43,11-19-2013,0,0,0,0,Cost Review for Student Number 11-19-13A,0,item_text
-156,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,11,76.56,cupertino_usd_11-19-2013_44,11-19-2013,0,0,0,1,10.2    Public Employee Discipline/Dismissal/Release,0,item_heading
-157,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_45,11-19-2013,0,0,0,0,,0,other_text
-158,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_46,11-19-2013,0,1,0,0,11.      REPORT FROM CLOSED SESSION,1,section_heading
-159,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_47,11-19-2013,0,0,0,0,,0,other_text
-160,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_48,11-19-2013,0,1,0,0,12.      BOARD ACTIVITY,1,section_heading
-161,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_11-19-2013_49,11-19-2013,0,0,0,0,,0,other_text
-162,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_11-19-2013_50,11-19-2013,0,1,0,0,13.      ADJOURNMENT,1,section_heading
-163,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.56,cupertino_usd_11-19-2013_51,11-19-2013,0,0,0,0,,0,other_text
-164,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,540.06,cupertino_usd_11-19-2013_52,11-19-2013,0,0,0,0,,0,other_text
+Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
+0,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,,0,other_text
+1,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_1,11-19-2013,0,1,0,0,1.  CALL TO ORDER/FLAG SALUTE/JOHN MUIR ELEMENTARY SCHOOL,1,section_heading
+2,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,0,PRESENTATION,1,section_heading
+3,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,0,,0,other_text
+4,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_4,11-19-2013,0,1,0,0,2.       RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1,section_heading
+5,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,0,Classified Employee of the Month – November 2013,0,other_text
+6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,"Tracy Solchenberger, School Secretary, Sedgwick Elementary School",0,item_text
+7,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,0,,0,other_text
+8,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_8,11-19-2013,0,1,0,0,3.       APPROVAL OF MINUTES,1,section_heading
+9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,"Approval of minutes of the Regular Meeting of October 8, 2013, Special Meeting of",0,other_text
+10,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,0,"October 21, 2013 and the Regular Meeting of October 22, 2013",0,other_text
+11,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,0,,0,other_text
+12,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_12,11-19-2013,0,1,0,0,4.       COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
+13,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,0,,0,other_text
+14,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_14,11-19-2013,0,1,0,0,5.       PUBLIC COMMENTS,1,section_heading
+15,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,item_heading
+16,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting,",0,item_text
+17,cupertino_usd,a,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on,0,item_text
+18,cupertino_usd,a,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,0,"any non-agenda item comments at this time, although the item may be agendized at a later date",0,item_text
+19,cupertino_usd,(,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,(Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with,0,item_text
+20,cupertino_usd,G,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,Government Code 54954.2 – No action or discussion shall be undertaken on any item not,0,item_text
+21,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,0,appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.,0,item_text
+22,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,,0,other_text
+23,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_23,11-19-2013,0,1,0,0,6.       CONSENT ITEM,1,section_heading
+24,cupertino_usd,C,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be,0,item_heading
+25,cupertino_usd,e,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,0,"enacted in one motion.  If discussion of any of the items is required, they may be",0,item_text
+26,cupertino_usd,r,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_26,11-19-2013,0,0,0,0,removed from Consent and considered separately.,0,item_text
+27,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,,0,other_text
+28,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,1,6.1     Ratification of October 2013 Personnel Report,0,item_heading
+29,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_29,11-19-2013,0,0,0,0,,0,other_text
+30,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,"Board Meeting Agenda November 19, 2013 Page 2",0,other_text
+31,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_1,11-19-2013,0,0,0,0,,0,other_text
+32,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,1,6.2     Ratification of October 2013 Warrant List,0,item_heading
+33,cupertino_usd,6,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,1,6.3     Approval of the Precondition Report for the Cupertino Union School District’s,0,item_heading
+34,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_4,11-19-2013,0,0,0,0,BTSA Plan,0,item_text
+35,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,1,"6.4     Approval of November 1, 2013 Revisions to the Measure H Bond Program",0,item_heading
+36,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,Project List,0,item_text
+37,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,1,"6.5     Approval of Contract Augmentation in the Amount of $69,300 to WLC Architects",0,item_heading
+38,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_8,11-19-2013,0,0,0,0,For Additional Design and Construction Administration Services Associated with,0,item_text
+39,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,Modernization of the Meyerholz Elementary School Campus,0,item_text
+40,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,1,"6.6     Approval of  Contract Augmentation to SIM Architects in the amount of $27,230",0,item_heading
+41,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,0,for Design and Construction Administration Services Associated With,0,item_text
+42,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_12,11-19-2013,0,0,0,0,Modernization of the West Valley Elementary School Campus,0,item_text
+43,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,1,"6.7     Approval of Contract Award in the Amount of $1,532,554 to Swinerton",0,item_heading
+44,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_14,11-19-2013,0,0,0,0,Management & Consulting for Bond Program and Construction Management,0,item_text
+45,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,0,"Services Associated with Modernization Projects at Garden Gate, McAuliffe and",0,item_text
+46,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,"John Muir Elementary Schools and Design Management Services at De Vargas,",0,item_text
+47,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,"Dilworth, Nimitz and Stevens Creek Elementary Schools",0,item_text
+48,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,1,"6.8     Approval of Contract Award in the Amount of $115,560 to Dan Butler Inspection",0,item_heading
+49,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,Service DSA Inspection Services for the New Multipurpose Building at Cupertino,0,item_text
+50,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,Middle School,0,item_text
+51,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,1,"6.9     Approval of Contract Award in the Amount of $27,500 to Nyberg Architects for",0,item_heading
+52,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,Design  Services Related to Installation of Interim Student Housing at West,0,item_text
+53,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_23,11-19-2013,0,0,0,0,Valley Elementary School,0,item_text
+54,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,1,6.10   Approval to Declare Obsolete Equipment Surplus,0,item_heading
+55,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,1,"6.11   Approval of Contract Award in the Amount of $51,795 to Acrell Inspection",0,item_heading
+56,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_26,11-19-2013,0,0,0,0,Services for In-Plant DSA Special Inspection Services for the New Modular,0,item_text
+57,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,Classroom Building at Cupertino Middle School,0,item_text
+58,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,1,"6.12   Approval of Contract Award in the Amount of $64,030 to Acrell Inspection",0,item_heading
+59,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_29,11-19-2013,0,0,0,0,Services for In-Plant DSA Special Inspection Services for the New Modular,0,item_text
+60,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_30,11-19-2013,0,0,0,0,Classroom and Music Buildings at Lawson Middle School,0,item_text
+61,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_31,11-19-2013,0,0,0,1,"6.13   Approval of Contract Award in the Amount of $142,570.49 to Innovative",0,item_heading
+62,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_32,11-19-2013,0,0,0,0,Construction Solution for Soil Remediation & Off-Haul for the District,0,item_text
+63,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_33,11-19-2013,0,0,0,0,Administration Building (Bid No. 14-B02-24),0,item_text
+64,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_34,11-19-2013,0,0,0,1,"6.14   Approval of Contract Award in the Amount of $221,867 to HMC Architects for",0,item_heading
+65,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_35,11-19-2013,0,0,0,0,Design and Construction Administration Services Associated with Modernization,0,item_text
+66,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_36,11-19-2013,0,0,0,0,of the McAuliffe Elementary School Campus,0,item_text
+67,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_37,11-19-2013,0,0,0,1,"6.15   Approval of Contract Award in the Amount of $330,520 to IBI Group for Design",0,item_heading
+68,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_38,11-19-2013,0,0,0,0,and Construction Administration Services Associated with Modernization of the,0,item_text
+69,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_39,11-19-2013,0,0,0,0,Muir Elementary School Campus,0,item_text
+70,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_40,11-19-2013,0,0,0,1,"6.16   Approval of Contract Award in the Amount of $392,453 to WLC Architects for",0,item_heading
+71,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_41,11-19-2013,0,0,0,0,Design and Construction Administration Services Associated with Modernization,0,item_text
+72,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_42,11-19-2013,0,0,0,0,of the Garden Gate Elementary School Campus,0,item_text
+73,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_43,11-19-2013,0,0,0,1,6.17   Delegation of Authority to Award a Contract for Geotechnical Services at,0,item_heading
+74,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_44,11-19-2013,0,0,0,0,"Cupertino Middle School in the Not-to-Exceed Amount of $80,000 to the District",0,item_text
+75,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_45,11-19-2013,0,0,0,0,Superintendent or Her designee,0,item_text
+76,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_46,11-19-2013,0,0,0,1,6.18   Delegation of Authority to Award a Contract for Geotechnical Services at,0,item_heading
+77,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_47,11-19-2013,0,0,0,0,"Lawson Middle School in the Not-to-Exceed Amount of $60,000 to the District",0,item_text
+78,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_48,11-19-2013,0,0,0,0,Superintendent or Her Designee,0,item_text
+79,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_49,11-19-2013,0,0,0,1,6.19   Delegation of Authority to Award a Contract for Special Inspection and Testing,0,item_heading
+80,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_50,11-19-2013,0,0,0,0,"Services at Cupertino Middle School in the Not-to-Exceed Amount of $250,000 to",0,item_text
+81,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_51,11-19-2013,0,0,0,0,the District Superintendent or Her Designee,0,item_text
+82,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_52,11-19-2013,0,0,0,1,6.20   Delegation of Authority to Award a Contract for Special Inspection and Testing,0,item_heading
+83,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_53,11-19-2013,0,0,0,0,"Services at Lawson Middle School in the Not-to-Exceed Amount of $200,000 to",0,item_text
+84,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_54,11-19-2013,0,0,0,0,the District Superintendent or Her Designee,0,item_text
+85,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_55,11-19-2013,0,0,0,0,,0,other_text
+86,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_11-19-2013_56,11-19-2013,0,0,0,0,,0,other_text
+87,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_0,11-19-2013,0,0,0,0,"Board Meeting Agenda November 19, 2013 Page 3",0,other_text
+88,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_1,11-19-2013,0,0,0,0,,0,other_text
+89,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_2,11-19-2013,0,0,0,1,"6.21   Ratification of Change Order #1 in the Amount of $101,959.79 to IT Management",0,item_heading
+90,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_3,11-19-2013,0,0,0,0,Corporation for the District-wide Network Infrastructure Upgrade,0,item_text
+91,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_4,11-19-2013,0,0,0,0,(Bid No. 13-B06-24),0,item_text
+92,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_5,11-19-2013,0,0,0,1,"6.22   Ratification of Change Order #2 in the Amount of $6,405.00 to Anza Engineering",0,item_heading
+93,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_6,11-19-2013,0,0,0,0,for the Grading and Site Utilities for the New Corporation Yard Storage Building,0,item_text
+94,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_7,11-19-2013,0,0,0,0,Project,0,item_text
+95,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_8,11-19-2013,0,0,0,1,"6.23   Ratification of Change Order #2 in the Amount of $6,952.26 to Anza Engineering",0,item_heading
+96,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_9,11-19-2013,0,0,0,0,for the Installation of Site Utilities to Support New Buildings at Lawson Middle,0,item_text
+97,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_10,11-19-2013,0,0,0,0,School,0,item_text
+98,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_11,11-19-2013,0,0,0,1,"6.24   Ratification of Change Orders #1 and #2 in the Total Amount of $2,722 to",0,item_heading
+99,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_12,11-19-2013,0,0,0,0,Smith & Sons Electric for Procurement and Installation of New Site Lighting,0,item_text
+100,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_13,11-19-2013,0,0,0,0,"Fixtures at the DeVargas, Dilworth, Lincoln, McAuliffe, Meyerholz and Regnart",0,item_text
+101,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_14,11-19-2013,0,0,0,0,Elementary School Campuses,0,item_text
+102,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_15,11-19-2013,0,0,0,1,"6.25   Ratification of Change Order #4 in the Amount of $15,953.46 to Anza",0,item_heading
+103,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_16,11-19-2013,0,0,0,0,Engineering for the Demolition of the District Office Administrative Office,0,item_text
+104,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_17,11-19-2013,0,0,0,0,Buildings,0,item_text
+105,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_18,11-19-2013,0,0,0,1,"6.26   Approval of Contract Awards in a Total Combined Amount of $9,200,000 for",0,item_heading
+106,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_19,11-19-2013,0,0,0,0,Construction of the New Multipurpose Building at Cupertino Middle School to the,0,item_text
+107,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_20,11-19-2013,0,0,0,0,"Following Contractors:  Calstate Construction, Inc. in the Amount of $6,985,000",0,item_text
+108,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_21,11-19-2013,0,0,0,0,"as General Prime Contractor; Environmental Systems, Inc. in the Amount of",0,item_text
+109,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_22,11-19-2013,0,0,0,0,"$1,042,000 as Mechanical Prime Contractor; and Delgado Electric, Inc. in the",0,item_text
+110,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_23,11-19-2013,0,0,0,0,"Amount of $1,173,000 as Electrical Prime Contractor",0,item_text
+111,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_24,11-19-2013,0,0,0,1,6.27   Rejection of Claim for Personal Injuries – Claim # 486696,0,item_heading
+112,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,113.0,cupertino_usd_11-19-2013_25,11-19-2013,0,0,0,1,"6.28   Approval of Contract Award in the Amount of $325,000 to Anza Engineering",0,item_heading
+113,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,144.0,cupertino_usd_11-19-2013_26,11-19-2013,0,0,0,0,Corp. for the Construction of a 240’ x 255’ Baseball Field at Collins Elementary,0,item_text
+114,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,177.0,cupertino_usd_11-19-2013_27,11-19-2013,0,0,0,0,,0,other_text
+115,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,144.0,cupertino_usd_11-19-2013_28,11-19-2013,0,0,0,0,School,0,item_text
+116,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_29,11-19-2013,0,0,0,0,,0,other_text
+117,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_30,11-19-2013,0,1,0,0,7.     SUPERINTENDENT’S REPORT,1,section_heading
+118,cupertino_usd, ,1,0,Arial-Bold,15.055,1,0,0,0,1,0,0,107.0,cupertino_usd_11-19-2013_31,11-19-2013,0,0,0,0,7.12013–2015 Administrative Intern Appointments,0,other_text
+119,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_32,11-19-2013,0,0,0,0,,0,other_text
+120,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_33,11-19-2013,0,1,0,0,8.       ACTION ITEMS,1,section_heading
+121,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,107.0,cupertino_usd_11-19-2013_34,11-19-2013,0,0,0,1,8.1       Approval of Candidates for the Santa Clara County Committee on School District,0,item_heading
+122,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,144.0,cupertino_usd_11-19-2013_35,11-19-2013,0,0,0,0,Organization,0,other_text
+123,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_36,11-19-2013,0,0,0,0,,0,other_text
+124,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_37,11-19-2013,0,1,0,0,9.       DISCUSSION/INFORMATION ITEMS,1,section_heading
+125,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,107.0,cupertino_usd_11-19-2013_38,11-19-2013,0,0,0,1,9.1       Accept for Information the Presentation of the Common Core State Standards,0,item_heading
+126,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,143.0,cupertino_usd_11-19-2013_39,11-19-2013,0,0,0,0,Expenditure Plan for 2013-2015,0,item_text
+127,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_11-19-2013_40,11-19-2013,0,0,0,0,,0,other_text
+128,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_41,11-19-2013,0,1,0,0,10.     CLOSED SESSION,1,section_heading
+129,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,110.0,cupertino_usd_11-19-2013_42,11-19-2013,0,0,0,1,"10.1    Ratification and Approval of a Non-Public School Placement, Board of Education",0,item_heading
+130,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,144.0,cupertino_usd_11-19-2013_43,11-19-2013,0,0,0,0,Cost Review for Student Number 11-19-13A,0,item_text
+131,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,110.0,cupertino_usd_11-19-2013_44,11-19-2013,0,0,0,1,10.2    Public Employee Discipline/Dismissal/Release,0,item_heading
+132,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_45,11-19-2013,0,0,0,0,,0,other_text
+133,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_46,11-19-2013,0,1,0,0,11.      REPORT FROM CLOSED SESSION,1,section_heading
+134,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_47,11-19-2013,0,0,0,0,,0,other_text
+135,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_48,11-19-2013,0,1,0,0,12.      BOARD ACTIVITY,1,section_heading
+136,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_49,11-19-2013,0,0,0,0,,0,other_text
+137,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_11-19-2013_50,11-19-2013,0,1,0,0,13.      ADJOURNMENT,1,section_heading
+138,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_11-19-2013_51,11-19-2013,0,0,0,0,,0,other_text
+139,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_11-19-2013_52,11-19-2013,0,0,0,0,,0,other_text

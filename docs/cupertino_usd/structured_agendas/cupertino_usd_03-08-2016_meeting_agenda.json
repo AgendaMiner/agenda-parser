@@ -5,7 +5,7 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER", 
-            "section_name_raw": "1.     CALL TO ORDER", 
+            "section_name_raw": "1.    CALL TO ORDER", 
             "section_number": "1."
         }, 
         {
@@ -19,34 +19,55 @@
                     "item_number": "2.2", 
                     "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.4", 
                     "item_text_raw": "2.2  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "Cupertino Education Association (CEA); California School Employees Association", 
+                    "item_text_raw": "Cupertino Education Association (CEA); California School Employees Association"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "2.     CLOSED SESSION", 
+            "section_name_raw": "2.    CLOSED SESSION", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "3.     REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "3.    REPORT FROM CLOSED SESSION", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "FLAG SALUTE/MURDOCK-PORTAL PRESENTING", 
-            "section_name_raw": "4.     FLAG SALUTE/MURDOCK-PORTAL PRESENTING", 
+            "section_name_raw": "4.    FLAG SALUTE/MURDOCK-PORTAL PRESENTING", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "5.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "5.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Sonia Sharma, Secretary II", 
+                    "item_text_raw": "Sonia Sharma, Secretary II"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "Doris Blakes, Secretary I", 
+                    "item_text_raw": "Doris Blakes, Secretary I"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "Eaton Elementary School", 
+                    "item_text_raw": "Eaton Elementary School"
+                }
+            ], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "6.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "6.    RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "6."
         }, 
         {
@@ -63,23 +84,35 @@
                 }
             ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "7.     PRESENTATION", 
+            "section_name_raw": "7.    PRESENTATION", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "February 23, 2016", 
+                    "item_text_raw": "February 23, 2016"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "8.     APPROVAL OF MINUTES", 
+            "section_name_raw": "8.    APPROVAL OF MINUTES", 
             "section_number": "8."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "9.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "9.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "9."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "10.    PUBLIC COMMENTS", 
             "section_number": "10."

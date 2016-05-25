@@ -5,25 +5,31 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL", 
+            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE/LINCOLN ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "2.        APPROVAL OF MINUTES", 
+            "section_name_raw": "2.       APPROVAL OF MINUTES", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "3.        COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "3.       COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not"
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "4.        PUBLIC COMMENTS", 
+            "section_name_raw": "4.       PUBLIC COMMENTS", 
             "section_number": "4."
         }, 
         {
@@ -35,7 +41,7 @@
                 }
             ], 
             "section_name": "RECOGNITION", 
-            "section_name_raw": "5.        RECOGNITION", 
+            "section_name_raw": "5.       RECOGNITION", 
             "section_number": "5."
         }, 
         {
@@ -47,7 +53,7 @@
                 }
             ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "6.        PRESENTATION", 
+            "section_name_raw": "6.       PRESENTATION", 
             "section_number": "6."
         }, 
         {
@@ -104,8 +110,8 @@
                 }, 
                 {
                     "item_number": "7.11", 
-                    "item_text": "Approval of Contract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus", 
-                    "item_text_raw": "7.11     Approval of Contract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus"
+                    "item_text": "Approval ofContract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus", 
+                    "item_text_raw": "7.11     Approval ofContract Award in the Amount of $82,350 to Keith Brown Inspections for DSA Inspection Services Associated with Seismic Upgrades and Modernization of the Meyerholz Elementary School Campus"
                 }, 
                 {
                     "item_number": "7.12", 
@@ -129,22 +135,11 @@
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "7.        CONSENT ITEMS", 
+            "section_name_raw": "7.       CONSENT ITEMS", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
-            "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "8.        SUPERINTENDENT\u2019S REPORT", 
-            "section_number": "8."
-        }, 
-        {
             "items": [
-                {
-                    "item_number": "9.1", 
-                    "item_text": "Approval of Resolution No. 13-14-17 \u2013 Authorizing the Issuance of Cupertino Union School District, Santa Clara County, California, Election of 2012 General Obligation Bonds, Series B, and Actions Related Thereto", 
-                    "item_text_raw": "9.1       Approval of Resolution No. 13-14-17 \u2013 Authorizing the Issuance of Cupertino Union School District, Santa Clara County, California, Election of 2012 General Obligation Bonds, Series B, and Actions Related Thereto "
-                }, 
                 {
                     "item_number": "9.2", 
                     "item_text": "Approval of Middle School Pathway Course Sequence Change", 

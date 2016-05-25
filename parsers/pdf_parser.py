@@ -14,7 +14,7 @@ pp = pprint.PrettyPrinter(indent=4)
 def main():
 
 	agency = "cupertino_usd"
-	date = "04-05-2016"
+	date = "05-10-2016"
 
 	parsePDFtoLines(agency, date, False)
 
@@ -85,7 +85,7 @@ def test_func(obj):
 cropHeaderAndFooter
 ===================
 Crops out unwanted boilerplate at the top and bottom of each page.
-Tries to determine the area to crop out using lines at the top and bottom of each page.
+Tries to determine the area to crop out using lines and rectangles at the top and bottom of each page.
 Returns a cropped version of the page.
 '''
 def cropHeaderAndFooter(page, page_index):
@@ -102,12 +102,15 @@ def cropHeaderAndFooter(page, page_index):
 	if page_index == 0:
 		max_header_height = page.height / 2
 	else:
-		max_header_height = 200
+		max_header_height = 100
 		second_top_line_margin = 0
 
 	topmost_line_dist_from_top = page.height
 
-	for line in page.lines:
+	# try filtering on lines and rectangles
+	rects = [rect for rect in page.rects if (rect['width'] > page.width/2) and (rect['height'] > page.height / 10)]
+	lines_and_rects = page.lines + rects
+	for line in lines_and_rects:
 		line_dist_from_top = line['bottom']
 
 		# check if the line is the topmost line found so far
@@ -156,6 +159,11 @@ Each dict contains the text of that line, along with features about the formatti
 '''
 def getLinesWithFormatting(page, page_index, agency, date):
 
+
+	# find rects to exclude
+	rects = [rect for rect in page.rects if (rect['width'] > page.width/2) and (rect['height'] > page.height / 10)]
+	# pp.pprint(rects)
+
 	### vertical tolerance in pixels to separate lines
 	y_tol = 2
 
@@ -164,7 +172,6 @@ def getLinesWithFormatting(page, page_index, agency, date):
 
 	# sort list of char dicts by distance from page top
 	sorted_chars = sorted(page.chars, key=itemgetter('top', 'x0'))
-	# pp.pprint(sorted_chars)
 
 	# position indicators
 	current_y_pos = 0
@@ -178,46 +185,58 @@ def getLinesWithFormatting(page, page_index, agency, date):
 		cur_y_max = current_y_pos + y_tol
 
 		if cur_y_min >= char['top'] or char['top'] >= cur_y_max:
+			if not charInsideRect(char, rects):
 
-			# get all characters on that line
-			lines_char_objs = [c for c in sorted_chars if c['top'] <= (char['top']+y_tol) and c['top'] >= (char['top']-y_tol)]
-			lines_chars = [c['text'] for c in lines_char_objs]
-			line_string = ''.join(lines_chars)
+				# get all characters on that line
+				lines_char_objs = [c for c in sorted_chars if c['top'] <= (char['top']+y_tol) and c['top'] >= (char['top']-y_tol)]
+				lines_chars = [c['text'] for c in lines_char_objs]
+				line_string = ''.join(lines_chars)
 
-			print(line_string)
+				# print(line_string)
 
-			# add line formatting to the lines_formatting list
-			# assumes that all text on that line have the same formatting
-			line_dict = {'agency': agency, \
-				'meeting_date': date, \
-				'line_id': agency + "_" + date + "_" + str(line_index), \
-				'font_name': char['fontname'], \
-				'font_size': char['size'], \
-				'first_char': char['text'], \
-				'left_inset': round(char['x0']), \
-				'text': line_string}
+				# add line formatting to the lines_formatting list
+				# assumes that all text on that line have the same formatting
+				line_dict = {'agency': agency, \
+					'meeting_date': date, \
+					'line_id': agency + "_" + date + "_" + str(line_index), \
+					'font_name': char['fontname'], \
+					'font_size': char['size'], \
+					'first_char': char['text'], \
+					'left_inset': round(char['x0']), \
+					'text': line_string}
 
-			# if the line begins with spaces, the left_inset is thrown off.
-			# to handle this, use the inset of the first non-space character.
-			if lines_chars[0] == ' ':
-				for c in lines_char_objs:
-					if c['text'] != ' ':
-						line_dict['left_inset'] = round(c['x0'])
-						break
+				# if the line begins with spaces, the left_inset is thrown off.
+				# to handle this, use the inset of the first non-space character.
+				if lines_chars[0] == ' ':
+					for c in lines_char_objs:
+						if c['text'] != ' ':
+							line_dict['left_inset'] = round(c['x0'])
+							break
 
-			# add additional format-based features
-			line_dict = addFormattingFeatures(line_dict)
+				# add additional format-based features
+				line_dict = addFormattingFeatures(line_dict)
 
-			# add to list
-			lines.append(line_dict)
+				# add to list
+				lines.append(line_dict)
 
-			# update position indicators
-			current_y_pos = char['top']
-			line_index += 1
+				# update position indicators
+				current_y_pos = char['top']
+				line_index += 1
 
 	return lines
 
 
+'''
+charInsideRect
+===============
+Tests if a character is inside the bounds of any rectangles on the page.
+Returns true if it is, false otherwise.
+'''
+def charInsideRect(char, rects):
+	for rect in rects:
+		if char['top'] >= rect['top'] and char['bottom'] <= rect['bottom']:
+			return True
+	return False
 
 '''
 addFormattingFeatures

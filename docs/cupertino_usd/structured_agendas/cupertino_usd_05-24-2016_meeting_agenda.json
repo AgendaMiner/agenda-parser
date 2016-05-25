@@ -5,13 +5,13 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
@@ -23,13 +23,19 @@
                 }
             ], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "3.     PRESENTATION", 
+            "section_name_raw": "3.    PRESENTATION", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Board Meetings of April 5 and April 19, 2016 and the Board Advance of April 28, 2016 and the Special Meeting of April 6, 2016", 
+                    "item_text_raw": "Approval of minutes of the Regular Board Meetings of April 5 and April 19, 2016 and the Board Advance of April 28, 2016 and the Special Meeting of April 6, 2016"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "4.     APPROVAL OF MINUTES", 
+            "section_name_raw": "4.    APPROVAL OF MINUTES", 
             "section_number": "4."
         }, 
         {
@@ -46,23 +52,35 @@
                 }
             ], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "5.     PUBLIC HEARING", 
+            "section_name_raw": "5.    PUBLIC HEARING", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "6.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "6.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "6."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on agenda items not appearing on the agenda.  Only those who have filled out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three minute allotment will be adjusted accordingly.  The Board will not respond nor take action on any non- agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code 35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public comments to 30 minutes. Please refrain from any response to the speaker including negative and positive reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on agenda items not appearing on the agenda.  Only those who have filled out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three minute allotment will be adjusted accordingly.  The Board will not respond nor take action on any non- agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code 35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public comments to 30 minutes. Please refrain from any response to the speaker including negative and positive reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS \u2013 ITEMS NOT ON THE AGENDA", 
             "section_name_raw": "7.      PUBLIC COMMENTS \u2013 ITEMS NOT ON THE AGENDA", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on agenda items appearing on the agenda.  Only those who have filled out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three minute allotment will be adjusted accordingly.  The Board will not respond nor take action on any non- agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code 35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public comments to 30 minutes. Please refrain from any response to the speaker including negative and positive reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on agenda items appearing on the agenda.  Only those who have filled out a comment card before the meeting is called to order will be called upon to speak. Each speaker will be allotted three (3) minutes unless the number of speakers will exceed the thirty minute allotment then the three minute allotment will be adjusted accordingly.  The Board will not respond nor take action on any non- agendized item comments at this time, although the item may be agendized at a later date    (Ed. Code 35145.5). The comments shall be made from the podium. The Board shall limit the total time for all public comments to 30 minutes. Please refrain from any response to the speaker including negative and positive reactions (booing and clapping). This will ensure all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS \u2013 ITEMS ON THE AGENDA", 
             "section_name_raw": "8.     PUBLIC COMMENTS \u2013 ITEMS ON THE AGENDA", 
             "section_number": "8."
@@ -181,14 +199,14 @@
         {
             "items": [
                 {
-                    "item_number": "12.1", 
-                    "item_text": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee of the Bart X.Pestarino Trust Under Negotiation:     Price and terms of payment", 
-                    "item_text_raw": "12.1   Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee of the Bart X.Pestarino Trust Under Negotiation:     Price and terms of payment"
+                    "item_number": "", 
+                    "item_text": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS12.1 Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee of the Bart X.Pestarino Trust Under Negotiation:     Price and terms of payment", 
+                    "item_text_raw": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS12.1 Property: 1.48 acres of real property located at 10480 Finch Avenue, Cupertino, California APN: 375-40-067 Agency Negotiators:  Chris Jew, Chief Business Officer; Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Negotiating Parties:   Cupertino Union School District; F. A. Pestarino, Jr., Trustee of the Bart X.Pestarino Trust Under Negotiation:     Price and terms of payment"
                 }, 
                 {
-                    "item_number": "12.2", 
-                    "item_text": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039) and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA 95014 Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai, Dannis, Woliver & Kelley Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC Under Negotiation:     Price and terms of payment", 
-                    "item_text_raw": "12.2  Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039) and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA 95014 Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai, Dannis, Woliver & Kelley Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC Under Negotiation:     Price and terms of payment"
+                    "item_number": "", 
+                    "item_text": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS12.2 Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039) and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA 95014 Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai, Dannis, Woliver & Kelley Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC Under Negotiation:     Price and terms of payment", 
+                    "item_text_raw": "Gov. Code 54956.8 CONFERENCE WITH REAL PROPERTY NEGOTIATORS12.2 Property:  10253 North Portal Avenue, Cupertino, CA 95014 (APN 316-31- 039) and The Athletic Field at 10300 N. Blaney Avenue, Cupertino, CA 95014 Agency Negotiators:  Chris Jew, Chief Business Officer; Deidree Y.M.K. Sakai, Dannis, Woliver & Kelley Negotiating Parties:   Cupertino Union School District; Vallco Property Owner, LLC Under Negotiation:     Price and terms of payment"
                 }
             ], 
             "section_name": "CLOSED SESSION", 

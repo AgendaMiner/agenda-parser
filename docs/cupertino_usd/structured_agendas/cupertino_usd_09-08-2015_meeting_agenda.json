@@ -5,41 +5,53 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Meeting of August 18, 2015", 
+                    "item_text_raw": "Approval of minutes of the Regular Meeting of August 18, 2015"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.     APPROVAL OF MINUTES", 
+            "section_name_raw": "3.  APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "4.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "4. RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PRESENTATION", 
-            "section_name_raw": "5.     PRESENTATION", 
+            "section_name_raw": "5. PRESENTATION", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "6.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "6. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "6."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "7.      PUBLIC COMMENTS", 
             "section_number": "7."
@@ -68,13 +80,13 @@
                 }, 
                 {
                     "item_number": "8.5", 
-                    "item_text": "Adoption of Resolution No. 15-16-02- Departmentalized Teaching Assignments Credential for the 2015-2016 School Year", 
-                    "item_text_raw": "8.5       Adoption of Resolution No. 15-16-02- Departmentalized Teaching Assignments Credential for the 2015-2016 School Year"
+                    "item_text": "Adoption of Resolution No. 15-16-02- Departmentalized Teaching Assignments for Teachers Who Currently Hold a Multiple Subject or Standard Elementary Credential for the 2015-2016 School Year", 
+                    "item_text_raw": "8.5       Adoption of Resolution No. 15-16-02- Departmentalized Teaching Assignments for Teachers Who Currently Hold a Multiple Subject or Standard Elementary Credential for the 2015-2016 School Year"
                 }, 
                 {
                     "item_number": "8.6", 
-                    "item_text": "Adoption of Resolution No. 15-16-03- Departmentalized Teaching Assignments Credential for the 2015-2016 School Year", 
-                    "item_text_raw": "8.6       Adoption of Resolution No. 15-16-03- Departmentalized Teaching Assignments Credential for the 2015-2016 School Year"
+                    "item_text": "Adoption of Resolution No. 15-16-03- Departmentalized Teaching Assignments for Teachers Who Currently Hold a Single Subject or Standard Secondary Credential for the 2015-2016 School Year", 
+                    "item_text_raw": "8.6       Adoption of Resolution No. 15-16-03- Departmentalized Teaching Assignments for Teachers Who Currently Hold a Single Subject or Standard Secondary Credential for the 2015-2016 School Year"
                 }, 
                 {
                     "item_number": "8.7", 
@@ -144,13 +156,7 @@
             "section_number": "9."
         }, 
         {
-            "items": [
-                {
-                    "item_number": "10.1", 
-                    "item_text": "2015-2016 Enrollment Update Information", 
-                    "item_text_raw": "10.1     2015-2016 Enrollment Update Information"
-                }
-            ], 
+            "items": [], 
             "section_name": "DISCUSSION/INFORMATION ITEM", 
             "section_name_raw": "10.    DISCUSSION/INFORMATION ITEM", 
             "section_number": "10."
@@ -169,9 +175,9 @@
         }, 
         {
             "items": [], 
-            "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "12.    REPORT FROM CLOSED SESSION", 
-            "section_number": "12."
+            "section_name": "REPORT FROM CLOSED SESSION 1", 
+            "section_name_raw": "2.    REPORT FROM CLOSED SESSION 1", 
+            "section_number": "2."
         }, 
         {
             "items": [], 

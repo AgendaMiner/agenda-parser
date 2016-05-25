@@ -1,92 +1,67 @@
-Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.3,cupertino_usd_03-24-2015_0,03-24-2015,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1,other_text
-1,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_03-24-2015_1,03-24-2015,0,0,0,0,Board of Education,0,other_text
-2,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_03-24-2015_2,03-24-2015,0,0,0,0,Regular Meeting,0,other_text
-3,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_03-24-2015_3,03-24-2015,0,0,0,0,AGENDA,1,other_text
-4,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_4,03-24-2015,0,0,0,0,,0,other_text
-5,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,5,77.28,cupertino_usd_03-24-2015_5,03-24-2015,0,0,0,0,,0,other_text
-6,cupertino_usd,C,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.28,cupertino_usd_03-24-2015_6,03-24-2015,0,0,0,0,"Cupertino Union School District  Tuesday, March 24, 2015",0,other_text
-7,cupertino_usd,1,0,0,Arial,14.375,1,0,0,1,0,0,0,0,77.28,cupertino_usd_03-24-2015_7,03-24-2015,0,1,0,0,1309 S. Mary Ave.  6:00 p.m.,0,other_text
-8,cupertino_usd,S,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.28,cupertino_usd_03-24-2015_8,03-24-2015,0,0,0,0,"Sunnyvale, CA 94087",0,other_text
-9,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,1,77.28,cupertino_usd_03-24-2015_9,03-24-2015,0,0,0,0,,0,other_text
-10,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_10,03-24-2015,0,0,0,0,,0,other_text
-11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_11,03-24-2015,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0,other_text
-12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_12,03-24-2015,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0,other_text
-13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_13,03-24-2015,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0,other_text
-14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_14,03-24-2015,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0,other_text
-15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_15,03-24-2015,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0,other_text
-16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_16,03-24-2015,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0,other_text
-17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_17,03-24-2015,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0,other_text
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_18,03-24-2015,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0,other_text
-19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.92,cupertino_usd_03-24-2015_19,03-24-2015,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0,other_text
-20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.92,cupertino_usd_03-24-2015_20,03-24-2015,0,0,0,0,,0,other_text
-21,cupertino_usd,I,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,104.649,cupertino_usd_03-24-2015_21,03-24-2015,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0,other_text
-22,cupertino_usd,a,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,222.946,cupertino_usd_03-24-2015_22,03-24-2015,0,0,0,0,at least two business days before the meeting date.,0,other_text
-23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.92,cupertino_usd_03-24-2015_23,03-24-2015,0,0,0,0,,0,other_text
-24,cupertino_usd,A,1,0,Arial-Bold,11.04,0,0,0,0,0,0,1,0,156.759,cupertino_usd_03-24-2015_24,03-24-2015,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0,other_text
-25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,1,94.56,cupertino_usd_03-24-2015_25,03-24-2015,0,0,0,0,,0,other_text
-26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_26,03-24-2015,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1,section_heading
-27,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_03-24-2015_27,03-24-2015,0,0,0,0,,0,other_text
-28,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_28,03-24-2015,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1,section_heading
-29,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_29,03-24-2015,0,0,0,0,,0,other_text
-30,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_30,03-24-2015,0,1,0,0,3.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
-31,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_03-24-2015_31,03-24-2015,0,0,0,0,,0,other_text
-32,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_32,03-24-2015,0,1,0,0,4.     PUBLIC COMMENTS,1,section_heading
-33,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_33,03-24-2015,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,other_text
-34,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_34,03-24-2015,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,other_text
-35,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_35,03-24-2015,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,other_text
-36,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_36,03-24-2015,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,other_text
-37,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_37,03-24-2015,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,other_text
-38,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_38,03-24-2015,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,other_text
-39,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_39,03-24-2015,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,other_text
-40,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_40,03-24-2015,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,other_text
-41,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_41,03-24-2015,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,other_text
-42,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_42,03-24-2015,0,0,0,0,,0,other_text
-43,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_43,03-24-2015,0,1,0,0,5.     CONSENT,1,section_heading
-44,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,8,76.56,cupertino_usd_03-24-2015_44,03-24-2015,0,0,0,1,5.1     Approval of a Contract to Just Think Literacy to Provide Seminars in Critical Literacy,0,item_heading
-45,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,18,76.56,cupertino_usd_03-24-2015_45,03-24-2015,0,0,0,0,2015-2016,0,item_text
-46,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.56,cupertino_usd_03-24-2015_46,03-24-2015,0,0,0,1,5.2     Approval of Contract Award to Calstate Construction for Construction of a New,0,item_heading
-47,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,18,76.56,cupertino_usd_03-24-2015_47,03-24-2015,0,0,0,0,Parking Lot at Cupertino Middle School,0,item_text
-48,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.56,cupertino_usd_03-24-2015_48,03-24-2015,0,0,0,1,5.3     Approval of Purchase of Short-Throw Interactive Projectors for Middle Schools,0,item_heading
-49,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,8,76.56,cupertino_usd_03-24-2015_49,03-24-2015,0,0,0,1,5.4     Approval to Declare Obsolete Equipment Surplus,0,item_heading
-50,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,5,76.56,cupertino_usd_03-24-2015_50,03-24-2015,0,0,0,0,,0,other_text
-51,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,7,58.56,cupertino_usd_03-24-2015_51,03-24-2015,0,0,0,0,,0,other_text
-52,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,58.56,cupertino_usd_03-24-2015_52,03-24-2015,0,0,0,0,,0,other_text
-53,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,58.56,cupertino_usd_03-24-2015_53,03-24-2015,0,0,0,0,,0,other_text
-54,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,58.56,cupertino_usd_03-24-2015_54,03-24-2015,0,0,0,0,,0,other_text
-55,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,20,58.56,cupertino_usd_03-24-2015_55,03-24-2015,0,0,0,0,,0,item_text
-56,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,3,76.56,cupertino_usd_03-24-2015_56,03-24-2015,0,0,0,0,,0,other_text
-57,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_0,03-24-2015,0,0,0,0,"Board Meeting Agenda  March 24, 2015  Page 2",0,other_text
-58,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,33,76.56,cupertino_usd_03-24-2015_1,03-24-2015,0,0,0,0,,0,other_text
-59,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_2,03-24-2015,0,1,0,0,6.      ACTION,1,section_heading
-60,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_3,03-24-2015,0,0,0,1,6.1    Second Reading and Adoption of Board Policies,0,item_heading
-61,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,15,58.56,cupertino_usd_03-24-2015_4,03-24-2015,0,0,0,1,6.2    Approval to Remove Board Policies,0,item_heading
-62,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_5,03-24-2015,0,0,0,0,,0,other_text
-63,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_6,03-24-2015,0,1,0,0,7.    CLOSED SESSION,1,section_heading
-64,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_7,03-24-2015,0,0,0,1,7.1     Public Employee Discipline/Dismissal/Release,0,item_heading
-65,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_8,03-24-2015,0,0,0,1,7.2     Conference with Labor Negotiators Pursuant to Government Code Section,0,item_heading
-66,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_9,03-24-2015,0,0,0,0,54957.6,0,other_text
-67,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_10,03-24-2015,0,0,0,0,District Representative:  Nancy Johnson,0,other_text
-68,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_11,03-24-2015,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0,item_text
-69,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_12,03-24-2015,0,0,0,0,"Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service",0,item_text
-70,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_13,03-24-2015,0,0,0,0,"Employees International Union, CTW/CLC (SEIU)",0,other_text
-71,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_14,03-24-2015,0,0,0,1,7.3     Government Code Section 54956.8 Conference with Real Property Negotiators,0,item_heading
-72,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_15,03-24-2015,0,0,0,0,"Property:  1.48 acres of Real Property at 10480 Finch Avenue, Cupertino, CA",0,item_text
-73,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_16,03-24-2015,0,0,0,0,"Agency negotiator:   Chris Jew, Chief Business Officer; Mary Morris, HMC; Jerry",0,item_text
-74,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,52,76.56,cupertino_usd_03-24-2015_17,03-24-2015,0,0,0,0,"Suich, Oxbridge Development, Inc.; Nancy Taylor, Orbach",0,item_text
-75,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,52,76.56,cupertino_usd_03-24-2015_18,03-24-2015,0,0,0,0,"Huff, Suarez & Henderson, LLP",0,item_text
-76,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_19,03-24-2015,0,0,0,0,Under negotiation:    Price and Terms of Payment,0,item_text
-77,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_20,03-24-2015,0,0,0,1,7.4     Government Code 54956.9 Conference with Legal Counsel – Anticipated Litigation,0,item_heading
-78,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_21,03-24-2015,0,0,0,0,(1 case),0,other_text
-79,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_22,03-24-2015,0,0,0,1,"7.5     Pursuant to Government Code section 54956.9(e)(3), the Board will confer with",0,item_heading
-80,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_23,03-24-2015,0,0,0,0,legal counsel regarding liability claims against Cupertino Union School District.,0,item_text
-81,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_24,03-24-2015,0,0,0,0,,0,other_text
-82,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,19,76.56,cupertino_usd_03-24-2015_25,03-24-2015,0,0,0,0,(1 Case)   Tort Claim No. 452349,0,other_text
-83,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.56,cupertino_usd_03-24-2015_26,03-24-2015,0,0,0,1,7.6     Approval of Settlement Agreement Student 3-24-15A,0,item_heading
-84,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,10,76.56,cupertino_usd_03-24-2015_27,03-24-2015,0,0,0,0,,0,other_text
-85,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_28,03-24-2015,0,1,0,0,8.      REPORT FROM CLOSED SESSION,1,section_heading
-86,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_29,03-24-2015,0,0,0,0,,0,other_text
-87,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.56,cupertino_usd_03-24-2015_30,03-24-2015,0,1,0,0,9.      BOARD ACTIVITY,1,section_heading
-88,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,195.761,cupertino_usd_03-24-2015_31,03-24-2015,0,0,0,0,,0,other_text
-89,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.56,cupertino_usd_03-24-2015_32,03-24-2015,0,0,0,0,,0,other_text
-90,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,0,540.06,cupertino_usd_03-24-2015_33,03-24-2015,0,1,0,0,10.    ADJOURNMENT,1,section_heading
+Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
+0,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,95.0,cupertino_usd_03-24-2015_0,03-24-2015,0,0,0,0,,0,other_text
+1,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_1,03-24-2015,0,1,0,0,1.    CALL TO ORDER/FLAG SALUTE,1,section_heading
+2,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_03-24-2015_2,03-24-2015,0,0,0,0,,0,other_text
+3,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_3,03-24-2015,0,1,0,0,2.    SUPERINTENDENT’S REPORT,1,section_heading
+4,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_4,03-24-2015,0,0,0,0,,0,other_text
+5,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_5,03-24-2015,0,1,0,0,3.    COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
+6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_03-24-2015_6,03-24-2015,0,0,0,0,,0,other_text
+7,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_7,03-24-2015,0,1,0,0,4.    PUBLIC COMMENTS,1,section_heading
+8,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_8,03-24-2015,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,item_heading
+9,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_9,03-24-2015,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,item_text
+10,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_10,03-24-2015,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,item_text
+11,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_11,03-24-2015,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,item_text
+12,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_12,03-24-2015,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,item_text
+13,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_13,03-24-2015,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,item_text
+14,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_14,03-24-2015,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,item_text
+15,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_15,03-24-2015,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,item_text
+16,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_16,03-24-2015,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,item_text
+17,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_17,03-24-2015,0,0,0,0,,0,other_text
+18,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_18,03-24-2015,0,1,0,0,5.     CONSENT,1,section_heading
+19,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,101.0,cupertino_usd_03-24-2015_19,03-24-2015,0,0,0,1,5.1  Approval of a Contract to Just Think Literacy to Provide Seminars in Critical Literacy,0,item_heading
+20,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_03-24-2015_20,03-24-2015,0,0,0,0,2015-2016,0,item_text
+21,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_03-24-2015_21,03-24-2015,0,0,0,1,5.2     Approval of Contract Award to Calstate Construction for Construction of a New,0,item_heading
+22,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_03-24-2015_22,03-24-2015,0,0,0,0,Parking Lot at Cupertino Middle School,0,item_text
+23,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_03-24-2015_23,03-24-2015,0,0,0,1,5.3     Approval of Purchase of Short-Throw Interactive Projectors for Middle Schools,0,item_heading
+24,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,101.0,cupertino_usd_03-24-2015_24,03-24-2015,0,0,0,1,5.4     Approval to Declare Obsolete Equipment Surplus,0,item_heading
+25,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_25,03-24-2015,0,0,0,0,,0,other_text
+26,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_03-24-2015_26,03-24-2015,0,0,0,0,,0,other_text
+27,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_03-24-2015_27,03-24-2015,0,0,0,0,,0,other_text
+28,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_03-24-2015_28,03-24-2015,0,0,0,0,,0,other_text
+29,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_03-24-2015_29,03-24-2015,0,0,0,0,,0,other_text
+30,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_03-24-2015_30,03-24-2015,0,0,0,0,,0,other_text
+31,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_31,03-24-2015,0,0,0,0,,0,other_text
+32,cupertino_usd,B,0,0,Arial,13.097,1,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_0,03-24-2015,0,0,0,0,"Board Meeting Agenda March 24, 2015 Page 2",0,other_text
+33,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_1,03-24-2015,0,0,0,0,,0,other_text
+34,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_2,03-24-2015,0,1,0,0,6.      ACTION,1,section_heading
+35,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_3,03-24-2015,0,0,0,1,6.1    Second Reading and Adoption of Board Policies,0,item_heading
+36,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_4,03-24-2015,0,0,0,1,6.2    Approval to Remove Board Policies,0,item_heading
+37,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_5,03-24-2015,0,0,0,0,,0,other_text
+38,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_6,03-24-2015,0,1,0,0,7.    CLOSED SESSION,1,section_heading
+39,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_7,03-24-2015,0,0,0,1,7.1     Public Employee Discipline/Dismissal/Release,0,item_heading
+40,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_8,03-24-2015,0,0,0,1,7.2     Conference with Labor Negotiators Pursuant to Government Code Section,0,item_heading
+41,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_9,03-24-2015,0,0,0,0,54957.6,0,item_text
+42,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_10,03-24-2015,0,0,0,0,District Representative:  Nancy Johnson,0,item_text
+43,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_11,03-24-2015,0,0,0,0,"Employee Associations:  Cupertino Education Association (CEA), California School",0,item_text
+44,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_12,03-24-2015,0,0,0,0,"Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service",0,item_text
+45,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_13,03-24-2015,0,0,0,0,"Employees International Union, CTW/CLC (SEIU)",0,item_text
+46,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_14,03-24-2015,0,0,0,1,7.3     Government Code Section 54956.8 Conference with Real Property Negotiators,0,item_heading
+47,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_15,03-24-2015,0,0,0,0,"Property:  1.48 acres of Real Property at 10480 Finch Avenue, Cupertino, CA",0,item_text
+48,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_16,03-24-2015,0,0,0,0,"Agency negotiator:   Chris Jew, Chief Business Officer; Mary Morris, HMC; Jerry",0,item_text
+49,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,235.0,cupertino_usd_03-24-2015_17,03-24-2015,0,0,0,0,"Suich, Oxbridge Development, Inc.; Nancy Taylor, Orbach",0,item_text
+50,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,235.0,cupertino_usd_03-24-2015_18,03-24-2015,0,0,0,0,"Huff, Suarez & Henderson, LLP",0,item_text
+51,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_19,03-24-2015,0,0,0,0,Under negotiation:    Price and Terms of Payment,0,item_text
+52,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_20,03-24-2015,0,0,0,1,7.4     Government Code 54956.9 Conference with Legal Counsel – Anticipated Litigation,0,item_heading
+53,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_21,03-24-2015,0,0,0,0,(1 case),0,item_text
+54,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_22,03-24-2015,0,0,0,1,"7.5     Pursuant to Government Code section 54956.9(e)(3), the Board will confer with",0,item_heading
+55,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_23,03-24-2015,0,0,0,0,legal counsel regarding liability claims against Cupertino Union School District.,0,item_text
+56,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,135.0,cupertino_usd_03-24-2015_24,03-24-2015,0,0,0,0,(1 Case)Tort Claim   No. 452349,0,item_text
+57,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_03-24-2015_25,03-24-2015,0,0,0,1,7.6     Approval of Settlement Agreement Student 3-24-15A,0,item_heading
+58,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_26,03-24-2015,0,0,0,0,,0,other_text
+59,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_27,03-24-2015,0,1,0,0,8.      REPORT FROM CLOSED SESSION,1,section_heading
+60,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_28,03-24-2015,0,0,0,0,,0,other_text
+61,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_29,03-24-2015,0,1,0,0,9.      BOARD ACTIVITY,1,section_heading
+62,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_30,03-24-2015,0,0,0,0,,0,other_text
+63,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,196.0,cupertino_usd_03-24-2015_31,03-24-2015,0,0,0,0,,0,other_text
+64,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_03-24-2015_32,03-24-2015,0,1,0,0,10.    ADJOURNMENT,1,section_heading
+65,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_03-24-2015_33,03-24-2015,0,0,0,0,,0,other_text

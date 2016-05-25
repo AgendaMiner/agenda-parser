@@ -5,19 +5,25 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/STOCKLMEIR ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of Minutes of the Regular Meeting on April 21, 2015 and the Special Meeting on April 24, 2015", 
+                    "item_text_raw": "Approval of Minutes of the Regular Meeting on April 21, 2015 and the Special Meeting on April 24, 2015"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.     APPROVAL OF MINUTES", 
+            "section_name_raw": "3.    APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
@@ -27,7 +33,13 @@
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "5.      PUBLIC COMMENTS", 
             "section_number": "5."
@@ -48,8 +60,8 @@
             "items": [
                 {
                     "item_number": "7.1", 
-                    "item_text": "Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Union School District\u2019s Teacher of the year and reconvene following the", 
-                    "item_text_raw": "7.1     Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Union School District\u2019s Teacher of the year and reconvene following the"
+                    "item_text": "Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Announcement of District Teacher of the Year Union School District\u2019s Teacher of the year and reconvene following the Reception.  The announcement of Teacher of the Year will occur after the", 
+                    "item_text_raw": "7.1     Certificates of Recognition for the 2015-2016 School Site Teachers of the Year and Announcement of District Teacher of the Year Union School District\u2019s Teacher of the year and reconvene following the Reception.  The announcement of Teacher of the Year will occur after the"
                 }
             ], 
             "section_name": "PRESENTATION", 
@@ -58,11 +70,6 @@
         }, 
         {
             "items": [
-                {
-                    "item_number": "8.1", 
-                    "item_text": "Contracts for Board Ratification", 
-                    "item_text_raw": "8.1     Contracts for Board Ratification"
-                }, 
                 {
                     "item_number": "8.2", 
                     "item_text": "Ratification of Personnel Report for April 2015", 
@@ -75,13 +82,13 @@
                 }, 
                 {
                     "item_number": "8.4", 
-                    "item_text": "Approval of Lease Agreements with Sierra School, Happy Days, Tican", 
-                    "item_text_raw": "8.4     Approval of Lease Agreements with Sierra School, Happy Days, Tican"
+                    "item_text": "Approval of Lease Agreements with Sierra School, Happy Days, Tican Institute, Harmony Dance Center, Waha Montessori, and French American School of Silicon Valley and John F. Kennedy University", 
+                    "item_text_raw": "8.4     Approval of Lease Agreements with Sierra School, Happy Days, Tican Institute, Harmony Dance Center, Waha Montessori, and French American School of Silicon Valley and John F. Kennedy University"
                 }, 
                 {
                     "item_number": "8.5", 
-                    "item_text": "Approval of Contract Award to Anza Engineering Corp. for the Construction of", 
-                    "item_text_raw": "8.5     Approval of Contract Award to Anza Engineering Corp. for the Construction of"
+                    "item_text": "Approval of Contract Award to Anza Engineering Corp. for the Construction of Interim Student Housing Portables at Garden Gate Elementary School", 
+                    "item_text_raw": "8.5     Approval of Contract Award to Anza Engineering Corp. for the Construction of Interim Student Housing Portables at Garden Gate Elementary School"
                 }, 
                 {
                     "item_number": "8.6", 
@@ -90,23 +97,23 @@
                 }, 
                 {
                     "item_number": "8.7", 
-                    "item_text": "Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year", 
-                    "item_text_raw": "8.7    Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year"
+                    "item_text": "Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year Maintenance from Sabel Computer, Inc. dba KIS", 
+                    "item_text_raw": "8.7    Approval of the Purchase of Mitel VOIP Phone System, Installation and One-Year Maintenance from Sabel Computer, Inc. dba KIS"
                 }, 
                 {
                     "item_number": "8.8", 
-                    "item_text": "Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School", 
-                    "item_text_raw": "8.8    Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School"
+                    "item_text": "Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School District\u2019s Membership in the National Joint Powers Alliance (NJPA) Program and Authorization to Enter into Contract", 
+                    "item_text_raw": "8.8    Approval of Resolution No. 14-15-29 Declaring the Cupertino Union School District\u2019s Membership in the National Joint Powers Alliance (NJPA) Program and Authorization to Enter into Contract"
                 }, 
                 {
                     "item_number": "8.9", 
-                    "item_text": "Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee", 
-                    "item_text_raw": "8.9    Adoption of Resolution No. 14-15-27 \u2013 Recognition of Classified School Employee"
+                    "item_text": "Adoption ofResolution No. 14-15-27 \u2013 Recognition of Classified School Employee Week, May 17-23, 2015", 
+                    "item_text_raw": "8.9    Adoption ofResolution No. 14-15-27 \u2013 Recognition of Classified School Employee Week, May 17-23, 2015"
                 }, 
                 {
                     "item_number": "8.10", 
-                    "item_text": "Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,", 
-                    "item_text_raw": "8.10  Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher,"
+                    "item_text": "Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher, May 13, 2015", 
+                    "item_text_raw": "8.10  Adoption of Resolution No. 14-15-28 \u2013 Recognition of Day of the Teacher, May 13, 2015"
                 }
             ], 
             "section_name": "CONSENT", 
@@ -122,13 +129,13 @@
                 }, 
                 {
                     "item_number": "9.2", 
-                    "item_text": "Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the", 
-                    "item_text_raw": "9.2     Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the"
+                    "item_text": "Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the Contract for the Construction and Installation of Eight Modulars", 
+                    "item_text_raw": "9.2     Adoption of Resolution No. 14-15-21 \u2014 Delegation of Authority to Approve the Contract for the Construction and Installation of Eight Modulars"
                 }, 
                 {
                     "item_number": "9.3", 
-                    "item_text": "Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the", 
-                    "item_text_raw": "9.3     Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the"
+                    "item_text": "Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the Contract for the Construction and Installation of 20 Modulars", 
+                    "item_text_raw": "9.3     Adoption of Resolution No. 14-15-22 \u2014 Delegation of Authority to Approve the Contract for the Construction and Installation of 20 Modulars"
                 }, 
                 {
                     "item_number": "9.4", 
@@ -137,13 +144,13 @@
                 }, 
                 {
                     "item_number": "9.5", 
-                    "item_text": "Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a", 
-                    "item_text_raw": "9.5     Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a"
+                    "item_text": "Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a Contract for Refinishing and Replacement of Casework at Sedgwick Elementary School", 
+                    "item_text_raw": "9.5     Adoption of Resolution No. 14-15-25 \u2014 Delegation of Authority to Approve a Contract for Refinishing and Replacement of Casework at Sedgwick Elementary School"
                 }, 
                 {
                     "item_number": "9.6", 
-                    "item_text": "Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Campbell Union High School District to Cupertino Union School District and", 
-                    "item_text_raw": "9.6      Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Campbell Union High School District to Cupertino Union School District and"
+                    "item_text": "Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Opposes the Proposed Transfer of Territory from Moreland School District and Campbell Union High School District to Cupertino Union School District and Fremont Union High School District", 
+                    "item_text_raw": "9.6      Adoption of Resolution No. 14-15-26 \u2014 The Cupertino Union School District Opposes the Proposed Transfer of Territory from Moreland School District and Campbell Union High School District to Cupertino Union School District and Fremont Union High School District"
                 }, 
                 {
                     "item_number": "9.7", 
@@ -152,7 +159,7 @@
                 }
             ], 
             "section_name": "ACTION", 
-            "section_name_raw": "9.      ACTION", 
+            "section_name_raw": "9.     ACTION", 
             "section_number": "9."
         }, 
         {
@@ -176,18 +183,18 @@
                 }, 
                 {
                     "item_number": "11.2", 
-                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section Employee Associations:  Cupertino Education Association (CEA), California School", 
-                    "item_text_raw": "11.2   Conference with Labor Negotiators Pursuant to Government Code Section Employee Associations:  Cupertino Education Association (CEA), California School"
+                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.6 District Representative:  Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service Employees International Union, CTW/CLC (SEIU)", 
+                    "item_text_raw": "11.2   Conference with Labor Negotiators Pursuant to Government Code Section 54957.6 District Representative:  Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service Employees International Union, CTW/CLC (SEIU)"
                 }, 
                 {
                     "item_number": "11.3", 
-                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending", 
-                    "item_text_raw": "11.3   Conference with Associate Superintendent Nancy Johnson \u2013 Pending"
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b):  Employee #0333", 
+                    "item_text_raw": "11.3   Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b):  Employee #0333"
                 }, 
                 {
                     "item_number": "11.4", 
-                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,", 
-                    "item_text_raw": "11.4   Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,"
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b):  Employee #3031", 
+                    "item_text_raw": "11.4   Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b):  Employee #3031"
                 }
             ], 
             "section_name": "CLOSED SESSION", 

@@ -5,7 +5,7 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
@@ -14,49 +14,61 @@
                     "item_number": "2.1", 
                     "item_text": "Approval of Expulsion for Student A1415", 
                     "item_text_raw": "2.1   Approval of Expulsion for Student A1415"
-                }, 
-                {
-                    "item_number": "2.2", 
-                    "item_text": "Public Employee Discipline/Dismissal/Release", 
-                    "item_text_raw": "2.2   Public Employee Discipline/Dismissal/Release"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "2.     CLOSED SESSION", 
+            "section_name_raw": "2.    CLOSED SESSION", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "CUPERTINO MIDDLE SCHOOL PRESENTATION", 
-            "section_name_raw": "3.     CUPERTINO MIDDLE SCHOOL PRESENTATION", 
+            "section_name_raw": "3.    CUPERTINO MIDDLE SCHOOL PRESENTATION", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "4.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "4.    RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of Minutes of the Regular Meetings of September 9, 2014 and September 23, 2014", 
+                    "item_text_raw": "Approval of Minutes of the Regular Meetings of September 9, 2014 and September 23, 2014"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "5.     APPROVAL OF MINUTES", 
+            "section_name_raw": "5.    APPROVAL OF MINUTES", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "6.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "6.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "6."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "7.     PUBLIC COMMENTS", 
+            "section_name_raw": "7.    PUBLIC COMMENTS", 
             "section_number": "7."
         }, 
         {
             "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately.", 
+                    "item_text_raw": "Consent items are considered to be routine by the Board of Education and will be enacted in one motion.  If discussion of any of the items is required, they may be removed from Consent and considered separately."
+                }, 
                 {
                     "item_number": "8.1", 
                     "item_text": "Ratification of Contracts with Cupertino Union School District", 
@@ -125,7 +137,7 @@
                 {
                     "item_number": "8.14", 
                     "item_text": "Rejection of Claim for Personal Injuries \u2013 Claim #499690", 
-                    "item_text_raw": "8.14   Rejection of Claim for Personal Injuries \u2013 Claim #499690 "
+                    "item_text_raw": "8.14   Rejection of Claim for Personal Injuries \u2013 Claim #499690"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 

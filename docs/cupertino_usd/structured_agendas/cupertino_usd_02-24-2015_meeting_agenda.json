@@ -5,45 +5,73 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Special Meeting of January 6, 2015, Regular Meeting of", 
+                    "item_text_raw": "Approval of minutes of the Special Meeting of January 6, 2015, Regular Meeting of"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "January 13, 2015 and January 27, 2015", 
+                    "item_text_raw": "January 13, 2015 and January 27, 2015"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "2.     APPROVAL OF MINUTES", 
+            "section_name_raw": "2.    APPROVAL OF MINUTES", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "3.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "3.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.     PUBLIC COMMENTS", 
+            "section_name_raw": "5.    PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The Board of Education will hold a public hearing regarding the Common Core Math", 
+                    "item_text_raw": "The Board of Education will hold a public hearing regarding the Common Core Math"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "Textbook Adoption.", 
+                    "item_text_raw": "Textbook Adoption."
+                }
+            ], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "6.     PUBLIC HEARING", 
+            "section_name_raw": "6.    PUBLIC HEARING", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
                     "item_number": "7.1", 
-                    "item_text": "Approval of 2014-2015 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report", 
-                    "item_text_raw": "7.1    Approval of 2014-2015 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report"
+                    "item_text": "Approval of 2014-2015 Winter Data Collection \u2013 Consolidated Application Reporting", 
+                    "item_text_raw": "7.1  Approval of 2014-2015 Winter Data Collection \u2013 Consolidated Application Reporting"
                 }, 
                 {
                     "item_number": "7.2", 

@@ -5,19 +5,25 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1. CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Meeting of June 18, 2013 and the Special Meeting of", 
+                    "item_text_raw": "Approval of minutes of the Regular Meeting of June 18, 2013 and the Special Meeting of"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "2.  APPROVAL OF MINUTES", 
+            "section_name_raw": "2. APPROVAL OF MINUTES", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "3.  PUBLIC COMMENTS", 
+            "section_name_raw": "3. PUBLIC COMMENTS", 
             "section_number": "3."
         }, 
         {
@@ -34,13 +40,13 @@
                 }, 
                 {
                     "item_number": "4.3", 
-                    "item_text": "Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to", 
-                    "item_text_raw": "4.3   Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to"
+                    "item_text": "Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to California State Teachers\u2019 Retirement System (CalSTRS)", 
+                    "item_text_raw": "4.3   Adoption of Resolution No. 13-14-05 - Agreement for Employer Paid Member Contribution to California State Teachers\u2019 Retirement System (CalSTRS)"
                 }, 
                 {
                     "item_number": "4.4", 
-                    "item_text": "Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,", 
-                    "item_text_raw": "4.4   Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH,"
+                    "item_text": "Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH, Humboldt State University, Santa Clara University, and University of San Francisco", 
+                    "item_text_raw": "4.4   Approval of Supervised Fieldwork Agreements with Brandman University, CalStateTEACH, Humboldt State University, Santa Clara University, and University of San Francisco"
                 }, 
                 {
                     "item_number": "4.5", 
@@ -49,18 +55,18 @@
                 }, 
                 {
                     "item_number": "4.6", 
-                    "item_text": "Approve the Reimbursement to Swinerton Management and Consulting in the Amount of", 
-                    "item_text_raw": "4.6    Approve the Reimbursement to Swinerton Management and Consulting in the Amount of"
+                    "item_text": "Approve the Reimbursement to Swinerton Management and Consulting in the Amount of $151,156 for Construction Management Offices and Support Facilities", 
+                    "item_text_raw": "4.6    Approve the Reimbursement to Swinerton Management and Consulting in the Amount of $151,156 for Construction Management Offices and Support Facilities"
                 }, 
                 {
                     "item_number": "4.7", 
-                    "item_text": "Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations", 
-                    "item_text_raw": "4.7    Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations"
+                    "item_text": "Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations Limitation and Calculation of the Estimated 2013-2014 Appropriations Limitation", 
+                    "item_text_raw": "4.7    Adoption of Resolution No.13-14-04 \u2013 Recalculation of the 2012-2013 Appropriations Limitation and Calculation of the Estimated 2013-2014 Appropriations Limitation"
                 }, 
                 {
                     "item_number": "4.8", 
-                    "item_text": "Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of", 
-                    "item_text_raw": "4.8    Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of"
+                    "item_text": "Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of $163,270 to Provide Hazardous Material Inspection and Testing Services in Preparation for Facility Modernization Projects at 16 Elementary Schools and 5 Middle Schools", 
+                    "item_text_raw": "4.8    Approval of a Contract Award to Sensible Environmental Solutions (SES) in the Amount of $163,270 to Provide Hazardous Material Inspection and Testing Services in Preparation for Facility Modernization Projects at 16 Elementary Schools and 5 Middle Schools"
                 }, 
                 {
                     "item_number": "4.9", 
@@ -74,8 +80,8 @@
                 }, 
                 {
                     "item_number": "4.11", 
-                    "item_text": "Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for", 
-                    "item_text_raw": "4.11  Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for"
+                    "item_text": "Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for State Preschool for 2013-2014 School Year", 
+                    "item_text_raw": "4.11  Adoption of Resolution No. 13-14-02 \u2013 Local Agreement for Child Development Services for State Preschool for 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "4.12", 
@@ -84,43 +90,43 @@
                 }, 
                 {
                     "item_number": "4.13", 
-                    "item_text": "Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an", 
-                    "item_text_raw": "4.13  Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an"
+                    "item_text": "Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an Amount not to Exceed $27,000", 
+                    "item_text_raw": "4.13  Approval of Contract with EMC Research for Survey and Opinion Analysis Services in an Amount not to Exceed $27,000"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "4.  CONSENT ITEMS", 
+            "section_name_raw": "4. CONSENT ITEMS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "5.   SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "5.  SUPERINTENDENT\u2019S REPORT", 
             "section_number": "5."
         }, 
         {
             "items": [
                 {
                     "item_number": "6.1", 
-                    "item_text": "Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code", 
-                    "item_text_raw": "6.1   Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code"
+                    "item_text": "Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code Procedures", 
+                    "item_text_raw": "6.1   Adoption of Resolution No.13-14-03 -- Authorizing Election Under Public Contract Code Procedures"
                 }, 
                 {
                     "item_number": "6.2", 
-                    "item_text": "Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services", 
-                    "item_text_raw": "6.2   Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services"
+                    "item_text": "Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services Regarding a Parcel Tax Renewal Measure in 2014", 
+                    "item_text_raw": "6.2   Approval of Contract with TBWB Strategies in the amount of $40,000 for Consulting Services Regarding a Parcel Tax Renewal Measure in 2014"
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "6.   ACTION ITEMS", 
+            "section_name_raw": "6.  ACTION ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [
                 {
                     "item_number": "7.1", 
-                    "item_text": "Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget", 
-                    "item_text_raw": "7.1    Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget"
+                    "item_text": "Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget Projections", 
+                    "item_text_raw": "7.1    Update on the 2013-2014 Adopted State Budget and the Impact on the District\u2019s Budget Projections"
                 }, 
                 {
                     "item_number": "7.2", 
@@ -134,15 +140,15 @@
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "7.  DISCUSSION/INFORMATION ITEMS", 
+            "section_name_raw": "7. DISCUSSION/INFORMATION ITEMS", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
                     "item_number": "8.1", 
-                    "item_text": "Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of", 
-                    "item_text_raw": "8.1   Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of"
+                    "item_text": "Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of Section 54956.9): OAH Case No. 2013010989", 
+                    "item_text_raw": "8.1   Conference with Legal Counsel -- Existing Litigation (Subdivision (a) of Section 54956.9): OAH Case No. 2013010989"
                 }, 
                 {
                     "item_number": "8.2", 
@@ -151,13 +157,13 @@
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "8.  CLOSED SESSION", 
+            "section_name_raw": "8. CLOSED SESSION", 
             "section_number": "8."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "9.   REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "9.  REPORT FROM CLOSED SESSION", 
             "section_number": "9."
         }, 
         {

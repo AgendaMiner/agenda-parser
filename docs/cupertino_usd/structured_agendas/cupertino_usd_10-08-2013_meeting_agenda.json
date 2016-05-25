@@ -5,31 +5,37 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/HYDE MIDDLE SCHOOL PRESENTATION", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE/HYDE MIDDLE SCHOOL PRESENTATION", 
+            "section_name_raw": "1. CALL TO ORDER/FLAG SALUTE/HYDE MIDDLE SCHOOL PRESENTATION", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.  RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "2. RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Meeting of September 10, 2013 and September 24, 2013", 
+                    "item_text_raw": "Approval of minutes of the Regular Meeting of September 10, 2013 and September 24, 2013"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.  APPROVAL OF MINUTES", 
+            "section_name_raw": "3. APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.  PUBLIC COMMENTS", 
+            "section_name_raw": "5. PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
@@ -46,8 +52,8 @@
                 }, 
                 {
                     "item_number": "6.3", 
-                    "item_text": "Adoption of Resolution No. 13-14-11 \u2013 In Support of Red Ribbon Week, October 23, 2013 to", 
-                    "item_text_raw": "6.3    Adoption of Resolution No. 13-14-11 \u2013 In Support of Red Ribbon Week, October 23, 2013 to"
+                    "item_text": "Adoption of Resolution No. 13-14-11 \u2013 In Support of Red Ribbon Week, October 23, 2013 to October 31, 2013", 
+                    "item_text_raw": "6.3    Adoption of Resolution No. 13-14-11 \u2013 In Support of Red Ribbon Week, October 23, 2013 to October 31, 2013"
                 }, 
                 {
                     "item_number": "6.4", 
@@ -56,13 +62,13 @@
                 }, 
                 {
                     "item_number": "6.5", 
-                    "item_text": "Adoption of Resolution No. 13-14-12 \u2013 Departmentalized Teaching Assignment for a Teacher", 
-                    "item_text_raw": "6.5    Adoption of Resolution No. 13-14-12 \u2013 Departmentalized Teaching Assignment for a Teacher"
+                    "item_text": "Adoption of Resolution No. 13-14-12 \u2013 Departmentalized Teaching Assignment for a Teacher Who Currently Holds a Multiple Subject or Standard Elementary Credential for the 2013-2014 School Year", 
+                    "item_text_raw": "6.5    Adoption of Resolution No. 13-14-12 \u2013 Departmentalized Teaching Assignment for a Teacher Who Currently Holds a Multiple Subject or Standard Elementary Credential for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "6.6", 
-                    "item_text": "Ratification of a Contract Agreement with NatureBridge Program at Yosemite in an Amount", 
-                    "item_text_raw": "6.6    Ratification of a Contract Agreement with NatureBridge Program at Yosemite in an Amount"
+                    "item_text": "Ratification of a Contract Agreement with NatureBridge Program at Yosemite in an Amount not to Exceed $767,172.00 for the Purpose of Field Science Programs for our Five Middle Schools for the 2013-2014 School Year", 
+                    "item_text_raw": "6.6    Ratification of a Contract Agreement with NatureBridge Program at Yosemite in an Amount not to Exceed $767,172.00 for the Purpose of Field Science Programs for our Five Middle Schools for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "6.7", 
@@ -71,21 +77,21 @@
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "6.  CONSENT ITEMS", 
+            "section_name_raw": "6. CONSENT ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.   SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "7.  SUPERINTENDENT\u2019S REPORT", 
             "section_number": "7."
         }, 
         {
             "items": [
                 {
                     "item_number": "8.1", 
-                    "item_text": "Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of", 
-                    "item_text_raw": "8.1    Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of"
+                    "item_text": "Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of July 1 through September 30, 2013", 
+                    "item_text_raw": "8.1    Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of July 1 through September 30, 2013"
                 }, 
                 {
                     "item_number": "8.2", 
@@ -99,7 +105,7 @@
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "8.  DISCUSSION/INFORMATION ITEMS", 
+            "section_name_raw": "8. DISCUSSION/INFORMATION ITEMS", 
             "section_number": "8."
         }, 
         {
@@ -111,7 +117,7 @@
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "9.  ACTION ITEMS", 
+            "section_name_raw": "9. ACTION ITEMS", 
             "section_number": "9."
         }, 
         {

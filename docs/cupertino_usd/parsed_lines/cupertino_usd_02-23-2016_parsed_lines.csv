@@ -1,76 +1,52 @@
-,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.300,cupertino_usd_02-23-2016_0,02-23-2016,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1
-1,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_02-23-2016_1,02-23-2016,0,0,0,0,Board of Education,0
-2,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_02-23-2016_2,02-23-2016,0,0,0,0,Regular Meeting,0
-3,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_02-23-2016_3,02-23-2016,0,0,0,0,AGENDA,1
-4,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_4,02-23-2016,0,0,0,0,,0
-5,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,5,77.280,cupertino_usd_02-23-2016_5,02-23-2016,0,0,0,0,,0
-6,cupertino_usd,C,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.280,cupertino_usd_02-23-2016_6,02-23-2016,0,0,0,0,"Cupertino Union School District  February 23, 2016",0
-7,cupertino_usd,1,0,0,Arial,14.375,1,0,0,1,0,0,0,0,77.280,cupertino_usd_02-23-2016_7,02-23-2016,0,1,0,0,"1309 S. Mary Avenue, Suite 150  6:00 p.m.",0
-8,cupertino_usd,S,0,0,Arial,14.375,0,0,0,1,0,0,0,0,77.280,cupertino_usd_02-23-2016_8,02-23-2016,0,0,0,0,"Sunnyvale, CA 94087",0
-9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_9,02-23-2016,0,0,0,0,,0
-10,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_10,02-23-2016,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0
-11,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_11,02-23-2016,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0
-12,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_12,02-23-2016,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0
-13,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_13,02-23-2016,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0
-14,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_14,02-23-2016,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0
-15,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_15,02-23-2016,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0
-16,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_16,02-23-2016,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0
-17,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_17,02-23-2016,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,1,0,0,0,85.820,cupertino_usd_02-23-2016_18,02-23-2016,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0
-19,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.820,cupertino_usd_02-23-2016_19,02-23-2016,0,0,0,0,,0
-20,cupertino_usd,I,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,104.540,cupertino_usd_02-23-2016_20,02-23-2016,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0
-21,cupertino_usd,a,0,1,Arial-Italic,10.470,0,0,0,0,0,0,1,0,222.860,cupertino_usd_02-23-2016_21,02-23-2016,0,0,0,0,at least two business days before the meeting date.,0
-22,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,1,0,0,1,85.820,cupertino_usd_02-23-2016_22,02-23-2016,0,0,0,0,,0
-23,cupertino_usd,A,1,0,Arial-Bold,11.040,0,0,0,0,0,0,1,0,156.620,cupertino_usd_02-23-2016_23,02-23-2016,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0
-24,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_24,02-23-2016,0,0,0,0,,0
-25,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_25,02-23-2016,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1
-26,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_26,02-23-2016,0,0,0,0,,0
-27,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_27,02-23-2016,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1
-28,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.560,cupertino_usd_02-23-2016_28,02-23-2016,0,0,0,0,,0
-29,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_29,02-23-2016,0,1,0,0,3.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
-30,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_30,02-23-2016,0,0,0,0,,0
-31,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_31,02-23-2016,0,1,0,0,4.      PUBLIC COMMENTS,1
-32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,9,76.560,cupertino_usd_02-23-2016_32,02-23-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0
-33,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_33,02-23-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0
-34,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_34,02-23-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0
-35,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_35,02-23-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0
-36,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_36,02-23-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0
-37,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_37,02-23-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0
-38,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_38,02-23-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0
-39,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_39,02-23-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0
-40,cupertino_usd, ,0,0,Arial,13.097,0,0,1,0,0,0,0,10,76.560,cupertino_usd_02-23-2016_40,02-23-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0
-41,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_41,02-23-2016,0,0,0,0,,0
-42,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_42,02-23-2016,0,1,0,0,5.     CONSENT,1
-43,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.560,cupertino_usd_02-23-2016_43,02-23-2016,0,0,0,1,5.1   Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting,0
-44,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,76.560,cupertino_usd_02-23-2016_44,02-23-2016,0,0,0,0,System,0
-45,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,8,76.560,cupertino_usd_02-23-2016_45,02-23-2016,0,0,0,1,5.2   Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School,0
-46,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,76.560,cupertino_usd_02-23-2016_46,02-23-2016,0,0,0,0,Modernization Project,0
-47,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.560,cupertino_usd_02-23-2016_47,02-23-2016,0,0,0,1,5.3   Approval of Contract with Corovan for Move Services at Stevens Creek Elementary,0
-48,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,76.560,cupertino_usd_02-23-2016_48,02-23-2016,0,0,0,0,School,0
-49,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,23,58.560,cupertino_usd_02-23-2016_49,02-23-2016,0,0,0,0,,0
-50,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_50,02-23-2016,0,1,0,0,6.      DISCUSSION/INFORMATION ITEM,1
-51,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.560,cupertino_usd_02-23-2016_51,02-23-2016,0,0,0,1,6.1  First Reading of Board Policies – Additions/Revisions,0
-52,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,9,76.560,cupertino_usd_02-23-2016_52,02-23-2016,0,0,0,1,6.2  Budget Update,0
-53,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_53,02-23-2016,0,0,0,0,,0
-54,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,3,76.560,cupertino_usd_02-23-2016_54,02-23-2016,0,0,0,0,,0
-55,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_0,02-23-2016,0,0,0,0,"Board Meeting Agenda  February 23, 2016  Page 2",0
-56,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,33,76.560,cupertino_usd_02-23-2016_1,02-23-2016,0,0,0,0,,0
-57,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_2,02-23-2016,0,1,0,0,7.    ACTION ITEM,1
-58,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.560,cupertino_usd_02-23-2016_3,02-23-2016,0,0,0,1,7.1   California School Boards Association (CSBA) Delegate Assembly Election for,0
-59,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,76.560,cupertino_usd_02-23-2016_4,02-23-2016,0,0,0,0,Region 20,0
-60,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,2,76.560,cupertino_usd_02-23-2016_5,02-23-2016,0,0,0,0,,0
-61,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_6,02-23-2016,0,1,0,0,8.     CLOSED SESSION,1
-62,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,8,76.560,cupertino_usd_02-23-2016_7,02-23-2016,0,0,0,1,8.1   Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0
-63,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,10,94.560,cupertino_usd_02-23-2016_8,02-23-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0
-64,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,10,94.560,cupertino_usd_02-23-2016_9,02-23-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0
-65,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,10,94.560,cupertino_usd_02-23-2016_10,02-23-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0
-66,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,1,0,2,94.560,cupertino_usd_02-23-2016_11,02-23-2016,0,0,0,1,8.2   Confidential Student 2-23-16A Matter Pursuant to California Education Code,0
-67,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,10,94.560,cupertino_usd_02-23-2016_12,02-23-2016,0,0,0,0,Section 35146,0
-68,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_13,02-23-2016,0,0,0,0,,0
-69,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_14,02-23-2016,0,1,0,0,9.     REPORT FROM CLOSED SESSION,1
-70,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_15,02-23-2016,0,0,0,0,,0
-71,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_16,02-23-2016,0,1,0,0,10.   BOARD ACTIVITY,1
-72,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,1,76.560,cupertino_usd_02-23-2016_17,02-23-2016,0,0,0,0,,0
-73,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,0,76.560,cupertino_usd_02-23-2016_18,02-23-2016,0,1,0,0,11.   ADJOURNMENT,1
-74,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,1,540.060,cupertino_usd_02-23-2016_19,02-23-2016,0,0,0,0,,0
+,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase
+0,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_0,02-23-2016,0,0,0,0,,0
+1,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_1,02-23-2016,0,1,0,0,1.    CALL TO ORDER/FLAG SALUTE,1
+2,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_2,02-23-2016,0,0,0,0,,0
+3,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_3,02-23-2016,0,1,0,0,2.    SUPERINTENDENT’S REPORT,1
+4,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,95.0,cupertino_usd_02-23-2016_4,02-23-2016,0,0,0,0,,0
+5,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_5,02-23-2016,0,1,0,0,3.    COMMUNICATION – EMPLOYEE ORGANIZATIONS,1
+6,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_6,02-23-2016,0,0,0,0,,0
+7,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_7,02-23-2016,0,1,0,0,4.      PUBLIC COMMENTS,1
+8,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_8,02-23-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0
+9,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_9,02-23-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0
+10,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_10,02-23-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0
+11,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_11,02-23-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0
+12,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_12,02-23-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0
+13,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_13,02-23-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0
+14,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_14,02-23-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0
+15,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_15,02-23-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0
+16,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_16,02-23-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0
+17,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_17,02-23-2016,0,0,0,0,,0
+18,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_18,02-23-2016,0,1,0,0,5.     CONSENT,1
+19,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_19,02-23-2016,0,0,0,1,5.1   Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting,0
+20,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_20,02-23-2016,0,0,0,0,System,0
+21,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_21,02-23-2016,0,0,0,1,5.2   Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School,0
+22,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_22,02-23-2016,0,0,0,0,Modernization Project,0
+23,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_23,02-23-2016,0,0,0,1,5.3   Approval of Contract with Corovan for Move Services at Stevens Creek Elementary,0
+24,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_24,02-23-2016,0,0,0,0,School,0
+25,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,59.0,cupertino_usd_02-23-2016_25,02-23-2016,0,0,0,0,,0
+26,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_26,02-23-2016,0,1,0,0,6.      DISCUSSION/INFORMATION ITEM,1
+27,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_27,02-23-2016,0,0,0,1,6.1  First Reading of Board Policies – Additions/Revisions,0
+28,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,104.0,cupertino_usd_02-23-2016_28,02-23-2016,0,0,0,1,6.2  Budget Update,0
+29,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_29,02-23-2016,0,0,0,0,,0
+30,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_30,02-23-2016,0,0,0,0,,0
+31,cupertino_usd,B,0,0,Arial,13.097,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_0,02-23-2016,0,0,0,0,"Board Meeting Agenda February 23, 2016 Page 2",0
+32,cupertino_usd, ,0,0,Arial,15.972,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_1,02-23-2016,0,0,0,0,,0
+33,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_2,02-23-2016,0,1,0,0,7.    ACTION ITEM,1
+34,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_3,02-23-2016,0,0,0,1,7.1   California School Boards Association (CSBA) Delegate Assembly Election for,0
+35,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_4,02-23-2016,0,0,0,0,Region 20,0
+36,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_5,02-23-2016,0,0,0,0,,0
+37,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_6,02-23-2016,0,1,0,0,8.     CLOSED SESSION,1
+38,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_7,02-23-2016,0,0,0,1,8.1   Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0
+39,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_8,02-23-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0
+40,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_9,02-23-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0
+41,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_10,02-23-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0
+42,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,101.0,cupertino_usd_02-23-2016_11,02-23-2016,0,0,0,1,8.2   Confidential Student 2-23-16A Matter Pursuant to California Education Code,0
+43,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,125.0,cupertino_usd_02-23-2016_12,02-23-2016,0,0,0,0,Section 35146,0
+44,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_13,02-23-2016,0,0,0,0,,0
+45,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_14,02-23-2016,0,1,0,0,9.     REPORT FROM CLOSED SESSION,1
+46,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_15,02-23-2016,0,0,0,0,,0
+47,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_16,02-23-2016,0,1,0,0,10.   BOARD ACTIVITY,1
+48,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_17,02-23-2016,0,0,0,0,,0
+49,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,77.0,cupertino_usd_02-23-2016_18,02-23-2016,0,1,0,0,11.   ADJOURNMENT,1
+50,cupertino_usd, ,0,0,Times-Roman,20.400,0,0,0,0,0,0,1,540.0,cupertino_usd_02-23-2016_19,02-23-2016,0,0,0,0,,0

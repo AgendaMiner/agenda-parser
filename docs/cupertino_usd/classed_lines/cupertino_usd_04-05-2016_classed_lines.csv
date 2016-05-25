@@ -1,107 +1,83 @@
-Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.3,cupertino_usd_04-05-2016_0,04-05-2016,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1,other_text
-1,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_04-05-2016_1,04-05-2016,0,0,0,0,Board of Education,0,other_text
-2,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_04-05-2016_2,04-05-2016,0,0,0,0,Regular Meeting,0,other_text
-3,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_04-05-2016_3,04-05-2016,0,0,0,0,AGENDA,1,other_text
-4,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_4,04-05-2016,0,0,0,0,,0,other_text
-5,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,5,77.28,cupertino_usd_04-05-2016_5,04-05-2016,0,0,0,0,,0,other_text
-6,cupertino_usd,C,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.28,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,0,"Cupertino Union School District  April 5, 2016",0,other_text
-7,cupertino_usd,1,0,0,Arial,14.375,1,0,1,0,0,0,0,0,77.28,cupertino_usd_04-05-2016_7,04-05-2016,0,1,0,0,"1309 S. Mary Avenue, Suite 150  6:00 p.m.",0,other_text
-8,cupertino_usd,S,0,0,Arial,14.375,0,0,1,0,0,0,0,0,77.28,cupertino_usd_04-05-2016_8,04-05-2016,0,0,0,0,"Sunnyvale, CA  94087",0,other_text
-9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_9,04-05-2016,0,0,0,0,,0,other_text
-10,cupertino_usd,W,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_10,04-05-2016,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0,other_text
-11,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_11,04-05-2016,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0,other_text
-12,cupertino_usd,h,0,0,Arial,10.542,1,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_12,04-05-2016,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0,other_text
-13,cupertino_usd,l,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_13,04-05-2016,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0,other_text
-14,cupertino_usd,C,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_14,04-05-2016,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0,other_text
-15,cupertino_usd,m,0,0,Arial,10.542,1,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_15,04-05-2016,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0,other_text
-16,cupertino_usd,c,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_16,04-05-2016,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0,other_text
-17,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_17,04-05-2016,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0,other_text
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,1,0,0,0,0,85.82,cupertino_usd_04-05-2016_18,04-05-2016,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0,other_text
-19,cupertino_usd, ,0,0,Arial,5.111,0,0,0,1,0,0,0,1,85.82,cupertino_usd_04-05-2016_19,04-05-2016,0,0,0,0,,0,other_text
-20,cupertino_usd,I,0,1,Arial-Italic,10.47,0,0,0,0,0,1,0,0,99.98,cupertino_usd_04-05-2016_20,04-05-2016,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 61200",0,other_text
-21,cupertino_usd,a,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,222.86,cupertino_usd_04-05-2016_21,04-05-2016,0,0,0,0,at least two business days before the meeting date.,0,other_text
-22,cupertino_usd, ,0,0,Arial,5.111,0,0,0,1,0,0,0,1,85.82,cupertino_usd_04-05-2016_22,04-05-2016,0,0,0,0,,0,other_text
-23,cupertino_usd,A,1,0,Arial-Bold,11.04,0,0,0,0,0,0,1,0,156.62,cupertino_usd_04-05-2016_23,04-05-2016,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0,other_text
-24,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_24,04-05-2016,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE/MONTCLAIRE PRESENTING,1,section_heading
-25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_25,04-05-2016,0,0,0,0,,0,other_text
-26,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_26,04-05-2016,0,1,0,0,2.     SUPERINTENDENT’S REPORT,1,section_heading
-27,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,94.56,cupertino_usd_04-05-2016_27,04-05-2016,0,0,0,0,,0,other_text
-28,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_28,04-05-2016,0,1,0,0,3.     RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH – APRIL 2016,1,section_heading
-29,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.56,cupertino_usd_04-05-2016_29,04-05-2016,0,0,0,0,Dana Ino. Secretary,0,other_text
-30,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.56,cupertino_usd_04-05-2016_30,04-05-2016,0,0,0,0,Murdock-Portal Elementary School!,0,other_text
-31,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_31,04-05-2016,0,0,0,0,,0,other_text
-32,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_32,04-05-2016,0,1,0,0,4.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
-33,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_33,04-05-2016,0,0,0,0,,0,other_text
-34,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_34,04-05-2016,0,1,0,0,5.      PUBLIC COMMENTS,1,section_heading
-35,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,9,76.56,cupertino_usd_04-05-2016_35,04-05-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,other_text
-36,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_36,04-05-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,other_text
-37,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_37,04-05-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,other_text
-38,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_38,04-05-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,other_text
-39,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_39,04-05-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,other_text
-40,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_40,04-05-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,other_text
-41,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_41,04-05-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,other_text
-42,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_42,04-05-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,other_text
-43,cupertino_usd, ,0,0,Arial,13.097,0,1,0,0,0,0,0,10,76.56,cupertino_usd_04-05-2016_43,04-05-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,other_text
-44,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_44,04-05-2016,0,0,0,0,,0,other_text
-45,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_45,04-05-2016,0,1,0,0,6.     APPROVAL OF MINUTES,1,section_heading
-46,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_46,04-05-2016,0,0,0,0,"Approval of minutes of the Regular Board Meeting of March 8, 2016 and March 22, 2016",0,other_text
-47,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,94.56,cupertino_usd_04-05-2016_47,04-05-2016,0,0,0,0,,0,other_text
-48,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_48,04-05-2016,0,1,0,0,7.     CONSENT,1,section_heading
-49,cupertino_usd, ,0,0,Times-Roman,16.728,0,0,0,0,0,0,1,1,248.355,cupertino_usd_04-05-2016_49,04-05-2016,0,0,0,0,,0,other_text
-50,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_50,04-05-2016,0,0,0,1,7.1     Ratification of Contracts,0,item_heading
-51,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_51,04-05-2016,0,0,0,1,7.2     Ratification of Personnel Report March 2016,0,item_heading
-52,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_52,04-05-2016,0,0,0,1,7.3     Ratification of Warrant List March 2016,0,item_heading
-53,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_53,04-05-2016,0,1,0,0,7 4     Approval of a Student Teaching Agreement with San Jose State University,0,other_text
-54,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_54,04-05-2016,0,0,0,1,7.5     Approval of the 2016-2017 Civic Center Rates,0,item_heading
-55,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_55,04-05-2016,0,0,0,1,7.6     Approval of the 2016-2017 Transportation Fee Schedule,0,item_heading
-56,cupertino_usd, ,0,0,Times-Roman,20.4,0,1,0,0,0,0,0,3,76.56,cupertino_usd_04-05-2016_56,04-05-2016,0,0,0,0,,0,other_text
-57,cupertino_usd,B,0,0,Arial,13.097,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_0,04-05-2016,0,0,0,0,"Board Meeting Agenda  April 5, 2016  Page 2",0,other_text
-58,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,33,76.56,cupertino_usd_04-05-2016_1,04-05-2016,0,0,0,0,,0,other_text
-59,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_2,04-05-2016,0,0,0,1,7.7     Approval of Change Order #5 to Calstate Construction for the Garden Gate,0,item_heading
-60,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_3,04-05-2016,0,0,0,0,Elementary School Modernization Project,0,item_text
-61,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_4,04-05-2016,0,0,0,1,7.8     Approval of Contract with Dan Butler & Company Inspection Services for the De,0,item_heading
-62,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_5,04-05-2016,0,0,0,0,Vargas Elementary School Modernization Project,0,item_text
-63,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,1,7.9     Approval of Contract with Keith Brown Inspections for the Dilworth Elementary,0,item_heading
-64,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_7,04-05-2016,0,0,0,0,School Modernization Project,0,item_text
-65,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_8,04-05-2016,0,0,0,1,7.10   Approval of Contract with Mobile Modular for the De Vargas Elementary School,0,item_heading
-66,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_9,04-05-2016,0,0,0,0,Modernization Project,0,item_text
-67,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_10,04-05-2016,0,0,0,1,7.11   Approval of Contract with Mobile Modular for the Dilworth Elementary School,0,item_heading
-68,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_11,04-05-2016,0,0,0,0,Modernization Project,0,item_text
-69,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_12,04-05-2016,0,0,0,1,7.12   Approval of Contract with Mobile Modular for the Kennedy Middle School,0,item_heading
-70,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_13,04-05-2016,0,0,0,0,Modernization Project,0,item_text
-71,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_14,04-05-2016,0,0,0,1,7.13   Contract Award to Kitchell CEM for Bond Program and Construction Management,0,item_heading
-72,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_15,04-05-2016,0,0,0,0,Services Associated with Modernization of the Cupertino Middle School Campus,0,item_text
-73,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_16,04-05-2016,0,0,0,0,(Phase 2),0,item_text
-74,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_17,04-05-2016,0,0,0,1,7.14   Contract Award to Kitchell CEM for Construction Management Services Associated,0,item_heading
-75,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_18,04-05-2016,0,0,0,0,with Multiple Site Improvement Projects at Cupertino Middle School,0,item_text
-76,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_19,04-05-2016,0,0,0,1,7.15   Contract Award to Kitchell CEM for Bond Program and Construction Management,0,item_heading
-77,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_20,04-05-2016,0,0,0,0,Services at Stocklmeir Elementary School,0,item_text
-78,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_21,04-05-2016,0,0,0,1,7.16   Adoption of Resolution No. 15-16-14 - Delegation of Authority to Approve Contracts,0,item_heading
-79,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,18,76.56,cupertino_usd_04-05-2016_22,04-05-2016,0,0,0,0,for Construction Work at Stevens Creek Elementary School,0,item_text
-80,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,9,76.56,cupertino_usd_04-05-2016_23,04-05-2016,0,0,0,0,,0,other_text
-81,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_24,04-05-2016,0,1,0,0,8.     ACTION,1,section_heading
-82,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_25,04-05-2016,0,0,0,1,8.1    Adoption of Resolution No. 15-16-15 - Reduction of Classified Staff Due to Lack of,0,item_heading
-83,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.56,cupertino_usd_04-05-2016_26,04-05-2016,0,0,0,0,Work and/or Lack of Funds,0,item_text
-84,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_27,04-05-2016,0,0,0,0,,0,other_text
-85,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_28,04-05-2016,0,1,0,0,9.     INFORMATION/DISCUSSION ITEM,1,section_heading
-86,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,2,94.56,cupertino_usd_04-05-2016_29,04-05-2016,0,0,0,1,9.1    Updated Measure H Bond Program Implementation Plan,0,item_heading
-87,cupertino_usd, ,0,0,Arial,14.375,1,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_30,04-05-2016,0,0,0,1,9.2    Accept for Information Quarterly Report on Williams Uniform Complaints for the,0,item_heading
-88,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,17,76.56,cupertino_usd_04-05-2016_31,04-05-2016,0,0,0,0,"Period of January 1 through March 31, 2016",0,item_text
-89,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,94.56,cupertino_usd_04-05-2016_32,04-05-2016,0,0,0,0,,0,other_text
-90,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_33,04-05-2016,0,1,0,0,10.   CLOSED SESSION,1,section_heading
-91,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_34,04-05-2016,0,0,0,1,10.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0,item_heading
-92,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,11,94.56,cupertino_usd_04-05-2016_35,04-05-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0,other_text
-93,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,11,94.56,cupertino_usd_04-05-2016_36,04-05-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0,other_text
-94,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,11,94.56,cupertino_usd_04-05-2016_37,04-05-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0,other_text
-95,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,2,94.56,cupertino_usd_04-05-2016_38,04-05-2016,0,0,0,1,10.2  Public Employee: Discipline/Dismissal/Release,0,item_heading
-96,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,8,76.56,cupertino_usd_04-05-2016_39,04-05-2016,0,0,0,1,10.3  Conference with Legal Counsel—Anticipated Litigation,0,item_heading
-97,cupertino_usd, ,0,0,Verdana,13.323,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_40,04-05-2016,0,0,0,0,,0,other_text
-98,cupertino_usd, ,0,0,Verdana,13.323,0,1,0,0,0,0,0,15,76.56,cupertino_usd_04-05-2016_41,04-05-2016,0,0,0,0,Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of,0,item_text
-99,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,15,94.56,cupertino_usd_04-05-2016_42,04-05-2016,0,0,0,0,Section 54956.9: One case.,0,other_text
-100,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_43,04-05-2016,0,0,0,0,,0,other_text
-101,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,1,76.56,cupertino_usd_04-05-2016_44,04-05-2016,0,0,0,0,,0,other_text
-102,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_45,04-05-2016,0,1,0,0,11.   REPORT FROM CLOSED SESSION,1,section_heading
-103,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,2,76.56,cupertino_usd_04-05-2016_46,04-05-2016,0,0,0,0,,0,other_text
-104,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,0,76.56,cupertino_usd_04-05-2016_47,04-05-2016,0,1,0,0,12.   BOARD ACTIVITY,1,section_heading
-105,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,540.06,cupertino_usd_04-05-2016_48,04-05-2016,0,0,0,0,,0,other_text
+Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
+0,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_0,04-05-2016,0,1,0,0,1.    CALL TO ORDER/FLAG SALUTE/MONTCLAIRE PRESENTING,1,section_heading
+1,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_1,04-05-2016,0,0,0,0,,0,other_text
+2,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_2,04-05-2016,0,1,0,0,2.    SUPERINTENDENT’S REPORT,1,section_heading
+3,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_3,04-05-2016,0,0,0,0,,0,other_text
+4,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_4,04-05-2016,0,1,0,0,3.    RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH – APRIL 2016,1,section_heading
+5,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_5,04-05-2016,0,0,0,0,Dana Ino. Secretary,0,other_text
+6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,0,Murdock-Portal Elementary School!,0,item_text
+7,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_7,04-05-2016,0,0,0,0,,0,other_text
+8,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_8,04-05-2016,0,1,0,0,4.    COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
+9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_9,04-05-2016,0,0,0,0,,0,other_text
+10,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_10,04-05-2016,0,1,0,0,5.      PUBLIC COMMENTS,1,section_heading
+11,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_11,04-05-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,item_heading
+12,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_12,04-05-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,item_text
+13,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_13,04-05-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,item_text
+14,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_14,04-05-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,item_text
+15,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_15,04-05-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,item_text
+16,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_16,04-05-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,item_text
+17,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_17,04-05-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,item_text
+18,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_18,04-05-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,item_text
+19,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_19,04-05-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,item_text
+20,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_20,04-05-2016,0,0,0,0,,0,other_text
+21,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_21,04-05-2016,0,1,0,0,6.     APPROVAL OF MINUTES,1,section_heading
+22,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_22,04-05-2016,0,0,0,0,"Approval of minutes of the Regular Board Meeting of March 8, 2016 and March 22, 2016",0,other_text
+23,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_23,04-05-2016,0,0,0,0,,0,other_text
+24,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_24,04-05-2016,0,1,0,0,7.     CONSENT,1,section_heading
+25,cupertino_usd, ,0,0,Times-Roman,16.728,0,0,0,0,0,0,1,248.0,cupertino_usd_04-05-2016_25,04-05-2016,0,0,0,0,,0,other_text
+26,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_26,04-05-2016,0,0,0,1,7.1     Ratification of Contracts,0,item_heading
+27,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_27,04-05-2016,0,0,0,1,7.2     Ratification of Personnel Report March 2016,0,item_heading
+28,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_28,04-05-2016,0,0,0,1,7.3     Ratification of Warrant List March 2016,0,item_heading
+29,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_29,04-05-2016,0,1,0,0,7 4     Approval of a Student Teaching Agreement with San Jose State University,0,item_heading
+30,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_30,04-05-2016,0,0,0,1,7.5     Approval of the 2016-2017 Civic Center Rates,0,item_heading
+31,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_31,04-05-2016,0,0,0,1,7.6     Approval of the 2016-2017 Transportation Fee Schedule,0,item_heading
+32,cupertino_usd, ,0,0,Times-Roman,20.4,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_32,04-05-2016,0,0,0,0,,0,other_text
+33,cupertino_usd,B,0,0,Arial,13.097,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_0,04-05-2016,0,0,0,0,"Board Meeting Agenda April 5, 2016 Page 2",0,other_text
+34,cupertino_usd, ,0,0,Arial,15.972,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_1,04-05-2016,0,0,0,0,,0,other_text
+35,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_2,04-05-2016,0,0,0,1,7.7     Approval of Change Order #5 to Calstate Construction for the Garden Gate,0,item_heading
+36,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_3,04-05-2016,0,0,0,0,Elementary School Modernization Project,0,item_text
+37,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_4,04-05-2016,0,0,0,1,7.8     Approval of Contract with Dan Butler & Company Inspection Services for the De,0,item_heading
+38,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_5,04-05-2016,0,0,0,0,Vargas Elementary School Modernization Project,0,item_text
+39,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,1,7.9     Approval of Contract with Keith Brown Inspections for the Dilworth Elementary,0,item_heading
+40,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_7,04-05-2016,0,0,0,0,School Modernization Project,0,item_text
+41,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_8,04-05-2016,0,0,0,1,7.10   Approval of Contract with Mobile Modular for the De Vargas Elementary School,0,item_heading
+42,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_9,04-05-2016,0,0,0,0,Modernization Project,0,item_text
+43,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_10,04-05-2016,0,0,0,1,7.11   Approval of Contract with Mobile Modular for the Dilworth Elementary School,0,item_heading
+44,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_11,04-05-2016,0,0,0,0,Modernization Project,0,item_text
+45,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_12,04-05-2016,0,0,0,1,7.12   Approval of Contract with Mobile Modular for the Kennedy Middle School,0,item_heading
+46,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_13,04-05-2016,0,0,0,0,Modernization Project,0,item_text
+47,cupertino_usd, ,0,0,Arial,14.375,1,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_14,04-05-2016,0,0,0,1,7.13   Contract Award to Kitchell CEM for Bond Program and Construction Management,0,item_heading
+48,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_15,04-05-2016,0,0,0,0,Services Associated with Modernization of the Cupertino Middle School Campus,0,item_text
+49,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_16,04-05-2016,0,0,0,0,(Phase 2),0,item_text
+50,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_17,04-05-2016,0,0,0,1,7.14   Contract Award to Kitchell CEM for Construction Management Services Associated,0,item_heading
+51,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_18,04-05-2016,0,0,0,0,with Multiple Site Improvement Projects at Cupertino Middle School,0,item_text
+52,cupertino_usd, ,0,0,Arial,14.375,1,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_19,04-05-2016,0,0,0,1,7.15   Contract Award to Kitchell CEM for Bond Program and Construction Management,0,item_heading
+53,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_20,04-05-2016,0,0,0,0,Services at Stocklmeir Elementary School,0,item_text
+54,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_21,04-05-2016,0,0,0,1,7.16   Adoption of Resolution No. 15-16-14 - Delegation of Authority to Approve Contracts,0,item_heading
+55,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,132.0,cupertino_usd_04-05-2016_22,04-05-2016,0,0,0,0,for Construction Work at Stevens Creek Elementary School,0,item_text
+56,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_23,04-05-2016,0,0,0,0,,0,other_text
+57,cupertino_usd,8,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_24,04-05-2016,0,1,0,0,8.     ACTION,1,section_heading
+58,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_25,04-05-2016,0,0,0,1,8.1    Adoption of Resolution No. 15-16-15 - Reduction of Classified Staff Due to Lack of,0,item_heading
+59,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_26,04-05-2016,0,0,0,0,Work and/or Lack of Funds,0,item_text
+60,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_27,04-05-2016,0,0,0,0,,0,other_text
+61,cupertino_usd,9,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_28,04-05-2016,0,1,0,0,9.     INFORMATION/DISCUSSION ITEM,1,section_heading
+62,cupertino_usd, ,0,0,Arial,14.375,1,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_29,04-05-2016,0,0,0,1,9.1    Updated Measure H Bond Program Implementation Plan,0,item_heading
+63,cupertino_usd, ,0,0,Arial,14.375,1,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_30,04-05-2016,0,0,0,1,9.2    Accept for Information Quarterly Report on Williams Uniform Complaints for the,0,item_heading
+64,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_31,04-05-2016,0,0,0,0,"Period of January 1 through March 31, 2016",0,item_text
+65,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_32,04-05-2016,0,0,0,0,,0,other_text
+66,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_33,04-05-2016,0,1,0,0,10.   CLOSED SESSION,1,section_heading
+67,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_34,04-05-2016,0,0,0,1,10.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0,other_text
+68,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_35,04-05-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0,item_text
+69,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_36,04-05-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0,item_text
+70,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_37,04-05-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0,item_text
+71,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_38,04-05-2016,0,0,0,1,10.2  Public Employee: Discipline/Dismissal/Release,0,item_heading
+72,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_39,04-05-2016,0,0,0,1,10.3  Conference with Legal Counsel—Anticipated Litigation,0,item_heading
+73,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_40,04-05-2016,0,0,0,0,Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of,0,other_text
+74,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_41,04-05-2016,0,0,0,0,Section 54956.9: One case.,0,other_text
+75,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_42,04-05-2016,0,0,0,0,,0,other_text
+76,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_43,04-05-2016,0,1,0,0,11.   REPORT FROM CLOSED SESSION,1,section_heading
+77,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_44,04-05-2016,0,0,0,0,,0,other_text
+78,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_45,04-05-2016,0,1,0,0,12.   BOARD ACTIVITY,1,section_heading
+79,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_46,04-05-2016,0,0,0,0,,0,other_text
+80,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_47,04-05-2016,0,1,0,0,13.   ADJOURNMENT,1,section_heading
+81,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_04-05-2016_48,04-05-2016,0,0,0,0,,0,other_text

@@ -5,122 +5,103 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER / FLAG SALUTE / MONTCLAIRE SCHOOL PRESENTATION", 
-            "section_name_raw": "1.  CALL TO ORDER / FLAG SALUTE / MONTCLAIRE SCHOOL PRESENTATION", 
+            "section_name_raw": "1. CALL TO ORDER / FLAG SALUTE / MONTCLAIRE SCHOOL PRESENTATION", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.  RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "2. RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "2."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of Minutes of the Regular Meetings of January 16, 2013 and January 22, 2013.", 
+                    "item_text_raw": "Approval of Minutes of the Regular Meetings of January 16, 2013 and January 22, 2013."
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "3.  APPROVAL OF MINUTES", 
+            "section_name_raw": "3. APPROVAL OF MINUTES", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
             "items": [
                 {
-                    "item_number": "54954.2", 
-                    "item_text": "\u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall", 
-                    "item_text_raw": "54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall"
-                }, 
-                {
                     "item_number": "6.1", 
                     "item_text": "Ratification of January, 2013 Warrant List", 
-                    "item_text_raw": "6.1  Ratification of January, 2013 Warrant List"
-                }, 
-                {
-                    "item_number": "6.2", 
-                    "item_text": "Ratification of January, 2013 Personnel Report", 
-                    "item_text_raw": "6.2  Ratification of January, 2013 Personnel Report"
+                    "item_text_raw": "6.1 Ratification of January, 2013 Warrant List"
                 }, 
                 {
                     "item_number": "6.3", 
-                    "item_text": "Adoption of Resolution No. 12-13-13 \u2013 2013-2014 School Calendar for Observance", 
-                    "item_text_raw": "6.3  Adoption of Resolution No. 12-13-13 \u2013 2013-2014 School Calendar for Observance"
-                }, 
-                {
-                    "item_number": "6.4", 
-                    "item_text": "Declaration of Surplus Property", 
-                    "item_text_raw": "6.4  Declaration of Surplus Property"
+                    "item_text": "Adoption of Resolution No. 12-13-13 \u2013 2013-2014 School Calendar for Observance of Lincoln Day and Washington Day", 
+                    "item_text_raw": "6.3 Adoption of Resolution No. 12-13-13 \u2013 2013-2014 School Calendar for Observance of Lincoln Day and Washington Day"
                 }, 
                 {
                     "item_number": "6.5", 
-                    "item_text": "Approval to Award a Two-Year Contract Extension for Independent Auditing Services", 
-                    "item_text_raw": "6.5  Approval to Award a Two-Year Contract Extension for Independent Auditing Services"
+                    "item_text": "Approval to Award a Two-Year Contract Extension for Independent Auditing Services to Vavrinek, Trine, Day and Co., LLP in the Amount of $40,000 per Year", 
+                    "item_text_raw": "6.5 Approval to Award a Two-Year Contract Extension for Independent Auditing Services to Vavrinek, Trine, Day and Co., LLP in the Amount of $40,000 per Year"
                 }, 
                 {
                     "item_number": "6.6", 
-                    "item_text": "Contract Award to IBI Group in the Amount of $130,200 for Design and Construction", 
-                    "item_text_raw": "6.6  Contract Award to IBI Group in the Amount of $130,200 for Design and Construction"
+                    "item_text": "Contract Award to IBI Group in the Amount of $130,200 for Design and Construction Administration Services Associated with Site Utility Improvements at 13 Elementary School Campuses", 
+                    "item_text_raw": "6.6 Contract Award to IBI Group in the Amount of $130,200 for Design and Construction Administration Services Associated with Site Utility Improvements at 13 Elementary School Campuses"
                 }, 
                 {
                     "item_number": "6.7", 
-                    "item_text": "Contract Award to Swinerton Management & Consulting in the Amount of $1,072,770", 
-                    "item_text_raw": "6.7  Contract Award to Swinerton Management & Consulting in the Amount of $1,072,770"
+                    "item_text": "Contract Award to Swinerton Management & Consulting in the Amount of $1,072,770 for Bond Program and Construction Management Services Associated with Modernization and Seismic Upgrade Projects at Meyerholz, Sedgwick, and West Valley Elementary Schools", 
+                    "item_text_raw": "6.7 Contract Award to Swinerton Management & Consulting in the Amount of $1,072,770 for Bond Program and Construction Management Services Associated with Modernization and Seismic Upgrade Projects at Meyerholz, Sedgwick, and West Valley Elementary Schools"
                 }, 
                 {
                     "item_number": "6.8", 
-                    "item_text": "Contract Award to Kitchell CEM in the Amount of $3,007,605 for Bond Program and", 
-                    "item_text_raw": "6.8  Contract Award to Kitchell CEM in the Amount of $3,007,605 for Bond Program and"
+                    "item_text": "Contract Award to Kitchell CEM in the Amount of $3,007,605 for Bond Program and Construction Management Services Associated with Demolition, Reconfiguration, New Construction and Modernization Projects at Cupertino Middle School, Lawson Middle School, District Administrative Office, and District Corporation Yard", 
+                    "item_text_raw": "6.8 Contract Award to Kitchell CEM in the Amount of $3,007,605 for Bond Program and Construction Management Services Associated with Demolition, Reconfiguration, New Construction and Modernization Projects at Cupertino Middle School, Lawson Middle School, District Administrative Office, and District Corporation Yard"
                 }, 
                 {
                     "item_number": "6.9", 
-                    "item_text": "Contract Award to IBI Group in the Amount of $2,194,500 for Architectural and", 
-                    "item_text_raw": "6.9  Contract Award to IBI Group in the Amount of $2,194,500 for Architectural and"
+                    "item_text": "Contract Award to IBI Group in the Amount of $2,194,500 for Architectural and Engineering Services Associated with the Design of a New Classroom Building, Gymnasium and Outdoor Quad, Modernization of Existing Buildings 100, 200, and 300 and Interim Housing at Cupertino Middle School", 
+                    "item_text_raw": "6.9 Contract Award to IBI Group in the Amount of $2,194,500 for Architectural and Engineering Services Associated with the Design of a New Classroom Building, Gymnasium and Outdoor Quad, Modernization of Existing Buildings 100, 200, and 300 and Interim Housing at Cupertino Middle School"
                 }, 
                 {
                     "item_number": "6.10", 
-                    "item_text": "Contract Award to HMC Architects in the Amount of $1,375,000 for Architectural and", 
-                    "item_text_raw": "6.10  Contract Award to HMC Architects in the Amount of $1,375,000 for Architectural and"
+                    "item_text": "Contract Award to HMC Architects in the Amount of $1,375,000 for Architectural and Engineering Services Associated with the Construction of Two New Classroom Buildings and Outdoor Physical Education Facilities and Modernization of Existing Facilities and Interim Housing at Lawson Middle School, Demolition of the District", 
+                    "item_text_raw": "6.10 Contract Award to HMC Architects in the Amount of $1,375,000 for Architectural and Engineering Services Associated with the Construction of Two New Classroom Buildings and Outdoor Physical Education Facilities and Modernization of Existing Facilities and Interim Housing at Lawson Middle School, Demolition of the District"
                 }, 
                 {
                     "item_number": "6.11", 
-                    "item_text": "Contract Award to David J. Powers & Associates in the Amount of $110,721 to", 
-                    "item_text_raw": "6.11  Contract Award to David J. Powers & Associates in the Amount of $110,721 to"
+                    "item_text": "Contract Award to David J. Powers & Associates in the Amount of $110,721 to Provide Consulting Services Associated with California Environmental Quality Act Compliance for the Cupertino and Lawson Middle School New Construction and Modernization Projects, District Administrative Office Demolition, and District Corporation Yard Modifications", 
+                    "item_text_raw": "6.11 Contract Award to David J. Powers & Associates in the Amount of $110,721 to Provide Consulting Services Associated with California Environmental Quality Act Compliance for the Cupertino and Lawson Middle School New Construction and Modernization Projects, District Administrative Office Demolition, and District Corporation Yard Modifications"
                 }, 
                 {
                     "item_number": "6.12", 
-                    "item_text": "Approval of Memorandum of Understanding (MOU) with the Fremont Union High", 
-                    "item_text_raw": "6.12  Approval of Memorandum of Understanding (MOU) with the Fremont Union High"
+                    "item_text": "Approval of Memorandum of Understanding (MOU) with the Fremont Union High School District to Define a Cooperative Working Relationship for the Purpose of Emergency Response and Campus Evacuation", 
+                    "item_text_raw": "6.12 Approval of Memorandum of Understanding (MOU) with the Fremont Union High School District to Define a Cooperative Working Relationship for the Purpose of Emergency Response and Campus Evacuation"
                 }, 
                 {
                     "item_number": "6.13", 
-                    "item_text": "Approval of 2012-2013 Winter Data Collection \u2013 Consolidated Application Reporting", 
-                    "item_text_raw": "6.13  Approval of 2012-2013 Winter Data Collection \u2013 Consolidated Application Reporting"
-                }, 
-                {
-                    "item_number": "6.14", 
-                    "item_text": "Approve Contract for Human Systems Dynamics Institute to Provide Professional", 
-                    "item_text_raw": "6.14  Approve Contract for Human Systems Dynamics Institute to Provide Professional"
+                    "item_text": "Approval of 2012-2013 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report Development Training for Fifty (50) Staff Members", 
+                    "item_text_raw": "6.13  Approval of 2012-2013 Winter Data Collection \u2013 Consolidated Application Reporting System (CARS) Report Development Training for Fifty (50) Staff Members "
                 }, 
                 {
                     "item_number": "8.1", 
-                    "item_text": "Approval of the January 18, 2013 Measure H Bond Program Implementation Plan", 
-                    "item_text_raw": "8.1  Approval of the January 18, 2013 Measure H Bond Program Implementation Plan"
-                }, 
-                {
-                    "item_number": "8.2", 
-                    "item_text": "California School Boards Association (CSBA) Delegate Assembly Election for", 
-                    "item_text_raw": "8.2  California School Boards Association (CSBA) Delegate Assembly Election for"
+                    "item_text": "Approval of the January 18, 2013 Measure H Bond Program Implementation Plan 8.2 California School Boards Association (CSBA) Delegate Assembly Election for Region 20", 
+                    "item_text_raw": "8.1 Approval of the January 18, 2013 Measure H Bond Program Implementation Plan 8.2 California School Boards Association (CSBA) Delegate Assembly Election for Region 20"
                 }, 
                 {
                     "item_number": "9.1", 
                     "item_text": "Accept for Information First Reading of Board Policies \u2013 Updates and Additions", 
-                    "item_text_raw": "9.1  Accept for Information First Reading of Board Policies \u2013 Updates and Additions"
+                    "item_text_raw": "9.1 Accept for Information First Reading of Board Policies \u2013 Updates and Additions"
                 }
             ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.  PUBLIC COMMENTS", 
+            "section_name_raw": "5. PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
@@ -152,20 +133,20 @@
         }, 
         {
             "items": [], 
-            "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "11.  REPORT FROM CLOSED SESSION", 
-            "section_number": "11."
+            "section_name": "11.REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "11.REPORT FROM CLOSED SESSION", 
+            "section_number": ""
         }, 
         {
             "items": [], 
             "section_name": "BOARD MEMBER ACTIVITIES", 
-            "section_name_raw": "12.  BOARD MEMBER ACTIVITIES", 
+            "section_name_raw": "12. BOARD MEMBER ACTIVITIES", 
             "section_number": "12."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "13.  ADJOURNMENT", 
+            "section_name_raw": "13. ADJOURNMENT", 
             "section_number": "13."
         }
     ]

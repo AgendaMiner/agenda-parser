@@ -3,7 +3,7 @@ import pprint
 import scipy
 import os
 import matplotlib.pyplot as plt
-from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search, feature_extraction
+from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search, feature_extraction, ensemble
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import pandas as pd
 
@@ -37,110 +37,6 @@ def classifyAgendas(agency, dates, eval_model):
 
 		classifyLines(model_pieces, predict_filepath, classed_filepath, classes_list)
 
-
-'''
-trainModel
-==========
-Use the training file to build a model that classifies each line as
-one of the inputted classes.
-Returns the fitted model.
-'''
-def trainModel(training_directory, classes_list, eval_model):
-	training_df = buildTrainingDataset(training_directory)
-
-	# create a DTM vectorizer and dummy encoder object for use later
-	model_pieces = dict()
-	model_pieces['vect'] = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=2, binary=True)
-	model_pieces['encoder'] = feature_extraction.DictVectorizer(sparse=False)
-	
-	# create datasets from the input file
-	datasets, model_pieces = prepDatasets(model_pieces, training_df, classes_list, True)
-	X = datasets[0]
-	y = datasets[1]
-
-	# create interaction features
-	# interactor = preprocessing.PolynomialFeatures(interaction_only=True)
-	# x = interactor.fit_transform(x)
-
-	# split into training and validation sets if eval_model is True
-	if eval_model:
-		X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, y, test_size=0.33, stratify=y)
-	else:
-		X_train = X
-		y_train = y
-
-	## LOG REGRESSION
-
-	# train classifier
-	model_pieces['model'] = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
-	model_pieces['model'].fit(X_train, y_train)
-
-	if eval_model:
-		log_pred_classes = model_pieces['model'].predict(X_test)
-		print(model_pieces['model'].coef_)
-	
-		print(metrics.classification_report(y_test, log_pred_classes))
-		print(metrics.confusion_matrix(y_test, log_pred_classes))
-
-	## SVM - LOGISTIC REGRESSION WORKS BETTER
-	# # train classifier
-	# # raw_svm = svm.SVC(decision_function_shape='ovr', class_weight='balanced')
-	# # search_params = {'kernel':['rbf'], 'C':[1, 10, 100, 1000, 10000, 100000, 1000000], 'gamma': [0.00001, 0.0001, 0.01, 1, 10, 100]}
-	# # svm_cv = grid_search.GridSearchCV(raw_svm, param_grid=search_params, cv=5, n_jobs=-1, verbose=5)
-	# # svm_cv.fit(X_train, y_train)
-	# # print(svm_cv.best_params_)
-	# svm_classifier = svm.SVC(decision_function_shape='ovr', class_weight='balanced', kernel='rbf', C=100000, gamma=0.00001)
-	# svm_classifier.fit(X_train, y_train)
-
-	# if eval_model:
-	# 	pred_classes = svm_classifier.predict(X_test)
-	
-	# 	print(metrics.classification_report(y_test, pred_classes))
-	# 	print(metrics.confusion_matrix(y_test, pred_classes))
-
-	return model_pieces
-
-
-
-'''
-buildTrainingDataset
-======================
-Given a directory path, load all the csv files in that directory as pandas
-dataframes, and merge them together.
-'''
-def buildTrainingDataset(directory_path):
-	df_list = list()
-	for filename in os.listdir(directory_path):
-		if filename.endswith(".csv"):
-			filepath = os.path.join(directory_path, filename)
-			df = pd.read_csv(open(filepath,'rU'), sep = ',', header = 0)
-			df_list.append(df)
-
-	return pd.concat(df_list, ignore_index=True) 
-
-
-
-'''
-classifyLines
-=============
-Given a model, an input filepath, and an output filepath, predicts
-the classifications of each line in the input file, and writes out a version 
-of the file with the classifications.
-'''
-def classifyLines(model_pieces, input_filepath, output_filepath, classes_list):
-
-	input_df = pd.read_csv(input_filepath, sep = ',', header = 0)
-
-	# create datasets from the input file
-	datasets, model_pieces = prepDatasets(model_pieces, input_df, classes_list, False)
-	X_predict = datasets[0]
-
-	# predict classes
-	preds = model_pieces['model'].predict(X_predict)
-	input_df['line_class'] = preds
-
-	# write out predicted df to csv
-	input_df.to_csv(output_filepath, index=False)
 
 
 
@@ -188,6 +84,110 @@ def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 		data_arrays.append(df['line_class'])
 
 	return [data_arrays, model_pieces]
+
+
+
+'''
+trainModel
+==========
+Use the training file to build a model that classifies each line as
+one of the inputted classes.
+Returns the fitted model.
+'''
+def trainModel(training_directory, classes_list, eval_model):
+	training_df = buildTrainingDataset(training_directory)
+
+	# create a DTM vectorizer and dummy encoder object for use later
+	model_pieces = dict()
+	model_pieces['vect'] = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=2, binary=True)
+	model_pieces['encoder'] = feature_extraction.DictVectorizer(sparse=False)
+	
+	# create datasets from the input file
+	datasets, model_pieces = prepDatasets(model_pieces, training_df, classes_list, True)
+	X = datasets[0]
+	y = datasets[1]
+
+	# create interaction features -- TOO INTENSIVE WHEN INCLUDING DTM
+	# interactor = preprocessing.PolynomialFeatures(interaction_only=True)
+	# X = interactor.fit_transform(X)
+
+	# split into training and validation sets if eval_model is True
+	if eval_model:
+		X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, y, test_size=0.33, stratify=y)
+	else:
+		X_train = X
+		y_train = y
+
+	## LOG REGRESSION
+
+	# # train classifier
+	# model_pieces['model'] = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
+	# model_pieces['model'].fit(X_train, y_train)
+
+	# if eval_model:
+	# 	log_pred_classes = model_pieces['model'].predict(X_test)
+	# 	print(model_pieces['model'].coef_)
+	
+	# 	print(metrics.classification_report(y_test, log_pred_classes))
+	# 	print(metrics.confusion_matrix(y_test, log_pred_classes))
+
+	# try a random forest
+	rf = ensemble.RandomForestClassifier(n_estimators=30, n_jobs=-1, class_weight="balanced")
+	rf.fit(X_train, y_train)
+	model_pieces['model'] = rf
+
+	if eval_model:
+		rf_pred_classes = rf.predict(X_test)
+	
+		print(metrics.classification_report(y_test, rf_pred_classes))
+		print(metrics.confusion_matrix(y_test, rf_pred_classes))
+
+
+
+
+	return model_pieces
+
+
+
+'''
+buildTrainingDataset
+======================
+Given a directory path, load all the csv files in that directory as pandas
+dataframes, and merge them together.
+'''
+def buildTrainingDataset(directory_path):
+	df_list = list()
+	for filename in os.listdir(directory_path):
+		if filename.endswith(".csv"):
+			filepath = os.path.join(directory_path, filename)
+			df = pd.read_csv(open(filepath,'rU'), sep = ',', header = 0)
+			df_list.append(df)
+
+	return pd.concat(df_list, ignore_index=True) 
+
+
+
+'''
+classifyLines
+=============
+Given a model, an input filepath, and an output filepath, predicts
+the classifications of each line in the input file, and writes out a version 
+of the file with the classifications.
+'''
+def classifyLines(model_pieces, input_filepath, output_filepath, classes_list):
+
+	input_df = pd.read_csv(input_filepath, sep = ',', header = 0)
+
+	# create datasets from the input file
+	datasets, model_pieces = prepDatasets(model_pieces, input_df, classes_list, False)
+	X_predict = datasets[0]
+
+	# predict classes
+	preds = model_pieces['model'].predict(X_predict)
+	input_df['line_class'] = preds
+
+	# write out predicted df to csv
+	input_df.to_csv(output_filepath, index=False)
 
 
 

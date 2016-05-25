@@ -1,58 +1,32 @@
-Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.3,cupertino_usd_01-21-2016_0,01-21-2016,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1,other_text
-1,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,0,0,1,1,308.31,cupertino_usd_01-21-2016_1,01-21-2016,0,0,0,0,,0,other_text
-2,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_01-21-2016_2,01-21-2016,0,0,0,0,Board of Education,0,other_text
-3,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,256.952,cupertino_usd_01-21-2016_3,01-21-2016,0,0,0,0,Board Advance,0,other_text
-4,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_01-21-2016_4,01-21-2016,0,0,0,0,AGENDA,1,other_text
-5,cupertino_usd, ,0,0,Arial,15.972,0,0,0,1,0,0,0,1,76.56,cupertino_usd_01-21-2016_5,01-21-2016,0,0,0,0,,0,other_text
-6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,5,77.28,cupertino_usd_01-21-2016_6,01-21-2016,0,0,0,0,,0,other_text
-7,cupertino_usd,C,0,0,Arial,14.375,0,0,0,0,1,0,0,0,77.28,cupertino_usd_01-21-2016_7,01-21-2016,0,0,0,0,"Cupertino Union School District  January 21, 2016",0,other_text
-8,cupertino_usd,1,0,0,Times-Roman,20.4,0,0,0,0,1,0,0,0,77.28,cupertino_usd_01-21-2016_8,01-21-2016,0,1,0,0,1309 S. Mary Avenue,0,other_text
-9,cupertino_usd,9,0,0,Arial,14.375,1,0,0,0,0,0,1,0,508.816,cupertino_usd_01-21-2016_9,01-21-2016,0,0,0,0,9:00 a.m.,0,other_text
-10,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,0,407.28,cupertino_usd_01-21-2016_10,01-21-2016,0,0,0,0,"Sunnyvale, CA 94087",0,other_text
-11,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,77.28,cupertino_usd_01-21-2016_11,01-21-2016,0,0,0,0,,0,other_text
-12,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,1,76.56,cupertino_usd_01-21-2016_12,01-21-2016,0,0,0,0,,0,other_text
-13,cupertino_usd,W,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_13,01-21-2016,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board during Public Comments,0,other_text
-14,cupertino_usd,o,0,0,Arial,10.542,1,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_14,01-21-2016,0,0,0,0,"on any agenda item or any item not on the agenda, please fill out a comment card available in the hallway and give it to the Administrative",0,other_text
-15,cupertino_usd,A,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_15,01-21-2016,0,0,0,0,Assistant.  You will be called on to comment during this time and comments will be limited to three (3) minutes.  To ensure that all speakers are,0,other_text
-16,cupertino_usd,p,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_16,01-21-2016,0,0,0,0,"provided an equal opportunity to address the Board during Public Comments, individual speakers may not “yield” their allotted time to address the",0,other_text
-17,cupertino_usd,B,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_17,01-21-2016,0,0,0,0,"Board to other speakers.  In addition, the Board may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total",0,other_text
-18,cupertino_usd,a,0,0,Arial,10.542,1,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_18,01-21-2016,0,0,0,0,amount of time allocated for comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their,0,other_text
-19,cupertino_usd,r,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_19,01-21-2016,0,0,0,0,responses for discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0,other_text
-20,cupertino_usd,d,0,0,Arial,10.542,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_20,01-21-2016,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0,other_text
-21,cupertino_usd,I,0,1,Arial-Italic,10.47,0,0,1,0,0,0,0,0,55.957,cupertino_usd_01-21-2016_21,01-21-2016,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 61200 at least two business",0,other_text
-22,cupertino_usd, ,0,0,Arial,5.111,0,1,0,0,0,0,0,5,50.4,cupertino_usd_01-21-2016_22,01-21-2016,0,0,0,0,,0,other_text
-23,cupertino_usd,d,0,1,Arial-Italic,10.47,0,1,0,0,0,0,0,0,50.4,cupertino_usd_01-21-2016_23,01-21-2016,0,0,0,0,days before the meeting date.,0,other_text
-24,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,0,0,1,1,156.259,cupertino_usd_01-21-2016_24,01-21-2016,0,0,0,0,,0,other_text
-25,cupertino_usd,A,1,0,Arial-Bold,11.04,0,0,0,0,0,0,1,0,154.339,cupertino_usd_01-21-2016_25,01-21-2016,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0,other_text
-26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_26,01-21-2016,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1,section_heading
-27,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_01-21-2016_27,01-21-2016,0,0,0,0,,0,other_text
-28,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_28,01-21-2016,0,1,0,0,2.     COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
-29,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,1,94.56,cupertino_usd_01-21-2016_29,01-21-2016,0,0,0,0,,0,other_text
-30,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_30,01-21-2016,0,1,0,0,3.     PUBLIC COMMENTS,1,section_heading
-31,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,9,76.56,cupertino_usd_01-21-2016_31,01-21-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,other_text
-32,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_32,01-21-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,other_text
-33,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_33,01-21-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,other_text
-34,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_34,01-21-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,other_text
-35,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_35,01-21-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,other_text
-36,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_36,01-21-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,other_text
-37,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_37,01-21-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,other_text
-38,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_38,01-21-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,other_text
-39,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_39,01-21-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,other_text
-40,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,2,76.56,cupertino_usd_01-21-2016_40,01-21-2016,0,0,0,0,,0,other_text
-41,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_41,01-21-2016,0,1,0,0,4.      DISCUSSION,1,section_heading
-42,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,9,76.56,cupertino_usd_01-21-2016_42,01-21-2016,0,0,0,1,4.1   Board Priorities Update,0,item_heading
-43,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,12,76.56,cupertino_usd_01-21-2016_43,01-21-2016,0,0,0,0,,0,other_text
-44,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_44,01-21-2016,0,1,0,0,5.      CLOSED SESSION,1,section_heading
-45,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,9,76.56,cupertino_usd_01-21-2016_45,01-21-2016,0,0,0,0,"By law, closed sessions are not open to the public.  Anyone wishing to address the Board of",0,other_text
-46,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,10,76.56,cupertino_usd_01-21-2016_46,01-21-2016,0,0,0,0,Education on closed session matters may do so during Agenda Item 2 – Public Comments,0,other_text
-47,cupertino_usd, ,0,0,Arial,15.972,0,0,0,1,0,0,0,9,76.56,cupertino_usd_01-21-2016_47,01-21-2016,0,0,0,1,5.1  Public Employee Performance Evaluation – Pursuant to Government Code,0,other_text
-48,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,17,76.56,cupertino_usd_01-21-2016_48,01-21-2016,0,0,0,0,Section 54957,0,item_text
-49,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,17,76.56,cupertino_usd_01-21-2016_49,01-21-2016,0,0,0,0,District Representatives:     Board President Josephine Lucey and,0,item_text
-50,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,61,76.56,cupertino_usd_01-21-2016_50,01-21-2016,0,0,0,0,Vice-President Anjali Kausar,0,item_text
-51,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,17,76.56,cupertino_usd_01-21-2016_51,01-21-2016,0,0,0,0,Unrepresented Employee:  Superintendent Wendy Gudalewicz,0,item_text
-52,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,1,76.56,cupertino_usd_01-21-2016_52,01-21-2016,0,0,0,0,,0,other_text
-53,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_53,01-21-2016,0,1,0,0,6.      REPORT FROM CLOSED SESSION,1,section_heading
-54,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,1,76.56,cupertino_usd_01-21-2016_54,01-21-2016,0,0,0,0,,0,other_text
-55,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,0,76.56,cupertino_usd_01-21-2016_55,01-21-2016,0,1,0,0,7.      ADJOURNMENT,1,section_heading
-56,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,1,0,0,0,3,76.56,cupertino_usd_01-21-2016_56,01-21-2016,0,0,0,0,,0,other_text
+Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
+0,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_0,01-21-2016,0,1,0,0,1.    CALL TO ORDER/FLAG SALUTE,1,section_heading
+1,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_01-21-2016_1,01-21-2016,0,0,0,0,,0,other_text
+2,cupertino_usd,2,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_2,01-21-2016,0,1,0,0,2.    COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
+3,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_01-21-2016_3,01-21-2016,0,0,0,0,,0,other_text
+4,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_4,01-21-2016,0,1,0,0,3.    PUBLIC COMMENTS,1,section_heading
+5,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_5,01-21-2016,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,item_heading
+6,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_6,01-21-2016,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,item_text
+7,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_7,01-21-2016,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,item_text
+8,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_8,01-21-2016,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,item_text
+9,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_9,01-21-2016,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,item_text
+10,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_10,01-21-2016,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,item_text
+11,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_11,01-21-2016,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any,0,item_text
+12,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_12,01-21-2016,0,0,0,0,response to the speaker including negative and positive reactions (booing and clapping).  This will,0,item_text
+13,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_13,01-21-2016,0,0,0,0,ensure that all members of the public feel free to voice their opinions and concerns.,0,item_text
+14,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_14,01-21-2016,0,0,0,0,,0,other_text
+15,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_15,01-21-2016,0,0,0,0,4.DISCUSSION,1,other_text
+16,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_16,01-21-2016,0,0,0,1,4.1   Board Priorities Update,0,item_heading
+17,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_17,01-21-2016,0,0,0,0,,0,other_text
+18,cupertino_usd,5,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_18,01-21-2016,0,1,0,0,5.      CLOSED SESSION,1,section_heading
+19,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_19,01-21-2016,0,0,0,0,"By law, closed sessions are not open to the public.  Anyone wishing to address the Board of",0,item_heading
+20,cupertino_usd, ,0,0,Arial,13.097,0,0,0,1,0,0,0,104.0,cupertino_usd_01-21-2016_20,01-21-2016,0,0,0,0,Education on closed session matters may do so during Agenda Item 2 – Public Comments,0,item_text
+21,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,107.0,cupertino_usd_01-21-2016_21,01-21-2016,0,0,0,1,5.1  Public Employee Performance Evaluation – Pursuant to Government Code,0,item_heading
+22,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,129.0,cupertino_usd_01-21-2016_22,01-21-2016,0,0,0,0,Section 54957,0,item_text
+23,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,129.0,cupertino_usd_01-21-2016_23,01-21-2016,0,0,0,0,District Representatives:     Board President Josephine Lucey and,0,item_text
+24,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,263.0,cupertino_usd_01-21-2016_24,01-21-2016,0,0,0,0,Vice-President Anjali Kausar,0,item_text
+25,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,129.0,cupertino_usd_01-21-2016_25,01-21-2016,0,0,0,0,Unrepresented Employee:  Superintendent Wendy Gudalewicz,0,item_text
+26,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_26,01-21-2016,0,0,0,0,,0,other_text
+27,cupertino_usd,6,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_27,01-21-2016,0,1,0,0,6.      REPORT FROM CLOSED SESSION,1,section_heading
+28,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_28,01-21-2016,0,0,0,0,,0,other_text
+29,cupertino_usd,7,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_29,01-21-2016,0,1,0,0,7.      ADJOURNMENT,1,section_heading
+30,cupertino_usd, ,0,0,Times-Roman,20.4,0,1,0,0,0,0,0,77.0,cupertino_usd_01-21-2016_30,01-21-2016,0,0,0,0,,0,other_text

@@ -5,29 +5,35 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/MONTCLAIRE PRESENTING", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/MONTCLAIRE PRESENTING", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/MONTCLAIRE PRESENTING", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH \u2013 APRIL 2016", 
-            "section_name_raw": "3.     RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH \u2013 APRIL 2016", 
+            "section_name_raw": "3.    RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH \u2013 APRIL 2016", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "5.      PUBLIC COMMENTS", 
             "section_number": "5."
@@ -54,6 +60,11 @@
                     "item_number": "7.3", 
                     "item_text": "Ratification of Warrant List March 2016", 
                     "item_text_raw": "7.3     Ratification of Warrant List March 2016"
+                }, 
+                {
+                    "item_number": "7", 
+                    "item_text": "4     Approval of a Student Teaching Agreement with San Jose State University", 
+                    "item_text_raw": "7 4     Approval of a Student Teaching Agreement with San Jose State University"
                 }, 
                 {
                     "item_number": "7.5", 
@@ -152,19 +163,14 @@
         {
             "items": [
                 {
-                    "item_number": "10.1", 
-                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.4", 
-                    "item_text_raw": "10.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4"
-                }, 
-                {
                     "item_number": "10.2", 
                     "item_text": "Public Employee: Discipline/Dismissal/Release", 
                     "item_text_raw": "10.2  Public Employee: Discipline/Dismissal/Release"
                 }, 
                 {
                     "item_number": "10.3", 
-                    "item_text": "Conference with Legal Counsel\u2014Anticipated Litigation Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of", 
-                    "item_text_raw": "10.3  Conference with Legal Counsel\u2014Anticipated Litigation Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of"
+                    "item_text": "Conference with Legal Counsel\u2014Anticipated Litigation", 
+                    "item_text_raw": "10.3  Conference with Legal Counsel\u2014Anticipated Litigation"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
@@ -182,6 +188,12 @@
             "section_name": "BOARD ACTIVITY", 
             "section_name_raw": "12.   BOARD ACTIVITY", 
             "section_number": "12."
+        }, 
+        {
+            "items": [], 
+            "section_name": "ADJOURNMENT", 
+            "section_name_raw": "13.   ADJOURNMENT", 
+            "section_number": "13."
         }
     ]
 }

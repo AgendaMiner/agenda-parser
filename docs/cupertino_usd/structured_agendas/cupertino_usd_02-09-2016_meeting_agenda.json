@@ -5,7 +5,7 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER", 
-            "section_name_raw": "1.     CALL TO ORDER", 
+            "section_name_raw": "1.    CALL TO ORDER", 
             "section_number": "1."
         }, 
         {
@@ -13,45 +13,57 @@
                 {
                     "item_number": "2.1", 
                     "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International", 
-                    "item_text_raw": "2.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International "
+                    "item_text_raw": "2.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "2.     CLOSED SESSION", 
+            "section_name_raw": "2.    CLOSED SESSION", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "REPORT FROM CLOSED SESSION", 
-            "section_name_raw": "3.      REPORT FROM CLOSED SESSION", 
+            "section_name_raw": "3.    REPORT FROM CLOSED SESSION", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "FLAG SALUTE/ MILLER PRESENTING", 
-            "section_name_raw": "4.      FLAG SALUTE/ MILLER PRESENTING", 
+            "section_name_raw": "4.     FLAG SALUTE/ MILLER PRESENTING", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENTS REPORT", 
-            "section_name_raw": "5.      SUPERINTENDENTS REPORT", 
+            "section_name_raw": "5.     SUPERINTENDENTS REPORT", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Board Meeting of January 12, 2016 and the Board Advance of January 21, 2016 and the Special Meeting of January 28, 2016", 
+                    "item_text_raw": "Approval of minutes of the Regular Board Meeting of January 12, 2016 and the Board Advance of January 21, 2016 and the Special Meeting of January 28, 2016"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "6.      APPROVAL OF MINUTES", 
+            "section_name_raw": "6.     APPROVAL OF MINUTES", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "7.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "7.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "7."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "8.      PUBLIC COMMENTS", 
             "section_number": "8."
@@ -67,6 +79,12 @@
             "section_name": "PRESENTATION \u2013 RECOGNITION OF CLASSIFIED EMPLOYEES WHO EARNED", 
             "section_name_raw": "10.    PRESENTATION \u2013 RECOGNITION OF CLASSIFIED EMPLOYEES WHO EARNED", 
             "section_number": "10."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PERMANENT EMPLOYEE STATUS IN 2015", 
+            "section_name_raw": "PERMANENT EMPLOYEE STATUS IN 2015", 
+            "section_number": ""
         }, 
         {
             "items": [
@@ -87,8 +105,8 @@
                 }, 
                 {
                     "item_number": "11.4", 
-                    "item_text": "Adoption of Resolution No. 15-16-12 - 2016\u20132017 School Calendar for", 
-                    "item_text_raw": "11.4   Adoption of Resolution No. 15-16-12 - 2016\u20132017 School Calendar for"
+                    "item_text": "Adoption of Resolution No. 15-16-12 - 2016\u20132017 School Calendar for Observance of Lincoln\u2019s and Washington\u2019s Birthdays", 
+                    "item_text_raw": "11.4   Adoption of Resolution No. 15-16-12 - 2016\u20132017 School Calendar for Observance of Lincoln\u2019s and Washington\u2019s Birthdays"
                 }, 
                 {
                     "item_number": "11.5", 
@@ -102,8 +120,8 @@
                 }, 
                 {
                     "item_number": "11.7", 
-                    "item_text": "Approval of Job Description and Salary Range - Bond Project Administrator Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote:  Anjali Kausar  _______", 
-                    "item_text_raw": "11.7   Approval of Job Description and Salary Range - Bond Project Administrator Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote:  Anjali Kausar  _______"
+                    "item_text": "Approval of Job Description and Salary Range - Bond Project Administrator Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote: Anjali Kausar _______ Josephine Lucey _______ Kristen Lyn _______ Soma McCandless _______ Phyllis Vogel _______", 
+                    "item_text_raw": "11.7   Approval of Job Description and Salary Range - Bond Project Administrator Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote: Anjali Kausar _______ Josephine Lucey _______ Kristen Lyn _______ Soma McCandless _______ Phyllis Vogel _______"
                 }
             ], 
             "section_name": "CONSENT", 
@@ -114,8 +132,8 @@
             "items": [
                 {
                     "item_number": "12.1", 
-                    "item_text": "Accept Measure H Bond Program Citizens' Bond Oversight Committee Annual Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote:  Anjali Kausar  _______ Phyllis Vogel  _______", 
-                    "item_text_raw": "12.1   Accept Measure H Bond Program Citizens' Bond Oversight Committee Annual Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote:  Anjali Kausar  _______ Phyllis Vogel  _______"
+                    "item_text": "Accept Measure H Bond Program Citizens' Bond Oversight Committee Annual Report for the 2014/2015 Fiscal Year Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote: Anjali Kausar _______ Josephine Lucey _______ Kristen Lyn _______ Soma McCandless _______ Phyllis Vogel _______", 
+                    "item_text_raw": "12.1   Accept Measure H Bond Program Citizens' Bond Oversight Committee Annual Report for the 2014/2015 Fiscal Year Moved by _________ Seconded by _________ Vote  _________ Roll Call Vote: Anjali Kausar _______ Josephine Lucey _______ Kristen Lyn _______ Soma McCandless _______ Phyllis Vogel _______"
                 }
             ], 
             "section_name": "ACTION ITEM", 

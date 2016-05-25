@@ -5,23 +5,29 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "3.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "3.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "4.      PUBLIC COMMENTS", 
             "section_number": "4."
@@ -30,18 +36,18 @@
             "items": [
                 {
                     "item_number": "5.1", 
-                    "item_text": "Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting", 
-                    "item_text_raw": "5.1   Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting"
+                    "item_text": "Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting System", 
+                    "item_text_raw": "5.1   Approval of 2015-2016 Winter Data Collection-Consolidated Application Reporting System"
                 }, 
                 {
                     "item_number": "5.2", 
-                    "item_text": "Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School", 
-                    "item_text_raw": "5.2   Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School"
+                    "item_text": "Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School Modernization Project", 
+                    "item_text_raw": "5.2   Approval of Amendment #7 to HMC Architects for the McAuliffe Elementary School Modernization Project"
                 }, 
                 {
                     "item_number": "5.3", 
-                    "item_text": "Approval of Contract with Corovan for Move Services at Stevens Creek Elementary", 
-                    "item_text_raw": "5.3   Approval of Contract with Corovan for Move Services at Stevens Creek Elementary "
+                    "item_text": "Approval of Contract with Corovan for Move Services at Stevens Creek Elementary School", 
+                    "item_text_raw": "5.3   Approval of Contract with Corovan for Move Services at Stevens Creek Elementary School"
                 }
             ], 
             "section_name": "CONSENT", 
@@ -69,8 +75,8 @@
             "items": [
                 {
                     "item_number": "7.1", 
-                    "item_text": "California School Boards Association (CSBA) Delegate Assembly Election for", 
-                    "item_text_raw": "7.1   California School Boards Association (CSBA) Delegate Assembly Election for"
+                    "item_text": "California School Boards Association (CSBA) Delegate Assembly Election for Region 20", 
+                    "item_text_raw": "7.1   California School Boards Association (CSBA) Delegate Assembly Election for Region 20"
                 }
             ], 
             "section_name": "ACTION ITEM", 
@@ -81,13 +87,13 @@
             "items": [
                 {
                     "item_number": "8.1", 
-                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International", 
-                    "item_text_raw": "8.1   Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International"
+                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International Union, CTW/CLC (SEIU)", 
+                    "item_text_raw": "8.1   Conference with Labor Negotiators Pursuant to Government Code Section 54957.4 Cupertino Education Association (CEA); California School Employees Association Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International Union, CTW/CLC (SEIU)"
                 }, 
                 {
                     "item_number": "8.2", 
-                    "item_text": "Confidential Student 2-23-16A Matter Pursuant to California Education Code", 
-                    "item_text_raw": "8.2   Confidential Student 2-23-16A Matter Pursuant to California Education Code"
+                    "item_text": "Confidential Student 2-23-16A Matter Pursuant to California Education Code Section 35146", 
+                    "item_text_raw": "8.2   Confidential Student 2-23-16A Matter Pursuant to California Education Code Section 35146"
                 }
             ], 
             "section_name": "CLOSED SESSION", 

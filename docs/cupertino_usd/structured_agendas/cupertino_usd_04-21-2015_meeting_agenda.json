@@ -5,37 +5,55 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/REGNART ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE/REGNART ELEMENTARY SCHOOL", 
+            "section_name_raw": "1. CALL TO ORDER/FLAG SALUTE/REGNART ELEMENTARY SCHOOL", 
             "section_number": "1."
         }, 
         {
             "items": [], 
+            "section_name": "PRESENTATION", 
+            "section_name_raw": "PRESENTATION", 
+            "section_number": ""
+        }, 
+        {
+            "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "2.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "2.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION", 
-            "section_name_raw": "3.     RECOGNITION", 
+            "section_name_raw": "3.    RECOGNITION", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of Minutes of the Regular Meetings on March 10, 2015 and March 24, 2015", 
+                    "item_text_raw": "Approval of Minutes of the Regular Meetings on March 10, 2015 and March 24, 2015"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "4.     APPROVAL OF MINUTES", 
+            "section_name_raw": "4.    APPROVAL OF MINUTES", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "5.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "5.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "5."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.  Please refrain from any response to the speaker including negative and positive reactions (booing and clapping).  This will ensure that all members of the public feel free to voice their opinions and concerns."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "6.     PUBLIC COMMENTS", 
+            "section_name_raw": "6.    PUBLIC COMMENTS", 
             "section_number": "6."
         }, 
         {
@@ -46,11 +64,6 @@
         }, 
         {
             "items": [
-                {
-                    "item_number": "8.1", 
-                    "item_text": "Contracts for Board Ratification", 
-                    "item_text_raw": "8.1     Contracts for Board Ratification"
-                }, 
                 {
                     "item_number": "8.2", 
                     "item_text": "Ratification of Personnel Report for March 2015", 
@@ -63,8 +76,8 @@
                 }, 
                 {
                     "item_number": "8.4", 
-                    "item_text": "Approval of Contract Award to Nyberg Architects for Architectural Services for", 
-                    "item_text_raw": "8.4     Approval of Contract Award to Nyberg Architects for Architectural Services for"
+                    "item_text": "Approval of Contract Award to Nyberg Architects for Architectural Services for Summer 2015 Modular Classrooms", 
+                    "item_text_raw": "8.4     Approval of Contract Award to Nyberg Architects for Architectural Services for Summer 2015 Modular Classrooms"
                 }, 
                 {
                     "item_number": "8.5", 
@@ -78,28 +91,28 @@
                 }, 
                 {
                     "item_number": "8.7", 
-                    "item_text": "Approval of Contract Award to Swinerton Management & Consulting for", 
-                    "item_text_raw": "8.7     Approval of Contract Award to Swinerton Management & Consulting for"
+                    "item_text": "Approval of Contract Award to Swinerton Management & Consulting for Construction Management Services on Multiple Small Projects", 
+                    "item_text_raw": "8.7     Approval of Contract Award to Swinerton Management & Consulting for Construction Management Services on Multiple Small Projects"
                 }, 
                 {
                     "item_number": "8.8", 
-                    "item_text": "Approval of Contract Award to Swinerton Management & Consulting for Bond", 
-                    "item_text_raw": "8.8     Approval of Contract Award to Swinerton Management & Consulting for Bond"
+                    "item_text": "Approval of Contract Award to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with Modernization of the Blue Hills, De Vargas, Dilworth and Montclaire Elementary School Campuses", 
+                    "item_text_raw": "8.8     Approval of Contract Award to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with Modernization of the Blue Hills, De Vargas, Dilworth and Montclaire Elementary School Campuses"
                 }, 
                 {
                     "item_number": "8.9", 
-                    "item_text": "Approval of Amendment #1 to IBI Group Architecture Planning for the John Muir", 
-                    "item_text_raw": "8.9     Approval of Amendment #1 to IBI Group Architecture Planning for the John Muir"
+                    "item_text": "Approval of Amendment #1 to IBI Group Architecture Planning for the John Muir Elementary School Modernization Project", 
+                    "item_text_raw": "8.9     Approval of Amendment #1 to IBI Group Architecture Planning for the John Muir Elementary School Modernization Project"
                 }, 
                 {
                     "item_number": "8.10", 
-                    "item_text": "Approval of Contract Award to Strawn Construction for Modernization of John Muir", 
-                    "item_text_raw": "8.10   Approval of Contract Award to Strawn Construction for Modernization of John Muir"
+                    "item_text": "Approval of Contract Award to Strawn Construction for Modernization of John Muir Elementary School", 
+                    "item_text_raw": "8.10   Approval of Contract Award to Strawn Construction for Modernization of John Muir Elementary School"
                 }, 
                 {
                     "item_number": "8.11", 
-                    "item_text": "Approval of Contract Award to Calstate Construction for Modernization of Garden", 
-                    "item_text_raw": "8.11   Approval of Contract Award to Calstate Construction for Modernization of Garden"
+                    "item_text": "Approval of Contract Award to Calstate Construction for Modernization of Garden Gate Elementary School", 
+                    "item_text_raw": "8.11   Approval of Contract Award to Calstate Construction for Modernization of Garden Gate Elementary School"
                 }, 
                 {
                     "item_number": "8.12", 
@@ -108,13 +121,13 @@
                 }, 
                 {
                     "item_number": "8.13", 
-                    "item_text": "Approval of Construction Contract Award to Integra Construction Services for", 
-                    "item_text_raw": "8.13   Approval of Construction Contract Award to Integra Construction Services for"
+                    "item_text": "Approval of Construction Contract Award to Integra Construction Services for Installation of Pedestrian Covered Walkways at Cupertino Middle School", 
+                    "item_text_raw": "8.13   Approval of Construction Contract Award to Integra Construction Services for Installation of Pedestrian Covered Walkways at Cupertino Middle School"
                 }, 
                 {
                     "item_number": "8.14", 
-                    "item_text": "Approval of Reappointments of Five Members of the Measure H Citizens\u2019 Bond", 
-                    "item_text_raw": "8.14   Approval of Reappointments of Five Members of the Measure H Citizens\u2019 Bond"
+                    "item_text": "Approval of Reappointments of Five Members of the Measure H Citizens\u2019 Bond Oversight Committee", 
+                    "item_text_raw": "8.14   Approval of Reappointments of Five Members of the Measure H Citizens\u2019 Bond Oversight Committee"
                 }, 
                 {
                     "item_number": "8.15", 
@@ -123,8 +136,8 @@
                 }, 
                 {
                     "item_number": "8.16", 
-                    "item_text": "Approval of the Purchase of Five (5) New Modular Classrooms, Two (2) New", 
-                    "item_text_raw": "8.16   Approval of the Purchase of Five (5) New Modular Classrooms, Two (2) New"
+                    "item_text": "Approval of the Purchase of Five (5) New Modular Classrooms, Two (2) New Modular Restrooms, One (1) New Conference Building and One (1) New Staff Breakroom Building", 
+                    "item_text_raw": "8.16   Approval of the Purchase of Five (5) New Modular Classrooms, Two (2) New Modular Restrooms, One (1) New Conference Building and One (1) New Staff Breakroom Building"
                 }, 
                 {
                     "item_number": "8.17", 
@@ -133,8 +146,8 @@
                 }, 
                 {
                     "item_number": "8.18", 
-                    "item_text": "Approval of Contract Award to Strawn Construction, Inc. for Modernization of", 
-                    "item_text_raw": "8.18   Approval of Contract Award to Strawn Construction, Inc. for Modernization of"
+                    "item_text": "Approval of Contract Award to Strawn Construction, Inc. for Modernization of McAuliffe Elementary School", 
+                    "item_text_raw": "8.18   Approval of Contract Award to Strawn Construction, Inc. for Modernization of McAuliffe Elementary School"
                 }
             ], 
             "section_name": "CONSENT", 
@@ -150,8 +163,8 @@
                 }, 
                 {
                     "item_number": "9.2", 
-                    "item_text": "Accept for Information Quarterly Report on Williams Uniform Complaints for the", 
-                    "item_text_raw": "9.2     Accept for Information Quarterly Report on Williams Uniform Complaints for the"
+                    "item_text": "Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of January 1 through March 31, 2015", 
+                    "item_text_raw": "9.2     Accept for Information Quarterly Report on Williams Uniform Complaints for the Period of January 1 through March 31, 2015"
                 }, 
                 {
                     "item_number": "9.3", 
@@ -167,13 +180,13 @@
             "items": [
                 {
                     "item_number": "10.1", 
-                    "item_text": "Adoption of Resolution No. 14-15-19 \u2013 Proposed Safe Routes to School Task Force between the City of Cupertino, the Cupertino Union School District and the", 
-                    "item_text_raw": "10.1   Adoption of Resolution No. 14-15-19 \u2013 Proposed Safe Routes to School Task Force between the City of Cupertino, the Cupertino Union School District and the"
+                    "item_text": "Adoption of Resolution No. 14-15-19 \u2013 Proposed Safe Routes to School Task Force between the City of Cupertino, the Cupertino Union School District and the Fremont Union High School District", 
+                    "item_text_raw": "10.1   Adoption of Resolution No. 14-15-19 \u2013 Proposed Safe Routes to School Task Force between the City of Cupertino, the Cupertino Union School District and the Fremont Union High School District"
                 }, 
                 {
                     "item_number": "10.2", 
-                    "item_text": "Adoption of Resolution No. 14-15-20 \u2013 Reduction of Classified Staff Due to Lack", 
-                    "item_text_raw": "10.2   Adoption of Resolution No. 14-15-20 \u2013 Reduction of Classified Staff Due to Lack "
+                    "item_text": "Adoption of Resolution No. 14-15-20 \u2013 Reduction of Classified Staff Due to Lack of Work and/or Lack of Funds", 
+                    "item_text_raw": "10.2   Adoption of Resolution No. 14-15-20 \u2013 Reduction of Classified Staff Due to Lack of Work and/or Lack of Funds"
                 }
             ], 
             "section_name": "ACTION", 
@@ -189,33 +202,33 @@
                 }, 
                 {
                     "item_number": "11.2", 
-                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service", 
-                    "item_text_raw": "11.2   Conference with Labor Negotiators Pursuant to Government Code Section School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service"
+                    "item_text": "Conference with Labor Negotiators Pursuant to Government Code Section 54957.6 District Representative:  Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service Employees International Union, CTW/CLC (SEIU)", 
+                    "item_text_raw": "11.2   Conference with Labor Negotiators Pursuant to Government Code Section 54957.6 District Representative:  Nancy Johnson Employee Associations:  Cupertino Education Association (CEA), California School Employees Association, Cupertino Chapter 13 (CSEA), Local 521, Service Employees International Union, CTW/CLC (SEIU)"
                 }, 
                 {
                     "item_number": "11.3", 
-                    "item_text": "Government Code Section 54956.9 Conference with Legal Counsel \u2013 Anticipated", 
-                    "item_text_raw": "11.3    Government Code Section 54956.9 Conference with Legal Counsel \u2013 Anticipated"
+                    "item_text": "Government Code Section 54956.9 Conference with Legal Counsel \u2013 Anticipated Litigation (one case)", 
+                    "item_text_raw": "11.3    Government Code Section 54956.9 Conference with Legal Counsel \u2013 Anticipated Litigation (one case)"
                 }, 
                 {
                     "item_number": "11.4", 
-                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,", 
-                    "item_text_raw": "11.4    Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,"
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b): Employee #0333", 
+                    "item_text_raw": "11.4    Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b): Employee #0333"
                 }, 
                 {
                     "item_number": "11.5", 
-                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,", 
-                    "item_text_raw": "11.5    Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation,"
+                    "item_text": "Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b): Employee #3034", 
+                    "item_text_raw": "11.5    Conference with Associate Superintendent Nancy Johnson \u2013 Pending Litigation, Pursuant to Government Code Section 54956.9(b): Employee #3034"
                 }, 
                 {
                     "item_number": "11.6", 
-                    "item_text": "Government Code Section 54956.8 Conference with Real Property Negotiators Mary Morris, HMC Jerry Suich, Oxbridge Development, Inc. Nancy Taylor, Orbach Huff Suarez & Henderson, LLP", 
-                    "item_text_raw": "11.6    Government Code Section 54956.8 Conference with Real Property Negotiators Mary Morris, HMC Jerry Suich, Oxbridge Development, Inc. Nancy Taylor, Orbach Huff Suarez & Henderson, LLP"
+                    "item_text": "Government Code Section 54956.8 Conference with Real Property Negotiators Property:                   1.48 acres of real property located at 10480 Finch Avenue, Cupertino, CA Agency Negotiators:  Chris Jew, Chief Business Officer; Mary Morris, HMC Jerry Suich, Oxbridge Development, Inc. Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Under Negotiation:    Price and terms of payment", 
+                    "item_text_raw": "11.6    Government Code Section 54956.8 Conference with Real Property Negotiators Property:                   1.48 acres of real property located at 10480 Finch Avenue, Cupertino, CA Agency Negotiators:  Chris Jew, Chief Business Officer; Mary Morris, HMC Jerry Suich, Oxbridge Development, Inc. Nancy Taylor, Orbach Huff Suarez & Henderson, LLP Under Negotiation:    Price and terms of payment"
                 }, 
                 {
                     "item_number": "11.7", 
-                    "item_text": "Pursuant to Government Code Section 54956.9(e)(3), the Board of Education will", 
-                    "item_text_raw": "11.7    Pursuant to Government Code Section 54956.9(e)(3), the Board of Education will"
+                    "item_text": "Pursuant to Government Code Section 54956.9(e)(3), the Board of Education will confer with legal counsel regarding liability claims against Cupertino Union School District. (one Case) Tort Claim No. 507371", 
+                    "item_text_raw": "11.7    Pursuant to Government Code Section 54956.9(e)(3), the Board of Education will confer with legal counsel regarding liability claims against Cupertino Union School District. (one Case) Tort Claim No. 507371"
                 }, 
                 {
                     "item_number": "11.8", 

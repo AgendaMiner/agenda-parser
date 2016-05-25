@@ -5,64 +5,69 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1. CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "2.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "2. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "3.  PUBLIC COMMENTS", 
+            "section_name_raw": "3. PUBLIC COMMENTS", 
             "section_number": "3."
         }, 
         {
             "items": [
                 {
+                    "item_number": "", 
+                    "item_text": "The Board of Education will hold a public hearing regarding a resolution on the sufficiency of", 
+                    "item_text_raw": "The Board of Education will hold a public hearing regarding a resolution on the sufficiency of"
+                }, 
+                {
                     "item_number": "4.1", 
-                    "item_text": "The Board of Education will hold a public hearing regarding a resolution on the", 
-                    "item_text_raw": "4.1     The Board of Education will hold a public hearing regarding a resolution on the"
+                    "item_text": "The Board of Education will hold a public hearing regarding a resolution on the Sufficiency of Instructional Materials for the 2013-2014 school year.  Any citizen", 
+                    "item_text_raw": "4.1     The Board of Education will hold a public hearing regarding a resolution on the Sufficiency of Instructional Materials for the 2013-2014 school year.  Any citizen"
                 }
             ], 
             "section_name": "PUBLIC HEARING", 
-            "section_name_raw": "4.   PUBLIC HEARING", 
+            "section_name_raw": "4. PUBLIC HEARING", 
             "section_number": "4."
         }, 
         {
             "items": [
                 {
                     "item_number": "5.1", 
-                    "item_text": "Approval of the Certification of District Administrators as Employee Evaluators for", 
-                    "item_text_raw": "5.1    Approval of the Certification of District Administrators as Employee Evaluators for"
+                    "item_text": "Approval of the Certification of District Administrators as Employee Evaluators for the 2013-2014 School Year", 
+                    "item_text_raw": "5.1    Approval of the Certification of District Administrators as Employee Evaluators for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "5.2", 
-                    "item_text": "Ratification of a Contract Agreement with Patricia Vidmar in an Amount not to Exceed", 
-                    "item_text_raw": "5.2    Ratification of a Contract Agreement with Patricia Vidmar in an Amount not to Exceed"
+                    "item_text": "Ratification of a Contract Agreement with Patricia Vidmar in an Amount not to Exceed $26,904 for the Purpose of Providing Administrative Support to the CAP Center for the 2013-2014 school year.", 
+                    "item_text_raw": "5.2    Ratification of a Contract Agreement with Patricia Vidmar in an Amount not to Exceed $26,904 for the Purpose of Providing Administrative Support to the CAP Center for the 2013-2014 school year."
                 }, 
                 {
                     "item_number": "5.3", 
-                    "item_text": "Ratification of a Contract Agreement with John Shannon in an Amount not to Exceed", 
-                    "item_text_raw": "5.3    Ratification of a Contract Agreement with John Shannon in an Amount not to Exceed"
+                    "item_text": "Ratification of a Contract Agreement with John Shannon in an Amount not to Exceed $30,000 for the Purpose of Providing Substitute Administrator Services on an On-call Basis for the 2013-2014 school year", 
+                    "item_text_raw": "5.3    Ratification of a Contract Agreement with John Shannon in an Amount not to Exceed $30,000 for the Purpose of Providing Substitute Administrator Services on an On-call Basis for the 2013-2014 school year"
                 }, 
                 {
                     "item_number": "5.4", 
-                    "item_text": "Adoption of Resolution No. 13-14-6 Sufficiency of Instructional Materials for the 2013-", 
-                    "item_text_raw": "5.4    Adoption of Resolution No. 13-14-6 Sufficiency of Instructional Materials for the 2013-"
+                    "item_text": "Adoption of Resolution No. 13-14-6 Sufficiency of Instructional Materials for the 2013- 2014 School Year", 
+                    "item_text_raw": "5.4    Adoption of Resolution No. 13-14-6 Sufficiency of Instructional Materials for the 2013- 2014 School Year"
                 }, 
                 {
                     "item_number": "5.5", 
-                    "item_text": "Approval of overnight field trips for Miller Middle School Chorus-2014 New York City", 
-                    "item_text_raw": "5.5    Approval of overnight field trips for Miller Middle School Chorus-2014 New York City"
+                    "item_text": "Approval of overnight field trips for Miller Middle School Chorus-2014 New York City Choirs of America, AMP Nationals on June 18-22, 2014", 
+                    "item_text_raw": "5.5    Approval of overnight field trips for Miller Middle School Chorus-2014 New York City Choirs of America, AMP Nationals on June 18-22, 2014"
                 }, 
                 {
                     "item_number": "5.6", 
-                    "item_text": "Approval of overnight field trips for Kennedy Middle School Chorus \u2013 2014 New York City", 
-                    "item_text_raw": "5.6    Approval of overnight field trips for Kennedy Middle School Chorus \u2013 2014 New York City"
+                    "item_text": "Approval of overnight field trips for Kennedy Middle School Chorus \u2013 2014 New York City Choirs of America, AMP Nationals on June 18-23, 2014", 
+                    "item_text_raw": "5.6    Approval of overnight field trips for Kennedy Middle School Chorus \u2013 2014 New York City Choirs of America, AMP Nationals on June 18-23, 2014"
                 }, 
                 {
                     "item_number": "5.7", 
@@ -71,107 +76,102 @@
                 }, 
                 {
                     "item_number": "5.8", 
-                    "item_text": "Approval of Professional Development and Materials Contract for the PEBC Math", 
-                    "item_text_raw": "5.8    Approval of Professional Development and Materials Contract for the PEBC Math"
+                    "item_text": "Approval of Professional Development and Materials Contract for the PEBC Math Institute for Fourth and Fifth Grade Teachers", 
+                    "item_text_raw": "5.8    Approval of Professional Development and Materials Contract for the PEBC Math Institute for Fourth and Fifth Grade Teachers"
                 }, 
                 {
                     "item_number": "5.9", 
-                    "item_text": "Approval of Second Amendment to the 1991 Open Space Agreement with the City of", 
-                    "item_text_raw": "5.9    Approval of Second Amendment to the 1991 Open Space Agreement with the City of"
+                    "item_text": "Approval of Second Amendment to the 1991 Open Space Agreement with the City of Cupertino.", 
+                    "item_text_raw": "5.9    Approval of Second Amendment to the 1991 Open Space Agreement with the City of Cupertino."
                 }, 
                 {
                     "item_number": "5.10", 
-                    "item_text": "Ratification of Change Order #1 in the Amount of $2,891.45 to Anza Engineering for the", 
-                    "item_text_raw": "5.10  Ratification of Change Order #1 in the Amount of $2,891.45 to Anza Engineering for the"
+                    "item_text": "Ratification of Change Order #1 in the Amount of $2,891.45 to Anza Engineering for the Grading and Site Utilities for the New Corporation Yard Storage Building Project (Bid No. 13-B21-24)", 
+                    "item_text_raw": "5.10  Ratification of Change Order #1 in the Amount of $2,891.45 to Anza Engineering for the Grading and Site Utilities for the New Corporation Yard Storage Building Project (Bid No. 13-B21-24)"
                 }, 
                 {
                     "item_number": "5.11", 
-                    "item_text": "Ratification of Change Order #1, #2 and #3 in the Total Amount of $88,338.84 to Anza", 
-                    "item_text_raw": "5.11  Ratification of Change Order #1, #2 and #3 in the Total Amount of $88,338.84 to Anza"
+                    "item_text": "Ratification of Change Order #1, #2 and #3 in the Total Amount of $88,338.84 to Anza Engineering for the Demolition of the District Office Administrative Buildings Project", 
+                    "item_text_raw": "5.11  Ratification of Change Order #1, #2 and #3 in the Total Amount of $88,338.84 to Anza Engineering for the Demolition of the District Office Administrative Buildings Project"
                 }, 
                 {
                     "item_number": "5.12", 
-                    "item_text": "Ratification of Change Order #1 in the Amount of $17,986.00 to Anza Engineering for the", 
-                    "item_text_raw": "5.12  Ratification of Change Order #1 in the Amount of $17,986.00 to Anza Engineering for the"
+                    "item_text": "Ratification of Change Order #1 in the Amount of $17,986.00 to Anza Engineering for the Installation of Site Utilities to Support New Buildings at Lawson Middle School (Bid No. 13-B26-24)", 
+                    "item_text_raw": "5.12  Ratification of Change Order #1 in the Amount of $17,986.00 to Anza Engineering for the Installation of Site Utilities to Support New Buildings at Lawson Middle School (Bid No. 13-B26-24)"
                 }, 
                 {
                     "item_number": "5.13", 
-                    "item_text": "Ratification of Change Orders #1, #2 and #3 in the Total Amount of $27,891.65 to Calstate", 
-                    "item_text_raw": "5.13  Ratification of Change Orders #1, #2 and #3 in the Total Amount of $27,891.65 to Calstate"
+                    "item_text": "Ratification of Change Orders #1, #2 and #3 in the Total Amount of $27,891.65 to Calstate Construction for the Construction of a New Storage Building in the District Corporation Yard (Bid No. 13-B10-24)", 
+                    "item_text_raw": "5.13  Ratification of Change Orders #1, #2 and #3 in the Total Amount of $27,891.65 to Calstate Construction for the Construction of a New Storage Building in the District Corporation Yard (Bid No. 13-B10-24)"
                 }, 
                 {
                     "item_number": "5.14", 
-                    "item_text": "Ratification of Change Orders #1 and #2 in the Total Amount of $32,499.84 to Calstate", 
-                    "item_text_raw": "5.14  Ratification of Change Orders #1 and #2 in the Total Amount of $32,499.84 to Calstate"
+                    "item_text": "Ratification of Change Orders #1 and #2 in the Total Amount of $32,499.84 to Calstate Construction for the installation of Interim Housing at Lawson Middle School (Bid No. 13-B23-24)", 
+                    "item_text_raw": "5.14  Ratification of Change Orders #1 and #2 in the Total Amount of $32,499.84 to Calstate Construction for the installation of Interim Housing at Lawson Middle School (Bid No. 13-B23-24)"
                 }, 
                 {
                     "item_number": "5.15", 
-                    "item_text": "Ratification of Change Order #1 through #18 Inclusive in the Total Amount of $38,689.55 to", 
-                    "item_text_raw": "5.15  Ratification of Change Order #1 through #18 Inclusive in the Total Amount of $38,689.55 to"
+                    "item_text": "Ratification of Change Order #1 through #18 Inclusive in the Total Amount of $38,689.55 to Casey Construction for the Site Utility Repair and Upgrades at the Blue Hills, DeVargas, Dilworth, Eisenhower, Faria, Lincoln, Garden Gate, McAuliffe, Muir, Regnart and Stevens Creek Elementary School Campuses (Bid No. 13-B25-24)", 
+                    "item_text_raw": "5.15  Ratification of Change Order #1 through #18 Inclusive in the Total Amount of $38,689.55 to Casey Construction for the Site Utility Repair and Upgrades at the Blue Hills, DeVargas, Dilworth, Eisenhower, Faria, Lincoln, Garden Gate, McAuliffe, Muir, Regnart and Stevens Creek Elementary School Campuses (Bid No. 13-B25-24)"
                 }, 
                 {
                     "item_number": "5.16", 
-                    "item_text": "Ratification of Change Orders #1 and #2 in the Amount of $110,628 to Gonsalves &", 
-                    "item_text_raw": "5.16  Ratification of Change Orders #1 and #2 in the Amount of $110,628 to Gonsalves &"
+                    "item_text": "Ratification of Change Orders #1 and #2 in the Amount of $110,628 to Gonsalves & Stronk Construction for the installation of Site Utilities to Support New Buildings at Cupertino Middle School (Bid No. 13-B26-24)", 
+                    "item_text_raw": "5.16  Ratification of Change Orders #1 and #2 in the Amount of $110,628 to Gonsalves & Stronk Construction for the installation of Site Utilities to Support New Buildings at Cupertino Middle School (Bid No. 13-B26-24)"
                 }, 
                 {
                     "item_number": "5.17", 
-                    "item_text": "Ratification of Change Order #1 in the Amount of $49,477.26 to Guerra Construction for the", 
-                    "item_text_raw": "5.17  Ratification of Change Order #1 in the Amount of $49,477.26 to Guerra Construction for the"
+                    "item_text": "Ratification of Change Order #1 in the Amount of $49,477.26 to Guerra Construction for the installation of Interim Housing at Cupertino Middle School (Bid No. 13-B24-24)", 
+                    "item_text_raw": "5.17  Ratification of Change Order #1 in the Amount of $49,477.26 to Guerra Construction for the installation of Interim Housing at Cupertino Middle School (Bid No. 13-B24-24)"
                 }, 
                 {
                     "item_number": "5.18", 
-                    "item_text": "Ratification of Change Order #1 in the Amount of $6,500.00 to IBI Group for", 
-                    "item_text_raw": "5.18  Ratification of Change Order #1 in the Amount of $6,500.00 to IBI Group for"
+                    "item_text": "Ratification of Change Order #1 in the Amount of $6,500.00 to IBI Group for Architectural and Engineering Services Associated with the Design of a New Classroom Building, Gymnasium and Outdoor Quad, Modernization of Existing Buildings 100, 200 and 300, and Interim Housing at Cupertino Middle School", 
+                    "item_text_raw": "5.18  Ratification of Change Order #1 in the Amount of $6,500.00 to IBI Group for Architectural and Engineering Services Associated with the Design of a New Classroom Building, Gymnasium and Outdoor Quad, Modernization of Existing Buildings 100, 200 and 300, and Interim Housing at Cupertino Middle School"
                 }, 
                 {
                     "item_number": "5.19", 
-                    "item_text": "Ratification of Change Order #1 #3 and #5 in the Total Amount of $95,363.00 to", 
-                    "item_text_raw": "5.19  Ratification of Change Order #1 #3 and #5 in the Total Amount of $95,363.00 to"
+                    "item_text": "Ratification of Change Order #1 #3 and #5 in the Total Amount of $95,363.00 to Intermountain Electric Co. for the Construction of Data Infrastructure Upgrades at Dilworth, McAuliffe and Meyerholz Elementary Schools", 
+                    "item_text_raw": "5.19  Ratification of Change Order #1 #3 and #5 in the Total Amount of $95,363.00 to Intermountain Electric Co. for the Construction of Data Infrastructure Upgrades at Dilworth, McAuliffe and Meyerholz Elementary Schools"
                 }, 
                 {
                     "item_number": "5.20", 
-                    "item_text": "Ratification of Change Order #1, #2, #4 and #6 in the Total Amount of $157,129.00 to", 
-                    "item_text_raw": "5.20  Ratification of Change Order #1, #2, #4 and #6 in the Total Amount of $157,129.00 to"
+                    "item_text": "Ratification of Change Order #1, #2, #4 and #6 in the Total Amount of $157,129.00 to Intermountain Electric Co. for the Construction of Data Infrastructure Upgrades at Regnart, Stevens Creek and Garden Gate Elementary Schools", 
+                    "item_text_raw": "5.20  Ratification of Change Order #1, #2, #4 and #6 in the Total Amount of $157,129.00 to Intermountain Electric Co. for the Construction of Data Infrastructure Upgrades at Regnart, Stevens Creek and Garden Gate Elementary Schools"
                 }, 
                 {
                     "item_number": "5.21", 
-                    "item_text": "Ratification of Change Order #1 in the amount of $12,233.00 to Guerra Construction for the", 
-                    "item_text_raw": "5.21  Ratification of Change Order #1 in the amount of $12,233.00 to Guerra Construction for the"
+                    "item_text": "Ratification of Change Order #1 in the amount of $12,233.00 to Guerra Construction for the Site Work for Modular Installation at Faria Elementary School, Muir Elementary School, Kennedy Middle School and Miller Middle School", 
+                    "item_text_raw": "5.21  Ratification of Change Order #1 in the amount of $12,233.00 to Guerra Construction for the Site Work for Modular Installation at Faria Elementary School, Muir Elementary School, Kennedy Middle School and Miller Middle School"
                 }, 
                 {
                     "item_number": "5.22", 
-                    "item_text": "Approval of Architectural Services in the amount of $18,000 by Nyberg Architects to Create", 
-                    "item_text_raw": "5.22  Approval of Architectural Services in the amount of $18,000 by Nyberg Architects to Create"
+                    "item_text": "Approval of Architectural Services in the amount of $18,000 by Nyberg Architects to Create Plans and Biddable Specifications for Two Purchased Modulars to be Located at DeVargas Elementary School", 
+                    "item_text_raw": "5.22  Approval of Architectural Services in the amount of $18,000 by Nyberg Architects to Create Plans and Biddable Specifications for Two Purchased Modulars to be Located at DeVargas Elementary School"
                 }, 
                 {
                     "item_number": "5.23", 
-                    "item_text": "Approval of Contract Augmentation in the Amount of $39,784 to David J. Powers &", 
-                    "item_text_raw": "5.23  Approval of Contract Augmentation in the Amount of $39,784 to David J. Powers &"
+                    "item_text": "Approval of Contract Augmentation in the Amount of $39,784 to David J. Powers & Associates, Inc. for the former District Office Soil Removal Testing and Oversight", 
+                    "item_text_raw": "5.23  Approval of Contract Augmentation in the Amount of $39,784 to David J. Powers & Associates, Inc. for the former District Office Soil Removal Testing and Oversight"
                 }, 
                 {
                     "item_number": "5.24", 
-                    "item_text": "Approval of Contract Augmentation in the Amount of $83,200 to Swinerton Management &", 
-                    "item_text_raw": "5.24  Approval of Contract Augmentation in the Amount of $83,200 to Swinerton Management &"
+                    "item_text": "Approval of Contract Augmentation in the Amount of $83,200 to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with the Modernization Projects at Meyerholz, Regnart, Sedgwick and West Valley Elementary Schools", 
+                    "item_text_raw": "5.24  Approval of Contract Augmentation in the Amount of $83,200 to Swinerton Management & Consulting for Bond Program and Construction Management Services Associated with the Modernization Projects at Meyerholz, Regnart, Sedgwick and West Valley Elementary Schools"
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "5.  CONSENT ITEMS", 
+            "section_name_raw": "5. CONSENT ITEMS", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "6.   SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "6.  SUPERINTENDENT\u2019S REPORT", 
             "section_number": "6."
         }, 
         {
             "items": [
-                {
-                    "item_number": "7.1", 
-                    "item_text": "Approval of Resolution No. 13-14-10 \u2013 Mitigated Negative Declaration for the Lawson", 
-                    "item_text_raw": "7.1   Approval of Resolution No. 13-14-10 \u2013 Mitigated Negative Declaration for the Lawson"
-                }, 
                 {
                     "item_number": "7.2", 
                     "item_text": "Approval of 2012-2013 Annual Financial Report", 
@@ -184,7 +184,7 @@
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "7.   ACTION ITEMS", 
+            "section_name_raw": "7.  ACTION ITEMS", 
             "section_number": "7."
         }, 
         {
@@ -206,19 +206,19 @@
                 }
             ], 
             "section_name": "DISCUSSION/INFORMATION ITEMS", 
-            "section_name_raw": "8.  DISCUSSION/INFORMATION ITEMS", 
+            "section_name_raw": "8. DISCUSSION/INFORMATION ITEMS", 
             "section_number": "8."
         }, 
         {
             "items": [
                 {
                     "item_number": "9.1", 
-                    "item_text": "Conference with Labor Negotiators", 
-                    "item_text_raw": "9.1  Conference with Labor Negotiators"
+                    "item_text": "Conference with Labor Negotiators District Representative Nancy Johnson Employee Associations:  California School Employees Association (CSEA), Chapter 13", 
+                    "item_text_raw": "9.1  Conference with Labor Negotiators District Representative Nancy Johnson Employee Associations:  California School Employees Association (CSEA), Chapter 13"
                 }
             ], 
             "section_name": "CLOSED SESSION", 
-            "section_name_raw": "9.  CLOSED SESSION", 
+            "section_name_raw": "9. CLOSED SESSION", 
             "section_number": "9."
         }, 
         {

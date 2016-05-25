@@ -5,43 +5,31 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER / FLAG SALUTE", 
-            "section_name_raw": "1.  CALL TO ORDER / FLAG SALUTE", 
+            "section_name_raw": "1. CALL TO ORDER / FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "2.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "2. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "2."
         }, 
         {
             "items": [
                 {
-                    "item_number": "54954.2", 
-                    "item_text": "\u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall", 
-                    "item_text_raw": "54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall"
+                    "item_number": "4.1", 
+                    "item_text": "Approval to Purchase NetApp Backup and Recovery Equipment, Software and Installation Services to Safeguard the District\u2019s Critical Data to Allow for Business Continuity in Case of a Disaster to the District\u2019s Data Center", 
+                    "item_text_raw": "4.1 Approval to Purchase NetApp Backup and Recovery Equipment, Software and Installation Services to Safeguard the District\u2019s Critical Data to Allow for Business Continuity in Case of a Disaster to the District\u2019s Data Center"
                 }
             ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "3.  PUBLIC COMMENTS", 
+            "section_name_raw": "3. PUBLIC COMMENTS", 
             "section_number": "3."
-        }, 
-        {
-            "items": [
-                {
-                    "item_number": "4.1", 
-                    "item_text": "Approval to Purchase NetApp Backup and Recovery Equipment, Software and", 
-                    "item_text_raw": "4.1  Approval to Purchase NetApp Backup and Recovery Equipment, Software and"
-                }
-            ], 
-            "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "4.  CONSENT ITEMS", 
-            "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "5.     SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "5.    SUPERINTENDENT\u2019S REPORT", 
             "section_number": "5."
         }, 
         {
@@ -49,33 +37,33 @@
                 {
                     "item_number": "6.1", 
                     "item_text": "Second Reading and Adoption of Board Policies \u2013 Updates and Additions", 
-                    "item_text_raw": "6.1  Second Reading and Adoption of Board Policies \u2013 Updates and Additions"
+                    "item_text_raw": "6.1 Second Reading and Adoption of Board Policies \u2013 Updates and Additions"
                 }, 
                 {
                     "item_number": "6.2", 
                     "item_text": "Adoption of Resolution 12-13-14 Changing the Board Election Dates to Even Years", 
-                    "item_text_raw": "6.2  Adoption of Resolution 12-13-14 Changing the Board Election Dates to Even Years "
+                    "item_text_raw": "6.2 Adoption of Resolution 12-13-14 Changing the Board Election Dates to Even Years"
                 }, 
                 {
                     "item_number": "6.3", 
-                    "item_text": "Adoption of Resolution No. 12-13-15 \u2013 Recognition of School Administrator Week,", 
-                    "item_text_raw": "6.3  Adoption of Resolution No. 12-13-15 \u2013 Recognition of School Administrator Week,"
+                    "item_text": "Adoption of Resolution No. 12-13-15 \u2013 Recognition of School Administrator Week, March 3-9, 2013", 
+                    "item_text_raw": "6.3 Adoption of Resolution No. 12-13-15 \u2013 Recognition of School Administrator Week, March 3-9, 2013"
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "6.  ACTION ITEMS", 
+            "section_name_raw": "6. ACTION ITEMS", 
             "section_number": "6."
         }, 
         {
             "items": [], 
             "section_name": "BOARD MEMBER ACTIVITIES", 
-            "section_name_raw": "7.  BOARD MEMBER ACTIVITIES", 
+            "section_name_raw": "7. BOARD MEMBER ACTIVITIES", 
             "section_number": "7."
         }, 
         {
             "items": [], 
             "section_name": "ADJOURNMENT", 
-            "section_name_raw": "8.  ADJOURNMENT", 
+            "section_name_raw": "8. ADJOURNMENT", 
             "section_number": "8."
         }
     ]

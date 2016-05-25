@@ -5,8 +5,14 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL", 
-            "section_name_raw": "1.     CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL", 
+            "section_name_raw": "1.    CALL TO ORDER/FLAG SALUTE/DILWORTH ELEMENTARY SCHOOL", 
             "section_number": "1."
+        }, 
+        {
+            "items": [], 
+            "section_name": "PRESENTING", 
+            "section_name_raw": "PRESENTING", 
+            "section_number": ""
         }, 
         {
             "items": [
@@ -14,37 +20,65 @@
                     "item_number": "2.1", 
                     "item_text": "Swearing in of New Board Members", 
                     "item_text_raw": "2.1   Swearing in of New Board Members"
-                }, 
+                }
+            ], 
+            "section_name": "ORGANIZATIONAL MEETING", 
+            "section_name_raw": "2.    ORGANIZATIONAL MEETING", 
+            "section_number": "2."
+        }, 
+        {
+            "items": [
                 {
                     "item_number": "2.2", 
                     "item_text": "Nomination and Election of New Officers", 
                     "item_text_raw": "2.2   Nomination and Election of New Officers"
                 }
             ], 
-            "section_name": "ORGANIZATIONAL MEETING", 
-            "section_name_raw": "2.     ORGANIZATIONAL MEETING", 
-            "section_number": "2."
+            "section_name": "RECESS", 
+            "section_name_raw": "RECESS", 
+            "section_number": ""
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "3.     RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "3.    RECOGNITION - CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "3."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "4.     COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "4.    COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "4."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes.", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not appearing on the posted agenda.  The Board shall limit the total time to 30 minutes."
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "5.     PUBLIC COMMENTS", 
+            "section_name_raw": "5.    PUBLIC COMMENTS", 
             "section_number": "5."
         }, 
         {
             "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Consent items are considered to be routine by the Board of Education and will be", 
+                    "item_text_raw": "Consent items are considered to be routine by the Board of Education and will be"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "enacted in one motion.  If discussion of any of the items is required, they may be", 
+                    "item_text_raw": "enacted in one motion.  If discussion of any of the items is required, they may be"
+                }, 
+                {
+                    "item_number": "", 
+                    "item_text": "removed from Consent and considered separately.", 
+                    "item_text_raw": "removed from Consent and considered separately."
+                }, 
                 {
                     "item_number": "6.1", 
                     "item_text": "Ratification of Contracts with Cupertino Union School District", 
@@ -92,13 +126,13 @@
                 }, 
                 {
                     "item_number": "6.10", 
-                    "item_text": "Approval of Contract Award with Corovan", 
-                    "item_text_raw": "6.10   Approval of Contract Award with Corovan"
+                    "item_text": "Approval of Contract Award withCorovan", 
+                    "item_text_raw": "6.10   Approval of Contract Award withCorovan"
                 }, 
                 {
                     "item_number": "6.11", 
-                    "item_text": "Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle School", 
-                    "item_text_raw": "6.11   Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle School"
+                    "item_text": "Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle", 
+                    "item_text_raw": "6.11   Ratification of Contract Award with Calstate Construction, Inc. for Hyde Middle"
                 }, 
                 {
                     "item_number": "6.12", 
@@ -113,7 +147,7 @@
                 {
                     "item_number": "6.14", 
                     "item_text": "Approval of the 2015-16 Budget Development Calendar", 
-                    "item_text_raw": "6.14   Approval of the 2015-16 Budget Development Calendar"
+                    "item_text_raw": "6.14   Approval of the 2015-16 Budget Development Calendar "
                 }
             ], 
             "section_name": "CONSENT ITEMS", 

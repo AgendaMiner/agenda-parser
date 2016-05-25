@@ -1,147 +1,122 @@
-Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,leading_spaces,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
-0,cupertino_usd,C,1,0,Arial-Bold,16.728,0,0,0,0,0,0,1,0,195.3,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,CUPERTINO UNION SCHOOL DISTRICT,1,other_text
-1,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,0,0,1,1,308.31,cupertino_usd_09-09-2014_1,09-09-2014,0,0,0,0,,0,other_text
-2,cupertino_usd,B,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,243.755,cupertino_usd_09-09-2014_2,09-09-2014,0,0,0,0,Board of Education,0,other_text
-3,cupertino_usd,R,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,253.855,cupertino_usd_09-09-2014_3,09-09-2014,0,0,0,0,Regular Meeting,0,other_text
-4,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,,0,other_text
-5,cupertino_usd,A,1,0,Arial-Bold,19.404,0,0,0,0,0,0,1,0,277.969,cupertino_usd_09-09-2014_5,09-09-2014,0,0,0,0,AGENDA,1,other_text
-6,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,0,,0,other_text
-7,cupertino_usd,N,0,0,Arial,14.375,0,0,0,0,0,1,0,0,77.28,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,0,"Nimitz Elementary School    Tuesday, September 9, 2014",0,other_text
-8,cupertino_usd,5,0,0,Arial,14.375,1,0,0,0,0,1,0,0,77.28,cupertino_usd_09-09-2014_8,09-09-2014,0,1,0,0,545 E. Cheyenne Drive  6:30 p.m.,0,other_text
-9,cupertino_usd,S,0,0,Arial,14.375,0,0,0,0,0,1,0,0,77.28,cupertino_usd_09-09-2014_9,09-09-2014,0,0,0,0,"Sunnyvale, CA  94087",0,other_text
-10,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,0,,0,other_text
-11,cupertino_usd,W,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_11,09-09-2014,0,0,0,0,Welcome to the meeting of the Cupertino Union School District Board of Education.  If you would like to address the Board,0,other_text
-12,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,0,"during Public Comments on any agenda item or any item not on the agenda, please fill out a comment card available in the",0,other_text
-13,cupertino_usd,h,0,0,Arial,10.542,1,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_13,09-09-2014,0,0,0,0,hallway and give it to the Administrative Assistant.  You will be called on to comment during this time and comments will be,0,other_text
-14,cupertino_usd,l,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,limited to three (3) minutes.  To ensure that all speakers are provided an equal opportunity to address the Board during Public,0,other_text
-15,cupertino_usd,C,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,0,"Comments, individual speakers may not “yield” their allotted time to address the Board to other speakers.  In addition, the Board",0,other_text
-16,cupertino_usd,m,0,0,Arial,10.542,1,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,0,"may, in accordance with the Brown Act (section 54954.3[b] of the Government Code), limit the total amount of time allocated for",0,other_text
-17,cupertino_usd,c,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,0,comment on a particular issue.  The Board may choose to respond to agenda item comments or reserve their responses for,0,other_text
-18,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_18,09-09-2014,0,0,0,0,discussion and action when the agenda item appears during the course of the meeting.  It should be noted that the Board,0,other_text
-19,cupertino_usd,d,0,0,Arial,10.542,0,0,0,0,0,0,1,0,85.92,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,0,discourages complaints against individual officers or employees of the District during open session.,0,other_text
-20,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,0,0,1,1,85.92,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,,0,other_text
-21,cupertino_usd,I,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,104.649,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,0,"Individuals who require special accommodation should contact the Superintendent’s Office at (408) 252-3000, ext. 200",0,other_text
-22,cupertino_usd,a,0,1,Arial-Italic,10.47,0,0,0,0,0,0,1,0,222.946,cupertino_usd_09-09-2014_22,09-09-2014,0,0,0,0,at least two business days before the meeting date.,0,other_text
-23,cupertino_usd, ,0,0,Arial,5.111,0,0,0,0,0,0,1,1,85.92,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,0,,0,other_text
-24,cupertino_usd,A,1,0,Arial-Bold,11.04,0,0,0,0,0,0,1,0,156.759,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,0,"As a courtesy to others, please turn off your cell phone upon entering the meeting.",0,other_text
-25,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.56,cupertino_usd_09-09-2014_25,09-09-2014,0,0,0,0,,0,other_text
-26,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_26,09-09-2014,0,1,0,0,1.      CALL TO ORDER/FLAG SALUTE,1,section_heading
-27,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,2,94.56,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,,0,other_text
-28,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_28,09-09-2014,0,1,0,0,2.      RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1,section_heading
-29,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_29,09-09-2014,0,0,0,0,Classified Employee of the Month – September 2014,0,other_text
-30,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_30,09-09-2014,0,0,0,0,"Pam Durham, School Site Instruction Technology Specialist",0,other_text
-31,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_31,09-09-2014,0,0,0,0,Murdock-Portal Elementary School,0,other_text
-32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_32,09-09-2014,0,0,0,0,,0,other_text
-33,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_33,09-09-2014,0,1,0,0,3.      PRESENTATION – RECOGNITION OF NEWLY TENURED TEACHERS FOR THE,1,section_heading
-34,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_34,09-09-2014,0,0,0,0,2014-2015 SCHOOL YEAR,1,other_text
-35,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,5,94.56,cupertino_usd_09-09-2014_35,09-09-2014,0,0,0,0,,0,other_text
-36,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_36,09-09-2014,0,0,0,0,RECESS – Reception in Honor of CUSD Newly Tenured Teachers,0,other_text
-37,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_37,09-09-2014,0,0,0,0,,0,other_text
-38,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_38,09-09-2014,0,1,0,0,4.      PUBLIC HEARING,1,section_heading
-39,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_39,09-09-2014,0,0,0,0,The Board of Education will hold a Public Hearing regarding the Adoption of Resolution,0,other_text
-40,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_40,09-09-2014,0,0,0,0,No. 14-15-08 – Reaffirm Annual District Compliance with the Children’s Internet,0,other_text
-41,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_41,09-09-2014,0,0,0,0,Protection Act (CIPA),0,other_text
-42,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_42,09-09-2014,0,0,0,0,,0,other_text
-43,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_43,09-09-2014,0,0,0,0,Public Hearing was opened at:   _____________________,0,other_text
-44,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,58.56,cupertino_usd_09-09-2014_44,09-09-2014,0,0,0,0,,0,other_text
-45,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_45,09-09-2014,0,0,0,0,Public Hearing was closed at:     _____________________,0,other_text
-46,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_46,09-09-2014,0,0,0,0,,0,other_text
-47,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_47,09-09-2014,0,1,0,0,5.      APPROVAL OF MINUTES,1,section_heading
-48,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,4,94.56,cupertino_usd_09-09-2014_48,09-09-2014,0,0,0,0,"Approval of minutes of the Regular Meeting of August 5, 2014 and August 19, 2014",0,other_text
-49,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_49,09-09-2014,0,0,0,0,,0,other_text
-50,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_50,09-09-2014,0,1,0,0,6.  COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
-51,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_51,09-09-2014,0,0,0,0,,0,other_text
-52,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,1,94.56,cupertino_usd_09-09-2014_52,09-09-2014,0,0,0,0,,0,other_text
-53,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,1,0,0,3,76.56,cupertino_usd_09-09-2014_53,09-09-2014,0,0,0,0,,0,other_text
-54,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,"Board Meeting Agenda  September 9, 2014  Page 2",0,other_text
-55,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,33,76.56,cupertino_usd_09-09-2014_1,09-09-2014,0,0,0,0,,0,other_text
-56,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_2,09-09-2014,0,1,0,0,7.      PUBLIC COMMENTS,1,section_heading
-57,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_3,09-09-2014,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,other_text
-58,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,other_text
-59,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_5,09-09-2014,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,other_text
-60,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,other_text
-61,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,other_text
-62,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_8,09-09-2014,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,other_text
-63,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,1,0,0,11,76.56,cupertino_usd_09-09-2014_9,09-09-2014,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.,0,other_text
-64,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,0,,0,other_text
-65,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_11,09-09-2014,0,1,0,0,8.       CONSENT ITEMS,1,section_heading
-66,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be,0,other_text
-67,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_13,09-09-2014,0,0,0,0,"enacted in one motion.  If discussion of any of the items is required, they may be",0,other_text
-68,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,removed from Consent and considered separately.,0,other_text
-69,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,1,58.56,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,0,,0,other_text
-70,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,1,8.1     Ratification of Personnel Report August 2014,0,item_heading
-71,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,1,8.2     Ratification of Warrant List for August 2014,0,item_heading
-72,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_18,09-09-2014,0,0,0,1,8.3     Adoption of Resolution No.14-15-03 – Recalculation of the 2013-2014,0,item_heading
-73,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,0,Appropriations Limitation and Calculation of the Estimated 2014-2015,0,item_text
-74,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,Appropriations Limitation,0,item_text
-75,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,1,8.4     Rejection of Claim for Personal Injuries – Claim # 498502,0,item_heading
-76,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_22,09-09-2014,0,0,0,1,8.5     Approval to Declare Obsolete Equipment Surplus,0,item_heading
-77,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,10,76.56,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,1,8.6     Approval of Contract for Assistance with Closeout and Certification of Legacy,0,item_heading
-78,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,20,242.221,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,0,Construction Projects,0,item_text
-79,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_25,09-09-2014,0,0,0,1,8.7     Approval of Memorandum of Understanding Between The Cupertino Elementary,0,item_heading
-80,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_26,09-09-2014,0,0,0,0,School Administrators Association and The Cupertino Union School District,0,item_text
-81,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,Regarding Fundraising Event,0,item_text
-82,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_28,09-09-2014,0,0,0,1,"8.8     Approval of Walden West – Saratoga Site Outdoor Science School Contract,",0,item_heading
-83,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_29,09-09-2014,0,0,0,0,2014-2015,0,item_text
-84,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_30,09-09-2014,0,0,0,1,"8.9     Approval of Santa Cruz County Outdoor Education Contract, 2014-2015",0,item_heading
-85,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_31,09-09-2014,0,0,0,1,"8.10   Approval of Walden West – Cupertino Site Outdoor Science School Contract,",0,item_heading
-86,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_32,09-09-2014,0,0,0,0,2014-2015,0,item_text
-87,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_33,09-09-2014,0,0,0,1,8.11   Approval of Professional Development and Materials Contract for the Fall PEBC,0,item_heading
-88,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_34,09-09-2014,0,0,0,0,Math Institute for Kindergarten through Third Grade Teachers at Math Focus,0,other_text
-89,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_35,09-09-2014,0,0,0,0,Schools,0,item_text
-90,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_36,09-09-2014,0,0,0,1,8.12   Approval of Contract Agreement with Sheela Thomas,0,item_heading
-91,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_37,09-09-2014,0,0,0,1,8.13   Approval of Contract Agreement with Lolly Cho,0,item_heading
-92,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_38,09-09-2014,0,0,0,1,"8.14   Approval of Contract with Linda Rios, Youth Outreach Consultant",0,item_heading
-93,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_39,09-09-2014,0,0,0,1,8.15   Approval of Contract Agreement with Vista Center for the Blind,0,item_heading
-94,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_40,09-09-2014,0,0,0,1,8.16   Approval of the Certification of District Administrators as Evaluators of Certificated,0,item_heading
-95,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_41,09-09-2014,0,0,0,0,Employees for the 2014–15 School Year,0,item_text
-96,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_42,09-09-2014,0,0,0,1,8.17   Adoption of Resolution No. 14-15-06– Departmentalized Teaching Assignments,0,item_heading
-97,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_43,09-09-2014,0,0,0,0,for Teachers Who Currently Hold a Multiple Subject or Standard Elementary,0,other_text
-98,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_44,09-09-2014,0,0,0,0,Credential for the 2014-2015 School Year,0,item_text
-99,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,16,58.56,cupertino_usd_09-09-2014_45,09-09-2014,0,0,0,1,8.18   Adoption of Resolution No. 14-15-07 – Departmentalized Teaching Assignments,0,item_heading
-100,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_46,09-09-2014,0,0,0,0,for Teachers Who Currently Hold a Single Subject or Standard Elementary,0,other_text
-101,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_47,09-09-2014,0,0,0,0,Credential for the 2014-2015 School Year,0,item_text
-102,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,15,58.56,cupertino_usd_09-09-2014_48,09-09-2014,0,0,0,1,8.19    Ratification of a Contract Agreement With John Shannon for Substitute,0,item_heading
-103,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_49,09-09-2014,0,0,0,0,Administrator Services for the 2014-2015 School Year,0,item_text
-104,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,15,58.56,cupertino_usd_09-09-2014_50,09-09-2014,0,0,0,1,8.20    Ratification of a Contract Agreement With Live Scan Silicon Valley for Volunteer,0,item_heading
-105,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_51,09-09-2014,0,0,0,0,Fingerprinting Services for the 2014-2015 School Year,0,item_text
-106,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,15,58.56,cupertino_usd_09-09-2014_52,09-09-2014,0,0,0,1,8.21    Approval of the New Management Evaluation Tool,0,item_heading
-107,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,15,58.56,cupertino_usd_09-09-2014_53,09-09-2014,0,0,0,1,8.22    Ratification of a Contract Agreement with YMCA for Primary Grade Physical,0,item_heading
-108,cupertino_usd, ,0,0,Arial,14.375,1,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_54,09-09-2014,0,0,0,0,"Educational Services, Lunch Time Outdoor Physical Games and Project",0,item_text
-109,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,26,58.56,cupertino_usd_09-09-2014_55,09-09-2014,0,0,0,0,Cornerstone for the 2014-2015 School Year,0,item_text
-110,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,540.06,cupertino_usd_09-09-2014_56,09-09-2014,0,0,0,0,,0,other_text
-111,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,"Board Meeting Agenda  September 9, 2014  Page 3",0,other_text
-112,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,33,76.56,cupertino_usd_09-09-2014_1,09-09-2014,0,0,0,0,,0,other_text
-113,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,2,61.616,cupertino_usd_09-09-2014_2,09-09-2014,0,0,0,0,,0,other_text
-114,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,0,79.56,cupertino_usd_09-09-2014_3,09-09-2014,0,1,0,0,9.     SUPERINTENDENT’S REPORT,1,section_heading
-115,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,1,79.56,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,,0,other_text
-116,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_5,09-09-2014,0,1,0,0,10.    DISCUSSION/INFORMATION ITEM,1,section_heading
-117,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,1,10.1   Discussion of Support for Fremont Union High School District Measures J and K,0,item_heading
-118,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,1,10.2   Enrollment Update Information 2014-2015,0,item_heading
-119,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_8,09-09-2014,0,0,0,0,,0,other_text
-120,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,0,76.56,cupertino_usd_09-09-2014_9,09-09-2014,0,1,0,0,11.    ACTION ITEM,1,section_heading
-121,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,1,11.1   Adoption of Resolution No. 14-15-04 — Approval of the Open Space Agreement,0,item_heading
-122,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,19,76.56,cupertino_usd_09-09-2014_11,09-09-2014,0,0,0,0,With the City of Sunnyvale for a Term of 10 Years,0,item_text
-123,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,1,11.2   Approval of 2013-2014 Annual Financial Report,0,item_heading
-124,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_13,09-09-2014,0,0,0,1,11.3   Adoption of Resolution No. 14-15-05 - CSBA Recommended Resolution on Local,0,item_heading
-125,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,19,76.56,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,Reserves Cap,0,item_text
-126,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,1,11.4   Adoption of Resolution No. 14-15-08 – Affirmation of Annual District Compliance,0,item_heading
-127,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,19,76.56,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,0,With the Children’s Internet Protection Act (CIPA),0,item_text
-128,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,0,,0,other_text
-129,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,0,79.56,cupertino_usd_09-09-2014_18,09-09-2014,0,1,0,0,12.   CLOSED SESSION,1,section_heading
-130,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,2,97.56,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,1,"12.1   Pursuant to Government Code section 54956.9(e)(3), the Board will confer with",0,item_heading
-131,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,12,97.56,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,legal counsel regarding liability claims against the District.  (1) Employee,0,item_text
-132,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,12,97.56,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,0,ID #333,1,item_text
-133,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_22,09-09-2014,0,0,0,1,12.2   Confidential Student (9-9-14A) Matter Pursuant to California Education Code,0,item_heading
-134,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,19,76.56,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,0,Section 35146,0,item_text
-135,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,9,76.56,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,1,12.3   Confidential Student (9-9-14B) Matter Pursuant to California Education Code,0,item_heading
-136,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,19,76.56,cupertino_usd_09-09-2014_25,09-09-2014,0,0,0,0,Section 35146,0,item_text
-137,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,2,97.56,cupertino_usd_09-09-2014_26,09-09-2014,0,0,0,1,12.4   Public Employee Discipline/Dismissal/Release,0,item_heading
-138,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,1,97.56,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,,0,other_text
-139,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_28,09-09-2014,0,1,0,0,13.   REPORT FROM CLOSED SESSION,1,section_heading
-140,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_29,09-09-2014,0,0,0,0,,0,other_text
-141,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_30,09-09-2014,0,1,0,0,14.   BOARD ACTIVITY,1,section_heading
-142,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_31,09-09-2014,0,0,0,0,,0,other_text
-143,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,1,76.56,cupertino_usd_09-09-2014_32,09-09-2014,0,1,0,0,15.   ADJOURNMENT,1,section_heading
-144,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,1,40.56,cupertino_usd_09-09-2014_33,09-09-2014,0,0,0,0,,0,other_text
-145,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,1,540.06,cupertino_usd_09-09-2014_34,09-09-2014,0,0,0,0,,0,other_text
+Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_time,indent_bucket_0,indent_bucket_1,indent_bucket_2,indent_bucket_3,indent_bucket_4,indent_bucket_5,left_inset,line_id,meeting_date,starts_with_enum_letter,starts_with_number,starts_with_roman_numeral,starts_with_subnumber,text,uppercase,line_class
+0,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,,0,other_text
+1,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_1,09-09-2014,0,1,0,0,1.     CALL TO ORDER/FLAG SALUTE,1,section_heading
+2,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_2,09-09-2014,0,0,0,0,,0,other_text
+3,cupertino_usd,2,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_3,09-09-2014,0,1,0,0,2.     RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH,1,section_heading
+4,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,Classified Employee of the Month – September 2014,0,other_text
+5,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_5,09-09-2014,0,0,0,0,"Pam Durham, School Site Instruction Technology Specialist",0,item_heading
+6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,0,Murdock-Portal Elementary School,0,item_text
+7,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,0,,0,other_text
+8,cupertino_usd,3,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_8,09-09-2014,0,1,0,0,3.     PRESENTATION – RECOGNITION OF NEWLY TENURED TEACHERS FOR THE,1,section_heading
+9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_9,09-09-2014,0,0,0,0,2014-2015 SCHOOL YEAR,1,section_heading
+10,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,0,,0,other_text
+11,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_11,09-09-2014,0,0,0,0,RECESS – Reception in Honor of CUSD Newly Tenured Teachers,0,other_text
+12,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,0,,0,other_text
+13,cupertino_usd,4,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_13,09-09-2014,0,1,0,0,4.     PUBLIC HEARING,1,section_heading
+14,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,The Board of Education will hold a Public Hearing regarding the Adoption of Resolution,0,item_heading
+15,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,0,No. 14-15-08 – Reaffirm Annual District Compliance with the Children’s Internet,0,item_heading
+16,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,0,Protection Act (CIPA),0,item_text
+17,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,0,,0,other_text
+18,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_18,09-09-2014,0,0,0,0,Public Hearing was opened at:   _____________________,0,item_text
+19,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,0,,0,other_text
+20,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,Public Hearing was closed at:     _____________________,0,item_text
+21,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,0,,0,other_text
+22,cupertino_usd,5,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_22,09-09-2014,0,1,0,0,5.     APPROVAL OF MINUTES,1,section_heading
+23,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,0,"Approval of minutes of the Regular Meeting of August 5, 2014 and August 19, 2014",0,other_text
+24,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,0,,0,other_text
+25,cupertino_usd,6,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_25,09-09-2014,0,1,0,0,6. COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
+26,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_26,09-09-2014,0,0,0,0,,0,other_text
+27,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,95.0,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,,0,other_text
+28,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_28,09-09-2014,0,0,0,0,,0,other_text
+29,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,"Board Meeting Agenda September 9, 2014 Page 2",0,other_text
+30,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_1,09-09-2014,0,0,0,0,,0,other_text
+31,cupertino_usd,7,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_2,09-09-2014,0,1,0,0,7.     PUBLIC COMMENTS,1,section_heading
+32,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_3,09-09-2014,0,0,0,0,The public may address the Board on any agenda item and any item not on the agenda.  The,0,item_heading
+33,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,"Board president will only call on those who have filled out comment cards before the meeting, and",0,item_text
+34,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_5,09-09-2014,0,0,0,0,each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any,0,item_text
+35,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,0,"non-agenda item comments at this time, although the item may be agendized at a later date (Ed.",0,item_text
+36,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,0,Code 35145.5).  The comments shall be made from the podium.  In accordance with Government,0,item_text
+37,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_8,09-09-2014,0,0,0,0,Code 54954.2 – No action or discussion shall be undertaken on any item not appearing on the,0,item_text
+38,cupertino_usd, ,0,0,Arial,13.097,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_9,09-09-2014,0,0,0,0,posted agenda.  The Board shall limit the total time to 30 minutes.,0,item_text
+39,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,0,,0,other_text
+40,cupertino_usd,8,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_11,09-09-2014,0,1,0,0,8.       CONSENT ITEMS,1,section_heading
+41,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,0,Consent items are considered to be routine by the Board of Education and will be,0,item_heading
+42,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_13,09-09-2014,0,0,0,0,"enacted in one motion.  If discussion of any of the items is required, they may be",0,item_text
+43,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,removed from Consent and considered separately.,0,item_text
+44,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,59.0,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,0,,0,other_text
+45,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,1,8.1     Ratification of Personnel Report August 2014,0,item_heading
+46,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,1,8.2     Ratification of Warrant List for August 2014,0,item_heading
+47,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_18,09-09-2014,0,0,0,1,8.3     Adoption of Resolution No.14-15-03 – Recalculation of the 2013-2014,0,item_heading
+48,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,0,Appropriations Limitation and Calculation of the Estimated 2014-2015,0,item_text
+49,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,Appropriations Limitation,0,item_text
+50,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,1,8.4     Rejection of Claim for Personal Injuries – Claim # 498502,0,item_heading
+51,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_22,09-09-2014,0,0,0,1,8.5     Approval to Declare Obsolete Equipment Surplus,0,item_heading
+52,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,1,8.6     Approval of Contract for Assistance with Closeout and Certification of Legacy,0,item_heading
+53,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,0,Construction Projects,0,other_text
+54,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_25,09-09-2014,0,0,0,1,8.7     Approval of Memorandum of Understanding Between The Cupertino Elementary,0,item_heading
+55,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_26,09-09-2014,0,0,0,0,School Administrators Association and The Cupertino Union School District,0,item_text
+56,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,Regarding Fundraising Event,0,item_text
+57,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_28,09-09-2014,0,0,0,1,"8.8     Approval of Walden West – Saratoga Site Outdoor Science School Contract,",0,item_heading
+58,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_29,09-09-2014,0,0,0,0,2014-2015,0,item_text
+59,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_30,09-09-2014,0,0,0,1,"8.9     Approval of Santa Cruz County Outdoor Education Contract, 2014-2015",0,item_heading
+60,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_31,09-09-2014,0,0,0,1,"8.10   Approval of Walden West – Cupertino Site Outdoor Science School Contract,",0,item_heading
+61,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_32,09-09-2014,0,0,0,0,2014-2015,0,item_text
+62,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_33,09-09-2014,0,0,0,1,8.11   Approval of Professional Development and Materials Contract for the Fall PEBC,0,item_heading
+63,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_34,09-09-2014,0,0,0,0,Math Institute for Kindergarten through Third Grade Teachers at Math Focus,0,item_text
+64,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_35,09-09-2014,0,0,0,0,Schools,0,item_text
+65,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_36,09-09-2014,0,0,0,1,8.12   Approval of Contract Agreement with Sheela Thomas,0,item_heading
+66,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_37,09-09-2014,0,0,0,1,8.13   Approval of Contract Agreement with Lolly Cho,0,item_heading
+67,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_38,09-09-2014,0,0,0,1,"8.14   Approval of Contract with Linda Rios, Youth Outreach Consultant",0,item_heading
+68,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_39,09-09-2014,0,0,0,1,8.15   Approval of Contract Agreement with Vista Center for the Blind,0,item_heading
+69,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_40,09-09-2014,0,0,0,1,8.16   Approval of the Certification of District Administrators as Evaluators of Certificated,0,item_heading
+70,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_41,09-09-2014,0,0,0,0,Employees for the 2014–15 School Year,0,item_text
+71,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_42,09-09-2014,0,0,0,1,8.17   Adoption of Resolution No. 14-15-06– Departmentalized Teaching Assignments,0,item_heading
+72,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_43,09-09-2014,0,0,0,0,for Teachers Who Currently Hold a Multiple Subject or Standard Elementary,0,item_text
+73,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_44,09-09-2014,0,0,0,0,Credential for the 2014-2015 School Year,0,item_text
+74,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,107.0,cupertino_usd_09-09-2014_45,09-09-2014,0,0,0,1,8.18   Adoption of Resolution No. 14-15-07 – Departmentalized Teaching Assignments,0,item_heading
+75,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_46,09-09-2014,0,0,0,0,for Teachers Who Currently Hold a Single Subject or Standard Elementary,0,item_text
+76,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_47,09-09-2014,0,0,0,0,Credential for the 2014-2015 School Year,0,item_text
+77,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_48,09-09-2014,0,0,0,1,8.19    Ratification of a Contract Agreement With John Shannon for Substitute,0,item_heading
+78,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_49,09-09-2014,0,0,0,0,Administrator Services for the 2014-2015 School Year,0,item_text
+79,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_50,09-09-2014,0,0,0,1,8.20    Ratification of a Contract Agreement With Live Scan Silicon Valley for Volunteer,0,item_heading
+80,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_51,09-09-2014,0,0,0,0,Fingerprinting Services for the 2014-2015 School Year,0,item_text
+81,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_52,09-09-2014,0,0,0,1,8.21    Approval of the New Management Evaluation Tool,0,item_heading
+82,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_53,09-09-2014,0,0,0,1,8.22    Ratification of a Contract Agreement with YMCA for Primary Grade Physical,0,item_heading
+83,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_54,09-09-2014,0,0,0,0,"Educational Services, Lunch Time Outdoor Physical Games and Project",0,item_text
+84,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,138.0,cupertino_usd_09-09-2014_55,09-09-2014,0,0,0,0,Cornerstone for the 2014-2015 School Year,0,item_text
+85,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_09-09-2014_56,09-09-2014,0,0,0,0,,0,other_text
+86,cupertino_usd,B,0,0,Arial,13.097,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_0,09-09-2014,0,0,0,0,"Board Meeting Agenda September 9, 2014 Page 3",0,other_text
+87,cupertino_usd, ,0,0,Arial,15.972,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_1,09-09-2014,0,0,0,0,,0,other_text
+88,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,62.0,cupertino_usd_09-09-2014_2,09-09-2014,0,0,0,0,,0,other_text
+89,cupertino_usd,9,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_3,09-09-2014,0,1,0,0,9.     SUPERINTENDENT’S REPORT,1,section_heading
+90,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_4,09-09-2014,0,0,0,0,,0,item_text
+91,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_5,09-09-2014,0,1,0,0,10.    DISCUSSION/INFORMATION ITEM,1,section_heading
+92,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_6,09-09-2014,0,0,0,1,10.1  Discussion of Support for Fremont Union High School District Measures J and K,0,item_heading
+93,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_7,09-09-2014,0,0,0,1,10.2   Enrollment Update Information 2014-2015,0,item_heading
+94,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_8,09-09-2014,0,0,0,0,,0,other_text
+95,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_9,09-09-2014,0,1,0,0,11.    ACTION ITEM,1,section_heading
+96,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_10,09-09-2014,0,0,0,1,11.1   Adoption of Resolution No. 14-15-04 — Approval of the Open Space Agreement,0,item_heading
+97,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_09-09-2014_11,09-09-2014,0,0,0,0,With the City of Sunnyvale for a Term of 10 Years,0,item_text
+98,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_12,09-09-2014,0,0,0,1,11.2   Approval of 2013-2014 Annual Financial Report,0,item_heading
+99,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_13,09-09-2014,0,0,0,1,11.3   Adoption of Resolution No. 14-15-05 - CSBA Recommended Resolution on Local,0,item_heading
+100,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_09-09-2014_14,09-09-2014,0,0,0,0,Reserves Cap,0,item_text
+101,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_15,09-09-2014,0,0,0,1,11.4   Adoption of Resolution No. 14-15-08 – Affirmation of Annual District Compliance,0,item_heading
+102,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_09-09-2014_16,09-09-2014,0,0,0,0,With the Children’s Internet Protection Act (CIPA),0,item_text
+103,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_17,09-09-2014,0,0,0,0,,0,other_text
+104,cupertino_usd,1,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_18,09-09-2014,0,1,0,0,12.   CLOSED SESSION,1,section_heading
+105,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_19,09-09-2014,0,0,0,1,"12.1   Pursuant to Government Code section 54956.9(e)(3), the Board will confer with",0,item_heading
+106,cupertino_usd, ,0,0,Arial,14.375,1,0,0,0,0,0,1,134.0,cupertino_usd_09-09-2014_20,09-09-2014,0,0,0,0,legal counsel regarding liability claims against the District.  (1) Employee,0,item_text
+107,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,134.0,cupertino_usd_09-09-2014_21,09-09-2014,0,0,0,0,ID #333,1,item_text
+108,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_22,09-09-2014,0,0,0,1,12.2   Confidential Student (9-9-14A) Matter Pursuant to California Education Code,0,item_heading
+109,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_09-09-2014_23,09-09-2014,0,0,0,0,Section 35146,0,item_text
+110,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_24,09-09-2014,0,0,0,1,12.3   Confidential Student (9-9-14B) Matter Pursuant to California Education Code,0,item_heading
+111,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,135.0,cupertino_usd_09-09-2014_25,09-09-2014,0,0,0,0,Section 35146,0,item_text
+112,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,104.0,cupertino_usd_09-09-2014_26,09-09-2014,0,0,0,1,12.4   Public Employee Discipline/Dismissal/Release,0,item_heading
+113,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,98.0,cupertino_usd_09-09-2014_27,09-09-2014,0,0,0,0,,0,item_text
+114,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_28,09-09-2014,0,1,0,0,13.   REPORT FROM CLOSED SESSION,1,section_heading
+115,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_29,09-09-2014,0,0,0,0,,0,other_text
+116,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_30,09-09-2014,0,1,0,0,14.   BOARD ACTIVITY,1,section_heading
+117,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,77.0,cupertino_usd_09-09-2014_31,09-09-2014,0,0,0,0,,0,other_text
+118,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,0,1,0,80.0,cupertino_usd_09-09-2014_32,09-09-2014,0,1,0,0,15.   ADJOURNMENT,1,section_heading
+119,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,41.0,cupertino_usd_09-09-2014_33,09-09-2014,0,0,0,0,,0,other_text
+120,cupertino_usd, ,0,0,Times-Roman,20.4,0,0,0,0,0,0,1,540.0,cupertino_usd_09-09-2014_34,09-09-2014,0,0,0,0,,0,other_text

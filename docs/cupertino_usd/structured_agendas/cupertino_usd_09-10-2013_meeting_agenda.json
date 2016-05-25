@@ -5,37 +5,43 @@
         {
             "items": [], 
             "section_name": "CALL TO ORDER/FLAG SALUTE", 
-            "section_name_raw": "1.  CALL TO ORDER/FLAG SALUTE", 
+            "section_name_raw": "1. CALL TO ORDER/FLAG SALUTE", 
             "section_number": "1."
         }, 
         {
             "items": [], 
             "section_name": "RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
-            "section_name_raw": "2.  RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
+            "section_name_raw": "2. RECOGNITION \u2013 CLASSIFIED EMPLOYEE OF THE MONTH", 
             "section_number": "2."
         }, 
         {
             "items": [], 
             "section_name": "PRESENTATION \u2013 RECOGNITION OF NEWLY TENURED TEACHERS FOR THE 2013-2014", 
-            "section_name_raw": "3.  PRESENTATION \u2013 RECOGNITION OF NEWLY TENURED TEACHERS FOR THE 2013-2014", 
+            "section_name_raw": "3. PRESENTATION \u2013 RECOGNITION OF NEWLY TENURED TEACHERS FOR THE 2013-2014", 
             "section_number": "3."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "Approval of minutes of the Regular Meeting of August 20, 2013 and the Special Meeting of", 
+                    "item_text_raw": "Approval of minutes of the Regular Meeting of August 20, 2013 and the Special Meeting of"
+                }
+            ], 
             "section_name": "APPROVAL OF MINUTES", 
-            "section_name_raw": "4.  APPROVAL OF MINUTES", 
+            "section_name_raw": "4. APPROVAL OF MINUTES", 
             "section_number": "4."
         }, 
         {
             "items": [], 
             "section_name": "COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
-            "section_name_raw": "5.  COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
+            "section_name_raw": "5. COMMUNICATION \u2013 EMPLOYEE ORGANIZATIONS", 
             "section_number": "5."
         }, 
         {
             "items": [], 
             "section_name": "PUBLIC COMMENTS", 
-            "section_name_raw": "6.  PUBLIC COMMENTS", 
+            "section_name_raw": "6. PUBLIC COMMENTS", 
             "section_number": "6."
         }, 
         {
@@ -52,18 +58,18 @@
                 }, 
                 {
                     "item_number": "7.3", 
-                    "item_text": "Approval of Professional Development and materials \u2013 Inquiry by Design for Middle School", 
-                    "item_text_raw": "7.3     Approval of Professional Development and materials \u2013 Inquiry by Design for Middle School"
+                    "item_text": "Approval of Professional Development and materials \u2013 Inquiry by Design for Middle School ELA Teachers", 
+                    "item_text_raw": "7.3     Approval of Professional Development and materials \u2013 Inquiry by Design for Middle School ELA Teachers"
                 }, 
                 {
                     "item_number": "7.4", 
-                    "item_text": "Adoption of Resolution No. 13-14-07 Departmentalized Teaching Assignments for Teachers", 
-                    "item_text_raw": "7.4     Adoption of Resolution No. 13-14-07 Departmentalized Teaching Assignments for Teachers"
+                    "item_text": "Adoption of Resolution No. 13-14-07 Departmentalized Teaching Assignments for Teachers who currently hold Multiple Credentials or Standard Elementary Credentials for the 2013- 2014 School Year", 
+                    "item_text_raw": "7.4     Adoption of Resolution No. 13-14-07 Departmentalized Teaching Assignments for Teachers who currently hold Multiple Credentials or Standard Elementary Credentials for the 2013- 2014 School Year"
                 }, 
                 {
                     "item_number": "7.5", 
-                    "item_text": "Adoption of Resolution No. 13-14-08 Departmentalized Teaching Assignments for Teachers", 
-                    "item_text_raw": "7.5     Adoption of Resolution No. 13-14-08 Departmentalized Teaching Assignments for Teachers"
+                    "item_text": "Adoption of Resolution No. 13-14-08 Departmentalized Teaching Assignments for Teachers who currently hold Single Subject or Standard Secondary Credential for the 2013-2014 School Year.", 
+                    "item_text_raw": "7.5     Adoption of Resolution No. 13-14-08 Departmentalized Teaching Assignments for Teachers who currently hold Single Subject or Standard Secondary Credential for the 2013-2014 School Year."
                 }, 
                 {
                     "item_number": "7.6", 
@@ -72,48 +78,48 @@
                 }, 
                 {
                     "item_number": "7.7", 
-                    "item_text": "Approval of an Agreement with the California School Boards Association for the", 
-                    "item_text_raw": "7.7     Approval of an Agreement with the California School Boards Association for the"
+                    "item_text": "Approval of an Agreement with the California School Boards Association for the Comprehensive Review of District Board Policy Manual.", 
+                    "item_text_raw": "7.7     Approval of an Agreement with the California School Boards Association for the Comprehensive Review of District Board Policy Manual."
                 }, 
                 {
                     "item_number": "7.8", 
-                    "item_text": "Ratification of a Contract Agreement with Peggy Anastasia in an amount not to exceed", 
-                    "item_text_raw": "7.8     Ratification of a Contract Agreement with Peggy Anastasia in an amount not to exceed"
+                    "item_text": "Ratification of a Contract Agreement with Peggy Anastasia in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year.", 
+                    "item_text_raw": "7.8     Ratification of a Contract Agreement with Peggy Anastasia in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year."
                 }, 
                 {
                     "item_number": "7.9", 
-                    "item_text": "Ratification of a Contract Agreement with Linda Denman in an amount not to exceed", 
-                    "item_text_raw": "7.9     Ratification of a Contract Agreement with Linda Denman in an amount not to exceed"
+                    "item_text": "Ratification of a Contract Agreement with Linda Denman in an amount not to exceed $39,900 for the purpose of managing the CUSD Administrative Interns Program and providing Coaching to new CUSD Administrators for the 2013-2014 School Year", 
+                    "item_text_raw": "7.9     Ratification of a Contract Agreement with Linda Denman in an amount not to exceed $39,900 for the purpose of managing the CUSD Administrative Interns Program and providing Coaching to new CUSD Administrators for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "7.10", 
-                    "item_text": "Ratification of a Contract Agreement with Rene Jones in an amount not to exceed $39,900", 
-                    "item_text_raw": "7.10   Ratification of a Contract Agreement with Rene Jones in an amount not to exceed $39,900"
+                    "item_text": "Ratification of a Contract Agreement with Rene Jones in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year.", 
+                    "item_text_raw": "7.10   Ratification of a Contract Agreement with Rene Jones in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year."
                 }, 
                 {
                     "item_number": "7.11", 
-                    "item_text": "Ratification of a Contract Agreement with Louise Ostrov in an amount not to exceed $39,900", 
-                    "item_text_raw": "7.11   Ratification of a Contract Agreement with Louise Ostrov in an amount not to exceed $39,900"
+                    "item_text": "Ratification of a Contract Agreement with Louise Ostrov in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year.", 
+                    "item_text_raw": "7.11   Ratification of a Contract Agreement with Louise Ostrov in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year."
                 }, 
                 {
                     "item_number": "7.12", 
-                    "item_text": "Ratification of a Contract Agreement with Cathy Stokes in an amount not to exceed $39,900", 
-                    "item_text_raw": "7.12   Ratification of a Contract Agreement with Cathy Stokes in an amount not to exceed $39,900"
+                    "item_text": "Ratification of a Contract Agreement with Cathy Stokes in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year.", 
+                    "item_text_raw": "7.12   Ratification of a Contract Agreement with Cathy Stokes in an amount not to exceed $39,900 for the purpose of providing Substitute Administrator Services on an on-call basis for the 2013-2014 School Year."
                 }, 
                 {
                     "item_number": "7.13", 
-                    "item_text": "Ratification of a Contract Agreement with Sheela Thomas in an amount not to exceed", 
-                    "item_text_raw": "7.13   Ratification of a Contract Agreement with Sheela Thomas in an amount not to exceed"
+                    "item_text": "Ratification of a Contract Agreement with Sheela Thomas in an amount not to exceed $37,620 for the purpose of providing Speech and Language Support Services for the 2013-2014 School Year", 
+                    "item_text_raw": "7.13   Ratification of a Contract Agreement with Sheela Thomas in an amount not to exceed $37,620 for the purpose of providing Speech and Language Support Services for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "7.14", 
-                    "item_text": "Ratification of a Contract Agreement with Staci Ljepava in an amount not to exceed", 
-                    "item_text_raw": "7.14   Ratification of a Contract Agreement with Staci Ljepava in an amount not to exceed"
+                    "item_text": "Ratification of a Contract Agreement with Staci Ljepava in an amount not to exceed $117,000 dfr the purpose of providing Student Behavior Support Services for the 2013-2014 School Year", 
+                    "item_text_raw": "7.14   Ratification of a Contract Agreement with Staci Ljepava in an amount not to exceed $117,000 dfr the purpose of providing Student Behavior Support Services for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "7.15", 
-                    "item_text": "Ratification of a Contract Agreement with Anna Fankhauser In an amount not to exceed", 
-                    "item_text_raw": "7.15   Ratification of a Contract Agreement with Anna Fankhauser In an amount not to exceed"
+                    "item_text": "Ratification of a Contract Agreement with Anna Fankhauser In an amount not to exceed $31,980 for the purpose of providing Art Instruction to the students at John Muir Elementary School for the 2013-2014 School Year", 
+                    "item_text_raw": "7.15   Ratification of a Contract Agreement with Anna Fankhauser In an amount not to exceed $31,980 for the purpose of providing Art Instruction to the students at John Muir Elementary School for the 2013-2014 School Year"
                 }, 
                 {
                     "item_number": "7.16", 
@@ -122,21 +128,21 @@
                 }
             ], 
             "section_name": "CONSENT ITEMS", 
-            "section_name_raw": "7.  CONSENT ITEMS", 
+            "section_name_raw": "7. CONSENT ITEMS", 
             "section_number": "7."
         }, 
         {
             "items": [], 
             "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "8.   SUPERINTENDENT\u2019S REPORT", 
+            "section_name_raw": "8.  SUPERINTENDENT\u2019S REPORT", 
             "section_number": "8."
         }, 
         {
             "items": [
                 {
                     "item_number": "9.1", 
-                    "item_text": "Adoption of Resolution No.13-14-09 \u2013 Implementing Moratorium on issuance of Capital", 
-                    "item_text_raw": "9.1   Adoption of Resolution No.13-14-09 \u2013 Implementing Moratorium on issuance of Capital"
+                    "item_text": "Adoption of Resolution No.13-14-09 \u2013 Implementing Moratorium on issuance of Capital Appreciation Bonds (CAB)", 
+                    "item_text_raw": "9.1   Adoption of Resolution No.13-14-09 \u2013 Implementing Moratorium on issuance of Capital Appreciation Bonds (CAB)"
                 }, 
                 {
                     "item_number": "9.2", 
@@ -145,7 +151,7 @@
                 }
             ], 
             "section_name": "ACTION ITEMS", 
-            "section_name_raw": "9.   ACTION ITEMS", 
+            "section_name_raw": "9.  ACTION ITEMS", 
             "section_number": "9."
         }, 
         {
@@ -166,13 +172,7 @@
             "section_number": "10."
         }, 
         {
-            "items": [
-                {
-                    "item_number": "11.1", 
-                    "item_text": "Unrepresented Employee:  Superintendent Contract Discussion", 
-                    "item_text_raw": "11.1    Unrepresented Employee:  Superintendent Contract Discussion"
-                }
-            ], 
+            "items": [], 
             "section_name": "CLOSED SESSION", 
             "section_name_raw": "11.   CLOSED SESSION", 
             "section_number": "11."

@@ -27,7 +27,13 @@
             "section_number": "4"
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not", 
+                    "item_text_raw": "The public may address the Board on any agenda item and any item not on the agenda.  The Board president will only call on those who have filled out comment cards before the meeting, and each speaker will be allotted three (3) minutes.  The Board will not respond or take action on any non-agenda item comments at this time, although the item may be agendized at a later date (Ed. Code 35145.5).  The comments shall be made from the podium.  In accordance with Government Code 54954.2 \u2013 No action or discussion shall be undertaken on any item not"
+                }
+            ], 
             "section_name": "PUBLIC COMMENTS", 
             "section_name_raw": "5         PUBLIC COMMENTS", 
             "section_number": "5"
@@ -90,12 +96,6 @@
             "section_number": "6"
         }, 
         {
-            "items": [], 
-            "section_name": "SUPERINTENDENT\u2019S REPORT", 
-            "section_name_raw": "7.          SUPERINTENDENT\u2019S REPORT", 
-            "section_number": "7."
-        }, 
-        {
             "items": [
                 {
                     "item_number": "8.1", 
@@ -111,8 +111,8 @@
             "items": [
                 {
                     "item_number": "9.1", 
-                    "item_text": "Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA", 
-                    "item_text_raw": "9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA"
+                    "item_text": "Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA Agreement Articles", 
+                    "item_text_raw": "9.1    Accept for Information The District\u2019s and Cupertino Education Association\u2019s (CEA) Reopener Proposals for the Negotiation of the Successor CUSD-CEA Agreement Articles"
                 }
             ], 
             "section_name": "INFORMATION ITEM", 
@@ -120,7 +120,13 @@
             "section_number": "9."
         }, 
         {
-            "items": [], 
+            "items": [
+                {
+                    "item_number": "", 
+                    "item_text": "", 
+                    "item_text_raw": ""
+                }
+            ], 
             "section_name": "BOARD ACTIVITY", 
             "section_name_raw": "10.        BOARD ACTIVITY", 
             "section_number": "10."
@@ -139,8 +145,8 @@
                 }, 
                 {
                     "item_number": "11.3", 
-                    "item_text": "Conference with Labor Negotiator District Representative Nancy Johnson", 
-                    "item_text_raw": "11.3   Conference with Labor Negotiator District Representative Nancy Johnson"
+                    "item_text": "Conference with Labor Negotiator District Representative Nancy Johnson Employee Association:  California Education Association (CEA)", 
+                    "item_text_raw": "11.3   Conference with Labor Negotiator District Representative Nancy Johnson Employee Association:  California Education Association (CEA)"
                 }
             ], 
             "section_name": "CLOSED SESSION", 

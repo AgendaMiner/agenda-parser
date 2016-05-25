@@ -69,9 +69,9 @@ def processPDFs(agency):
 	# parse agenda lines
 	print("")
 	print("PARSING PDF LINES...")
-	# for agenda in agendas_list:
-	# 	if agenda['downloaded'] and not agenda['scanned'] and not agenda['parsed']:
-	# 		parsePDFtoLines(agency['agency_id'], agenda['meeting_date'], False)
+	for agenda in agendas_list:
+		if agenda['downloaded'] and not agenda['scanned'] and not agenda['parsed']:
+			parsePDFtoLines(agency['agency_id'], agenda['meeting_date'], False)
 
 	# train on a sample of agendas
 	training_dir = "docs/%s/training_lines/" % agency['agency_id']
