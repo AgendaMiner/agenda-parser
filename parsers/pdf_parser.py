@@ -444,7 +444,7 @@ def writeDFtoCSV(df, agency, date, manual_classify):
 	else:
 		filepath = "docs/" + agency + "/parsed_lines/" + agency + "_" + date + "_parsed_lines.csv"
 
-	df.to_csv(filepath, encoding="utf-8")
+	df.to_csv(filepath, encoding="utf-8", index=False)
 
 
 

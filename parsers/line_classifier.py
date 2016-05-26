@@ -2,12 +2,14 @@ import numpy as np
 import pprint
 import scipy
 import os
-import matplotlib.pyplot as plt
-from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search, feature_extraction, ensemble
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import pandas as pd
+from sklearn import linear_model, svm, metrics, multiclass, cross_validation, preprocessing, grid_search, feature_extraction, ensemble, tree
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.externals.six import StringIO
+import pydot
 
 pp = pprint.PrettyPrinter(indent=4)
+pd.set_option('display.max_rows', 1000)
 
 def main():
 
@@ -49,7 +51,7 @@ Return the array(s).
 def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 
 	# list of unwanted cols to drop
-	cols_to_drop = ['line_id', 'meeting_date', 'text', 'font_name', 'first_char', 'font_size', 'left_inset', 'agency']
+	cols_to_drop = ['Unnamed: 0','line_id', 'meeting_date', 'text', 'font_name', 'first_char', 'font_size', 'left_inset', 'agency']
 	if know_outcomes:
 		cols_to_drop.extend(y_cols)
 
@@ -57,9 +59,12 @@ def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 	x_df = df.drop(cols_to_drop, axis=1)
 	x_array = x_df.values
 
+	feature_names = x_df.columns.values
+
 	# create dummy variables for categorical features
 	feature_dummies, model_pieces = convertFeaturesToDummyVariables(df, model_pieces, know_outcomes)
 	x_array = np.concatenate((x_array, feature_dummies), axis=1)
+	feature_names = np.concatenate((feature_names, model_pieces['encoder'].feature_names_), axis=0)
 
 	# create document-term matrix
 	df['text'].fillna('', inplace=True)
@@ -67,9 +72,11 @@ def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 		counts_matrix = model_pieces['vect'].fit_transform(df['text'])
 	else:
 		counts_matrix = model_pieces['vect'].transform(df['text'])
-
+	
 	# merge DTM with feature array
 	x_array = np.concatenate((x_array, counts_matrix.toarray()), axis=1)
+	dtm_feature_names = [f.encode('ascii', 'ignore') for f in model_pieces['vect'].get_feature_names()]
+	feature_names = np.concatenate((feature_names, dtm_feature_names), axis=0)
 
 	# create list to return x and y arrays in
 	data_arrays = [x_array]
@@ -82,6 +89,8 @@ def prepDatasets(model_pieces, df, y_cols, know_outcomes):
 			df.loc[(df[y_col_name]==1),'line_class'] = y_col_name
 
 		data_arrays.append(df['line_class'])
+
+	data_arrays.append(feature_names)
 
 	return [data_arrays, model_pieces]
 
@@ -99,7 +108,7 @@ def trainModel(training_directory, classes_list, eval_model):
 
 	# create a DTM vectorizer and dummy encoder object for use later
 	model_pieces = dict()
-	model_pieces['vect'] = CountVectorizer(strip_accents="ascii", ngram_range=(1,3), stop_words='english', max_df=0.9, min_df=2, binary=True)
+	model_pieces['vect'] = CountVectorizer(strip_accents="ascii", ngram_range=(1,4), stop_words='english', max_df=0.9, min_df=4, binary=True)
 	model_pieces['encoder'] = feature_extraction.DictVectorizer(sparse=False)
 	
 	# create datasets from the input file
@@ -131,18 +140,37 @@ def trainModel(training_directory, classes_list, eval_model):
 	# 	print(metrics.classification_report(y_test, log_pred_classes))
 	# 	print(metrics.confusion_matrix(y_test, log_pred_classes))
 
+	# try a tree
+	dtc = tree.DecisionTreeClassifier(class_weight="balanced")
+	dtc.fit(X_train, y_train)
+	dot_data = StringIO() 
+	tree.export_graphviz(dtc, out_file=dot_data,
+		special_characters=True,
+		class_names=dtc.classes_,
+		impurity=False,
+		feature_names=datasets[2]
+		) 
+	graph = pydot.graph_from_dot_data(dot_data.getvalue()) 
+	graph.write_pdf("tree.pdf") 
+
+	if eval_model:
+		dtc_pred_classes = dtc.predict(X_test)
+	
+		print(metrics.classification_report(y_test, dtc_pred_classes))
+		print(metrics.confusion_matrix(y_test, dtc_pred_classes))
+
 	# try a random forest
 	rf = ensemble.RandomForestClassifier(n_estimators=30, n_jobs=-1, class_weight="balanced")
 	rf.fit(X_train, y_train)
 	model_pieces['model'] = rf
+	rf_features = pd.DataFrame({'feature': datasets[2], 'importance': rf.feature_importances_ })
+	print(rf_features[rf_features['importance'] > 0].sort_values('importance', ascending=False))
 
 	if eval_model:
 		rf_pred_classes = rf.predict(X_test)
 	
 		print(metrics.classification_report(y_test, rf_pred_classes))
 		print(metrics.confusion_matrix(y_test, rf_pred_classes))
-
-
 
 
 	return model_pieces
