@@ -130,15 +130,16 @@ def trainModel(training_directory, classes_list, eval_model):
 	## LOG REGRESSION
 
 	# # train classifier
-	# model_pieces['model'] = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
-	# model_pieces['model'].fit(X_train, y_train)
+	model_pieces['model'] = multiclass.OneVsRestClassifier(linear_model.LogisticRegressionCV(cv=5, penalty='l1', solver='liblinear', n_jobs=-1))
+	model_pieces['model'].fit(X_train, y_train)
 
-	# if eval_model:
-	# 	log_pred_classes = model_pieces['model'].predict(X_test)
-	# 	print(model_pieces['model'].coef_)
+	if eval_model:
+		log_pred_classes = model_pieces['model'].predict(X_test)
+		print(model_pieces['model'].coef_)
 	
-	# 	print(metrics.classification_report(y_test, log_pred_classes))
-	# 	print(metrics.confusion_matrix(y_test, log_pred_classes))
+		print(metrics.accuracy_score(y_test, log_pred_classes))
+		print(metrics.classification_report(y_test, log_pred_classes))
+		print(metrics.confusion_matrix(y_test, log_pred_classes))
 
 	# try a tree
 	dtc = tree.DecisionTreeClassifier(class_weight="balanced")
@@ -156,6 +157,7 @@ def trainModel(training_directory, classes_list, eval_model):
 	if eval_model:
 		dtc_pred_classes = dtc.predict(X_test)
 	
+		print(metrics.accuracy_score(y_test, dtc_pred_classes))
 		print(metrics.classification_report(y_test, dtc_pred_classes))
 		print(metrics.confusion_matrix(y_test, dtc_pred_classes))
 
@@ -164,11 +166,12 @@ def trainModel(training_directory, classes_list, eval_model):
 	rf.fit(X_train, y_train)
 	model_pieces['model'] = rf
 	rf_features = pd.DataFrame({'feature': datasets[2], 'importance': rf.feature_importances_ })
-	print(rf_features[rf_features['importance'] > 0].sort_values('importance', ascending=False))
+	# print(rf_features[rf_features['importance'] > 0].sort_values('importance', ascending=False))
 
 	if eval_model:
 		rf_pred_classes = rf.predict(X_test)
-	
+		
+		print(metrics.accuracy_score(y_test, rf_pred_classes))
 		print(metrics.classification_report(y_test, rf_pred_classes))
 		print(metrics.confusion_matrix(y_test, rf_pred_classes))
 

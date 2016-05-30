@@ -5,7 +5,7 @@ Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_
 3,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_3,04-05-2016,0,0,0,0,,0,other_text
 4,cupertino_usd,3,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_4,04-05-2016,0,1,0,0,3.    RECOGNITION – CLASSIFIED EMPLOYEE OF THE MONTH – APRIL 2016,1,section_heading
 5,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_5,04-05-2016,0,0,0,0,Dana Ino. Secretary,0,other_text
-6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,0,Murdock-Portal Elementary School!,0,item_text
+6,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,1,0,0,104.0,cupertino_usd_04-05-2016_6,04-05-2016,0,0,0,0,Murdock-Portal Elementary School!,0,item_heading
 7,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_7,04-05-2016,0,0,0,0,,0,other_text
 8,cupertino_usd,4,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_8,04-05-2016,0,1,0,0,4.    COMMUNICATION – EMPLOYEE ORGANIZATIONS,1,section_heading
 9,cupertino_usd, ,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_9,04-05-2016,0,0,0,0,,0,other_text
@@ -66,14 +66,14 @@ Unnamed: 0,agency,first_char,font_bold,font_italic,font_name,font_size,includes_
 64,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_31,04-05-2016,0,0,0,0,"Period of January 1 through March 31, 2016",0,item_text
 65,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_32,04-05-2016,0,0,0,0,,0,other_text
 66,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_33,04-05-2016,0,1,0,0,10.   CLOSED SESSION,1,section_heading
-67,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_34,04-05-2016,0,0,0,1,10.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0,other_text
-68,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_35,04-05-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0,item_text
-69,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_36,04-05-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0,item_text
-70,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_37,04-05-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0,item_text
+67,cupertino_usd, ,1,0,Arial-Bold,15.055,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_34,04-05-2016,0,0,0,1,10.1  Conference with Labor Negotiators Pursuant to Government Code Section 54957.4,0,item_heading
+68,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_35,04-05-2016,0,0,0,0,Cupertino Education Association (CEA); California School Employees Association,0,other_text
+69,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_36,04-05-2016,0,0,0,0,"Cupertino Chapter 13 (CSEA); and Local 521, Service Employees International",0,other_text
+70,cupertino_usd, ,0,0,Arial,14.375,0,0,0,0,0,1,0,128.0,cupertino_usd_04-05-2016_37,04-05-2016,0,0,0,0,"Union, CTW/CLC (SEIU)",0,other_text
 71,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_38,04-05-2016,0,0,0,1,10.2  Public Employee: Discipline/Dismissal/Release,0,item_heading
 72,cupertino_usd, ,0,0,Arial,14.375,0,0,0,1,0,0,0,101.0,cupertino_usd_04-05-2016_39,04-05-2016,0,0,0,1,10.3  Conference with Legal Counsel—Anticipated Litigation,0,item_heading
-73,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_40,04-05-2016,0,0,0,0,Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of,0,other_text
-74,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_41,04-05-2016,0,0,0,0,Section 54956.9: One case.,0,other_text
+73,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_40,04-05-2016,0,0,0,0,Significant exposure to litigation pursuant to paragraph (2) of subdivision (d) of,0,item_text
+74,cupertino_usd, ,0,0,Verdana,13.323,0,0,0,0,0,0,1,129.0,cupertino_usd_04-05-2016_41,04-05-2016,0,0,0,0,Section 54956.9: One case.,0,item_text
 75,cupertino_usd, ,0,0,Arial,14.375,0,0,1,0,0,0,0,95.0,cupertino_usd_04-05-2016_42,04-05-2016,0,0,0,0,,0,other_text
 76,cupertino_usd,1,1,0,Arial-Bold,15.055,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_43,04-05-2016,0,1,0,0,11.   REPORT FROM CLOSED SESSION,1,section_heading
 77,cupertino_usd, ,0,0,Arial,14.375,0,1,0,0,0,0,0,77.0,cupertino_usd_04-05-2016_44,04-05-2016,0,0,0,0,,0,other_text
